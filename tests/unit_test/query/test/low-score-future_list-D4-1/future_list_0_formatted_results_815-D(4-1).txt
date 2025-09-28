@@ -1,0 +1,16 @@
+{   'key_points': [   'No sources were identified that combine all three elements: electrochemical sensor, indicator '
+                      'displacement assay (IDA), and quinine detection.',
+                      'Electrochemical sensors have been reported in the literature (DOIs: 10.1007/s00706-021-02736-4, '
+                      '10.1016/j.aca.2020.09.028), but not specifically for quinine using IDA.',
+                      'Indicator displacement assays (IDA) are documented in sensor research (DOIs: '
+                      '10.1021/acssensors.3c00886, 10.1039/C7SC04989G, 10.3389/fchem.2023.1124705), but not in '
+                      'conjunction with electrochemical detection of quinine.',
+                      'No literature sources were found specifically addressing quinine in the context of either '
+                      'electrochemical sensors or IDA.'],
+    'relationships': [   'There is a gap in the literature regarding the integration of IDA-based electrochemical '
+                         'sensors for quinine detection.',
+                         'Existing research covers electrochemical sensors and IDA separately, indicating a potential '
+                         'opportunity for combining these approaches for quinine analysis.'],
+    'summary': 'No literature was found that directly reports the use of electrochemical sensors employing an '
+               'indicator displacement assay (IDA) for the detection of quinine. However, relevant studies exist for '
+               'each component individually, suggesting potential for future research in this area.'}

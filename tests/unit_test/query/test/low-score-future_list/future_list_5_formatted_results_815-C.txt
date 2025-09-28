@@ -1,0 +1,17 @@
+{   'key_points': [   'Cation-π interactions are a recognized binding mode in supramolecular chemistry, involving the '
+                      'attraction between cationic species and π-electron-rich surfaces.',
+                      'Macrocyclic hosts like calixarenes, cyclodextrins, and cucurbiturils are known to engage in '
+                      'various non-covalent interactions, including cation-π, but their primary binding mode varies.',
+                      'Calixarenes can be functionalized to enhance cation-π interactions, especially with aromatic '
+                      'groups positioned to interact with cations.',
+                      'Cyclodextrins primarily bind guests through hydrophobic and hydrogen-bonding interactions, with '
+                      'cation-π playing a secondary role.',
+                      'Cucurbiturils mainly bind cationic guests via ion-dipole and hydrophobic interactions, with '
+                      'limited emphasis on cation-π interactions.'],
+    'relationships': [   'While macrocyclic hosts can engage in cation-π interactions, they often rely on multiple '
+                         'binding modes, making cation-π not always the primary interaction.',
+                         "The effectiveness of cation-π binding depends on the host's aromatic surface availability "
+                         'and the nature of the guest cation.'],
+    'summary': 'Supramolecular hosts that primarily bind their guests through cation-π interactions include '
+               'macrocyclic compounds such as calixarenes, cyclodextrins, and cucurbiturils, although specific '
+               'examples are limited and context-dependent.'}

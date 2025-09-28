@@ -1,0 +1,30 @@
+{   'key_points': [   'Electrochemical sensors have been used for quinine detection, demonstrating good '
+                      'reproducibility (relative standard deviation of 2.06% across seven electrodes), high stability '
+                      '(86.47% of original DPV signal retained up to 21 days), and superior selectivity over common '
+                      'interfering molecules.',
+                      'Quinine is a confirmed detection target for electrochemical sensors, with five independent '
+                      'electrodes displaying similar signals at 30 μM quinine and recovery rates between 98.3% and '
+                      '109.3%.',
+                      'Electrochemical sensors can be constructed using the Indicator Displacement Assay (IDA) '
+                      'approach, which is compatible with non-covalent host-guest interactions and differential '
+                      'sensing (DOI: 10.1039/C7SC04989G).',
+                      'IDA is a supramolecular analytical chemistry technique that allows for the construction of '
+                      'sensor arrays by combining multiple receptors and indicators, and is more compatible with '
+                      'differential sensing strategies.',
+                      'IDA-based sensors are typically optical, but the method is adaptable to electrochemical '
+                      'platforms, as indicated by the sensor conversion capability.',
+                      'No direct literature source or DOI was found specifically describing an electrochemical IDA '
+                      'sensor for quinine, but the methodology and target compatibility are established.',
+                      'Quinine is commonly analyzed by electrochemical techniques, including differential pulse '
+                      'voltammetry (DPV), and is used as a target in various sensor platforms.'],
+    'relationships': [   'Electrochemical sensors and IDA are both compatible with quinine as a detection target, but '
+                         'direct integration of IDA into electrochemical quinine sensors is implied rather than '
+                         'explicitly documented.',
+                         'IDA enhances sensor selectivity and is compatible with differential sensing, which could '
+                         'improve quinine detection in complex samples.',
+                         'The use of nanocomposites and host-guest chemistry (e.g., β-cyclodextrin with quinine in a '
+                         '1:1 molar ratio) is common in both electrochemical and IDA-based sensing platforms.'],
+    'summary': 'There is evidence that electrochemical sensors have been developed for quinine detection, and some are '
+               'constructed using the Indicator Displacement Assay (IDA) principle. However, no direct publication or '
+               'concrete example specifically describes an electrochemical sensor for quinine detection explicitly '
+               'using IDA, though the components and methods are compatible.'}

@@ -1,0 +1,15 @@
+{   'key_points': [   'Supramolecular hosts that bind anions via anion-π interactions are relatively rare and not '
+                      'extensively documented.',
+                      'Anion-π interactions involve the attraction between negatively charged anions and '
+                      'electron-deficient π-systems, such as aromatic rings with electron-withdrawing substituents.',
+                      'Examples of hosts capable of such interactions include certain electron-deficient aromatic '
+                      'macrocycles and heteroaromatic systems designed to facilitate anion-π binding.',
+                      'Research in this area is ongoing, with some studies exploring the potential of π-acidic '
+                      'surfaces and aromatic frameworks for selective anion recognition through anion-π interactions.'],
+    'relationships': [   'Anion-π binding is often associated with hosts featuring electron-deficient aromatic '
+                         'surfaces, contrasting with more common hydrogen-bonding or electrostatic binding modes.',
+                         'The effectiveness of anion-π interactions depends on the electronic nature of the π-system, '
+                         'with electron-deficient aromatic rings being more suitable.'],
+    'summary': 'Currently, there are limited well-documented examples of supramolecular hosts that bind anions '
+               'primarily through anion-π interactions. Most known hosts utilize other binding mechanisms, with few '
+               'characterized specifically for anion-π interactions.'}

@@ -1,0 +1,3003 @@
+10.1021/acs.chemrev.5b00765
+Pillar-Shaped Macrocyclic Hosts Pillar[n]arenes: New Key Players for
+Supramolecular Chemistry
+ABSTRACT: In 2008, we reported a new class of pillar-shaped macrocyclic hosts,
+known as “pillar[n]arenes”. Today, pillar[n]arenes are recognized as key players in
+supramolecular chemistry because of their facile synthesis, unique pillar shape, versatile
+functionality, interesting host−guest properties, and original supramolecular assembly
+characteristics, which have resulted in numerous electrochemical and biomedical material
+applications. In this Review, we have provided historical background to macrocyclic
+chemistry, followed by a detailed discussion of the fundamental properties of
+pillar[n]arenes, including their synthesis, structure, and host−guest properties.
+Furthermore, we have discussed the applications of pillar[n]arenes to materials science,
+as well as their applications in supramolecular chemistry, in terms of their fundamental
+properties. Finally, we have described the future perspectives of pillar[n]arene chemistry.
+We hope that this Review will provide a useful reference for researchers working in the
+field and inspire discoveries concerning pillar[n]arene chemistry.
+
+
+1. INTRODUCTION
+The design and synthesis of new macrocyclic host molecules
+represent challenging areas of research. However, it is envisaged
+that new developments in this field will open the unrealized
+potential of supramolecular chemistry and provide access to new
+host molecules with unique functional characteristics that result
+from their unique shape, reactivity, and host−guest properties.
+From a historical perspective, it is clear that the arrival of new
+macrocyclic host systems in 1890 triggered an intense period of
+research and development in the field of supramolecular
+chemistry. The characteristics of an effective host compound
+are covered by the following points (Figure 1).
+(1) Shape: Prospective host compounds should possess a
+unique shape that has not been reported previously in the
+literature. (2) Synthesis: Host compounds should be easy to
+make in large quantities from inexpensive reagents. (3)
+Solubility: Host compounds should be highly soluble in organic
+solvents and aqueous media such that they can be subject to
+various organic reactions to allow for the unlimited functionalization of the macrocyclic compounds. In addition, a reasonable
+degree of solubility is required to investigate their molecular
+recognition abilities. (4) Versatile functionality: Host compounds should contain reactive functional groups that can be
+converted to other functional groups using simple organic
+reactions to maximize their assembly and molecular recognition
+properties in various media. (5) Homologues and host−guest
+ability: Macrocyclic host compounds should have at least one
+homologue that can accommodate guest molecules on the basis
+of its cyclic structure. Taken together, these points indicate that a
+prospective host molecule should show guest shape-selectivity
+and high binding ability, as well as having homologues with
+different cavity sizes that show different host−guest abilities
+depending on their cavity size. To provide a greater understanding of the five points listed above, we discussed them in
+detail below by taking some of the most well-known host
+molecules, including cyclodextrins (CDs),1−10 crown
+ethers,11−17 calix[n]arenes,18−21 and cucurbit[n]urils (CB[n]-
+s)22−32 as examples.
+(1) Shape: The shape of a macrocyclic compound is one of its
+important characteristics. CDs and calix[n]arenes are nonsymmetrical bucket- and calix-shaped structures, respectively,
+whereas CB[n]s are highly symmetrical pumpkin-like structures.
+Crown ethers, identified by C. J. Pedersen in 1967,11 have crownlike structures on their X-ray crystal structures.
+(2) Synthesis: CDs can be obtained from starch using an
+enzymatic process, and robust processes of this type have been
+developed to provide efficient access to large quantities of CD
+homologues consisting six, seven, and even eight glucopyranose
+units, (i.e., α-, β-, and γ-CDs). CD homologues with different
+cavity sizes can therefore be purchased at a moderate price. In
+contrast, crown ethers, calix[n]arenes, and CB[n]s can only be
+produced by synthetic chemistry. Crown ether homologues can
+be produced in relatively high yields using the metal cationtemplate method,11 while calix[n]arene homologues can be
+prepared by tuning temperature and base concentration
+conditions of the base-induced oligomerization between phenols
+and formaldehyde.20 CB[n]s are prepared by the condensation
+reaction of glycoluril and formaldehyde.27 By tuning the reaction
+temperature of this process, it is possible to obtain a mixture of
+CB[n] homologues.28 However, it has not yet been possible to
+achieve the selective synthesis of specific CB[n] homologues, and
+an additional purification step is therefore required to isolate
+CB[n] homologues from the mixture.
+(3) Solubility: CDs are cyclic oligosaccharides consisting of
+several glucopyranose units, and consequently have many
+hydroxyl groups. Native CDs therefore exhibit good solubility
+in highly polar solvents such as water, N,N-dimethylformamide
+(DMF), and dimethyl sulfoxide (DMSO), but are insoluble in
+solvents with intermediate dielectric constants such as acetone,
+tetrahydrofuran (THF), chloroform, and dichloromethane, as
+well as nonpolar solvents such as n-hexane. CB[n]s also exhibit
+poor solubility problems. The cyclic hexamer CB[6] was
+originally reported by Mock et al. in 1981.27 Unfortunately, the
+poor solubility of CB[6] in aqueous media (0.018 mM) meant
+that research pertaining to the development of CB[n] chemistry
+progressed at a slow pace until 2000. In 2000, Kim et al.
+developed a new process for the synthesis of CB[n] homologues
+(n = 5−11) by tuning the reaction condition.28 These new CB[n]
+homologues showed moderate solubility in water (e.g., CB[5],
+420 mM; CB[7], 370 mM), which allowed for the rapid
+development of CB[n] chemistry following Kim’s discovery in
+2000. In contrast, crown ethers are soluble in a variety of solvents
+because they contain amphiphilic oligo(ethylene oxide) chains.
+Calix[n]arenes also show high solubility in a wide range of
+organic solvents, including chloroform, acetone, THF, DMF, and
+DMSO. 
+
+
+(4) Functionality: Native CDs have many highly reactive
+hydroxyl groups, which can be used to introduce a variety of
+functional groups.5 However, the poor solubility of CDs in the
+organic solvents typically used in synthesis means that they
+cannot be subjected to a large range of organic reactions,
+therefore limiting the number of functional groups that can be
+added to these macrocyclic host platforms. Reactions for the
+functionalization of CDs are mainly conducted in amphiphilic
+solvents such as DMF and DMSO, as well as aqueous media,
+because of their poor solubility. The yields of the reactions used
+for the functionalization of CDs are therefore relatively low in
+most cases. To overcome this problem, several organo-soluble
+CDs have been synthesized by introducing protecting moieties
+such as methyl and benzyl groups to the hydroxyl groups of the
+CDs.9,10 The resulting organo-soluble CDs can be subjected to a
+much wider variety of organic reactions than the parent CDs to
+obtain suitably functionalized CDs. Calix[n]arenes show good
+solubility in most typical organic solvents and have several
+reactive phenolic moieties, which have allowed for the
+preparation of various functionalized calix[n]arenes.18 In the
+case of simple crown ethers, there are no reactive moieties, and
+the design of crown ethers bearing reactive functional groups
+therefore requires additional functionalization steps prior to the
+macrocyclization of the crown ether ring. The poor functionality
+of CB[n]s was a long-standing problem for CB[n] chemistry,
+which was only confounded by their poor solubility. To
+overcome this limitation in CB[n] chemistry, Kim et al.
+developed the direct oxidation of CB[n]s in 2003, which allowed
+for the direct introduction of reactive hydroxyl groups into
+CB[n]s.29 Isaacs et al. subsequently developed monofunctionalized CB[n]s by the macrocyclization of the linear glycoluril
+pentamer with phthalaldehydes bearing a variety of different
+functional groups.30,31
+(5) Homologues and host−guest ability: CDs are soluble in
+aqueous media, and the inside of the CD cavity is a hydrophobic
+microenvironment. CDs can therefore capture suitably sized
+hydrophobic guest molecules in their hydrophobic cavity from
+aqueous media. The driving force for this complexation process is
+based on hydrophobic/hydrophilic interactions. Three kinds of
+CDs, α-, β-, and γ-CDs, have been used for most of the research
+concerning the complexation of hydrophobic molecules from
+aqueous media. The host−guest properties of these CDs are
+largely dependent on their cavity sizes.3 CB[n]s are also watersoluble hosts, and have rigid structures with no conformational
+flexibility because of the rigidity of the double methylene bridge
+connecting their glycoluril units. In a manner similar to CDs, the
+cavity of CB[n]s is a hydrophobic environment. Furthermore,
+CB[n]s have two negatively charged carbonyl-laced portals.
+CB[n]s can therefore accommodate hydrophobic guests with
+positively charged ammonium cations.24,25 Inoue et al. reported
+that CB[7] formed a very stable host−guest complex with a
+ferrocene derivative bearing two ammonium cations (K = 3.0 ×
+1015 M−1).32 The high binding affinity of this complex was similar
+to that of the enzyme−substrate complex formed between avidin
+and biotin (K > 1015 M−1). The superior host−guest ability of
+CB[n]s is one of the main advantages of these systems as
+compared to typical host molecules, and one of the main reasons
+that CB[n]s have been widely used in recent studies. The host−
+guest properties of crown ethers and calix[n]arenes have been
+investigated in organic media. The unpaired electrons on the
+oxygen atoms of the crown ethers contribute to their ability to
+form strong binding interactions with metal cations. Thus, the
+driving force for these complexation processes is the formation of
+a coordination interaction between the metal cations and the
+oxygen atoms of the crown ether. In the case of calix[n]arenes,
+the individual phenolic moieties act as electron-donating groups,
+and the calix[n]arenes consequently form host−guest complexes
+with cationic molecules through cation/π interactions.20 The
+phenolic moieties situated on the lower rim of calix[n]arenes can
+also capture metal cations by coordination interactions.21
+
+
+
+Against this historical backdrop, we successfully developed a
+new class of pillar-shaped macrocyclic host compounds in 2008, which subsequently became known as pillar[n]arenes.33 As
+compared to the typical host molecules mentioned above,
+pillar[n]arenes have characteristic highly symmetrical pillarshaped structures, which are similar in many respects to that of
+highly symmetrical pumpkin-shaped hosts CB[n]s. The
+repeating units of pillar[n]arenes are composed of phenolic
+moieties, making them structurally similar to calix[n]arenes.
+Pillar[n]arenes also have many phenolic moieties on both rims,
+making them very similar to the highly functionalized macrocyclic CD compounds. It is clear from discussion that
+pillar[n]arenes combine many of the interesting features of the
+typical macrocyclic compounds discussed above. Pillar[n]arenes
+also have several other characteristic features such as superior
+host−guest abilities, planar chirality, and the ability to undergo
+self-assembly processes with highly symmetrical structures
+because of their shape. Today, almost 8 years after our initial
+discovery of pillar[n]arenes, new reports continue to emerge
+describing the remarkable properties of these compounds and
+their complexes following efforts of pillar[n]arene chemists.34−43
+On the basis of their novel cross section of properties and their
+vast potential, pillar[n]arenes are fast becoming key players in the
+field of macrocyclic chemistry, as well as creating several new
+opportunities that give them a much greater reach over other key
+players in the area of research in terms of their potential
+applications. Figure 2 shows the number of research papers on
+pillar[n]arenes published by year.
+The area of research that we currently refer to as “pillar[n]-
+arene chemistry” started in 2008 with just a small group of
+pillar[n]arene chemists. For this reason, the total number of
+papers published between 2008 and 2011 was only 33. However,
+the level of interest in pillar[n]arene chemistry, as well as the
+number of researchers working in this area, has grown
+considerably since 2012 and now is to the point where there
+are now numerous pillar[n]arene chemists all over the world.
+This growth in the popularity and intensity of the research in this
+area is exemplified by the dramatic increase in the number of
+research paper published since 2012. Furthermore, Tokyo
+Chemical Industry (TCI) became the first chemical company
+to commercialize a pillar[5]arene product, when they started to
+sell per-methylated pillar[5]arene 1[5] (Scheme 1) in 2014,
+further emphasizing the significance of these compounds.44
+This Review covers the peer-reviewed papers published on
+pillar[n]arene chemistry since this area of research in began 2008.
+First, we discuss the synthesis of pillar[n]arenes, which is the
+starting point of pillar[n]arene chemistry. Second, we discuss the
+fundamental properties of pillar[n]arenes, including their
+structures, planar chirality, and host−guest properties. Finally,
+we discuss the applications of pillar[n]arenes, including pillar-
+[n]arene-based mechanically interlocked molecules, supramolecular assemblies, hybrids, electronic, and biomedical
+materials.
+
+
+2. SYNTHESIS OF PILLAR[n]ARENES
+Pillar[n]arenes were discovered as a product of chance. The
+preparation of phenol-paraformaldehyde resins using a featureless and commercially available phenolic monomer, 1,4-
+dimethoxybenzene, led to the appearance of a fascinating
+macrocycle, per-methylated pillar[5]arene 1[5] (Scheme 1).33
+One of the interesting features of pillar[n]arenes is the position
+of the methylene bridge between 1,4-dimethoxybenzene
+constituent units. 1,4-Dimethoxybenzene units are connected
+by a methylene bridge at the 2,5-position (para-position), which
+contributes to the highly symmetrical pillar-shaped architecture.
+Historically, reaction of phenolic derivatives with aldehydes has
+afforded various macrocyclic compounds.20 However, to obtain
+phenolic macrocyclic compounds, there are two key factors. One
+is controlling the reaction point of phenolic derivatives to inhibit
+the formation of three-dimensional network polymers. The other
+is the inhibition of the linear polymer formation and acceleration
+of macrocyclization.
+2.1. Controlling the Reaction Points of Phenolic Derivatives
+for the Regioselective Formation of Macrocyclic
+Compounds
+Phenol, the simplest monomer, affords three-dimensional
+network polymers in many cases by reaction with aldehydes
+because phenol has three electron-rich reaction sites at the 2, 4, 6-
+positions (ortho- and para-positions, Scheme 2a).
+The introduction of protecting groups at the reaction sites or
+neighboring positions of the electron-rich reaction sites
+contributes to the inhibition of three-dimensional polymer
+formations and the generation of linear oligomers, which are
+intermediates for the formation of macrocyclic compounds.
+Calix[n]arenes, in which para-substituted phenols are
+connected by methylene bridges at the ortho-positions, can be
+obtained by the condensation of para-substituted phenol
+derivatives with formaldehydes under appropriate conditions
+(Scheme 2b).18−20 When para-substituted phenols were used as
+the monomer, calix[n]arenes linked at the 2- and 6-positions
+were produced because the electron density at the 2- and 6-
+positions is higher than that at the 3- and 5-positions, and the
+electron-rich site at the 4-position is protected by the substituent.
+Calix[4]resorcinarenes, in which four resorcinarene molecules
+are connected at their 4 and 6 positions, were obtained by condensation of resorcinarene with aldehydes under controlled
+conditions (Scheme 2c).45 The 2-, 4-, and 6-positions of
+resorcinarene are electron-rich, but steric hindrance by phenolic
+moieties reduces the reactivity at the 2-position. When 1,2-
+dialkoxybenzenes were used as monomers, the reaction sites
+were the 4- and 5-positions because the reactions at the 3- and 6-
+positions are unfavorable due to the steric hindrance. Cyclotriveratrylenes, which are macrocyclic trimers of 1,2-dialkoxybenzenes, were obtained under controlled conditions in the
+1980s (Scheme 2d).46 The quest to discover new and exciting
+macrocyclic compounds using various phenolic derivatives is a
+timely topic (Scheme 3), which has been inspired by the
+discovery of pillar[n]arenes in 2008.
+In 2013, Stoddart et al. reported a new family of macrocycles,
+asar[n]arenes, using 1,2,4,5-tetramethoxybenzene as the monomer (Scheme 3a).47
+In this case, the reaction sites were only at the 3- and 6-
+positions of 1,2,4,5-tetramethoxybenzene. Thus, para-bridged
+macrocyclic compounds were obtained. When the reaction
+temperature was 36 °C, a mixture of asar[n]arene homologues
+was obtained under kinetically controlled conditions; however,
+under heating condition at 80 °C, cyclic hexamer, asar[6]arene,
+was obtained as a thermodynamic product. In 2015, Li and coworkers reported biphen[n]arenes, which are composed of 4,4′-
+biphenol ether units linked by methylene bridges at the 3- and 3′-
+positions under controlled conditions (Scheme 3b).48 Szumna et
+al. reported the cocyclization of 1,3- and 1,4-dimethoxybenzenes
+to produce new macrocyclic compounds, hybrid[n]arenes, which
+are composed of 1,3- and 1,4-dimethoxybenzene units (Scheme
+3c).49 A combination of pillar[n]arene and resorcinarene
+chemistry contributes to the synthesis of hybrid[n]arenes.
+Therefore, the numbers, electron density, and steric hindrance
+determine where the reaction sites will react with aldehydes.
+There is an unlimited potential in this field if we can design
+monomer structures and promote macrocyclization.
+Since 2006, we have investigated the reaction of 1,4-
+dimethoxybenzene with paraformaldehyde to synthesize new
+macrocyclic compounds (Scheme 1). By choosing appropriate
+reaction conditions, new macrocyclic compounds, pillar[5]-
+arenes, have been obtained in 2008. In pillar[5]arene, 1,4-
+dimethoxybenzene units are connected by a methylene bridge at
+the para-positions (2- and 5-positions). The starting compound,
+1,4-dimethoxybenzene, has four electronically equal reaction
+sites (2-, 3-, 5-, and 6-positions). However, steric hindrance is
+produced after the addition of paraformaldehyde. After the
+reaction of 1,4-dimethoxybenzene with paraformaldehyde at the
+2-position, the second addition of paraformaldehyde selectively
+occurs at the 5-position, while the other reaction sites (3- and 6-
+positions) hardly react with paraformaldehyde. This phenomenon derives from steric hindrance. The reaction site at the 3-
+position between a methylene bridge and methoxy moiety is not
+reactive because of steric hindrance. The other reaction site at the
+6-position is also affected by the steric hindrance of the methoxy
+moiety at the 1-position. Therefore, at the second addition step,
+the 5-position site is able to selectively react with paraformaldehyde.
+
+
+2.2. Formation of Pillar[5]arenes under Thermodynamic
+Control
+The synthesis of macrocyclic compounds is generally controlled
+kinetically and thermodynamically.50 In a kinetically controlled
+process, the reaction temperature and time largely effect the yield
+of the macrocyclic compounds. However, a wide range of cyclic
+homologues and/or polymers are generally produced. Thus,
+macrocyclizations carried out under kinetically controlled
+conditions are generally low yielding reactions. For example,
+the macrocyclization of CB[n] homologues has been carried out under kinetic control.24 The key factor is the reaction
+temperature, and the reaction mixture under controlled reaction
+temperature yields CB[n] homologues ranging from pentamer to
+11-mer. The yield of hexamer, CB[6], was highest (50−60%),
+while yields of CB[5], CB[7], and CB[8] were approximately
+10%, and higher CB[n] homologues (n ≥ 9) were yielded in trace
+amounts. This is because CB[6] has the lowest strain structure
+among CB[n] homologues. In the thermodynamically controlled
+process, additives act as a template to form a particular
+macrocycle. As a result, the particular macrocycle is obtained in
+good yield. Thus, the formation of macrocyclic compounds
+under thermodynamic control is extremely attractive. Crown
+ethers can be obtained under thermodynamic control using
+metal cation templates.11 Particular crown ethers can be
+selectively formed in the presence of appropriate metal cations,
+which are able to fit into the cavity of the prepared crown ether.
+Cyclic pentamers, pillar[5]arenes, can be obtained in high
+yield under optimized conditions because the formation of
+pillar[5]arenes should take place under thermodynamic control.
+We investigated the effect of the type of Lewis acid on the
+macrocyclization.33 When we used BF3OEt2, the product was
+mainly pillar[5]arene 1[5], while a mixture of polymer and 1[5]
+was obtained using other Lewis acids such as FeCl3, AlCl3, and
+SnCl2. Therefore, we envisioned that BF3OEt2 played a role as
+template for the formation of 1[5]. However, contrary to our
+expectation, Szumna et al. reported a high yield of synthesis of
+1[5] using organic acids (Table 1).51
+1[5] was obtained in moderate yield (38%) using paratoluenesulfonic acid (Table 1, entry 1), but was not obtained
+when acetic acid and aqueous HCl solution were used (entries 2
+and 3). Using the strong organic acid, trifluoroacetic acid resulted
+in a high yield synthesis of 1[5] (entry 4, 81%). The yield of 1[5]
+was still high even in a small amount of water (entry 5), indicating
+that the synthesis of pillar[5]arene 1[5] can be achieved even in
+an air environment. Zhang and Yang et al. determined the
+optimized reaction conditions for the synthesis of 1[5] using
+para-toluenesulfonic acid. A long reaction time and reflux
+conditions allowed the formation of 1[5] in high yield (entry 6,
+66%).52
+The other important factor is the type of solvent for the
+synthesis of the pillar[5]arenes. Szumna et al. investigated the
+solvent effect on the synthesis of pillar[5]arenes.51 When 1,2-
+dichloroethane was used as the solvent, the yield of 1[5] was high
+(Table 1, entry 4, up to 81% under optimized conditions).
+However, the yield was low using dichloromethane (entry 7,
+26%), chloroform (entry 8, 15%), and 1,1,2,2-tetrachloroethane
+(entry 9, 7%). Pillar[5]arenes selectively form host−guest
+complexes with linear-shaped molecules (see details in section
+5); thus, linear 1,2-dichloroethane acts as a template solvent for
+the synthesis of pillar[5]arenes (Figure 3a). In contrast,
+chloroform and 1,1,2,2-tetrachloroethane have branched structures (Figure 3a). Pillar[5]arenes cannot form host−guest
+complexes with branched molecules. Therefore, such branched
+structures cannot act as template solvents for the synthesis of
+pillar[5]arenes (Figure 3b).
+The template effect for pillar[5]arene formation was
+confirmed by monitoring the time-dependent SEC traces
+(Figure 3c).53 After 10 s, the peak from the 1,4-dimethoxybenzene monomer quickly decreased and peaks from the
+oligomer (retention volume 20−22 mL) and per-methylated
+pillar[5]arene 1[5] (retention volume 22 mL) were observed. A
+decrease in the amount of the oligomer and an increase in the
+amount of 1[5] were subsequently observed as the reaction time
+was increased. After 150 s, the peak from 1[5] was only detected,
+indicating the completion of the cyclization reaction. Hence, the
+reaction was completed in just 150 s, and thus the reaction
+proceeded under thermodynamic control. Pillar[5]arenes with
+different lengths of linear alkyl chains and branched alkyl groups,
+such as ethoxy 2[5], propoxy 3[5], butoxy 4[5], pentyloxy 5[5],
+hexyloxy 6[5], dodecanoxy 7[5], and 2(S)-methylbutoxy 8[5]
+groups, can also be prepared from the corresponding 1,4- dialkoxybenzene monomers using 1,2-dichloroethane as a
+template solvent (Scheme 4a).54,55
+Preparation of pillar[5]arenes via different pathways was also
+reported by Huang et al., and Cao and Meier et al. using 2,5-
+bis(alkoxymethyl)-1,4-diethoxybenzene (path I, Scheme 4b) as
+monomers and 2,5-dialkoxybenzyl bromides (path II).56−58
+Reaction of these monomers with Lewis acids or para-toluene
+sulfonic acid afforded pillar[5]arenes as the major products. In
+the reaction, pillar[6]arenes were also produced as minor
+products.
+
+
+2.3. Formation of Pillar[6]arenes under Kinetic and
+Thermodynamic Control
+The first pillar[6]arenes were reported by Cao, Meier, and coworkers in 2009 when they investigated macrocyclization of 2,5-
+bis(alkoxymethyl)-1,4-diethoxybenzene (Scheme 4b, path I).57
+However, pillar[6]arenes were obtained as minor products even
+under optimized conditions (yield 11%). In 2012, the same
+group developed a facile method for the synthesis of pillar[6]-
+arenes (Scheme 5a).59
+Pillar[6]arenes were obtained as a mixture of pillar[5]- and
+pillar[6]arenes using 1,4-dialkoxybenzenes as monomers, FeCl3
+as catalyst, and chloroform as solvent. The highest yields of
+pillar[6]arenes 5[6] and 6[6] were 45% by this method. Zhang et
+al. reported the synthesis of pillar[5]- and pillar[6]arenes with
+high selectivity using choline chloride/FeCl3 deep eutectic
+solvent in CH2Cl2. The yields of pillar[5]arene (2[5]) and
+pillar[6]arene (1[6]) were 35% and 53%, respectively, under the
+optimized conditions (Scheme 5b).60 In their investigation,
+FeCl3 was determined to be optimal to produce pillar[6]arenes.
+Therefore, we proposed that FeCl3 would be effective for the
+formation of pillar[6]arenes, although another Lewis acid and
+hydrochloric acid can also be used for the synthesis of
+pillar[6]arenes. Hou et al. reported the reaction of 1,4-
+diethoxybenzene with paraformaldehyde in the presence of
+BF
+3OEt2 in chloroform afforded pillar[6]arene 1[6] (yield 15%)
+along with various other pillar[n]arene homologues (Scheme
+5c).61 In these methods, pillar[6]arenes were contained in the
+mixture of pillar[n]arene homologues, indicating that the macrocyclization proceeded under kinetic control. As shown in
+Table 1, the type of solvent is key for pillar[5]arene synthesis
+under thermodynamic control; thus we investigated several
+reaction solvents that are able to fit into the pillar[6]arene cavity
+to act as a template solvent for pillar[6]arene synthesis under
+thermodynamic control. Pillar[6]arenes accommodate bulky
+hydrocarbons because the cavity size of pillar[6]arenes is larger
+than that of pillar[5]arene (see details in section 5). Therefore,
+we envisioned that bulky hydrocarbons should act as a template
+solvent for the synthesis of pillar[6]arenes. When chlorocyclohexane was used as the solvent (Scheme 6), pillar[6]arene 7[6]
+was obtained as the major product in high yield (87%), and
+pillar[5]arene 11[5] was the minor product (3%).62
+The reaction was monitored by 1H NMR (Figure 4a). In the
+initial stage within 1 min, the monomer reacted with
+paraformaldehyde and afforded a linear oligomer. These linear
+oligomers were subsequently converted to pillar[6]arene as the
+reaction time increased (Figure 4b). These results indicate that
+pillar[6]arene 7[6] is the thermodynamically stable compound
+in the reaction system, and that the reaction proceeds under
+reversible dynamic covalent bond formation between linear
+oligomers, pillar[5]-, and pillar[6]arenes. To clarify the dynamic
+covalent bond formation, we investigated dynamic interconversion between pillar[5]- and pillar[6]arenes depending on the
+type of solvent (Figure 5).
+Reaction of pillar[5]arene 11[5] with BF3OEt2 in chlorocyclohexane, which is a good template solvent for the synthesis
+of pillar[6]arene, resulted in the formation of pillar[6]arene 7[6]
+(Figure 5b). However, pillar[6]arene 7[6] converted to
+pillar[5]arene 11[5] with BF3OEt2 in 1,2-dichloroethane,
+which is a template solvent for pillar[5]arenes (Figure 5a).
+These experiments indicate that pillar[n]arenes were produced
+by dynamic covalent bond formations.62 Nierengarten et al. also
+observed that macrocyclization proceeded by dynamic covalent
+chemistry while they were investigating favorable synthetic
+procedures for the production of pillar[6]arenes (Scheme 7).58
+To synthesize pillar[6]arenes, they investigated the cocyclization of different monomers, 2,5-bis(bromomethyl)-1,4-diethoxybenzene and 1,4-diethoxybenzene, with a Lewis acid (Scheme
+7a). However, the major product obtained was not pillar[6]arene
+but pillar[5]arene. Pillar[5]arene was also obtained upon
+macrocyclization of the trimer by reaction of paraformaldehyde
+with Lewis acid (Scheme 7b). These results clearly indicate that the formation of pillar[n]arenes proceeded under dynamic
+covalent bond formation.
+Recently, Zyryanov and co-workers reported the selective
+synthesis of pillar[6]arenes by solid-state condensation of 1,4-
+dialkoxybenzene and paraformaldehyde by grinding in the
+presence of a catalytic amount of H2SO4.63 The highest yield
+of pillar[6]arene was 85% by this method; thus, the procedure
+will be a new useful route for the synthesis of pillar[6]arenes.
+
+
+2.4. Formation of Pillar[n]arenes (n ≥ 7) under Kinetic
+Control
+Larger pillar[n]arene homologues (n ≥ 7) were first synthesized
+by Hou and co-workers.61 They used 1,4-diethoxybenzene as a
+monomer, chloroform as a solvent, and BF3OEt2 as a Lewis acid
+(Scheme 8).
+Chloroform cannot act as a template for the particular
+pillar[n]arene homologues. Therefore, the reaction in chloroform afforded not only pillar[5]- and pillar[6]arenes as major
+products but also larger pillar[n]arene homologues as minor
+products, pillar[7]arene 1[7], pillar[8]arene 1[8], pillar[9]arene
+1[9], and pillar[10]arene 1[10] in 3%, 1%, 2%, and 2% yields,
+respectively. The optimized reaction time for the synthesis of
+larger pillar[n]arene homologues was 20 min. When the reaction
+time was longer, the larger pillar[n]arene homologues (n ≥ 7)
+disappeared completely. This result indicates the reaction
+proceeded under kinetic control. Our group also synthesized
+larger pillar[n]arene homologues using dynamic covalent bond
+formation of pillar[n]arenes (Scheme 9).64
+We used pillar[5]arene as a monomer, and chloroform as a
+solvent. Again, it should be noted that chloroform did not act as a
+template solvent. Therefore, the reaction afforded a kinetically
+stable mixture of pillar[n]arene homologues (n = 5−15). Heating
+at 50 °C was necessary to promote ring-opening reaction of
+pillar[5]arene 2[5], and the optimized reaction time to produce a
+mixture of pillar[n]arene homologues (n = 5−15) was 1 h. New
+larger pillar[n]arene homologues (n = 11−13) were isolated with
+known pillar[n]arene homologues (n = 5−10) by silica gel
+chromatography. Both Hou and our protocols were carried out
+under kinetic control; thus, yields of larger pillar[n]arene
+homologues were quite low. One of the next challenges is the
+synthesis of larger pillar[n]arene homologues under thermodynamically controlled conditions to selectively produce larger
+pillar[n]arene homologues in high yields.
+
+
+3. FUNCTIONALIZATION OF PILLAR[n]ARENES
+Substituents on both rims of pillar[n]arenes affect their physical
+properties such as solubility, conformational, and host−guest
+properties. Therefore, functionalization of pillar[n]arenes is a
+very important feature in pillar[n]arene chemistry. Pillar[n]arene
+homologues (n = 5−13) have been synthesized, but the
+functionalization of cyclic pentamers, pillar[5]arenes, has been mainly investigated because pillar[5]arenes are obtained in high
+yields by thermodynamic control using template solvents as
+compared to the other pillar[n]arene homologues (n ≥ 6). From
+2012, simple pillar[6]arenes have been obtained in moderate
+yields (>40%).59 Therefore, the functionalization of pillar[6]-
+arenes has recently been investigated. Pillar[n]arenes have two
+functional groups in the constituent unit; therefore, pillar[5]- and
+pillar[6]arenes have 10 and 12 functional groups, respectively. As
+compared to per- and monofunctionalized pillar[n]arenes,
+multifunctionalization of pillar[n]arenes, such as di-, tri-, tetra-,
+and penta-functionalized pillar[n]arenes, is quite difficult as
+multifunctionalized pillar[n]arenes have many constitutional
+isomers. Figure 6a shows the assignment of the substituent
+positions in pillar[5]arene.
+The letters and numbers refer to the dialkoxybenzene units,
+and the upper and lower rims, respectively. Difunctionalized
+pillar[5]arenes have five isomers (Figure 6b, A1/A2, A1/B2, A1/
+C2, A1/B1, and A1/C1). The number of isomers increases as the
+increase of the substituent numbers. There are 10 constitutional
+isomers in trifunctionalized pillar[5]arenes (A1/B1/C1, A1/B1/
+D1, A1/B1/C2, A1/B1/D2, A1/A2/B1, A1/A2/B2, A1/A2/C1,
+A1/A2/C2, A1/B2/C1, and A1/B2/D1). Therefore, selective
+synthesis of multifunctionalized pillar[n]arenes is one of the
+challenging topics in pillar[n]arene chemistry. Position-selective
+functionalization of pillar[5]arenes has been intensively
+investigated by pillar[n]arene chemists, and their efforts have
+contributed to the successful synthesis of position-selective
+multifunctionalized pillar[5]arenes based on various organic
+reaction methods. Position-selective mono-, di-, tri-, tetra-,
+penta-, and per-functionalization of pillar[5]arenes have been
+achieved.37,38 Two approaches have been devised for the
+synthesis of position selective-functionalizing pillar[n]arenes:
+(i) exchange of the substituents by deprotection followed by
+etherification of preformed pillar[n]arenes and (ii) cyclization of
+1,4-dialkoxybenzene with another 1,4-dialkoxybenzene derivative with functional groups.
+
+
+3.1. Deprotection of the Alkoxy Moieties of Pillar[n]arenes
+To Produce Key Pillar[n]arenes Bearing Phenolic Groups at
+Specific Positions
+Deprotection of alkoxy groups to produce functionalizing
+pillar[5]arenes was first investigated by our group in 2008.33
+Phenolic groups, which are obtained by deprotection of alkoxy
+groups, are favorable reactive groups for the introduction of
+various functional groups. Therefore, pillar[n]arenes with
+phenolic groups at the desired positions are useful key
+compounds to produce various functionalizing pillar[n]arenes.
+We investigated the deprotection of methoxy groups in permethylated pillar[5]arene 1[5]. Deprotection of the methoxy
+moieties of 1[5] with excess BBr3 afforded per-hydroxylated
+pillar[5]arene 12[5], quantitatively (Scheme 10a).33
+However, deprotection of per-methylated pillar[5]arene 1[5]
+with 0.9 equiv of BBr3 under the optimized reaction time
+afforded monohydroxylated pillar[5]arene 13[5] in moderate
+yield (22%, Scheme 10b).65 Cao et al. optimized the reaction
+conditions to provide the mono-ol 13[5] in good yield (60%).66
+The effect of the amounts of BBr3 and reaction temperature on
+the deprotection reaction was further investigated by Stoddart
+and co-workers.67 They found that deprotection of methoxy
+groups of preformed per-methylated pillar[5]arene 1[5] with
+BBr
+3 occurred in a stepwise manner at low temperatures under
+kinetic control (Scheme 10c and d). Therefore, conversion to
+mono-, di-, and trideprotected pillar[5]arenes can be controlled
+by reaction temperature, time, and the feed ratio between
+pillar[5]arene and BBr3. The introduction of triflate groups into
+the phenolic moieties of the mixture of multideprotected
+pillar[5]arenes resulted in the separation of monotriflated 14[5], ditriflated, and tritriflated pillar[5]arene isomers by silica
+gel chromatography. Modification of the triflate groups enabled
+easy separation of these isomers by silica gel chromatography.
+New pillar[5]arene isomers, A1/B1 (15[5]) and A1/C2 (16[5])
+ditriflates, and A1/B1/D1 (17[5]) and A1/B2/D1 (18[5])
+tritriflates, can be produced by the protocol. They named this
+method the deprotection followed by activation strategy.
+The other deprotection method is the oxidation followed by
+reduction strategy of preformed per-alkylated pillar[5]arenes to
+produce A1/A2 dihydroxylated pillar[5]arenes and A1/A2/B1/
+B2, A1/A2/C1/C2 tetra-hydroxylated pillar[5]arenes (Scheme
+11).68,69
+Oxidation of a 1,4-dialkoxybenzene unit in per-alkylated
+pillar[5]arenes afforded pillar[5]arenes with a benzoquinone
+unit (19[5] and 20[5]). Benzoquinone was easily converted to
+hydroquinone using a reducing agent; thus, the A1/A2
+dihydroxylated pillar[5]arenes (25[5] and 26[5]) were obtained
+by reduction of the benzoquinone unit.68,69 The merit of the
+oxidation followed by reduction method is that pillar[5]arenes
+with two phenolic groups at the A1 and A2 positions can be
+selectively produced. When BBr3 was used to produce
+dihydroxylated pillar[5]arenes, the product was a mixture of
+multideprotected pillar[5]arenes; therefore, separation of
+dihydroxylated pillar[5]arene isomers from the mixture was
+quite difficult. Furthermore, pillar[5]arenes with two benzoquinone units at the A/B (21[5] and 22[5]) and A/C (23[5] and
+24[5]) units can be prepared under the optimized oxidation
+condition, and reduction of these pillar[5]arenes with two
+benzoquinone units led to A1/A2/B1/B2 (27[5] and 28[5])
+and A1/A2/C1/C2 (29[5] and 30[5]) tetra-hydroxylated
+pillar[5]arenes.68 Tuning the oxidation condition enables the
+synthesis of pillar[5]arenes with three and four quinone moieties.
+Xue et al. reported the synthesis of pillar[5]arenes consisting of
+three different kinds of units by selective oxidation of the units
+(Scheme 12).70,71
+They found the functional group-selective oxidation. Ether
+benzene units are oxidized by an oxidizing agent, but benzene
+units with ester moieties are not. Installation of ester groups into
+A1/A2/C1/C2 tetra-hydroxylated pillar[5]arene afforded
+pillar[5]arene with four ester groups at A1/A2/C1/C2 positions
+(31[5]). Using the functional group-selective oxidation between
+ether and ester groups, complex pillar[5]arene derivatives
+consisting of two ester units and one (32[5]), two (33[5]),
+and three (34[5]) benzoquinone units could be produced.
+The advantages of these deprotection methods are as follows.
+(1) The methods can be used for pillar[5]arenes even with
+functional substituents such as tri(ethylene oxide) moieties.72
+(2) The method can be used for larger pillar[n]arene
+homologues (n ≥ 6). Per-hydroxylated pillar[n]arenes (n = 6,
+7, 9, and 10) were synthesized by deprotection of ethoxy moieties
+with excess BBr3 (Scheme 13a).73−77 Monohydroxylated
+pillar[6]arene 9[6] was also obtained in moderate yield (46%)
+by the deprotection method (Scheme 13b).78
+A1/A2 dihydroxylated pillar[6]arene 11[6] was also produced
+by the oxidation followed by reduction method (Scheme 13c).68
+
+
+3.2. Cocyclization Method To Produce Key Pillar[n]arene
+Derivatives Bearing Reactive Groups at Specific Positions
+The other method to produce pillar[n]arenes with reactive
+functional groups, such as bromo and alkyne groups, is
+cyclization of 1,4-dialkoxybenzenes with these functional groups.
+Nierengarten and co-workers developed the macrocyclization
+procedure using 1,4-dialkoxybenzene monomers with two bromide moieties to produce pillar[5]- and pillar[6]arenes with
+10 bromides 35[5] and 12 bromides 12[6], respectively, in
+moderate yields (Scheme 14a).79
+Using FeCl3 as a Lewis acid and chloroform as a solvent under
+the optimized reaction condition afforded a mixture of
+decabromide 35[5] and dodecabromide 12[6]. A pillar[5]arene
+with 10 alkyne groups (36[5]) can be obtained by macrocyclization of a monomer with two alkyne groups (Scheme
+14b).80
+Cocyclization of two kinds of 1,4-dialkoxybenzene monomers
+allowed mono-, di-, and tetra-functionalized pillar[5]arenes.
+Cocyclization was first developed by Huang et al. (Scheme 15).81
+Cocyclization of two different 1,4-dialkoxybenzenes with
+dimethoxy, dibutoxy, and dioctyloxy groups afforded pillar[5]-
+arenes containing a different 1,4-dialkoxybenzene unit (37[5]
+and 38[5]). Monoreactive pillar[5]arene was first introduced by
+Stoddart and co-workers based on the cocyclization method.82
+Co-pillar[5]arene 39[5], in which are one 2-bromoethoxy and
+nine methoxy groups, was prepared by cocyclization of 1,4-
+dimethoxybenzene and nonsymmetric dialkoxybenzene with one
+bromide group. Tuning the feed ratio between the two different
+monomers was very important for the efficient synthesis of the
+monobromide 39[5], which was developed by Cao and Meier et
+al.83 Wang et al. applied the cocyclization method to obtain a A1/
+A2 dibromo-functionalized pillar[5]arene 40[5].84 Cocyclization of 1,4-bis(2-bromoethoxy)benzene with 1,4-dialkoxybenzene afforded dibromide 40[5]. Tetra-functionalized pillar[5]-
+arenes with four bromides can also be produced by tuning the
+feed ratio of different monomers in the cocyclization method.85
+The cocyclization method is a useful approach to obtain useful
+key pillar[n]arenes with bromide groups at desired positions by a
+one-step reaction, but is limited because the functional groups in
+the monomers sometimes inhibit the macrocyclization. In
+addition, the cocyclization cannot be used for the synthesis of
+functionalizing pillar[n]arenes with larger homologues (n ≥ 6) in
+many cases because these larger pillar[n]arene homologues are
+only obtained as minor products under kinetically controlled
+processes. It is necessary to use both the deprotection and the
+cocyclization methods depending on the type of functional
+groups in the monomer and targeting numbers of rings.
+
+
+3.3. Combination of Deprotection and Cocyclization
+Methods To Produce Key Pillar[n]arene Derivatives with
+Phenolic Groups
+Combination of the cocyclization and deprotection methods also
+affords useful key pillar[5]arenes. First, dihydroxylated pillar[5]-
+arene was accidentally obtained by our group in macrocyclization
+of 1,4-dimethoxybenzene using different Lewis acids.86 For the
+synthesis of pillar[5]arenes, BF3OEt2 was a good Lewis acid in
+many cases to produce pillar[5]arenes in good yields.33 However,
+the deprotection reaction of methoxy groups took place
+concurrently with macrocyclization when AlBr3 was used as a
+Lewis acid. AlBr3 acts as a Lewis acid for both macrocyclization
+and deprotection of the methoxy groups. A regioselective A1/B2
+dihydroxylated pillar[5]arene 41[5] could be isolated by silica
+gel chromatography and washing with methanol (Scheme 16a).
+Stoddart et al. reported the synthesis of A1/A2 hydroxylated
+pillar[5]arene 25[5] by the cocyclization followed by deprotection method (Scheme 16b).87 The A1/A2 dibromo-functionalized pillar[5]arene 42[5] was first synthesized by cocyclizationof 1,4-bis(3-bromopropoxy)benzene with 1,4-dimethoxybenzene. Elimination of bromide moieties in 42[5] resulted in the
+A1/A2 diallylated pillar[5]arene 43[5]. Deprotection of the allyl
+groups afforded A1/A2 dihydroxylated pillar[5]arene 25[5].
+
+
+
+3.4. Functionalization of Pillar[n]arenes Bearing Phenolic
+Groups by Etherification
+Pillar[n]arenes with phenolic groups at desired positions could
+be produced by various methods, such as deprotection, oxidation
+followed by reduction method of preformed pillar[5]arenes, and
+in situ macrocyclization and deprotection, and the cocyclization
+followed by deprotection method. Pillar[n]arenes with phenolic
+groups are very important key compounds, because etherification
+between the pillar[n]arenes and alkyl-halide in the presence of
+appropriate bases can afford various functionalizing pillar[n]-
+arenes. Various per-functionalized pillar[5]arenes have been
+synthesized by etherification (Scheme 17).
+The first water-soluble pillar[5]arene with 10 carboxylate
+anions 46[5] was introduced by our group.88 A pillar[5]arene
+with 10 esters groups 44[5] was synthesized by installing 10 ester
+groups through etherification. Hydrolysis of the deca-ester 44[5]
+afforded the first water-soluble pillar[5]arene 46[5]. Hou et al.
+reported that 44[5] converted to a water-soluble pillar[5]arene
+with 10 amine groups 49[5].89 Our group reported that synthesis
+of pillar[5]arenes with nonionic moieties, such as ethylene oxide
+50[5] and tri(ethylene oxide) groups 51[5] by etherification.90
+Pillar[5]arene with 10 tri(ethylene oxide) 51[5] was completely
+soluble in aqueous media, but pillar[5]arene with 10 ethylene
+oxide 50[5] was insoluble, indicating that the long water-soluble
+moieties are necessary to gain water solubility. Pillar[5]arene
+with 10 cyclohexylmethyl moieties 11[5] was also synthesized by
+etherification.91 The other method to functionalize pillar[n]-
+arene is by palladium-catalyzed reactions, such as Sonogashira,
+Suzuki, and Heck reactions, which have been widely used for the
+synthesis of π-conjugated molecules and polymers. A reactive
+intermediate pillar[5]arene with 10 triflate groups 52[5] was
+synthesized by reaction of per-hydroxylated pillar[5]arene 12[5]
+and Tf2O. Sonogashira coupling between the decatriflate 52[5]
+and ethynylbenzene afforded a highly π-conjugated pillar[5]-
+arene 53[5], which exhibited through-space π-delocalization.92
+The etherification protocol is a straightforward and reliable
+process, and thus is applicable for the functionalization of larger
+pillar[n]arene homologues (n ≥ 6, Scheme 18).
+As with per-functionalization of pillar[5]arenes by esterification, water-soluble pillar[n]arenes with carboxylate anions
+(13[6], 3[7], 3[9], and 3[10]),74−76,93 and amphiphilic
+pillar[n]arenes with ethylene oxide and tri(ethylene oxide)
+moieties (14[6], 15[6], 4[7], and 4[10]),90,93−97 have been
+synthesized from per-hydroxylated pillar[n]arenes.
+Monofunctionalized pillar[5]arenes with one trimethylammonium 54[5],65 DABCO cation 55[5],78 and phosphoryl groups
+56[5]66 were accessable by etherification of monohydroxylated
+pillar[5]arene 13[5] with the corresponding monohalides
+(Scheme 19).
+As compared to the cocyclization method, this approach
+required multistep reactions to produce the monofunctionalized
+pillar[n]arenes, but can be used for the synthesis of the larger
+homologues (n ≥ 6) of monofunctionalized pillar[n]arenes. In
+an approach similar to that for the production of monofunction alized pillar[5]arenes, monofunctionalized pillar[6]arene with a
+pyridinium cation 16[6] was produced by etherification.78
+Pillar[5]arene with two functional groups can also be
+produced by etherification. Pillar[5]arene with two carboxylic
+acid groups 57[5] was prepared by the modification of two ester
+groups by etherification, followed by hydrolysis of an ester bond
+(Scheme 20).98
+Introduction of a π-conjugated unit into pillar[5]arenes can be
+achieved by the palladium-catalyzed reaction. The A1/A2
+ditriflate 58[5] was prepared from A1/A2 dihydroxylated
+pillar[5]arene, as reported by Stoddart et al., to produce a terphenyl substituted pillar[5]arene 60[5].87 In a similar approach,
+our group also synthesized a pillar[5]arene incorporating π-
+conjugated units 61[5] between A1/A2 ditriflate 59[5] and (5-
+bithienyl)boronic acid by palladium-catalyzed Suzuki coupling.99
+Stoddart et al. successfully introduced two bromide groups at the
+ortho positions (A1′ and A2′) 62[5] by bromination of 25[5].100
+The dibromide 62[5] can be functionalized by palladiumcatalyzed coupling reactions, and thus is a useful key compound
+to produce difunctionalized pillar[5]arenes at the A1′ and A2′
+positions.
+
+
+3.5. Functionalization of Pillar[n]arenes Bearing Bromide
+Groups by Etherification, Cationation, and Amination
+Pillar[5]- and pillar[6]arenes with bromide moieties, which can
+be produced by cyclization of 1,4-dialkoxybenzene with two
+bromide groups (Scheme 14), are good key compounds because
+various per-functionalized pillar[5]- and pillar[6]arenes were
+accessible by cationation and etherification (Scheme 21).
+Reaction of the decabromides and dodecabromide with
+pyridine,101 1-methylimidazole,102,103 amine,104 and tributylphosphine105 afforded cationic pillar[5]arenes 65[5]−68[5] and
+pillar[6]arene 18[6]. Etherification of the decabromide 64[5]
+and coumarin derivative with phenolic moiety gave a pillar[5]-
+arene with 10 coumarin moieties 69[5].106
+The monobromide 39[5] and dibromide 40[5], which are
+prepared by cocyclization method (Scheme 15), were converted
+to monoamine 70[5] and diamine 71[5], respectively, by Gabriel
+synthesis (Scheme 22).84,107
+Mono- 72[5] and diureidopyrimidinone 73[5] were synthesized from the monoamine 70[5] and A1/A2 diamine 71[5],
+respectively.
+3.6. Functionalized Pillar[n]arenes from Pillar[n]arenes
+Bearing Alkyne and Azide Groups by the
+Copper(I)-Catalyzed Huisgen Alkyne−Azide 1,3-Dipolar
+Cycloaddition Reaction
+Reaction between azides and alkynes with copper(I), the
+copper(I)-catalyzed Huisgen alkyne−azide 1,3-dipolar cycloaddition reaction (CuAAC reaction), is a very efficient and quick
+reaction.108 Pillar[n]arenes with azide moieties are easily
+accessible from pillar[n]arenes with bromide groups. Bromide
+groups in pillar[n]arenes are converted to azide groups by
+reaction of bromide moieties in pillar[n]arenes with sodium
+azide. These pillar[n]arenes with azide groups are useful key
+compounds because CuAAC reaction of these azides with alkyne
+derivatives affords various functionalizing pillar[n]arenes.
+Nierengarten and co-workers synthesized pillar[5]- and
+pillar[6]arenes with azide groups. The CuAAC reaction of the
+decaazide and dodecaazide with corresponding alkyne derivatives afforded pillar[n]arenes with mesogens (75[5] and 20[6])
+and mannose moieties 76[5] (Scheme 23).79,109
+Pei et al. synthesized a pillar[5]arene with 10 ferrocene
+moieties 77[5] by CuAAC reaction between decaazide and
+ferrocene with an alkyne moiety.110
+Per-alkynylated pillar[5]arene 36[5] is also a useful key
+compound because CuAAC reaction of per-alkynylated pillar[5]-
+arene with monoazide derivatives afforded per-functionalized
+pillar[5]arenes. The decaalkyne 36[5] was accessible by not only
+etherification of preformed per-hydroxylated pillar[5]arene
+12[5] with propargyl bromide111 but also macrocyclization of
+dialkoxybenzene monomer with two alkyne groups (Scheme
+14b).80
+Reaction of decaalkyne 36[5] with azide derivatives such as
+hexylazide, benzylazide, phenylazide, naphthylazide, pyrenylazide, oligo(ethylene oxide), and cationic dendrons with an azide
+moiety afforded various per-functionalizing pillar[5]arenes with
+corresponding functional groups 78[5]−84[5] (Scheme
+24).80,111−114
+Reaction of the copillar[5]arene with one bromide group
+39[5] with sodium azide produced a copillar[5]arene with an
+azide group 85[5]. The monoazide 85[5] was an important key
+compound to synthesize monofunctionalized pillar[5]arenes
+through the CuAAC reaction (Scheme 25).82
+Monofunctionalized pillar[5]arenes with pyrene 86[5],82
+azobenzene 87[5],115 viologen 88[5],116 and fluorescein 89-
+[5]117 were produced by the CuAAC reaction of the monoazide
+85[5] with the corresponding monoalkynes.
+The A1/A2 dialkyne 90[5] and A1/A2/C1/C2 tetra-alkyne
+91[5] were produced by etherification of A1/A2 diol 26[5] and
+A1/A2/C1/C2 pentanol 30[5] with propargyl bromide. The
+dialkyne and tetraalkyne can be reacted with pyrene with an azide
+moiety through the CuAAC reaction to afford a pillar[5]arene
+with two 92[5] and four pyrenyl moieties 93[5] (Scheme 26).68 Thus, the dialkyne 90[5] and tetraalkyne 91[5] are useful key
+compounds to produce various A1/A2 di- and A1/A2/C1/C2
+tetra-functionalized pillar[5]arenes.
+Yang and co-workers synthesized an A1/A2 difunctionalized
+pillar[5]arene with a bromide and an alkyne moiety at the A1 and
+A2 positions 94[5] by cocyclization of a nonsymmetric
+dialkoxybenzene monomer possessing a bromide and an alkyne
+group with 1,4-dialkoxybenzene (Scheme 27).118
+An anthracene moiety can be installed in 94[5] using the
+CuAAC reaction between the alkyne moiety and an anthracene
+derivative with an azide group. The reaction between the
+bromide moiety in 95[5] and dimethylamine then afforded a
+pillar[5]arene with an anthracene and a cationic moiety at the A1
+and A2 positions 96[5]. Combination of CuAAC and another
+reaction expands the functionality of pillar[5]arenes.
+
+
+3.7. Pillar[5]arene Dimers, Tetramers, and Pentamers from
+Monoreactive Pillar[5]arenes
+Monofunctionalized pillar[n]arenes are useful building blocks to
+produce molecules containing more than one pillar[n]arene,
+such as dimers, trimers, and tetramers. Our group synthesized a
+pillar[5]arene dimer 97[5] by connecting the monohydroxylated
+pillar[5]arenes 13[5] with 1,4-bis(bromomethyl)benzene
+(Scheme 28).119
+The other pillar[5]arene dimers (98[5] and 99[5])
+connecting the monohydroxylated pillar[5]arene molecules by
+other linkers, such as 1,2-bis(bromomethyl)benzene and 1,4-
+diiodobutane, were synthesized by Li, Jia, and co-workers.120 An
+azobenzene bridged pillar[5]arene dimer 101[5] was synthesized by the CuAAC reaction between monoalkyne-functionalized pillar[5]arene 100[5] and azobenzene with two azide
+moieties.121 Yang et al. and Yu et al. synthesized pillar[5]arene
+dimer 104[5] and tetramer 105[5] by etherification of di- and
+tetra-ol compounds with monobromides (102[5] and 103[5]),
+respectively, which were produced by cocyclization of 1,4-
+dimethoxybenzene and 1,4-dialkoxybenzene with one bromide
+group (Scheme 29).122−124
+Reaction between the monobromide 102[5] and NaSeSeNa
+afforded a pillar[5]arene dimer linked by an Se−Se bond
+106[5].125 A pillar[5]arene with an azide moiety 107[5], which
+was produced by reaction of monobromide 102[5] and sodium
+azide, is also a good key compound to produce pillar[n]arene
+oligomers. CuAAC reaction of di- and tetra-alkynes with
+pillar[5]arenes possessing an azide moiety 107[5] produced a
+pillar[5]arene dimer 108[5] and a tetramer.126,127 The other
+process for the synthesis of pillar[5]arene dimers is the
+cocyclization method. Huang et al. and Xiao, Jiang et al. synthesized pillar[5]arene dimers by cocyclization of 1,4-
+dimethoxybenzene monomer with dimeric monomer, in which
+two monomers are connected by flexible aliphatic chains.128,129
+3.8. Penta-functionalization of Pillar[n]arenes
+Penta-functionalized pillar[5]arenes can be synthesized by
+macrocyclization of nonsymmetric dialkoxybenzene monomers.
+However, four constitutional isomers are formed by macrocyclization (Scheme 30).
+This is a serious problem because isolation of these conformers
+is quite difficult by silica gel chromatography. Among these
+isomers, the highly symmetric C5-isomer shows a rim-different
+structure; thus it should be useful for various applications.
+However, yields of the C5-symmetric isomers were quite low. Our group reported the first nonsymmetrical pillar[5]arene
+109a−d[5] by cyclization of nonsymmetrical dialkoxybenzene
+monomer, 1-ethoxy-4-methoxybenzene.130 However, we could
+not separate four isomers 109a−d[5]. Huang et al. and Meier et
+al. successfully isolated the nonsymmetrical pillar[5]arene
+isomers 110a−d[5], which are composed of 1-butoxy-4-
+methoxybenzene units, by silica gel chromatography, but the
+yield of the C5-symmetric isomer 110a[5] was quite low
+(Scheme 30, 6%).131,132
+Huang et al. developed a C5-symmetric pillar[5]arene with five
+functional groups by the CuAAC reaction.133 First, they
+produced a nonsymmetric pillar[5]arene containing four isomers
+111a−d[5] by macrocyclization of the nonsymmetrical monomer, 1,4-dialkoxybenzene with an alkyne group. These isomers
+could not be separated because separation of these isomers was quite difficult. The CuAAC reaction between a mixture of the
+isomers 111a−d[5] and a naphthalene containing an azide
+moiety afforded pillar[5]arene isomers 112a−d[5] with five
+naphthalene moieties. A C5-symmetric isomer 112a[5] was
+successfully isolated from the other isomers by silica gel
+chromatography. Modification of naphthalene moieties contributes to the easy separation of the target compound C5-symmetric
+isomer. The same group also discovered isolation of the C5-
+symmetric isomer by recrystallization. Macrocyclization of the
+nonsymmetric monomer with an ester group afforded a mixture
+of pillar[5]arene isomers 113a−d[5] (Scheme 31).134
+Isolation of the C5-symmetric pillar[5]arene 113a[5] was
+achieved by recrystallization of a mixture of the isomers. Because
+the C5-symmetric isomers cannot be selectively formed in these
+methods, yields of the C5-symmetric isomers were low. Selective
+synthesis of the C5-symmetric isomer is one of the next
+challenging topics in pillar[n]arene chemistry.
+
+
+4. STRUCTURE OF PILLAR[n]ARENES
+4.1. X-ray Crystal Structures of Simple Pillar[n]arene
+Homologues
+One of the important features of pillar[n]arenes is their structure.
+We were the first to report the X-ray crystal structure of cyclic
+pentamer pillar[n]arenes, pillar[5]arene with 10 methoxy groups
+1[5] (Figure 7a).33
+Pillar[5]arene 1[5] showed a completely symmetric cylindrical structure from the side view, and a highly symmetrical
+regular pentagonal structure from the top view. 1,4-Dimethoxybenzene units consisting of 1[5] were connected by methylene
+linkages at the 2- and 5-positions (para-positions). The position
+of the methylene bridge linkage contributed to these highly
+symmetrical structures. On the basis of the highly symmetric
+pillars that constitute the Parthenon in Athens, we named this
+type of paracyclophane “pillar[n]arenes”. The first X-ray crystal
+structure of cyclic hexamer, pillar[6]arene with 12 diisobutoxy
+groups 3[6], was reported by Huang and co-workers.135 The
+same group also reported the X-ray crystal structure of
+pillar[6]arene with 12 propoxy groups 2[6] (Figure 7b).136
+2[6] has a hexagonal-like cyclic structure from the top view.
+From the side view, as with pillar[5]arene 1[5], pillar[6]arene
+2[6] has a highly symmetrical structure. X-ray crystal structures
+of pillar[8]-, pillar[9]-, and pillar[10]arenes were first reported
+by Hou and co-workers (Figure 8),61 while that of pillar[7]arene has not been reported because pillar[7]arenes would have a low
+symmetry structure.
+These larger pillar[n]arenes have two cavities, while pillar[5]-
+and pillar[6]arenes have a single pentagonal and hexagonal
+cavity, respectively. Pillar[8]arene with 16 ethoxy groups 1[8]
+have two pentagonal cavities. From the top view of the X-ray
+crystal structure of pillar[9]arene with 18 ethoxy groups 1[9],
+one pentagonal and one hexagonal cavity were observed.
+Pillar[10]arene with 20 ethoxy groups 1[10] have two hexagonal
+cavities. To reduce the ring strain, they should have two cavities.
+The same trend was also reported in calix[n]arene chemistry.
+Calix[8]arene has two tetragonal calix-shaped cavities because
+the tetragonal calix-shape is the most stable structure.137 As with
+pillar[5]- and pillar[6]arenes, these larger pillar[n]arenes exhibit
+a highly symmetrical pillar-shaped structure from their side
+views
+
+
+4.2. Conformational and Planar Chirality Characteristics of
+Pillar[n]arenes
+From the viewpoint of conformational mobility, macrocyclic
+molecules are divided into two categories: conformationally fixed
+and conformationally flexible. Calix[n]arenes and crown ethers
+are assigned as conformationally flexible macrocyclic compounds. For example, calix[4]arenes have four conformational
+isomers: cone, partial cone, 1,2-alternate, and 1,3-alternate. In
+contrast, CB[n]s are conformationally fixed macrocyclic
+compounds because their units are connected by double
+methylene bridges.
+Pillar[n]arenes are assigned as conformationally flexible
+macrocyclic compounds because their benzene units can rotate
+around 180° (Figure 9a).
+The pillar[n]arene constituent units are composed of two
+substituents at the 2 and 5 positions of the benzene units. Therefore, pillar[n]arenes have conformational isomers resulting
+from rotation of the benzene units. Pillar[5]arenes have an odd
+number of constituent units (five); therefore, they have four
+diastereomers (Figure 9b, a, b, c, and d): Diastereomer a has C5
+symmetry, while the other three diastereomers (b, c, and d) have
+C2 symmetry. Furthermore, they have the corresponding
+enantiomers (a′, b′, c′, and d′). Thus, pillar[5]arenes have a
+total of eight conformers.138 In the case of pillar[6]arenes, they
+have an even number of constituent units (six); therefore, they
+have five diastereomers (Figure 9c, a, b, c, d, e) and three meso
+forms (f, g, h). a, b, c, d, e, f, g, and h forms are assigned with C6,
+C1, C2, C2, D2, Cs, C3v, and C2h symmetries, respectively.
+Furthermore, a, b, c, d, and e forms have the corresponding
+enantiomers (a′, b′, c′, d′, and e′). Therefore, there are a total of
+13 conformers in pillar[6]arenes.139 These conformers are
+interconverted by rotation of the benzene units of pillar[n]arenes
+because the rotation of the benzene unit leads to the positional
+changes of the substituents.
+The conformational structure in the crystal state is a
+“snapshot” of one of the conformations of pillar[n]arenes, but
+this structure will be the most stable conformation of
+pillar[n]arenes. From the X-ray crystal structure of simple
+alkyl-substituted pillar[n]arenes, shown in Figures 7 and 8, their
+structures exhibit C
+n symmetry, indicating that Cn symmetric
+structures are most stable among all possible conformers. The
+possible reason for this is that there are no strong interactions
+between neighboring units in per-alkylated pillar[n]arenes.
+Simple alkyl-substituted pillar[n]arenes form Cn symmetric a
+and a′ conformations to reduce the steric hindrance between the
+alkyl substituents. Figure 10 shows the energy diagrams of permethylated pillar[5]arene 1[5] conformers obtained from
+calculations.
+The C5-symmetric conformers a/a′ are the most stable
+structures among the 1[5] conformers. However, their
+conformation dramatically changed by replacing the substituents
+from methoxy to hydroxyl groups. Figure 11 shows the X-ray
+crystal structure of per-hydroxylated pillar[5]arene 12[5].53
+Flipping of the two hydroquinone moieties at the A and C
+units is observed to form intramolecular hydrogen bonds
+between the neighboring units. However, pillar[5]arenes have
+an odd number of units; thus hydroquinone moieties at the D
+and E units cannot form intramolecular hydrogen bonds. Hence,
+per-hydroxylated pillar[5]arene forms conformational isomers
+d/d′ in the solid state. Formation of isomers d/d′ in the frozen
+state of 12[5] is also suggested by 1H NMR of 12[5] at low
+temperature (Figure 12).138
+The proton signals from phenol, phenyl, and the methylene
+bridge of per-hydroxylated pillar[5]arene 12[5] were observed as
+singlets at 25 °C. In contrast, the signals broadened around −50
+°C, and split as the measurement temperature decreased under
+−60 °C. The split signals at low temperature suggest that the
+nonsymmetrical diastereomers d/d′ are the most stable
+conformers in the case of per-hydroxylated pillar[5]arene
+12[5]. Peerannawar and Gejji supported the experimental observations with calculations (Figure 10).140 The most stable
+diastereomers of per-hydroxylated pillar[5]arene 12[5] were the
+d/d′ conformers, which is the exact opposite result as compared
+to the simple per-methylated pillar[5]arene 1[5]. Per-hydroxylated pillar[5]arene 12[5] forms up-and-down d/d′ conformations to form an intramolecular hydrogen-bond network
+between units, while per-methylated pillar[5]arene 1[5] forms
+highly regular a/a′ conformations to reduce the steric hindrance
+between substituents.
+
+
+
+Per-hydroxylated pillar[6]arene 8[6] also formed intramolecular hydrogen bonds between adjacent units; therefore, flipping of hydroquinone moieties at the A, C, and E units was
+observed in the X-ray crystal structure of 8[6] (Figure 11).73 The
+conformation of 8[6] was assigned as isomer g. Cyclic hexamer,
+pillar[6]arenes have an even number of units; thus, the
+intramolecular hydrogen-bond network is completely continuous in an alternating up-and-down manner. The relative
+stabilization energies of the different conformers, which have
+been reported by Gejji and co-workers, supported the X-ray
+crystal structure of per-hydroxylated pillar[6]arene 8[6].141 The
+meso-form of conformer g is the most stable, and the energies (in
+kJ/mol) of the different conformers relative to conformer g are
+calculated to be 21.4 (d/d′) < 41.3 (c/c′) < 45.5 (b/b′) < 61.9
+(h) < 72.4 (a/a′).
+X-ray crystal structures of A1/B2 and A1/A2 dihydroxylated
+pillar[5]arenes (41[5] and 25[5]) were reported by our group
+and the Stoddart group, respectively.86,87 Flipping of two units
+(A and B units) was observed in A1/B2 dihydroxylated
+pillar[5]arene 41[5] (Figure 13a).
+The flipping occurred to form intramolecular hydrogen bonds
+between B and C units, and between A and E units. Therefore,
+isomers c/c′ were the most stable conformers in A1/B2
+dihydroxylated pillar[5]arene 41[5]. In contrast, in the crystal
+structure of A1/A2 dihydroxylated pillar[5]arene 25[5] (Figure
+13b), flipping of one hydroquinone unit A was observed to form
+intramolecular hydrogen bonds between the A and B units, and
+between the A and E units. Therefore, isomers b/b′ were the
+most stable in A1/A2 dihydroxylated pillar[5]arene 25[5]. Both
+A1/B2 and A1/A2 diols have two phenolic moieties, but the
+conformation of the A1/B2 diol is different from that of the A1/
+A2 diol, indicating that the position of the phenolic moieties
+dominates the most stable conformation of pillar[5]arenes.
+Pillar[n]arene enantiomers should be useful compounds for
+chiral molecular recognition and catalysts because pillar[n]arene
+enantiomers have pores to capture guest molecules. However,
+interconversion between isomers occurred by rotation of the
+units. To isolate the pillar[n]arene enantiomers, inhibition of the
+rotation of the units is necessary. We first synthesized various
+lengths of alkyl chains, such as ethyl, propyl, butyl, pentyl, hexyl,
+and dodecyl chains (1[5]−7[5]), at both rims to inhibit the
+rotation of the units.54 Figure 14a shows the rotational barrier of
+the units, which was determined by variable-temperature 1H
+NMR.
+As the length of the alkyl chain increased, the rotational barrier
+also increased. However, these substituents were too small to
+stop the rotation of the units. Therefore, a pillar[5]arene with 10
+bulky cyclohexylmethyl groups 11[5] was produced.91 For
+11[5], rotation of the units could not be observed by variable 1H
+NMR. Thus, 11[5] was characterized by chiral HPLC (Figure
+14b). Two peaks with equal areas were observed by injection of
+11[5] into a chiral column, indicating that 11[5] was a mixture of
+two enantiomers, and exhibited a rotational barrier to observe
+two enantiomers as separated peaks. When the first fraction
+collected was reinjected, the original peak was detected but the
+pair peak from an enantiomer was not observed. After the first fraction was maintained at 40 °C for 18 h, the second peak was
+also not detected, indicating 11[5] did not racemize. The CD
+spectra of the first and second fractions were completely mirror
+image (Figure 14c), and stable at 25 °C, and the conformation of
+the enantiomers determined by 1H NMR was shown to be the
+C5-symmetric isomer a/a′. Therefore, we successfully stopped
+the rotation of the units, and isolated the enantiomers a and a′ by
+introducing bulky cyclohexylmethyl groups at both rims of
+pillar[5]arene.
+
+
+
+Stoddart et al. reported the separation of enantiomers by
+introducing one π-conjugated unit (Figure 15).87
+Introduction of bulky monosubstituted phenyl rings at the A1/
+A2 positions of pillar[5]arene 60[5] contributes to inhibit the
+rotation of the units and separate the a and a′ forms of planar
+chiral pillar[5]arenes by chiral column chromatography.
+Introduction of bithienyl moieties to the pillar[5]arene at the
+A1/A2 positions 61[5] (Scheme 20) also prevented the rotation
+of the units, and resulted in the isolation of enantiomers a and a′
+by chiral column chromatography.99 Stoddart et al. also
+successfully synthesized the planar chiral pillar[5]arenes by the
+diastereomer method (Figure 15b).142 First, bulky monosubstituted phenyl rings with chiral resolving agent were introduced
+at the A1/A2 positions of pillar[5]arene. The compounds
+114[5] are diastereomers; thus, the two diastereomers can be
+easily separated by silica gel chromatography. Removal of the
+resolving agent afforded 60[5] enantiomers in the a and a′ forms.
+Introduction of chiral substituents is another pathway to
+induce the planar chirality. We synthesized pillar[5]arene with 10
+2(S)-methylbutoxy groups 8[5] (Figure 21).55
+The diastereomeric excess (de%) of 8[5] was changed by
+solvent, temperature, and inclusion of a guest molecule. The
+dynamic planar chirality change will be applied in chiral
+molecular recognition and as catalysts (Figure 16).
+Enantiomers a and a′ have been successfully isolated, but the
+isolation of the other enantiomers has not been accomplished.
+The inhibition of units of pillar[6]arenes has not been achieved,
+and thus remains another challenging topic. We synthesized
+pillar[6]arene with 12 cyclohexylmethyl groups 7[6] to inhibit
+the rotation of the pillar[6]arene units (Figure 17).139
+However, rotation of the units occurred even after the
+introduction of 12 bulky cyclohexylmethyl groups because the
+cavity size of pillar[6]arene is larger than that of pillar[5]arene.
+Introduction of more bulky substituents would therefore be
+necessary to stop the rotation of the units. The other method to
+stop the rotation of the units was bridging the even number of
+benzene rings in pillar[6]arenes.139 The most stable conformer
+of per-hydroxylated pillar[6]arene 8[6] is the g, meso-form C3vsymmetric structure, as determined by X-ray crystal analysis of
+8[6] (Figure 11).73 The meso-form pillar[6]arenes were fixed by
+bridging units by reaction of adjacent phenolic units of
+pillar[6]arene with dialkyldichlorosilanes (Figure 17b, 21[6]
+and 22[6]). The bridged pillar[6]arene cavitands are conformationally fixed macrocyclic compounds, and thus should have
+superior host−guest ability as compared to conformationally
+flexible pillar[6]arenes.
+
+
+4.3. Assembled Structure of Pillar[n]arenes
+Pillar[n]arenes exhibit highly symmetrical structures. Therefore,
+clarification of the assembled structures of pillar[n]arene
+molecules in the crystal state is an interesting topic, and will
+result in the solid-state complexation with guests. Pillar[n]arenes
+mainly form three assembled structures in the crystal state: herringbone, one-dimensional channels, and slipped-stacked
+structures. The ring size, substituents on the pillar[n]arene rims,
+and type of solvent to produce pillar[n]arene crystals dominate
+the assembled structures of pillar[n]arenes.
+Single crystals of per-methylated pillar[5]arene 1[5], which is
+the first pillar[n]arene derivative, were produced by slow
+evaporation of its acetonitrile solution. In the crystal structure,
+one acetonitrile molecule was incorporated in the cavity of
+pillar[5]arene. The complexes were arranged perpendicular to
+each other, in a herringbone structure (Figure 18a).33
+The one-dimensional channel structure constructed by the
+assembly of pillar[5]arenes was first reported by Hou and coworkers.143 Pillar[5]arene with 10 ester moieties 44[5] formed
+one-dimensional channels by crystallization from a mixture of
+ethylene glycol and chloroform (Figure 18b). Water molecules
+were arranged in one-dimensional channels. The slipped-stacked
+structure was observed in the crystal of per-hydroxylated
+pillar[5]arene 12[5] (Figure 18c). 12[5] formed rigid structures
+due to the intramolecular hydrogen bonds between adjacent
+units.53 However, because of the odd number of benzene rings,
+the decanol cannot form perfect intramolecular hydrogen bonds.
+Therefore, the decanol forms intermolecular hydrogen bonds,
+which should cause the slipped-stacked structure of 12[5].
+Our group found that per-ethylated pillar[5]arene 2[5]
+formed two assembled structures depending on the solvents
+for crystallization (Figure 19a).144
+By crystallization of 2[5] from acetone, their assembled
+structure was the herringbone structure. In contrast, onedimensional channels were constructed by crystallization of
+2[5] from chloroform under hexane vapor. The type of solvent
+included in the cavity of pillar[5]arenes determined the
+assembled structure of 2[5]. Danylyuk and Sashuk reported
+hydrogen-bonded polymeric chains of pillar[5]arene with 10
+carboxylic acid groups 45[5] (Figure 19b).145 Slipped-stacked
+structures were observed by crystallization of the 10 carboxylic
+acids 45[5] by a 1:1 water−ethanol mixture, but they assembled
+into one-dimensional channels by crystallization of 45[5] with
+the guest tetracaine hydrochloride. The inclusion of the guest
+molecules also changed their assembled structure.
+
+
+
+Pillar[n]arene crystal structures can be categorized into three
+assembled structures, herringbone, one-dimensional channels,
+and slipped-stacked structures, while various pillar[5]arene
+crystal structures have been reported. Herringbone assemblies
+were observed in per-methylated pillar[5]arenes with one
+benzoquinone unit 19[5] crystallized from isopropyl ether,69
+one hydroquinone unit 25[5] crystallized from dichloromethane,87 per-ethylated pillar[5]arene 2[5]⊃4-dichlorobutane
+complex crystallized from dichloromethane,146 and per-methylated pillar[5]arene 1[5]⊃1,6-dibromohexane complex.146 Perpropylated pillar[5]arene 3[5] crystallized from a mixture of
+dichloromethane and acetonitrile,136 pillar[5]arene with 10
+triflate moieties 52[5] crystallized from 1,2-dichloroethane,147
+pillar[5]arene with one benzoquinone unit 20[5] crystallized
+from methanol,68 pillar[5]arene containing one triphenyl unit
+60[5] crystallized from DMF under methanol vapor,87 nonsymmetric pillar[5]arene isomers consisting of nonsymmetric
+dialkoxybenzene monomer with methoxy and butoxy moieties 10[5],131 and nonsymmetric amphiphilic pillar[5]arene
+113a[5] crystallized from a mixture of dichloromethane and
+methanol134 assembled into one-dimensional channels. Examples of slipped-stacked structures constructed from the assembly
+of pillar[5]arene molecules were per-pentylated pillar[5]arene
+5[5] crystallized from acetone,54 per-isobutylated pillar[5]arene
+9[5] crystallized from a mixture of dichloromethane and
+acetonitrile,135 pillar[5]arenes with two benzoquinones (22[5]
+and 24[5]) from a mixture of dichloromethane and acetonitrile,148 and pillar[5]arene with 10 ethylene oxide 50[5]
+⊃paraquat complex from a mixture of isopropyl ether and
+acetonitrile.149
+Assembled structures of pillar[6]arenes are more regular than
+those of pillar[5]arenes because pillar[6]arenes are highly
+symmetric hexagonal molecules. Huang and co-workers obtained
+single crystals of pillar[5]- and pillar[6]arenes with 10 and 12
+diisobutyl moieties (9[5] and 3[6], Figure 20a and b).135
+In the case of the pillar[5]arene 9[5], they assembled into
+slipped-stacked structures. Considering that pillar[5]arene with
+linear propyl groups 3[5] formed one-dimensional channels,136
+the branched substituents, such as diisobutyl moieties of the
+pillar[5]arene rims, should disturb the one-dimensional channel
+assemblies. In contrast, one-dimensional channels formed by the
+assembly of pillar[6]arene with 12 diisobutyl moieties 3[6]. The
+hexagonal structure of pillar[6]arene should enable ordering of
+their assembled structure even though the pillar[6]arene has
+bulky 12 diisobutyl groups. One-dimensional channel assemblies
+were also observed in per-propylated pillar[6]arene 2[6]
+crystallized from a mixture of dichloromethane and acetonitrile,136 per-hydroxylated pillar[6]arene 8[6] and its complex
+with paraquat,73 and pillar[6]arene with 12 ethylene oxide
+groups 14[6]⊃diquat complex crystallized from a mixture of
+isopropyl ether and acetonitrile.96 As the exception, the
+assembled structure of pillar[6]arene with one benzoquinone
+unit 10[6] formed a slipped-stacked structure by crystallization
+from a mixture of petroleum ether and ethyl acetate (Figure
+20c).150 A possible reason for this observation is either reduction
+of the symmetry of pillar[6]arene by incorporation of one
+benzoquinone unit, or intermolecular formation of a chargetransfer complex between benzoquinone and 1,4-dialkoxybenzene units
+
+
+5. HOST PROPERTY OF PILLAR[n]ARENES
+A variety of interactions can be used to form stable host−guest
+complexes. Coordination interactions between unpaired electrons and empty electron orbitals, electrostatic interactions
+between cationic and anionic groups, and charge-transfer (CT)
+interactions between electron donors and acceptors are all
+classified in terms of the strength of the physical interactions. In
+contrast, van der Waals, π/π, and hydrogen-bonding interactions,
+including OH/O, NH/O, CH/O, OH/N, NH/N, CH/N, CH/
+π, NH/π, and OH/π interactions, are characterized as weak
+physical interactions when they occur in isolation. However,
+multiple versions of these weak physical interactions can
+effectively enhance host−guest complexation processes in
+some cases. All of the physical interactions listed above can
+play a role in the host−guest complexation of pillar[n]arenes
+because a variety of functional groups can be installed on the rim
+of pillar[n]arenes to provide suitable interaction sites for a variety
+of guests. In this section, we will discuss the host−guest
+complexation process between pillar[n]arenes and guests using
+various physical interactions.40,43
+5.1. Complexation by Charge-Transfer Interactions
+Pillar[n]arenes are composed of electron-donating dialkoxybenzene units and can consequently form host−guest complexes
+with electron-accepting molecules. With this in mind, our group
+initially investigated these host−guest complexation processes as
+CT interactions.33 To enhance the electron-donating ability of
+the host molecule, we used pillar[5]arene bearing a series of 5
+hydroquinone units 12[5] (Figure 21 and Table 2). Viologen G1 and pyridinium salt G2 were selected as suitable
+electron-acceptor guest molecules. The color of the solution
+changed from colorless to yellow during the mixing of G1 and
+12[5], indicating the formation of a CT complex. In contrast, the
+mixing of G2 and 12[5] did not lead to any significant color
+changes. The lack of a color change in the latter of these two cases
+was attributed to the pyridinium salt G2 being a weaker electron
+acceptor than the viologen salt G1. The association constant of
+the pyridinium salt G2 with 12[5] (run 2), which was
+determined by fluorescence measurements, was 10 times smaller
+than that of the viologen salt G1 with 12[5] (run 1). The host
+compound 12[5] did not form a host−guest complex with a
+viologen salt bearing bulky adamantyl moieties G3 (run 3)
+because the adamantyl groups were too bulky to fit into the
+pillar[5]arene cavity. Li and co-workers investigated host−guest
+complexation abilities of various pyridinium and viologen salts
+with the per-hydroxylated pillar[5]arene 12[5] by UV−vis and
+1H NMR spectroscopy.151 In a manner similar to our own results,
+the UV−vis spectra of mixtures of the different viologen salts
+with 12[5] showed a CT band (about 450 nm), whereas
+mixtures that contained dipyridinium guests did not afford a CT
+band. The authors of this study also investigated the host−guest
+abilities of a series of linear alkyl chains bearing pyridinium
+moieties at both ends of the chain (runs 4−8, G4−G8) by 1H
+NMR spectroscopy. Compound G6 (run 6), which consisted of a
+C4 alkyl chain with pyridinium moieties at either end of the
+chain, formed the most stable host−guest complex with 12[5] of
+all of the compounds tested because the length of the C4 alkyl
+chain provided the best fit to the height of the pillar[5]arene
+cavity. Typical imidazolium ionic liquids are also good guests for
+12[5] because of the electron-accepting nature of imidazolium
+cations.152 1-Hexyl-3-methylimidazoliums with Br− G9 and BF4−
+G10 anions both formed 1:2 host−guest complexes with 12[5]
+through a series of CT interactions (runs 9 and 10).
+The per-hydroxylated pillar[6]arene 8[6] may also form
+host−guest complexes with electron-acceptor systems. Huang et
+al. reported that 8[6] formed host−guest complexes with
+viologen and pyridinium derivatives.73 However, the binding
+ability of 8[6] toward these electron-accepting guests was weaker
+than that of the per-hydroxylated pillar[5]arene 12[5] because
+the cavity size of the former was too large to from stable host−
+guest complexes with these guest molecules. The association
+constant for the 8[6]⊃viologen salt G11 complex (run 11) was
+determined to be (2.2 ± 0.3) × 102 M−1 based on the results of
+1H NMR titration in acetone-d6. Notably, this result was almost
+100 times lower than that of the 12[5]⊃viologen salt G1
+complex (run 1), which was determined by fluorescence
+measurements. An X-ray crystal structure of the 8[6]⊃G11
+complex is shown in Figure 21b. The viologen moiety of G11 was
+found to be in the cavity of 8[6]. Furthermore, the complex was
+stabilized by hydrogen bonding and edge-to-face π-stacking
+interactions between the host and the guest.
+
+
+
+Per-alkylated pillar[n]arenes may also form host−guest
+complexes through CT interactions because the constituent
+1,4-dialkoxybenzene units also exhibit electron-donating properties (Figure 22 and Table 3).
+The addition of the electron-acceptor tetracyanoethylene
+(G12, TCNE) to per-ethylated pillar[5]arene 2[5] in chloroform changed the solution from colorless to dark green,
+indicating the occurrence of a CT complexation process between
+G12 and 2[5].102 The association constant (K) of the 1:1
+2[5]⊃G12 complex was determined by UV−vis measurements
+to be 62 ± 10 M−1 (run 12). Li et al. reported the formation of a
+CT complex between the tropylium cation G13 and the perethylated pillar[6]arene 1[6].153 A 1:1 mixture of G13 and 1[6]
+afforded a CT band (run 14), whereas no CT band was observed
+for 1:1 mixtures of G13 with per-ethylated pillar[5]arene 2[5]
+(run 13) or pillar[7]arene 1[7] (run 15). The lack of a CT band
+in the latter of these two cases was attributed to G13 being too
+big and small to fit inside the cavities of pillar[5]- and
+pillar[7]arenes, respectively.
+Per-functionalized pillar[5]- and pillar[6]arenes also form
+host−guest complexes through CT interactions. Huang and coworkers reported the formation of a host−guest complex using a
+pillar[5]arene bearing 10 ethylene oxide substituents 50[5].149
+Mixing viologen salt G11 with 50[5] (run 16) resulted in a
+change in the color of the solution from colorless to yellow, indicating the occurrence of a CT complexation process between
+G11 and 50[5]. The association constant (K) of the complex was
+determined by isothermal calorimetry (ITC) experiments to be
+(3.35 ± 0.22) × 104 M−1, which was much larger than that of the
+complex formed between G11 and the per-hydroxylated
+pillar[6]arene 8[6] (run 11).73 The X-ray crystal structure of
+this host−guest complex revealed that G11 was positioned inside
+the cavity of 50[5] (Figure 22b). The complex was stabilized by
+multiple interactions, including CH/O, CH/π interactions, and
+face-to-face π-stacking interactions between the host and guest.
+For the host−guest complex between G11 and the perhydroxylated pillar[6]arene 8[6], the viologen salt G11 was
+stabilized by edge-to-face π-stacking interactions (Figure 21b).
+These results therefore indicated that the viologen salt G11 was a
+much better fit for the cavity of pillar[5]arene 50[5] than it was
+for the cavity of pillar[6]arene 8[6]. The vinylogous viologen salt
+G14 (run 17) and the bis-pyridinium guest G15 bearing a rigid π-
+conjugated structure (run 18) also formed stable CT host−guest
+complexes with 50[5] with associated constants (K) in the range
+of 103−104 M−1.154,155 Huang and co-workers also reported the
+formation of CT host−guest complex between diquit G16 and
+pillar[6]arene 14[6] bearing 12 ethylene oxide chains (run 19).96
+The mixing of G16 with pillar[6]arene 14[6] led to a dramatic
+change in the color of the solution, whereas the mixing of G16
+and pillar[5]arene 50[5] did not induce a color change. These
+results therefore indicate that pillar[6]arene 14[6] formed a
+stable host−guest complex with G16, whereas pillar[5]arene
+50[5] did not.
+
+
+5.2. Complexation by Cation/π Interactions
+Cation/π interactions are defined as physical interactions
+between an electron-rich π-electron system and a cation.
+Pillar[n]arenes are composed of 1,4-dialkoxybenzene units and
+can therefore form cation/π interactions with suitable cationic
+molecules to give the corresponding host−guest complexes.
+Huang and co-workers first investigated the formation of cation/
+π interactions between per-alkylated pillar[5]arene and
+ammonium cations as guest molecules (Figure 23 and Table 4).
+The quaternary ammonium salt, octatrimethylammonium
+hexafluorophosphate G17, has been included in per-alkylated
+pillar[5]arenes.81 The results revealed that the nature of the
+substituents on the rim of the pillar[5]arene had a pronounced
+impact on the host−guest ability. Pillar[5]arene 4[5] bearing 10
+butyl substituents formed a stable host−guest complex with G17
+[run 20, K = (4.1 ± 0.4) × 103 M−1], which was larger than those
+of the complexes formed between pillar[5]arenes 8[5] and 11[5]
+bearing 10 (S)-methylbutyl55 (run 21) and 10 cyclohexylmethyl
+groups (run 22),91 respectively. The introduction of steric
+hindrance around the rim of the pillar[5]arene would lead to a
+decrease in the stability of the host−guest complex by
+attenuating the cationic/π interactions. The per-isobutylated
+pillar[6]arene 3[6] formed a host−guest complex with noctatriethylammonium hexafluorophosphate G18 (run 24),
+whereas the per-isobutylated pillar[5]arene 9[5] did not (run
+23).135 The triethylammonium moiety, which is much bulkier
+than the trimethylammonium moiety, was a much better fit for
+the cavity of the pillar[6]arene host. However, this group was too
+big to fit into the cavity of the pillar[5]arene host. Cations
+containing bulky hydrocarbon groups such as adamantyl G20
+(run 26) and DABCO cations G19 (run 25) are good guest
+molecules for per-alkylated pillar[6]arenes.78,156 Pillar[5]- and
+pillar[6]arenes also form host−guest complexes with secondary
+ammonium cations. Huang and co-workers reported the
+complexation of per-methylated pillar[5]arene 1[5] with noctylethylammonium G21 bearing a hexafluorophosphate anion
+(run 27).157 Figure 23b shows the X-ray crystal structure of the
+resulting complex, which revealed that the secondary ammonium
+moiety of the guest was located in a cavity composed of five 1,4-
+dimethoxybenzene units. Three NH/π interactions were
+observed between the host and guest. The nature of the
+counteranion had a pronounced impact on the complexation
+ability of the ammonium cation. For example, changing the anion
+from PF6− to Cl− resulted in very little complexation. The Cl−
+anion is smaller than the PF6− anion and can therefore form a
+stronger ion pair with the n-octylethylammonium cation in
+chloroform, which would lead to a decrease in the ability of this
+cation to form cation/π interactions. In contrast, the PF6− anion
+forms a much looser ion pair with the n-octylethylammonium
+cation in chloroform, which makes it much easier for the cation
+to form cation/π interactions. Secondary ammonium cations
+bearing weakly coordinating counter-anions can therefore form
+highly stable host−guest complexes with per-ethylated pillar[5]-
+and pillar[6]arenes because weakly coordinating anions
+effectively afford free “naked” secondary ammonium cations. Li
+et al. reported that pillar[5]arene formed a very stable host−
+guest complex with the secondary ammonium cation G23 containing a linear butyl chain with a tetrakis[3,5-bis-
+(trifluoromethyl)phenyl] borate (BArF−) anion (run 29, K >
+104 M−1).156 Notably, this result was almost 5000 times larger
+than that of the complex formed with the corresponding PF6−
+salt G22 (run 28). The association constant (K) for the
+complexation of pillar[6]arene 1[6] with the secondary
+ammonium cation G20 containing a bulky adamantyl moiety
+with a BArF− anion was also high (run 26, K = 3.4 × 103 M−1),
+whereas very little complex was formed with the corresponding
+PF6− salt.
+
+
+5.3. Complexation by Hydrophobic/Hydrophilic
+Interactions
+Hydrophobic/hydrophilic interactions mean the aggregation of
+nonpolar molecules in polar solvents such as water. The cavity of
+pillar[n]arenes is hydrophobic because it is composed of
+hydrophobic benzene moieties. The introduction of hydrophilic
+substituents such as cationic, anionic, or nonionic moieties to the
+rims of the pillar[n]arenes makes them much more soluble in
+water. Hydrophobic guests in aqueous media therefore are
+encapsulated in the hydrophobic cavity of pillar[n]arenes to
+escape the hydrophilic environment. The first water-soluble
+pillar[5]arene to be reported in the literature was synthesized by
+our group as pillar[5]arene 46[5] bearing 10 carboxylate
+moieties (Figure 24 and Table 5).88
+Pillar[n]arenes 46[5] captured paraquat G24 with a high
+association constant [run 30, K = (8.2 ± 1.7) × 104 M−1], which
+was determined by fluorescence measurements. It is noteworthy
+that this association constant was almost 70 times higher than
+that of the complex formed between paraquat and perhydroxylated pillar[5]arene 12[5] in methanol (Table 2, run
+1).33 Cooperative physical bond interactions, including hydrophobic/hydrophilic, π−π, and multiple electrostatic interactions
+between the anionic carboxylate moieties on the pillar[5]arene
+rims and the cationic paraquat guest, contributed to the high
+binding affinity of this host−guest complex. Li and co-workers
+investigated the nature of these host−guest interactions using the
+water-soluble pillar[5]arene 46[5].158 The results revealed that
+the 1,4-bis(pyridinium)butane derivatives G25−G28 were good
+guests for the water-soluble pillar[5]arene 46[5] (runs 31−34, K
+> 104 M−1) because the length of the hydrophobic C4 linker was
+a good fit to the pillar[5]arene cavity, and the pyridinium cation
+of the guest formed multiple electrostatic interactions with the
+carboxylate anions on both rims of the host. Water-soluble
+pillar[5]arene 46[5] selectively encapsulated arginine (G29),
+lysine (G30), and histidine (G31) from a mixture of 20 basic
+amino acids (runs 35−37).159 It is noteworthy that all three of
+these amino acids had two or more basic N-containing groups,
+whereas all of the other amino acids contain only one such group.
+This result therefore demonstrates that the formation of multiple
+electrostatic interactions between the carboxylate anions of the
+host and the basic cations of these amino acids made a
+considerable contribution to their selective and strong binding as
+compared to the other amino acids.
+Huang and co-workers synthesized the water-soluble pillar[6]-
+arene 13[6] by the introduction of 12 carboxylate anions and subsequently investigated its host−guest ability.160 The results
+revealed that 13[6] formed highly stable host−guest complexes
+with paraquat [run 38, G24, K = (1.02 ± 0.10) × 108 M−1]161 and
+the pyridinium salts G32 and G33 (runs 39 and 40, K > 105
+M−1).160,162−164 Pillar[6]arene 13[6] showed a higher guest
+binding ability in aqueous media as compared to water-soluble
+pillar[5]arene 46[5].88
+Huang and co-workers also reported the preparation of watersoluble cationic pillar[5]arene 65[5] bearing 10 trimethylammonium bromide moieties (Figure 25).104
+Pillar[5]arene 65[5] possesses cationic substituents and can
+therefore form strong host−guest complexes with anionic
+molecules bearing hydrophilic moieties. The anionic guest
+molecule sodium 1-octanesulfonate (G34) was strongly
+encapsulated in the hydrophobic cavity of 65[5] [run 41, K =
+(1.33 ± 0.94) × 104 M−1] because the resulting complex was
+stabilized by hydrophobic and electrostatic interactions.
+Pillar[5]arene 65[5] also encapsulated several neutral molecules
+(runs 42−44, G35−G37) and monosubstituted benzene
+systems (runs 45−47, G38−G40), but their association
+constants were determined to be in the range of 20−500 M−1,
+and therefore lower than that of the complex formed between
+G34 and 65[5] (run 41).165 The main driving force for the
+formation of the host−guest complexes between the neutral and
+monosubstituted benzene guests and 65[5] was hydrophobic/
+hydrophilic interactions with no electrostatic interactions. These
+results therefore indicate that the formation of electrostatic
+interactions is important to stabilize the complexation. Li and coworkers synthesized pillar[6]arene 18[6] bearing 12 pyridinium
+cations.101 In this case, anionic naphthalene derivatives bearing
+sulfonate groups (runs 48 and 49, G41 and G42) were
+determined to be good guests. Hou and co-workers reported
+the water-soluble neutral pillar[5]arene 49[5] bearing 10 amino
+moieties (Figure 26).89
+Pillar[5]arene 49[5] also formed stable host−guest complexes
+with long-chain linear diacids (n ≥ 10), but not with shorter
+diacids (n = 8 and 9). This trend indicated that the hydrophobic
+interaction of the chain with the host was playing an important
+role in the complexation process in addition to the electrostatic
+interaction between the carboxylic acid moieties of the guest and
+the amino moieties on the pillar[5]arene rims.
+
+
+5.4. Complexation by Cationic/Anionic Interactions
+Pillar[n]arenes bearing ionic moieties on all of their substituents
+are water-soluble, and their complexation with a variety of
+different guest molecules has consequently been investigated in
+aqueous media. When oppositely charged ionic molecules were
+evaluated as guest molecules for host systems of this type,
+cationic/anionic electrostatic interactions made a significant
+contribution to the stabilization of the resulting complexes.
+However, the complexation abilities of these systems through
+electrostatic interactions were more pronounced in nonpolar
+solvents than they were in polar solvents because the dissociation
+of the ionic interaction was suppressed considerably in nonpolar
+solvents. Yu et al. reported the formation of complexes between
+alkyldiamines and pillar[5]arene 57[5] bearing dicarboxylic acid
+moieties at its A1/A2 positions (Figure 27 and Table 6).98
+These complexes were quite stable (runs 50−55, K = 105 M−1)
+in a 1:1 (v/v) mixture of chloroform and methanol. Figure 27b
+shows the X-ray crystal structure of the 57[5]⊃pentyldiamine
+G43 complex. This result showed that the ammonium groups at
+both ends of the guest pointed toward the carboxylate anion to
+form electrostatic interactions. Furthermore, the pentyl chain of the guest was located inside the cavity, where it formed multiple
+CH/π interactions to stabilize the complexation process. Diacid
+57[5] also formed stable host−guest complexes with benzene
+moieties bearing para-substituted amino groups such as pxylylenediamine (run 56, G49) and p-phenylenediamine (run 57,
+G50).166 Xue et al. reported the formation of a stable host−guest
+complex between pillar[5]arene 115[5] bearing one carboxylic
+acid group and linear alkane G51 bearing a single amino group at
+one end of its chain.167 The association constant of this complex
+was determined to be (1.52 ± 0.075) × 104 M−1 (run 58), which
+was higher than that of the complexes formed between peralkylated pillar[5]arenes and linear alkylamines. The electrostatic
+interactions formed between the carboxylate anion and
+ammonium cation of the host and guest molecules, respectively,
+in organic solvents made a considerable contribution to the
+stabilization of this complex.
+
+
+5.5. Complexation by Hydrogen-Bond Interactions
+In 2011, IUPAC defined hydrogen-bond interactions as follows:
+the hydrogen bond is an attractive interaction between a
+hydrogen atom from a molecule or a molecular fragment X−H in
+which X is more electronegative than H, and an atom or a group
+of atoms in the same or a different molecule, in which there is
+evidence of bond formation.168 In the broadest possible sense,
+CH/π interactions may be defined as the weakest possible
+hydrogen bond. Huang and co-workers reported the existence of
+CH/π hydrogen-bonding interactions between n-hexane and
+per-butylated pillar[5]arene 4[5] by X-ray crystallography
+(Figure 28a).81 The important pillar[5]arene/alkyl chain
+recognition motif first established by them has been widely
+used in pillar[n]arene supramolecular chemistry.
+The inclusion of an n-hexane molecule in the cavity of 4[5] has
+also been observed. Four of the hydrogen atoms of the n-hexane
+molecule were less than 3.05 Å away from the π-plane of the
+pillar[5]arene, therefore indicating the existence CH/π interactions. We found that pillar[5]arenes showed good alkaneshape selectivity (Figure 28b).119 Pillar[5]arenes formed host−
+guest complexes with linear hydrocarbons, but did not form
+complexes with branched- or cyclic-shaped hydrocarbons. Li et
+al. investigated the complexation of linear hydrocarbons with
+pillar[5]arenes.169 The complexation ability of pillar[5]arene
+with linear alkane such as n-octane (G54) was very weak (run 61,
+K < 2 M−1), and much lower than those of 1,7-octadiyne (run 59,
+G52) and 1,7-octadiene (run 60, G53) (Figure 29 and Table 7).
+Stoddart and co-workers investigated the neutral guest
+recognition ability of pillar[5]arene using 1,8-diaminooctane
+(G46) and n-octylamine (G55) as guests.82 The association
+constant between G46 and the per-methylated pillar[5]arene
+1[5] was determined to be 70 ± 10 M−1 (run 62) by 1H NMR
+spectroscopy, which was 3 times higher than the association
+constant between n-octylamine (G55) and per-methylated
+pillar[5]arene 1[5] (run 63, K = 20 ± 2 M−1). These results
+therefore indicated that the terminal groups of the linear alkanes
+were contributing to the stabilization of the complexation
+process. Li and co-workers reported that simple per-alkylated
+pillar[5]arenes can form stable host−guest complexes with the
+neutral 1-substituted 1,3-imidazole guest G57.170 A butyl linker
+bearing two imidazole groups formed the most stable host−guest
+complex with pillar[5]arene [run 65, K = (2.0 ± 0.4) × 104 M−1]
+of all of the alkane linkers tested bearing 1,3-imidazoles groups at
+either end of the chain. The complexation of 1,4-butylene guests
+substituted with nitrogen heterocycles with pillar[5]arenes was
+also investigated by Li and co-workers.171 Nitrogen heterocycles
+containing outer N atoms such as 1-substituted 1,2,3-triazole
+G58 and 1,2,4-triazole G60 were good guests for pillar[5]arenes
+(runs 66 and 68), whereas heterocycles without an outer N atom
+such as 1,2-imidazole G56 and 1,2,5-triazole G59 were not (runs
+64 and 67). Figure 30a shows the X-ray crystal structure of the
+per-ethylated pillar[5]arene 2[5]⊃G57 complex.
+
+
+
+In addition to CH/π and CH/O hydrogen-bonding
+interactions, several CH/N hydrogen bonds were observed between the ethyl substituents on the rims of the pillar[5]arene
+and the outer N-3 atom of the guest. The CH/N hydrogen
+bonds, in particular, played an important role in the stabilization
+of the complex. Li and co-workers also reported the formation of
+highly effective binding interactions between neutral dinitriles
+and simple per-alkylated pillar[5]arenes.172 The association
+ability in these cases was found to be largely dependent on the
+length of the alkyl chain between the two nitrile groups. Dinitrile
+G62 with a C4 linker was the best fit of all of the dinitriles tested
+for the cavity of per-ethylated pillar[5]arene [run 70, K = (1.5 ±
+0.3) × 104 M−1] in terms of its length. Figure 30b shows the
+crystal structure of the per-ethylated pillar[5]arene⊃1,4-
+dicyanobutane G62 complex. This structure revealed that 1,4-
+dicyanobutane was located inside of the pillar[5]arene cavity, and
+the guest formed multiple CH/π interactions with the host, as
+well as several CH/O and CH/N interactions. These multiple
+weak hydrogen-bonding interactions made a considerable
+contribution to the stabilization of the complex. Butylene linkers
+bearing two electron-withdrawing groups are good guests for
+pillar[5]arenes. With this in mind, Li et al. investigated the
+complexation of per-alkylated pillar[5]arenes with 1,4-dihalobutanes.146 The results revealed that the association constants
+increased in the order of F < Cl < Br < I (runs 72−75), indicating
+that the main driving force for the complexation of these guests
+was the dispersion force, which is dependent on the movement of
+electrons to produce temporary dipoles. Figure 30c shows the
+crystal structure of the per-ethylated pillar[5]arene 2[5]⊃1,4-
+dichlorobutane G65 complex. The structure revealed the
+presence of several CH/π and CH/O hydrogen bonds, as well
+as a series of CH/Cl hydrogen bonds, which resulted in the
+stabilization of the complex.
+Li et al. reported the regioselective host−guest complexation
+of the nonsymmetric pillar[5]arene 116[5] bearing methyl and
+pentyl substituents on its rims with the nonsymmetric butylene
+guest G68 bearing cyano and bromide groups at either end of its
+chain (Figure 31).173
+The association constant of the complex formed between the
+nonsymmetric guest G68 and the nonsymmetric pillar[5]arene
+116[5] was (8.4 ± 0.6) × 104 M−1 (run 78), which is around 5
+times higher than those obtained for the symmetric pillar[5]-
+arenes 1[5] and 5[5] bearing methyl and n-pentyl substituents
+on their rims (runs 76 and 77), respectively. Taken together,
+these results indicated that the binding to the pillar[5]arenes
+occurring in a regioselective manner. Figure 31a shows the X-ray
+crystal structure of the complex formed between the nonsymmetric guest G68 and the nonsymmetric pillar[5]arene
+116[5]. The structure showed that the CN side of the guest was
+positioned in close proximity to the methyl rim of the
+pillar[5]arene, while the pentyl rim exhibited a preference for
+the Br side. Five CH/O, seven CH/π, and several CH/N
+hydrogen-bonding interactions accounted for the observed
+regioselectivity (Figure 31b).
+
+
+5.6. Pillar[n]arene-Based Stimuli-Responsive Host−Guest
+Complexation/Decomplexation Systems
+Stimuli-responsive host−guest complexation systems are very
+useful because they can be used as switches to control
+supramolecular assemblies. The stimuli-induced switching of
+the electronic distribution properties of guests is a useful strategy
+for inducing complexation/decomplexation processes, because
+electrostatic effects are very important factors for determining
+the strength of host−guest interactions. Li et al. reported the
+development of a stimuli-responsive host−guest system using
+acid−base stimulus (Figure 32a).174
+Alternating the addition of acid and base allowed for the
+switching of the complexation/decomplexation of the host−
+guest complex formed between pillar[5]arene 12[5] and 1,4-
+bis(imidazolium)butane G69. Pillar[5]arene formed a host−
+guest complex with the protonated state of the 1,4-bis-
+(imidazolium) dication, because of the formation of an activecation/π interaction between the 1,4-bis(imidazolium)dication
+and pillar[5]arene. The addition of a suitable base led to the
+deprotonation of the guest, which subsequently triggered the
+dethreading of the guest from the pillar[5]arene cavity. Li et al.
+also reported the development of a pH-responsive molecular
+switch based on the same concept using pillar[6]arene as a host
+and a bis(1,2,3-triazolium)butane cation as the guest.175 Silver(I)
+ions can form a complex with imidazolinium cations, and the
+addition of Ag+ to host−guest complexes based on imidazolinium cations can also lead to the dissociation of these
+complex.176
+We reported that the time scale for the photoresponsive
+transformations involved in the complexation/decomplexation
+of host−guest complexes extended from seconds to hours
+(Figure 32b).177 We synthesized the axle-type system G70
+bearing a bulky adamantyl stopper at one end of the axle and a
+photoresponsive azobenzene group at the other. The exchange
+rate between the complexation/decomplexation of the complex
+formed between trans-G70 and 12[5] was quite fast with a halflife of 3.33 ± 0.21 s. In contrast, the exchange rate of the complex
+formed between cis-G70 and 12[5] was much slower with a halflife of 9.13 ± 1.2 h, which allowed the process to be readily
+monitored. The photoinduced isomerization of G70 from its
+trans form to its cis form led to an increase in the free energy of
+activation, which in turn led to the observed photoresponsive
+time-scale transformation.
+The photoresponsive host−guest complexation of an
+azobenzene guest with a pillar[6]arene host was investigated
+by Huang and co-workers (Figure 33a).136
+The simple per-propylated pillar[6]arene 2[6] strongly
+encapsulated the trans-form of the azobenzene guest G71 [K =
+(2.22 ± 0.34) × 103 M−1]. In contrast, the binding affinity of 2[6]
+to the corresponding cis-form of the azobenzene guest was much
+less pronounced [K = (2.64 ± 0.29) × 102 M−1]. This difference
+in the association constants of these complexes could be used as a
+photoinduced switching mechanism for supramolecular assemblies constructed from these host−guest complexes. Photoresponsive complexation systems in organic media using
+azobenzene guests and pillar[6]arene hosts have been expanded
+to aqueous media.97
+Lin and co-workers constructed a photoresponsive host−guest
+system using photoresponsive carbamate derivatives (Figure
+33b).178 The association constant for the complex formed
+between the axle-type compound G72 bearing a photoresponsive ortho-nitrobenzene group at one end and an
+unsubstituted benzyl group at the other and the per-ethylated
+pillar[5]arene 2[5] was determined to be (8.56 ± 0.05) × 102
+M−1. The photoirradiation of this system led to the precipitation
+of a photocleavage product, which appeared as a consequence of
+the poor solubility of the photocleavage product in the medium.
+Wang and co-workers reported the development of a redoxresponsive host−guest complexation system (Figure 33c).179 In
+this case, the simple per-butylated pillar[6]arene 4[6] formed a
+strong host−guest complex with the oxidized form of the
+ferrocenium cation G73, while the reduced form of the ferrocene
+formed much weaker host−guest complexes with pillar[6]arene
+4[6]. The redox reaction of ferrocene is completely reversible;
+thus the redox-responsive complexation can be used as a
+switching mechanism for the complexation/decomplexation of
+these systems.
+
+
+5.7. Application of Pillar[n]arene-Based Host−Guest
+Systems
+Pillar[5]arenes form host−guest complexes with linear hydrocarbons but not with branched or cyclic hydrocarbons. On the
+basis of the alkane-shape selectivity of these systems, we reported
+the shape-selective oxidation of alkenes using pillar[5]arene as a
+catalyst (Figure 34a).105
+The amphiphilic pillar[5]arene 66[5] bearing 10 tetra-alkyl
+phosphonium cations was found to be soluble in aqueous and
+organic media depending on the nature of the counteranions.
+Counter anion exchange from Br− to MnO4− led to the phasetransfer of the pillar[5]arene from the aqueous to the chloroform
+phase. In the organic phase, the MnO4− anions can react with the
+alkene molecules. At this stage, 1-hexene was fixed in close enough proximity to the MnO4− anions to allow for its efficient
+oxidation because of the host−guest complexation between
+pillar[5]arene and 1-hexene. The oxidation reaction of 1-hexene
+proceeded completely (conversion >99%). In contrast, the
+oxidation of the branched alkene 4-methyl-1-hexene was low
+conversion (conversion 31%) because of the inability of the
+branched structure to form complexes with pillar[5]arene.
+Cohen and co-workers investigated application of watersoluble pillar[5]arene 46[5] for 129X NMR biosensors (Figure
+34b).180 Xenon is hydrophobic, and thus has low solubility in
+water. However, encapsulation of xenon into the cavity of watersoluble pillar[5]arene contributed to solubilization of xenon in
+aqueous media. The NMR chemical shift of xenon is highly
+sensitive to the microenvironment. A downfield shift of peak
+from xenon was observed by addition of hydrophobic n-hexane,
+indicating inclusion of n-hexane into the pillar[5]arene cavity
+changed the microenvironment around xenon in the cavity of
+pillar[5]arene.
+Yu et al. reported the complexation of acetylcholine G74 with
+the water-soluble pillar[5]arene 46[5] under aqueous conditions. The association constant for this complex was high [K =
+(1.97 ± 0.55) × 104 M−1] (Figure 35).181
+The hydrolysis of G74 is facilitated by acetylcholinesterase.
+The mixing of G74 (30 mM) with acetylcholinesterase (1 U/
+mL) in aqueous media led to the complete hydrolysis of G74 in 1
+h (Figure 35a, red line). In contrast, the hydrolysis of G74
+proceeded at a much slower rate in the presence of the watersoluble pillar[5]arene 46[5] (30 mM), with only 70% hydrolysis
+after 1 h (Figure 35b, black line). These results indicated that the
+hydrolysis of G74 was being inhibited by the complexation of
+G74 with the 46[5].
+Yuan and co-workers investigated the extraction of metal ions
+using pillar[5]arene 117[5] bearing 10 phosphine oxide
+chelating groups. The results revealed that pillar[5]arene
+117[5] selectively recognized f-block elements (Figure
+36a).182,183
+The selectivity of this system for f-block elements was
+extremely high as compared to the unit model and the classic
+extractant tri-n-octylphosphine oxide. Pillar[5]arene 117[5]
+showed high selectivity for thorium(IV) and uranyl(VI) cations.
+In contrast, per-methylated pillar[5]arene 1[5] bearing no
+chelating groups did not show any extraction ability for these
+cations. These results therefore demonstrated that the 10
+phosphine oxide moieties on the pillar[5]arene rims were
+contributing to the metal cation extraction process. Pillar[5]-
+arene 117[5] also captured heavy-metal ions such as Co2+, Cu2+,
+Ni2+, Zn2+, Cd2+, Pb2+, Ag2+, and Hg2+. Pillar[5]arenes with other
+chelating agents bearing 10 diglycolamide moieties on its rims
+118[5] showed excellent extraction efficiency toward
+americium(III) and europium(III) cations (Figure 36b).184,185
+A characteristic emission was detected when europium(III)
+cation was extracted with 118[5] because the europium(III)−
+diglycolamide complex shows a strong fluorescence sig
+
+
+6. SUPRAMOLECULAR ASSEMBLY OF
+PILLAR[n]ARENES
+6.1. Supramolecular Assemblies from Pillar[n]arenes in
+Solution
+6.1.1. Self-Inclusion Complexes, Cyclic Dimers, and
+Supramolecular Polymers Based on Host−Guest Complexation Processes. Supramolecular polymers are polymeric
+arrays of monomeric units that are brought together by physical
+interactions including host−guest interactions and that show
+chain-like behaviors in solution and in bulk.186,187 Pillar[5]arenes
+form host−guest complexes with cationic molecules and neutral
+molecules bearing electron-withdrawing groups. Pillar[5]arenebased heteroditopic monomers and host−guest conjugates can
+therefore form a variety of different supramolecular structures
+such as self-inclusion complexes, cyclic dimers, and supramolecular polymers. We reported the synthesis of a host−guest
+conjugate between pillar[5]arene and the trimethylammonium
+guest moiety 54[5] (Figure 37a).65
+Compound 54[5] formed a self-inclusion complex in CDCl3.
+The driving force for this complexation process was the
+formation of cationic/π interactions. These interactions were
+weakened when the conjugate was treated with a polar solvent
+such as acetone-d6, which led to the dethreading of the guest
+molecule from the host. Hu and co-workers reported the
+conversion of a host−guest conjugate to a mixture of three
+isomers, including the uncomplexed material 119[5]a and the
+two self-inclusion complexes 119[5]b and 119[5]c, under
+equilibrium conditions.188 Following the addition of fluoride
+ions, the self-inclusion complex 119[5]b was converted to the
+other self-inclusion complex 119[5]c because of the formation of
+a binding interaction between the amide group of 119[5] and the
+fluoride ions (Figure 37b). Huang et al. and Meier and Cao et al.
+also reported the formation of supramolecular dimers from
+host−guest conjugates (Figure 38a).
+Pillar[5]arenes 120[5]189 and 121[5]190 bearing hydroxyl and
+bromide groups at the end of their alkyl guests formed double threaded supramolecular dimers (Figure 38a). Yang and coworkers reported the construction of highly emissive doublethreaded supramolecular dimers from pillar[5]arenes bearing
+one ammonium group and the fluorescent dye 96[5] (Figure
+38c).118 The formation of this supramolecular dimer restricted
+the motion of the fluorescent dye with the dimerization,
+therefore enhancing the fluorescence intensity. Changing the
+pH or adding a different anion led to the dissociation of the
+dimeric structure and fluorescence quenching. Huang and coworkers also synthesized pillar[5]arenes carrying the long-chain
+alkyl guest 122[5] without a bromide group at the end of its
+chain (Figure 38b).191 These host−guest conjugates formed
+supramolecular polymers under high concentration conditions,
+as well as in the solid state. The driving force for the formation of
+supramolecular dimers and polymers are CH/π interactions. The
+CH/π interactions involved in the formation of host−guest
+complexes are weak, and high concentration conditions are
+required to allow for the successful formation of supramolecular
+polymers (ca. 500 mM). Strong host−guest interactions are
+therefore required for the construction of high molecular weight
+supramolecular polymers. Stoddart and co-workers synthesized a
+monofunctionalized pillar[5]arene carrying the viologen moiety
+88[5] (Figure 38b).116 The cation/π interactions responsible for
+the formation of the complex between viologen and pillar[5]-
+arene were much stronger than the CH/π interactions formed
+between a linear alkyl chain and pillar[5]arene. Supramolecular
+daisy chin polymers therefore were formed at intermediate
+concentrations (ca. 20 mM), with higher concentrations (>25
+mM) leading to the formation of an organogel. Pillar[5]arenes
+carrying ammonium groups also allowed for the efficient
+formation of supramolecular polymers under intermediate
+concentrations.192−196
+The installation of specific functional groups into host−guest
+conjugates can be used as an effective strategy for controlling and
+enhancing the formation of supramolecular polymers. Yang and
+co-workers reported the incorporation of a photoresponsive stiff
+stilbene between pillar[5]arene and the imidazole guest 123[5]
+(Figure 39).197
+The Z-123[5] isomer mainly formed a self-inclusion complex,
+as well as a double-threaded dimer. The photoirradiation of Z-
+123[5] resulted in its photoisomerization to E-123[5]. E-123[5]
+formed a low molecular weight supramolecular polymer. The
+addition of trifluoroacetic acid resulted in the protonation of the
+imidazole moiety of E-123[5]a, which led to the formation of a
+high molecular weight supramolecular polymer by enhancing the
+host−guest complexation ability of the system.
+
+
+
+Stoddart and co-workers reported the incorporation of a
+porphyrin moiety between a pillar[5]arene host and a viologen
+guest to give conjugate 124[5] (Figure 40a).198
+The host−guest conjugate 124[5] formed a supramolecular
+polymer (Figure 40a), with intermolecular stacking interactions
+between the porphyrin units in the supramolecular polymers
+making a significant contribution to the bundle formation of the
+supramolecular polymers (Figure 40b). The entanglement of
+these bundles led to the formation of an elastic organogel. We
+reported the preparation of supramolecular polymers with alternating pillar[5]arene and pillar[6]arene units by the mixing
+of the two heterotopic host−guest conjugates 55[5] and 16[6]
+(Figure 40c).78 The mixing of monofunctionalized pillar[5]arene
+carrying the pillar[6]arene guest DABCO cation 55[5] with
+pillar[6]arene carrying the pillar[5]arene guest pyridinium cation
+16[6] afforded supramolecular polymers with alternating
+pillar[5]arene and pillar[6]arene units.
+Two component mixtures of host−host and guest−guest
+homoditopic conjugates also afford supramolecular polymers.
+121,199 We reported that the mixing of the azobenzenebridged pillar[5]arene dimer 101[5] with the homoditopic bispyridinium guest G75 led to a supramolecular polymerization
+process (Figure 41a).121
+The mixing of trans-101[5] with guest dimer G75 led to the
+formation of a supramolecular polymer. The subsequent
+irradiation of this polymer with UV light induced the
+photoisomerization of the azobenzene moiety to give cis-
+101[5], which contributed to the subsequent disassembly of
+the supramolecular polymer. These supramolecular assembly
+and disassembly processes were found to be completely
+reversible and could be readily controlled by alternating between
+UV and visible light irradiation. Wang and co-workers
+constructed a supramolecular polymer using the pillar[5]arene
+dimer 72[5], which was formed through a quadruple-hydrogen
+bonding interaction (Figure 41b).107 The addition of the
+homoditopic diviologen guest G76 led to the formation of a
+supramolecular polymer. Li and co-workers reported the
+construction of a dimer based on a 2:1 sandwich-type CT
+complex between pillar[5]arene and N,N′-bisalkylpyromellitic
+diimide.200 A 2:1:1 (mol/mol/mol) mixture of pillar[5]arene
+4[5], N,N′-bisalkylpyromellitic diimide 1, and the homoditopic
+guest G77 afforded a supramolecular polymer (Figure 41c). The
+incorporation of fluorescent moieties between the homoditopic
+host−host and/or guest−guest conjugates allowed for the
+construction of supramolecular polymers showing a variety of
+different fluorescence colors.123,126,201 BODIPY dyes are tunable
+fluorescence dyes with high adsorption coefficients and
+fluorescence yields. Wang and co-workers reported the synthesis
+of the BODIPY-bridged pillar[5]arene dimer 108[5] and two
+BODIPY derivative bearing two different guest moieties (G78
+and G79, Figure 42a).126
+The supramolecular polymerization process resulting from the
+mixing of the pillar[5]arene dimer 108[5] containing BODIPY
+dye and the BODIPY guest dimers (G78 and G79) induced a
+FRET process. This FRET process occurred as a consequence of
+the BODIPY moiety in the host dimer being positioned quite
+close to the BODIPY moiety in the guest dimer of the
+supramolecular polymer. The introduction of photo-202 and γ-
+ray
+125-responsive moieties to form pillar[5]arene dimers allowed
+for the formation of stimuli-responsive supramolecular polymers.
+The dissociation of the stimuli-responsive linker between the
+pillar[5]arene dimers resulted in the disassembly of the
+supramolecular polymers. Jiang and Wang reported the synthesis
+of the heteroditopic host, pillar[5]arene-fused cryptant 125[5]
+(Figure 42b).203 The addition of two homoditopic guests (G80
+and G81) promoted the connection of the heterohost dimer,
+which led to the formation of a supramolecular polymer.
+Li and co-workers reported the construction of supramolecular network polymers using the AB2-type heterotritopic
+pillar[5]arene monomer 126[5].204 In this case, the AB2-type
+monomer underwent a self-assembly process under high
+concentration conditions to form a supramolecular network
+polymer (Figure 43a).
+The addition of a competitive guest to this system led to the
+depolymerization of the supramolecular network polymer. The
+other approach used for the formation of supramolecular
+network polymers involved the mixing of homoditopic host
+97[5] with homotritopic guest G82 (Figure 43b, A2/B3-type).205
+The combination of a homoditopic host with a homotetratopic
+guest (A2/B4-type),129 homotritopic host 127[5] with homoditopic guest G83 (Figure 43c, A3/B2-type),206 a homotetratopic
+host with a homoditopic guest (A4/B2-type),122,127 or a
+homohexatopic host with a homoditopic guest (A6/B2-type)207
+resulted in the formation of supramolecular polymers with
+network structures. Wang and co-workers reported a supramolecular polymer with vacant cavities resulting from the
+pillar[5]arenes 73[5] through quadruple-hydrogen bonding
+interactions (Figure 43d).208 The addition of guest dimer G84
+to pillar[5]arene 73[5] resulted in the formation of a supramolecular network polymer with the guest dimer acting as
+an intermolecular cross-linking agent between the supramolecular polymers.209
+
+
+6.1.2. Supramolecular Assembly Using Organic Polymers with Pillar[n]arenes. The mixing of organic polymers
+carrying pillar[n]arenes and guest moieties is another useful
+method for the construction of supramolecular polymers with
+network structures. Wang and co-workers reported the
+formation of a redox-reversible supramolecular network using
+organic polymers consisting of pillar[6]arene 2 and ferrocene
+moiety 3 (Figure 44a).210
+When the ferrocene in polymer 2 existed in its reduced form,
+the polymer did not form a supramolecular network because the
+host−guest interaction between ferrocene and pillar[6]arene was
+weak. In contrast, the oxidation of ferrocene led to the formation
+of a gel-like supramolecular network because of the strong host−
+guest interaction between the oxidized ferrocenium ion and
+pillar[6]arene.
+Wang and co-workers reported the synthesis of the π-
+conjugated polymer 4 based on a poly(phenylene ethynylene)
+backbone bearing molecular recognition sites for pillar[5]arenes
+on its side chains (Figure 44b).211,212 Fluorescence from the π-
+conjugated polymer was quenched by the addition of the noctylpyrazinium cation G85 because of an electron transfer
+process from the π-conjugated polymer 4 to the n-octylpyrazinium cation G85. The addition of halide anions led to
+fluorescence recovery in the order of Cl− > Br− > I−. Chloride
+anions are small and possess a high charge density as compared to
+the other anions, allowing them to form a strong interaction with
+the n-octylpyrazinium cation G85, thereby triggering the
+decomplexation of the pillar[5]arenes in polymer 4 and G85.
+Stoddart and co-workers synthesized one-dimensional tubular
+arrays by the condensation reaction of pillar[5]arene with one of
+the A−B units in pillar[5]arene 128[5] (Figure 44c).213 The
+conversion of one-dimensional tubular arrays derived from
+pillar[5]arene dimers to pillar[5]arene 9-mers could be obtained
+under microwave heating conditions.
+
+
+
+6.1.3. Formation of Micelles, Vesicles, and Tubes. On
+the basis of the high functionality and host−guest properties of
+pillar[n]arenes, it is possible to create amphiphilic pillar[n]arene
+hosts and amphiphilic host−guest complexes consisting of
+hydrophobic and hydrophilic groups. These amphiphilic hosts
+and complexes have the ability to form various supramolecular
+assemblies in hydrophobic and hydrophilic solvents. Huang and
+co-workers have studied the nanostructures prepared from
+amphiphilic pillar[n]arenes extensively. They synthesized an
+amphiphilic pillar[5]arene containing five amino groups on its
+hydrophilic head and five alkyl chains on its hydrophobic tail
+(Figure 45a).134,214
+Pillar[5]arene 129[5] initially formed self-assembled bilayer
+vesicles in aqueous media, which were subsequently transformed
+into necklace- and sheet-like structures. These two structures
+were then further fused into microtubes, which exhibited a strong
+adsorption affinity for the famous explosive trinitrotoluene. Xue
+and co-workers investigated the formation of vesicles and
+microtubes from amphiphilic pillar[5]arenes bearing hydrophobic alkyl chains of different lengths.215 The formation of
+bimolecular micelles from the amphiphilic pillar[5]arene 130[5]
+bearing five hydrophilic amino groups and hydrophobic alkyl tails was reported by Sakurai and co-workers (Figure 45b).216
+Pillar[5]arenes 131[5] and 132[5] bearing five hydrophilic
+oligo(ethylene oxide) chains and five hydrophobic alkyl chains,
+respectively,114,217 also formed vesicles. The same occurred in
+copillar[5]arene 133[5] bearing one amphiphilic oligo(ethylene
+oxide) chain unit,218 as well as several monofunctionalized
+pillar[5]-117 and pillar[6]arenes.219 Pei and co-workers reported
+the formation of redox-responsive cationic vesicles from the
+amphiphilic pillar[5]arene 77[5] bearing five ferrocenium
+cations (Figure 45c).110 The resulting cationic vesicles exhibited
+redox-responsive behavior as a consequence of the redox
+reaction between the ferrocenium cations and the neutral
+ferrocenyl groups. This system allowed for the development of
+an ideal glutathione (GSH)-responsive drug/siRNA codelivery
+system for rapid drug release and gene transfection in cancer cells
+because cancer cells typically have a higher GSH concentration
+than normal cells. Another method that is often used for the
+formation of various nanostructures is the construction of
+amphiphilic molecules through host−guest complexation
+processes (Figure 46).
+Huang and co-workers reported the construction of vesicles
+from the host−guest complexes formed between azobenzene
+guest G71 and pillar[6]arene 2[6].136 Pillar[6]arene 2[6]
+formed a complex with trans-G71, and the assembled structure
+of this complex consisted of irregular aggregates in chloroform.
+The irradiation of this complex with light led to the dethreading
+of the azobenzene guest because it underwent a photoisomerization process from its trans-form to its cis-form. The
+resulting mixture of pillar[6]arene 2[6] and cis-G71 underwent
+an assembly process in chloroform to give vesicle-like aggregates.
+Huang et al. have also reported similar photoswitching processes
+for nanostructural changes between the solid nanoparticles and
+vesicles formed in aqueous media from a water-soluble
+pillar[6]arene and an amphiphilic azobenzene guest.220
+The pH-,161,162,221−224 chemical-,225−232 CO2-,233,234 and
+photoresponsive235,236 supramolecular vesicles consisting of
+water-soluble pillar[n]arene and stimuli-responsive amphiphilic
+molecules have also reported. Furthermore, considerable
+research has been directed toward the application of these
+stimuli-responsive supramolecular vesicles to the development of
+controlled drug release134,161,162,217,221−223,225−227,229,236,237 and
+bioimaging114 systems.
+
+
+
+6.1.4. Lower Critical Solution Temperature Materials.
+Our group reported amphiphilic pillar[5]- and pillar[6]arenes
+with tri(ethylene oxide) groups (51[5] and 15[6], Figure 47a),
+which showed lower critical solution temperatures (LCSTs) in
+aqueous media.90,97
+These pillar[5]- and pillar[6]arenes were soluble in aqueous
+media at 25 °C. Interestingly, these solutions became turbid
+when they were heated at 50 °C, but then became clear again
+when they were cooled to 25 °C (Figure 47a). The LCST
+behavior of these amphiphilic pillar[5]- and pillar[6]arenes was
+attributed to the combination of hydrophilic triethylene oxide
+chains with a hydrophobic pillar[5]- and pillar[6]arene backbone. The cloud point of the amphiphilic pillar[5]arene 51[5] in
+2 mM aqueous solution was 41 °C, which was similar to that of
+the corresponding amphiphilic pillar[6]arene 15[6] (42 °C).
+Pillar[5]arenes form CT host−guest complexes with viologen
+derivatives, which led to the addition of didecylviologen
+dibromide G86. The cloud point of the amphiphilic pillar[5]-
+arene 51[5] increased from 42 to 60 °C following the addition of
+G86 (Figure 47b). This increase was attributed to the existence
+of repulsive forces between the complexed cations following the
+addition of G86, which inhibited the aggregation of the
+complexes. Viologen derivatives form very stable host−guest
+complexes with CB[7], which led us to investigate the addition of
+CB[7] to an aqueous solution of the CT host−guest complex. As
+the concentration of CB[7] increased, the cloud point of the
+mixture decreased from 60 to 47 °C. This decrease in the cloud
+point was attributed to the decomplexation of G86 from 51[5]
+upon addition of the competitive host CB[7]. Overall, it was
+possible to tune the cloud point of the amphiphilic pillar[5]arene
+using the viologen guest G86 and the competitive host CB[7].
+Pillar[6]arenes form host−guest complexes with trans-state
+azobenzene derivatives, but not with the corresponding cis-state
+compounds. Using a photoresponsive host−guest system, we
+demonstrated the photoreversible switching of LCST (Figure 47c).97 The trans-state azobenzene guest G87 bearing two
+DABCO cations formed a host−guest complex with the
+amphiphilic pillar[6]arene 15[6]. This complexation process
+led to an increase in the cloud point of the amphiphilic
+pillar[6]arene from 41 to 57 °C. However, the cloud point of the
+mixture decreased from 57 to 52 °C upon UV irradiation, which
+led to a change in the conformation of the azobenzene guest from
+its trans-state to its cis-state. This photoisomerization process led
+to the dissociation of the complex because the cavity size of the
+pillar[6]arene did not fit the cis-form of the azobenzene guest.
+Notably, the cloud point of the mixture returned to 57 °C by
+visible light irradiation, which led to the conversion of the cisform of the guest back to the trans-form, which could be
+rethreaded through the host cavity. This photoinduced
+threading/dethreading sequence contributed to the photoswitching for the LCST behavior of the amphiphilic pillar[6]-
+arene.
+
+
+
+We also reported dual-responsive, redox-, and host−guest
+complexation-responsive LCST changes following the introduction of one benzoquinone unit to the amphiphilic pillar[5]arene
+(quinone-H134[5], Figure 48).72
+The cloud point of quinone-134[5] in 2 mM aqueous solution
+was observed at 21 °C, which was lower than that of the
+amphiphilic pillar[5]arene without the benzoquinone unit (41
+°C in 51[5]). This difference in the cloud points was attributed
+to the benzoquinone unit being more hydrophobic than the
+tri(ethylene oxide)-modified unit. The addition of a reducing
+agent resulted in the formation of the amphiphilic pillar[5]arene
+bearing one hydroquinone unit (2OH-134[5]). The cloud point
+of this mixture was determined to be 31 °C, which was higher
+than that of the cloud point of quinone-134[5] (21 °C). This
+difference was attributed to the hydroquinone moiety being
+more hydrophilic than benzoquinone. The subsequent addition
+of an oxidizing agent led to a decrease in the cloud point from 31
+to 21 °C because the hydroquinone was oxidized to a
+benzoquinone. The redox-switching of the cloud point was a
+reversible process that could be controlled by alternating the
+addition of reducing and oxidizing agents. Quinone-134[5] and
+2OH-134[5] also showed guest-responsive LCST changes, in
+that the addition of a cationic viologen guest G86 to an aqueous
+solution of quinone-134[5] or 2OH-134[5] led to an increase in
+the cloud point.
+Larger pillar[n]arene homologues with tri(ethylene oxide)
+chains also showed LCST behavior. When 2 mM aqueous
+solutions of pillar[7]- and pillar[10]arenes bearing tri(ethylene
+oxide) chains (Scheme 18, 4[7] and 4[10]) were heated at 50
+°C, they became turbid.95,238 Huang and co-workers reported
+that pillar[7]arene 4[7] formed a stable host−guest complex
+with the trans-form of the azobenzene guest [(1.97 ± 0.24) × 104
+M−1], which was more stable than the complex formed with the
+cis-form of the azobenzene guest [(1.87 ± 0.13) × 103 M−1]. This
+system could therefore be used as photoswitchable supramolecular assembly system. Xue and co-workers reported that
+pillar[10]arene 4[10] accommodated a bulky diazapyrenium salt
+[(4.2 ± 0.3) × 104 M−1]. The complexation of this guest led to an increase in the cloud point from 40 to 58 °C. Notably, the
+complex dissociated following the addition of diethylamine, and
+subsequently reformed following the addition of trifluoroacetic
+acid. It was therefore possible to switch the cloud point of the
+pillar[10]arenes by alternating the addition of diethylamine and
+trifluoroacetic acid.
+LCST is generally observed in aqueous media. Huang and coworkers reported the unique LCST behavior of the host−guest
+complex formed between pillar[5]arene and the ionic liquid 1,3-
+dimethylimidazolium iodide in chloroform (Figure 49).239
+The solubility of 1,3-dimethylimidazolium iodide (G88) in
+chloroform is low (0.38 wt %, 25.6 mM), which resulted in the
+formation of a biphasic mixture at 25 °C (Figure 49a).
+Pillar[5]arene 3[5] formed a relatively stable host−guest
+complex with G88 in chloroform [1.04 (±0.15) × 103 M−1],
+which was highly soluble in chloroform. Therefore, the addition
+of pillar[5]arene 3[5] resulted in the conversion of a biphasic
+mixture to a homogeneous solution (Figure 49b). The
+complexation of G88 into the cavity of 3[5] contributed to the
+formation of the homogeneous solution. The solution became
+turbid with heating (Figure 49c), and subsequently became clear
+when the mixture was cooled. The dethreading of G88 from the
+cavity of 3[5] at elevated temperatures led to the observed
+separation of the phases because of the reduced stability of the
+complex at high temperatures.
+
+
+6.2. Bulk Supramolecular Assemblies Constructed from
+Pillar[n]arenes
+The rich functionality37,38 and highly regular symmetrical pillarshaped structures of pillar[n]arenes mean that they can form
+highly functional and well-ordered pillar[n]arene-based bulk
+supramolecular assemblies. In this section, we will discuss the
+formation and properties of bulk-state pillar[n]arene assemblies
+in the liquid, ionic liquid, and crystalline states.
+6.2.1. Liquid Pillar[n]arenes. Macrocyclic compounds
+generally exist in the solid state at 25 °C. The formation of
+host−guest complexes involving macrocyclic compounds therefore requires a solvent. We discovered that the ionic liquidmodified pillar[5]arene 68[5] could exist in the liquid state at 25
+°C based on the choice of an appropriate counteranion (Figure
+50a).102
+In the case of the hexafluorophosphate anion (PF6−), the
+compound existed in the solid state, and exhibited a melting
+temperature of 108 °C. In contrast, the use of a bis-
+(trifluoromethanesulfonyl)amide (TFSA) anion resulted in a
+compound that existed in the liquid state at 25 °C with a freezing
+temperature of −7 °C. The ionic liquid pillar[5]arene 68[5]
+bearing TFSA anions showed ionic conductivity (8.70 × 10−6 S
+cm−1) and formed a host−guest complex with the electronaccepting molecule tetracyanoethylene (Figure 22, G12), even in
+the bulk liquid state.
+The other liquid pillar[n]arenes were the tri(ethylene oxide)-
+modified pillar[5]- and pillar[6]arenes 51[5] and 15[6],
+respectively (Figure 50b).97,240 These systems existed in the
+liquid state over a wide range of temperatures and were stable up
+to 250 °C. These systems could therefore be used as solvents for
+host−guest complexation processes and the formation of
+rotaxanes. Pillar[5]arenes form host−guest complexes with
+linear alkanes, but their complexation abilities are generally
+poor in solution systems (K = 20 M−1). However, when they are
+used in bulk liquid systems, their complexation abilities improve
+considerably because the guest molecules were surrounded by
+excess pillar[5]arene host molecules 51[5]. The liquid bulk
+system therefore represents an intelligent system for maximizing
+the concentrations of the host and guest molecules. Using this
+efficient complexation media, it was possible to investigate the
+formation of rotaxanes using an end-capping approach. The
+efficiency of the rotaxane formation process was quite high (over
+92%) when the liquid pillar[5]arene 51[5] was used as a solvent
+for the rotaxanation because the host−guest complex was stable
+in this system.
+6.2.2. Liquid Crystal Pillar[n]arenes. Nierengarten and coworkers reported the development of thermotropic liquid
+crystals using a pillar[5]arene platform (Figure 51a).109
+Pillar[5]arene 75[5] bearing 10 mesogenic cyanobiphenyl
+moieties on both of its rims showed an enantiotropic smectic A
+phase (Figure 51b). The smectic A phase was observed over a
+wide temperature range from 32 to 201 °C by DSC
+measurements (Figure 51c). In contrast, the unit model 5,
+which consisted of two cyanobiphenyl moieties, only showed a
+monotropic smectic A phase during the cooling process over a
+narrow temperature range from 149 to 125 °C. Intermolecular
+π−π stacking interactions between the neighboring pillar[5]-
+arene cores contributed to the stabilization of the smectic A
+phase (Figure 51d). In a manner similar to the pillar[5]arene
+75[5], pillar[6]arene 20[6] bearing 12 cyanobiphenyl moieties
+(Scheme 23) also showed a stable smectic A phase over a wide
+range of temperatures.79 Wang and co-workers synthesized
+pillar[5]arene-based photoresponsive liquid crystals using
+pillar[5]arenes bearing 10 azobenzene moieties with different
+spacer lengths (n = 4, 135[5], n = 10, 136[5], Figure 51e).241
+Both of these pillar[5]arenes showed smectic liquid crystalline
+phases over a wide range of temperatures (Figure 51f), as
+indicated by DSC measurements (Figure 51g). Furthermore, the
+lamellar periods of these systems were determined by small-/
+wide-angle X-ray scattering (SAXS/WAXS) analyses to be 72.4
+and 59.7 Å, respectively (Figure 51h). The lamellar distances of
+these systems were about 20% shorter than they were estimated
+to be on the basis of their molecular contour lengths, which
+suggested a partially interdigitated packing structure. The tubular
+pillar[5]arene macrocyclic platform provided sufficient free
+volume to allow for the reversible photoisomerization and
+photoalignment processes.
+
+
+6.2.3. Crystalline Pillar[n]arenes for Gas and Organic
+Vapor Adsorption. Pillar[n]arenes have high symmetrical
+pillar-shaped structures and high free volumes, making them
+good candidates for the preparation of porous materials for gas
+and organic vapor adsorption. Yang and co-workers reported the
+use of pillar[5]arene crystals as gas adsorption materials (Figure
+52).147
+Pillar[5]arene 12[5] bearing 10 phenolic moieties exhibited a
+3D open network structure, which was stabilized by
+intermolecular hydrogen-bonding interactions. The 3D open
+network structure contained 0.5 acetone molecules, which were
+removed when the crystals were heated at 170 °C. However, the
+crystal structure remained unchanged even after the acetone
+molecules had been removed because the 3D open network
+structure was stabilized by intermolecular hydrogen bonds. The
+activated crystals absorbed CO2 with a high sorption ability (88
+mg g−1, at 25 °C, 1 atm). In contrast, CH4 and N2 were poorly
+adsorbed, indicating remarkable CO2-selectivities over CH4 (375/1) and N2 (339/1). The highly selective adsorption of CO2
+observed in this case was attributed to the porous nanostructure
+of the compound and the hydroxyl groups of pillar[5]arene
+12[5].
+Our group reported the gas and organic-vapor uptake
+properties of crystalline pillar[6]arene 8[6] bearing 12 hydroxyl
+moieties.242 8[6] assembled into a highly symmetrical onedimensional structure in the crystalline state (Figure 53).73
+Pillar[6]arene 8[6] bearing 12 hydroxyl moieties and an even
+number of benzene rings on its rims formed multiple
+intramolecular hydrogen bonds in an alternating up-and-down
+manner, which stabilized its hexagonal structure (Figure 53a and
+b). The rigid hexagonal structure of this material assembled to
+form a 2D hexagonal sheet structure along the a and b axes, and a
+1D channel structure along the c axis (Figure 53c). Acetone
+molecules were included in the channels, and the crystals were
+consequently heated under reduced pressure to give activated
+porous crystals. The 1D channels were retained even after the
+removal of the acetone molecules because the structure was
+stabilized by multiple hydrogen-bonding interactions in the same
+way as the per-hydroxylated pillar[5]arene 12[5]. This
+crystalline material not only adsorbed various gases (Figure
+53d) such as CO2 (3.3 Å), N2 (3.7 Å), and n-butane (4.3 Å), but
+also adsorbed organic vapors (Figure 54e) such as n-hexane (4.9
+Å) and cyclohexane (6.7 Å). The broad adsorption characteristics of this crystalline material were attributed to the permanent
+one-dimensional pores with the same cavity size as pillar[6]arene
+8[6] (ca. 6.7 Å), which was larger in size than the gases and
+organic vapors described above. The pore size of the onedimensional channels was determined to be 4.10 Å using a
+molecular probe technique.
+We also constructed 2D hexagonal sheets using a molecular
+tailing concept, where molecules with triangular, tetragonal, and
+hexagonal structures can be used to form densely packed structures because of their highly symmetrical structures. It is
+noteworthy, however, that pentagonal molecules cannot form
+densely packed structures. On the basis of this concept, the 2D
+supramolecular polymerization of hexagonal per-hydroxylated
+pillar[6]arene molecules 8[6] led to the formation of 2D
+hexagonal sheets.243 2D supramolecular polymerization can be
+induced by the oxidation of hydroquinone to benzoquinone
+units because the CT complexation process between the
+hydroquinone and benzoquinone units of pillar[6]arenes results
+in the intermolecular connection of pillar[6]arene molecules
+(Figure 54b).
+The highly ordered structure of the 2D sheets formed regular
+fibrous structures CT[6]. The 2D sheets also had pores (4.04 Å),
+which were derived from the original pores of the pillar[6]arene
+crystals (4.10 Å). The 2D sheets were converted to carbons by
+the calcination of the 2D sheets PC[6] at 900 °C for 2 h under an
+inert atmosphere (Figure 54c). Even after the calcination of the
+2D sheets, the fibrous structures remained intact. Furthermore,
+the fibrous carbon had pores hat were similar in size to the
+original starting compound pillar[6]arene assembly (4.09 Å).
+This method for the creation of porous carbon does not require
+inorganic templates, and therefore represents a simple process
+for the synthesis of porous carbons with angstrom-sized pores.
+Our group reported the occurrence of unexpected alkane
+uptake behavior pronounced alkane-shape and alkene-length
+selectivity using activated per-ethylated pillar[5]arene 2[5]
+crystals (Figure 55).144
+During the adsorption process, crystals without solvent
+molecules could quantitatively take up linear n-alkanes with
+gate-opening pressure. During the desorption process, the
+adsorbed linear n-alkanes were not released even under reduced
+pressure because they were stabilized by multiple CH/π
+interactions. In contrast, the cyclic and branched alkanes were
+not absorbed in the same way because the pillar[5]arene cavity
+was a poor fit for these cyclic and branched alkanes.
+
+
+
+6.2.4. Composite Materials Based on Pillar[n]arenes.
+Huang and co-workers reported the preparation of composite
+materials from the polymerized ionic liquid polymer and the percarboxylated pillar[5]arene 45[5] (Figure 56a).244
+This composite consisted of particles in the nano range (20−
+50 nm) that formed the sponge-like structure 6. Furthermore,
+the composite material had a large pore volume (350 m2/g) and
+selectively adsorbed alcohols, with an especially high affinity for
+1,4-butanediol. In contrast, this composite showed a much lower
+affinity for monoalcohols. These foundations are derived from
+the host−guest ability of pillar[5]arene in the solution state.
+Pillar[5]arene can form more stable host−guest complexes with
+diols than it can with monoalcohols.
+Stoddart and co-workers reported the construction of the
+metal organic framework (MOF) 7 bearing an active pillar[5]-
+arene domain (Figures 56b).87 The pillar[5]arene-based MOF 7
+was prepared by heating a mixture of Zn(NO3)2·6H2O and
+pillar[5]arene 60[5] carrying two carboxylic acid groups in DMF
+at 100 °C for 24 h. This pillar[5]arene-based MOF selectively
+adsorbed neutral and positively charged electron-deficient
+aromatic guests, including the pyridinium and viologen salts
+G89 and G90, as well as 1,4-dinitrobenzene (G91). The
+formation of CT interactions between the guest molecules and
+the active domain of the pillar[5]arenes in the MOF allowed for
+this complexation process to be monitored on the basis of the
+color change of the solution. MOFs containing active
+enantiopure pillar[5]arene domains were also prepared by
+Stoddart and co-workers.
+
+
+6.3. Assembly of Pillar[n]arenes on Inorganic Surfaces
+The high functionality of pillar[n]arenes can contribute to
+improvements in their compatibility with a wide range of
+inorganic materials, including metal nanoparticles, nanocarbons,
+MOFs, and silica.
+6.3.1. Metal Nanoparticles. Capping agents containing
+amino, carboxyl, or sulfhydryl groups can be used to stabilize
+metal particles on the nanoscale by preventing their aggregation
+through the formation of coordination interaction to the metal
+surface. Yang and co-workers reported gold nanoparticles
+(AuNPs) stabilized by pillar[5]arene with 10 carboxylate
+moieties 46[5] (Figure 57a).245
+Pillar[5]arene-modified AuNPs were synthesized by reducing
+HAuCl4 with NaBH4 in the presence of the per-carboxylated
+pillar[5]arene 46[5]. The resulting pillar[5]arene-stabilized
+AuNPs showed good dispersion characteristics in aqueous
+media and a narrow size distribution (3.1 ± 0.5 nm). The
+pillar[5]arene molecules immobilized on the AuNPs had vacant
+pores, allowing them to capture guest molecules. The addition of
+the viologen guest dimer G92 led to a change in the color of this
+system, with the viologen dimer acting as a cross-linking agent
+between the AuNPs to induce the 1D and 3D assembly of the
+pillar[5]arene-stabilized AuNPs. Huang and co-workers reported
+the construction of various nanostructures from carboxylated
+pillar[6]arene 13[6]-modified AuNPs bearing a paraquat guest
+with a hydrophobic chain (G93).246 These host−guest
+interactions resulted in the formation of numerous structures,
+including supramolecular micelles, onion-like disks, and vesicles
+(Figure 57b). The feed ratio of the paraquat guest G93 to the
+pillar[6]arene 13[6]-modified AuNPs was found to be critical to
+the formation of the various supramolecular assemblies. Park and
+co-workers reported the preparation of large AuNPs using 46[5]
+as a stabilizer.247 HAuCl was heated at reflux in water for 10 min
+before being treated with the per-carboxylated pillar[5]arene
+46[5]. The diameter of the resulting AuNPs was around 17 nm.
+Furthermore, the AuNPs showed high stability toward a variety
+of salts, as well as variations in the pH. Pillar[5]arenes bearing
+cationic moieties are also good stabilizing agents for AuNPs.
+Huang and co-workers reported that pillar[5]arene 67[5]
+bearing 10 imidazolium cations could be used as a stabilizer to
+form AuNPs (Figure 57c).103 The use of a pillar[5]arene bearing 10 imidazolium groups provided a shell of imidazolium cations
+around the AuNPs, which inhibited the aggregation of the
+AuNPs. The use of an ammonium cation-bearing pillar[5]arene
+also prevented the aggregation of the AuNPs and acted as a
+stabilizer.248 Zhou and co-workers reported the use of the
+monofunctionalized pillar[5]arene 137[5] bearing a thiol moiety
+as a stabilizer (Figure 58a).249
+The surfaces of the AuNPs were covered with pillar[5]arenes,
+which enabled them to capture cationic guest molecules. The
+resulting pillar[5]arene-covered AuNPs were then treated with
+an ammonium derivative bearing an anthracene moiety (G94),
+which can undergo [4+4] cycloaddition/decycloaddition reactions when it is irradiated with UV light or heated, respectively.
+The AuNPs underwent reversible aggregation and dissociation
+processes when they were irradiated with UV light or heated in
+the presence of G94 because of the cycloaddition/decycloaddition of this guest molecule under these conditions. In this way,
+the guest molecule could be used as a switch depending on the
+conditions applied to the system.
+Metal nanoparticles have also been synthesized using a variety
+of metals. For example, Xue and co-workers reported the
+preparation of AgNPs with narrow size distributions using the
+per-carboxylated pillar[5]arene 46[5] as a stabilizer (Figure
+58b).250 The addition of spermine or its analogues to these
+systems led to the aggregation of the AgNPs, which resulted in a
+color change. This change in the color of the solution was
+attributed to the spermine molecules acting as cross-linking
+agents to connect the individual silver ions. This color change
+could therefore be used as a visual cue for the detection of
+spermine analogues in water through host−guest interactions.
+Yang and co-workers synthesized per-carboxylated pillar[5]-
+arene 46[5]-modified quantum dots using a ligand-exchange
+method.251 Quantum dots provide strong fluorescence signals
+with long lifetimes, and can therefore be used for biological
+sensing and display panels. Yang et al. also reported the synthesis
+of pillar[5]arene-modified Fe3O4 nanoparticles, which can be
+used as magnetic solid-phase extraction absorbents.25
+
+
+6.3.2. Nanocarbons. Nanoscale carbons such as fullerenes,
+carbon nanotubes, nanodiamonds, and graphenes have attracted
+considerable interest because of their unique structural, electrical,
+and mechanical properties. One of the main challenges
+associated with the functionalization of pillar[n]arenes on
+nanocarbons is the development of efficient strategies for
+increasing the solubility of nanocarbons and introducing
+molecular recognition sites.
+Haung and co-workers reported the dispersion of multiwalled
+carbon nanotubes (MWNTs) using the host−guest complex
+formed between the per-carboxylated pillar[6]arene 13[6] and
+the neutral guest molecule G95 bearing a pyrene moiety (Figure
+59).160
+MWNTs did not disperse in aqueous media with a neutral
+guest, but dispersed well in the presence of the per-carboxylated
+pillar[6]arene 13[6]⊃neutral guest G95 complex under ultrasonic irradiation. This complex contained both hydrophobic and
+hydrophilic moieties, and was therefore capable of dispersing
+MWNTs in aqueous media. The MWNT dispersion was also pH
+responsive, in the sense that making the pH of the mixture acidic
+resulted in the precipitation of the MWNTs. Notably, the
+precipitate dispersed in aqueous media when the pH of the
+mixture was taken back to being neutral. Haung et al. also reported the photoresponsive dispersion/precipitation of
+MWNTs using a photoresponsive host−guest complex.163 In
+this case, they used a guest molecule bearing pyrene and
+lutidinium moieties that were connected via a photocleavable 2-
+nitrobenzyl ester group. The MWNTs were dispersed in an
+aqueous solution with a host−guest complex formed between
+per-carboxylated pillar[6]arene and a UV-responsive guest. The
+MWNTs precipitated from solution following the irradiation of
+the mixture with UV light because of the dissociation of the
+photocleavage guest.
+Diao and co-workers reported the dispersion of reduced
+graphene oxide in aqueous media using the amphiphilic
+nonsymmetric pillar[5]arene 138[5] bearing five hydrophilic
+amino groups on one rim and five hydrophobic alkyl chains on
+the other rim (Figure 60). A dispersion of graphene oxide in aqueous media was treated
+with 138[5], and the resulting mixture was sonicated. The
+mixture was then treated with hydrazine hydrate to give an
+aqueous dispersion of reduced graphene oxide−138[5] hybrids.
+It is noteworthy that this reduction process resulted in the
+formation of a precipitate when it was conducted without
+138[5]. The self-assembly of 138[5] on the surface of the
+reduced graphene oxide made a considerable contribution to the
+formation of the water-dispersed reduced graphene oxide−
+138[5] hybrids. Zhao and co-workers reported the application of
+water-soluble pillar[n]arene-functionalized graphene oxide for in
+vitro Raman and fluorescence dual mode imaging experiments.254
+Water-dispersed reduced graphene oxide−pillar[5]arene
+hybrids can be also prepared by connecting reduced graphene
+to pillar[5]arene 45[5] via the formation of covalent ester bonds
+(Figure 60d).255 Water-dispersed hybrids were obtained by the
+formation of ester bonds between the hydroxyl moieties of
+graphene oxide and the carboxylic acid groups on per-carboxylic
+acid pillar[5]arene 45[5]. The resulting solution was homogeneous even after the complete reduction of graphene oxide
+
+
+6.3.3. Metal Organic Frameworks. Yang and co-workers
+reported the occurrence of pH-dependent and competitive
+guest-responsive cargo release from nano-MOFs covered with
+the per-carboxylated pillar[5]arene 46[5] through a host−guest
+complexation process (Figure 61).256
+The treatment of a nano-MOF material with the pyridinium
+guest molecule allowed for the synthesis of the corresponding
+nano-MOF−pyridinium guest complex. The surface of the nanoMOF−pyridinium guest complex 8 was then capped with percarboxylic acid pillar[5]arene 46[5] after loading of the cargo.
+Under acidic conditions, the system released the cargo from the
+nano-MOF. The addition of viologen as a competitive agent also
+led to the release of the cargo.
+6.3.4. Silica. Yang and co-workers reported the functionalization of pillar[5]- and pillar[6]arene molecules with silica particles
+through the formation of a covalent bond between the two
+materials (Figure 62a).257
+The silica surface was initially activated with SiCl4, and then
+treated with the per-hydroxylated pillar[5]- and pillar[6]arenes
+12[5] and 8[6] to allow for the immobilization of these materials
+on the silica surface. These pillar[5,6]arene-modified silica
+particles adsorbed paraquat in aqueous media. The pillar[6]-
+arene-modified silica particles adsorbed approximately twice as
+much paraquat as the corresponding pillar[5]arene-modified
+silica particles.
+Our group previously reported the construction of pillar[5]-
+arene-based multilayer films on a silica substrate (Figure 62b).258
+The multilayer films were obtained using a layer-by-layer
+assembly method, which is generally used for the construction
+of polymer-based thin films by the consecutive adsorption of
+oppositely charged polyelectrolytes on a silica surface. Pillar[5]-
+arene-based multilayer materials were obtained by alternating the
+adsorption steps with the cationic pillar[5]arene 139[5] and the
+anionic pillar[5]arene 46[5]. The unique pillar-shaped structures
+and the presence of functional groups on both rims of the
+pillar[5]arenes contributed to the successful formation of
+multilayer films using pillar[5]arenes based on a layer-by-layer
+assembly. The resulting films possessed the molecular
+recognition abilities of pillar[5]arenes, in that the films only
+adsorbed 1,4-dinitrobenzene and did not exhibit any adsorption ability toward 1,2- or 1,3-dinitrobenzene. In addition, the surface
+electrostatic potential of these systems resulted in their molecular
+recognition ability. 1,4-Dinitrobenzene was adsorbed on the
+surfaces of films with a cationic surface, but not on the surfaces of
+films with an anionic surface. The amount of 1,4-dinitrobenzene
+adsorbed onto the surfaces of these systems could be tuned, with
+the amount of adsorbed 1,4-dinitrobenzene increasing with an
+increase in the number of deposited layers.
+
+
+7. MECHANICALLY INTERLOCKED MOLECULES
+7.1. Rotaxanes
+Rotaxanes, using pillar[5]arene wheels, were initially investigated
+using simple linear alkanes as the station. The first pillar[5]arenebased rotaxane was reported by Stoddart et al.82 On the basis of
+the formation of a host−guest complex between per-methylated
+pillar[5]arene 1[5] and alkanediamines, they investigated endcapping reactions of the complex between diaminoocatane G46
+and 1[5] with an aldehyde-end stopper 9 to form [2]rotaxane 10
+(Figure 63).
+The subsequent reduction of the diamine with NaBH4
+afforded the [2]rotaxane 10, but its yield was low (7%) due to
+the weak host−guest complexation between G46 and 1[5] (K =
+70 ± 10 M−1). Huang and co-workers synthesized [2]rotaxanes
+based on pillar[5]arene/alkane recognition by esterification
+reactions,259,260 in yields of 16−35%. The driving forces for the
+host−guest complexation are weak CH/π interactions; thus,
+these yields were considered to be reasonable. We reported the
+high yield synthesis of pillar[5]arene-based rotaxanes using a
+good cationic axle for pillar[5]arenes.261 We used a pyridinium
+derivative as an axle and the CuAAC reaction for the end-capping dethreading of the pillar[5]arene wheel, but also produces
+another equal energy level station.
+Stoddart and co-workers synthesized [4]- and [5]-
+heterorotaxanes consisting of heteromacrocyclic hosts, pillar[5]-
+arene and CB[6] wheels, or pillar[6]arene and CB[6] wheels
+(Figures 66 and 67).264
+The per-hydroxylated pillar[n]arenes have hydrogen donor
+OH groups at both rims. CB[6] has CO moieties as hydrogen
+acceptors. Therefore, mixing these heteromacrocyclic wheels in
+the presence of an axle resulted in a high level of preorganization
+for the rotaxanation by means of the multiple hydrogen-bonding
+interactions between CO moieties of CB[6] and phenol
+moieties of pillar[n]arenes. When per-hydroxylated pillar[5]-
+reaction (Figure 64).
+Pyridinium derivatives form stable host−guest complexes with
+pillar[5]arenes driven by cationic/π interactions (K > 104 M−1).
+CuAAC reaction between the alkyne-end of pseudo[2]rotaxane,
+composed of axle 11, with wheel 2[5] and azido-stopper 12
+afforded the [2]rotaxane 13 in high yield (75%). Rotation of the
+pillar[5]arene wheel in the [2]rotaxane was completely inhibited
+due to the existence of the axle in the rotaxane. From 1H NMR
+measurement, the conformation of the pillar[5]arene wheel was
+assigned as the a and a′ forms. The substituents on the
+pillar[5]arene rims are ethoxy moieties. There are no strong
+intramolecular interactions between the ethoxy moieties; thus
+conformers a and a′ are the most stable conformers in
+[2]rotaxane. The ratio of a:a′ conformers in [2]rotaxane was
+50:50. A new challenge is the enantioselective synthesis of
+pillar[n]arene rotaxanes. The high yield synthesis of a [2]-
+rotaxane using a cationic imidazolium axle was reported by
+Huang and co-workers.262 The [2]rotaxane showed solvent- and
+thermo-driven molecular motions and supramolecular gel
+formation.
+
+
+
+We used the CuAAC reaction for the efficient end-capping
+reactions to produce the [2]rotaxane in high yield. However, the
+C4 linker with two 1,2,3-triazole groups, which was generated by
+the CuAAC reaction of alkyne and azide moieties, was a good
+guest station (K > 104 M−1).111 We synthesized pillar[5]arenebased [2]rotaxanes based on multiple CuAAC reactions (Figure
+65).263 The multiple CuAAC reactions generated a good station,
+n-butylene with two 1,2,3-triazole moieties at both ends.
+First, the CuAAC reaction of 1,4-diazidobutane with excess
+1,7-octadiene afforded an axle containing one station and two
+alkyne moieties at both ends of axle 14 (Figure 65a). Second, the
+CuAAC reaction between the axle 14 and azido-stopper 15 in the
+presence of pillar[5]arene 2[5] afforded [2]rotaxane 16 in
+moderate yield (54%). In contrast, when 1,7-octadiene was
+reacted with excess 1,4-diazidobutane by the CuAAC reaction, an
+axle with two azide moieties 17 was afforded (Figure 65b). There
+were no good stations for pillar[5]arene in the axle. The CuAAC
+reaction between the axle 17 and alkyne-stopper 18 in the
+presence of pillar[5]arene 2[5] then resulted in [2]rotaxane
+containing two stations with equal energy levels 19 that exhibited
+shuttling of the pillar[5]arene wheel between the stations. In this
+reaction, the first CuAAC reaction produces one good station,
+the butylene with two triazole ends. Thus, formation of
+[2]pseudorotaxane occurred. The second CuAAC reaction
+then achieves not only the end-capping reaction to inhibit the arene 12[5] was used as the wheel, axles containing a viologen
+moiety 20−22 were suitable for the synthesis of rotaxanes. The
+CuAAC reaction of the preorganized pseudorotaxane structure,
+consisting of pillar[5]arene 12[5], and viologen axle with
+stopper-CB[6] complex 24, yielded two [4]rotaxanes and one
+[5]rotaxane in >90% yields. When short spacers were used
+between viologen and azide moieties 20 (n = 1) and 21 (n = 2),
+[4]rotaxanes (25 and 26) containing two CB[6] and one
+pillar[5]arene wheels were obtained in >95% yields. In contrast,
+when a long spacer 22 (n = 3) was used, a [5]rotaxane containing
+two CB[6] and two pillar[5]arene wheels 27 was produced in
+>90% yield. These results indicate that the long alkyl spacer is
+sufficient to include two pillar[5]arene wheels, but the short alkyl
+spacer is not. In the case of a longer spacer 23 (n = 4), a
+hetero[5]rotaxane 28 containing two pillar[5]arene wheels was
+produced, but its yield decreased (30%) because the length of the
+spacer is too long to form a stable preorganized pseudorotaxane
+structure. Another interesting aspect of the heterorotaxane
+formation was that the preorganization also accelerated the
+reaction rate of 1,3-dipolar cycloadditions between azides and
+alkynes. Thus, the formation of these rotaxanes proceeded even
+without a Cu(I) catalyst. The conformations of the pillar[5]arene
+wheels in the rotaxanes were the C5-symmetric a/a′ forms as the
+major component, but also contained b/b′ and c/c′ forms as
+minor components. Conformational isomer d/d′, which is the
+most stable conformation in per-hydroxylated pillar[5]arene
+12[5] due to the intramolecular hydrogen bonds, was not
+found.27 A possible reason for this is the number of the phenolic
+moieties without intramolecular hydrogen bonds. a/a′, b/b′, and
+c/c′ forms have more than six phenolic groups, which can form
+intermolecular hydrogen bonds between pillar[5]arene and
+CB[6] wheels to stabilize the preorganized pseudorotaxane
+structure. However, the d/d′ conformers only have two phenolic
+groups, which can participate in intermolecular hydrogen
+bonding with CB[6].
+
+
+
+The same group expanded the idea for the efficient synthesis of
+pillar[6]arene-based hetero[4]rotaxanes consisting of one axle,
+two CB[6] rings, and one pillar[6]arene ring (Figure 67).265
+In axles containing a viologen station, which were used for the
+synthesis of heterorotaxanes containing pillar[6]arene and
+CB[6] rings (Figure 67, 20 and 21), the yields of the
+hetero[4]rotaxanes (30 and 31) were not high (38−39%).
+However, when an axle contained a ter-phenyl moiety 29, the
+yield of the hetero[4]rotaxane 32 was increased (68%). A
+possible explanation is that the ter-phenyl moiety should fit into
+the cavity of pillar[6]arene. The rotation of units of the
+pillar[6]arene ring in the hetero[4]rotaxanes was not inhibited
+at room temperature due to the large cavity of pillar[6]arene.
+Pillar[6]arene has 13 conformers (Figure 9c). The most stable
+conformation of per-hydroxylated pillar[6]arene in the hetero-
+[4]rotaxane 32 obtained from calculation was the alternating upto-down arrangement (g form), which is the most stable
+structure in per-hydroxylated pillar[6]arene because all 12
+phenolic moieties can form intramolecular hydrogen bonds.
+The X-ray crystal structure of the [4]rotaxane 32 also supported
+the results from calculations (Figure 67b). The conformation of
+the pillar[6]arene ring in the hetero[4]rotaxane 32 exhibited an
+up-to-down arrangement. Intermolecular hydrogen bonds were
+also found between the pillar[6]arene and CB[6] rings to form a
+stable preorganized pseudorotaxane structure.
+Rotaxanes having various structures and functions have been
+constructed using a pillar[5]arene wheel. Huang and co-workers
+reported a doubly threaded rotaxane dimer 33 with two stable
+structures by end-capping of the double-threaded dimer (Figure
+68a).266
+In chloroform, the dimer 33 formed a contracted state with a
+length of 31 Å because the NH/π interactions are stronger than
+CH/π interactions in the nonpolar chloroform solvent.
+However, the dimer 33 formed an extended state with a length
+of 37 Å in the polar solvent DMSO, because NH/π interactions
+are weaker than CH/π interactions in the polar DMSO solvent.
+Gallani and Nierengarten reported amphiphilic pillar[5]arenecontaining [2]rotaxane 34 (Figure 68b).267 The [2]rotaxane 34
+consisted of a hydrophobic axle, a pillar[5]arene wheel, and a
+hydrophilic stopper. Because of the good hydrophobic/hydrophilic balance, stable Langmuir films were obtained. Xue and coworkers synthesized a pillar[5]arene-based [1]rotaxane by
+preorganization of [2]pseudorotaxane structure by means of
+CH/π and cationic/anionic electrostatic interactions (Figure
+68c).167 Proton transfer from monocarboxylic acid pillar[5]arene
+115[5] to a linear alkane with a primary amine moiety at one end
+G51 contributed to the formation of the highly preorganized
+[2]pseudorotaxane structure. Amidation between the primary
+amine group on the guest and the carboxylic acid group on the
+pillar[5]arene then gave [1]rotaxane 35 in high yield (73%).
+We constructed an efficient FRET system based on the
+[2]rotaxane structure (Figure 69a).268 A CuAAC reaction of an axle containing a bulky trityl moiety at
+one end and an alkyne at the other end 36, with an azide-perylene
+stopper 37 in the presence of a pillar[5]arene wheel with two
+pyrene moieties at the A1/A2 positions 92[5], afforded a
+[2]rotaxane 38 (yield 80%). The [2]rotaxane 38 exhibited a
+strong emission from the perylene by excitation of pyrene
+moieties in the wheel, indicating that FRET occurred from
+pyrene of the wheel to perylene in the axle. The emission
+intensity of [2]rotaxane 38 was approximately 26 and 20 times
+larger than that of the dumbbell 39 and a mixture of wheel 92[5]
+and dumbbell 39, respectively, due to the pyrene moiety of the
+wheel being fixed closely to the perylene moiety in the axle by
+rotaxanation.
+A pillar[6]arene-based [2]rotaxane was first prepared by our
+group (Figure 69b).269 The same axle 36 to produce the
+pillar[5]arene-based FRET [2]rotaxane was used for the
+synthesis of pillar[6]arene-based [2]rotaxane 42 even though
+the association constant of the complex between pillar[6]arene
+and the axle was low (K = 19.1 ± 2.2 M−1) due to the size
+mismatch between the pyridinium moiety and cavity size of
+pillar[6]arene. The AuAAC reaction between the axle 36 and
+bulky trityl stopper with azide moiety 40 in the presence of
+pillar[6]arene 1[6] afforded pillar[6]arene-based [2]rotaxane 42
+in 14% yield. The axle consists of two types of alkyl linkers, short
+and long linkers in the axle. The association constant of the axle
+and pillar[6]arene was weak; thus, the pillar[6]arene wheel in the
+[2]rotaxane moved along the axle. As the temperature increased,
+the pillar[6]arene wheel moved from the short alkyl linker to the
+long alkyl linker due to the ΔS dominance.
+
+
+7.2. Catenanes
+Catenanes, which comprise two or more macrocycles, have been
+synthesized using pillar[5]arenes as constituent macrocycles.
+Our group reported a simple [2]catenane using a pillar[5]arene
+ring 2[5] and a pyridinium derivative bearing alkene groups at
+both ends 43 (Figure 70a).270 A ring-closing metathesis reaction
+of the alkene groups in the pyridinium derivative in the presence
+of pillar[5]arene ring 2[5] resulted in the formation of a
+[2]catenane 44. Pseudo[1]catenane 140[5], in which the guest
+alkyl cyclic chain connected to one pillar[5]arene unit, can be
+produced by the CuAAC reaction between difunctionalized
+pillar[5]arene with alkyne moieties at the A1/A2 positions 90[5]
+and 1,12-diazidododecane (Figure 70b).
+Pseudo[1]catenane formed a self-inclusion complex in
+chloroform, and had two enantiomers, the in-a and in-a′ forms.
+The enantiomers were isolated by chiral column chromatography. Planar chiral inversion from in-a to out-a′ or from in-a′ to
+out-a occurred by the addition of competitive guests and in
+linear-shaped solvents such as dichloromethane and acetonitrile.271 Liu and co-workers synthesized mechanically self-locked
+chiral gemini-catenanes 45 (Figure 70c). Amidation between
+A1/A2 difunctionalized pillar[5]arene with two carboxylic acid
+moieties 57[5] and 1,8-diaminooctane afforded pseudo[1]-
+catenane and self-locked gemini-catenanes with a/a or a′/a′
+forms of pillar[5]arenes (enantiomers) and a/a′ form of
+pillar[5]arenes (meso-form).272 The combination of different
+host molecules enables the construction of catenanes and their
+derivatives. Huang and co-workers reported the supramolecular
+structural change from pseudo[2]rotaxane to pseudo[1]-
+catenane (Figure 71a). They synthesized the A1/A2 difunctionalized pillar[5]arene with two crown ether units 141[5].273 A
+pseudo[1]catenane-like structure can be constructed by the
+threading followed by complexation method.
+First, [2]pseudorotaxane was obtained by complexation
+between 141[5] and diaminoalkane. Addition of acid then led
+to the formation of a diammonium salt. The host−guest complex
+with the crown ether moieties between ammonium salts, induced
+upon addition of acid, was triggered to form a pseudo[1]-
+catenane-like structure.
+Ma, Li, Jiang, Wen, and co-workers synthesized a bicyclic host
+consisting of a pillar[5]arene and a 1,5-dioxynaphthalene-based
+crown ether unit 142[5] (Figure 71b). The bicyclic host had the
+ability to capture two different guest molecules selectively and
+simultaneously.274,275 The pillar[5]arene ring formed a complex
+with an imidazolium cation, and the crown ether ring
+accommodated a viologen moiety. On the basis of the highly
+selective molecular recognition of the bicyclic compound,
+topologically novel mechanically interlocked molecules such as
+[2]rotaxane 46, [2]catenane 47, and [2]rota[2]catenane 48 can
+be created.27
+
+
+7.3. Polyrotaxanes
+Polyrotaxanes, in which many wheels are threaded onto a linear
+polymer chain, can be synthesized using pillar[5]arenes as
+wheels. Pillar[5]arenes form stable host−guest complexes with
+cationic molecules; thus, we investigated host−guest complexation between per-hydroxylated pillar[5]arene 12[5] and a
+viologen polymer (Figure 72a).277
+When per-hydroxylated pillar[5]arene 12[5] was mixed with
+viologen polymer, formation of a polypseudorotaxane was
+observed (Figure 72b). By capping the chain ends with bulky
+adamantyl moieties through cationization, the first pillar[5]-
+arene-based polyrotaxane 49 was successfully prepared (Figure
+72c).278
+The emeraldine base form of polyaniline is the half-oxidized
+state, and thus can be oxidized upon the addition of oxidants, and
+reduced upon addition of reductants. Per-hydroxylated pillar[5]-
+arene 12[5] consists of reductant hydroquinone units, and thus
+can be used as a macrocyclic reductant. When reductant 12[5]
+was mixed with the emeraldine form of polyaniline, the blue
+solution color of the emeraldine form of polyaniline became
+colorless (Figure 73a).his result indicates that the emeraldine form of polyaniline,
+which has a blue color, completely oxidized to a leucoemeraldine
+form of polyaniline, which is colorless. In contrast, a blue solution
+color still remained even with the same amount of reductant
+hydroquinone, indicating that pillar[5]arene 12[5] showed a
+stronger reducing ability than the unit model of hydroquinone.
+This arises from the formation of the polypseudorotaxane
+structure between polyaniline and pillar[5]arene 12[5].
+Pseudorotaxanation is ideal for the reductant pillar[5]arene
+12[5], which is close to the oxidized substrate of the emeraldine
+form of the polyaniline chain.
+Pillar[5]arenes form host−guest complexes with linear
+alkanes; thus formation of the polypseudorotaxane structure
+between pillar[5]arene 5[5] and polyethylene was investigated
+by our group (Figure 73b).280 Polyethylene is hardly soluble in
+organic solvents; thus pillar[5]arene and polyethylene were
+mixed in the melted state. The formation of the polypseudorotaxane structures led to the extension of polyethylene chains,
+which contributed to increasing the melting point of poly ethylene from 126 to 152 °C. The melting point change was
+directly observed by phase transitions from the melted state to
+the solid state upon addition of pillar[5]arene at 140 °C.
+Addition of the competitive guest, 1,4-dibromobutane, induced
+the phase transition from solid to melted state at 140 °C. This
+arises from the dethreading of the polyethylene chain from the
+cavity of 5[5]. These phase transitions could be applied to the
+new molding and processing techniques of polyethylene.
+Wang and co-workers reported dynamic polyrotaxanes using a
+[2]rotaxane with ureidopyrimidinone moieties that contribute
+not only as an end-capping stopper but also to supramolecular
+polymerization of [2]rotaxane (Figure 74).281
+The [2]rotaxane 50 was prepared by end-capping of an axle
+with quadruple hydrogen-bonding ureidopyrimidinone in the
+presence of a pillar[5]arene wheel. The [2]rotaxane formed a
+polyrotaxane-like supramolecular polymer in high concentration
+by intermolecular quadruple hydrogen bonds between the
+ureidopyrimidinone moieties.
+Pillar[5]arenes form host−guest complexes with cationic
+guest molecules, but are hardly formed with neutral guests.
+Therefore, the synthesis of polyrotaxanes consisting of nonionic polymers was difficult. To overcome this problem, we applied
+liquid pillar[5]arenes to synthesize nonionic polymer-based
+polyrotaxanes (Figure 75).282
+The end-capping reaction between azido-end polytetrahydrofuran and alkyne-stopper 18 in liquid pillar[5]arenes (51[5]
+and 143[5]) resulted in the formation of polyrotaxanes (51 and
+52) in moderate yields. Using a new liquid pillar[5]arene with
+reactive vinyl moieties 143[5], the pillar[5]arene-based topological gel 53 was obtained by intermolecular cross-linking
+between polyrotaxanes by a metathesis reaction. The topological
+gel swelled in organic solvents with intermediate dielectric
+constants, but not in nonpolar or highly polar solvents.
+
+
+8. MATERIAL APPLICATIONS OF PILLAR[n]ARENES
+8.1. Electronic Materials
+Per-hydroxylated pillar[5]arene 12[5] has five hydroquinone
+units. Thus, oxidation of per-hydroxylated pillar[5]arene 12[5]
+afforded pillar[5]quinone containing five benzoquinone units
+144[5] (Figure 76a).283 Hydroquinone is converted to
+benzoquinone by oxidation, and benzoquinone is converted
+back to hydroquinone by reduction. There are a total of 10
+carbonyl groups with high density on both rims of pillar[5]-
+quinone; thus the macrocyclic structure of 144[5] is expected to
+favor Li uptake. Chen and co-workers investigated 144[5] as the
+cathode for lithium organic batteries.284 The 55 wt %
+pillar[5]quinone cathode showed excellent electrode properties:
+an average operation voltage of approximately 2.6 V, and high
+initial capacity (418 mAh/g) with a stable cyclability (94.7% of
+the initial capacity retained even after 50 cycles).
+Cheng and Kaifer reported the cathodic voltammetric
+behavior of pillar[5]quinone 144[5] in nonaqueous media.285
+Four waves were observed by square wave voltammetry in the
+voltammetric reduction cycle of 144[5], which corresponded to
+2, 1, 2, and 3 electrons (Figure 76a). Uptake of the first electron
+occurred, and then uptake of the second electron proceeded at a
+very similar potential as the uptake of the first electron.
+Therefore, the number of electrons attributed to the first waves
+was two. To minimize the repulsive forces, negative charges
+should locate in A and C benzoquinone units (Figure 76b).
+Uptake of the third electron should proceed in the D
+benzoquinone unit to minimize the repulsive forces. In this stage,
+uncharged benzoquinone units were at the B and E positions;
+thus uptake of last two electrons proceeded at very similar
+potentials. Kudo et al. investigated novel resist materials using
+pillar[5]arene platform.286 A pillar[5]arene derivative with
+adamantyl moieties connected by ester bonds showed high
+lithographic performance, and is thus a promising candidate for
+high-resolution resist materials as well as noria, calix[n]arene
+dimers, and CDs.
+
+
+
+8.2. Artificial Transmembrane Channels
+Hou et al. have developed various unimolecular artificial channels
+using the tubular-shape of pillar[5]arenes.287 Their chemistry
+started from the crystal structure of pillar[5]arene with 10 ethyl
+ester moieties 44[5] (Figure 77a). The decaester moleculesassembled into infinite 1D channels, and ordered water wires
+were observed in the 1D channels (Figure 77b).143
+Because of the assembled structure of the decaester working as
+proton channels, they incorporated the decaester in the lipid
+bilayer to serve as proton channels.288 The decaester worked as
+proton channels even in the lipid bilayer, and the conductance
+using the decaester was 44 pS. However, the thickness of the lipid
+bilayer is approximately 3.7 nm, which is more than twice as long
+as the decaester pillar[5]arene (1.6 nm). Assembly of two
+pillar[5]arene molecules is required to act as stable proton
+channels (Figure 77d). The authors therefore synthesized
+pillar[5]arene dimers with various length linkers 145[5]−
+150[5] (Figure 77c). The pillar[5]arene dimer with C3 linker
+147[5] was most applicable to the thickness of the liquid bilayer
+among pillar[5]arene dimers with various lengths. Thus, the
+pillar[5]arene dimer linked by the C3 linker 147[5] exhibited
+similar proton conductance and high channel stability as
+compared to the monomeric decaester, while pillar[5]arene
+dimers connected by short (C1) 145[5] and long (C6) 150[5]
+linkers minimized the intramolecular stacking interactions of the
+two pillar[5]arene units (Figure 77e).
+Water channels were also constructed by attaching hydrazide
+chains to pillar[5]arene rims (151[5] and 152[5], Figure
+78a).289
+In the crystal structure, the tubular structure of pillar[5]arene
+151[5] was stabilized by intramolecular hydrogen bonds of
+adjacent hydrazine subunits. In the cavity, hydrogen-bonded
+water dimers were observed. The length of the extended
+hydrazide-modified pillar[5]arene 152[5] is approximately 5 nm,
+which is sufficient to span the lipid bilayer. 152[5] could insert
+into lipid vesicles containing aqueous NaCl solution. Insertion of
+the tubular structure into the lipid vesicles caused water to flux
+into the vesicles due to the reduction of osmotic pressure
+difference between the outside and inside of the vesicles, and
+triggered swelling of the vesicles and fusion between different
+vesicles.
+Peptide-appended pillar[6]arene 23[6] acted as chiral
+selective transport channels of amino acids by insertion of
+23[6] into lipid bilayer membranes (Figure 79a).290
+Transport of D-amino acids from the inside to outside of the
+lipid bilayer was faster than that of L-amino acids (Figure 79b and
+c). Hou et al. also synthesized per-functionalized pillar[5]arene
+with Arg-incorporated tripeptide chains 153[5] (Figure 79a).291
+Under a negative potential, 153[5] inserted into a lipid bilayer to
+form channels for the transport of K+ ions. In contrast, under a
+positive potential, 153[5] left the lipid bilayer, which resulted in the nontransport of K+ ions (Figure 79d). Therefore, transportation of K+ ions can be switched by voltage control.
+
+
+9. CONCLUDING REMARKS AND FUTURE
+PERSPECTIVES
+Research in the field of pillar[n]arene chemistry started in 2008;
+thus pillar[n]arene chemistry only has a short history of 8 years.
+However, even in 8 years, the chemistry has developed
+exponentially as this field has garnered tremendous attention
+of many chemists. In the initial stage from 2008 to 2011, there
+were only a handful of researchers. However, their considerable
+efforts uncovered the fundamental properties of cyclic
+pentamers, pillar[5]arenes, such as synthesis, structure,
+functionality, conformational, and host−guest properties. For
+example, etherification of preformed pillar[5]arenes, such as perhydroxylated pillar[5]arene, was the first approach to obtain perfunctionalizing pillar[5]arenes. The first water-soluble pillar[5]-
+arene was prepared in 2010 by the etherification approach.88 The
+discovery of water-soluble pillar[5]arene was a turning point in
+the host−guest chemistry of pillar[5]arenes, which enabled
+aqueous media to be chosen as the complexation media in
+addition to organic media. The per-functionalization of pillar[5]-
+arenes by the etherification approach also enabled the inhibition
+of the rotation of the units through the introduction of bulky
+substituents. Inhibition of the rotation of the units completely
+opened the area of planar chirality of pillar[5]arene in 2011.91 In
+2010, Huang and co-workers developed a cocyclization approach
+to obtain pillar[5]arene with one different unit.81 In 2011,
+Stoddart and co-workers synthesized monofunctionalized
+pillar[5]arenes based on the cocyclization approach.82 The
+appearance of monofunctionalized pillar[5]arenes led to the
+construction of a wide variety of pillar[5]arene-based supramolecular polymers. From 2012, the moderate yield synthesis of
+cyclic hexamers, pillar[6]arenes, has expanded the fields of
+pillar[n]arene chemistry.59 Photo- and redox-responsive host−
+guest systems using pillar[6]arenes were a major breakthrough to apply the host−guest chemistry of pillar[n]arene for supramolecular structural switching.136,179 That is, the development of
+pillar[n]arene chemistry was supported by a genuine team effort
+from pillar[n]arene chemists all over the world. Their efforts
+triggered the next exponential increase in the development of
+pillar[n]arene chemistry from 2012. Fortunately, many chemists
+have joined the pillar[n]arene chemistry community, and
+contributed to uncovering new potentials of pillar[n]arenes by
+applying pillar[n]arenes to different fields of chemistry, such as
+inorganic, polymer, biomedical, and electrical chemistry. Now,
+pillar[n]arenes are attracting attention from numerous researchers, and are recognized as one of the key components in
+supramolecular chemistry. From the history of the development
+of pillar[n]arene chemistry, discovery of the original pillar[n]-
+arene features is very important for the further success of
+pillar[n]arene chemistry. Their beautiful pillar-shaped and
+regular polygonal structures should be important aspects for
+the construction of highly ordered original pillar[n]arene
+assemblies. The hydrocarbon-recognition ability of pillar[n]-
+arenes by multiple CH/π interactions should lead to yet
+unknown molecular storage and separation materials. Application of pillar[n]arenes of mechanically and thermally tough
+supramolecular polymers and electronic materials should be a
+future target. Application of the pillar[n]arenes, based on the
+original features of pillar[n]arenes, will lead to further breakthroughs, which might extend the field beyond the present
+concept of supramolecular chemistry. The structure of pillar[n]-
+arenes is very simple; thus we believe that the pillar[n]arenes
+should have unlimited potential, serve as ideal platforms to
+construct supramolecular materials, and continue to be widely
+researched and loved within the ever expanding community.
+Pillar[n]arenes still have an infinite number of possibilities, and
+look forward to future discoveries in pillar[n]arene chemistry.

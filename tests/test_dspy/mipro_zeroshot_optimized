@@ -1,0 +1,42 @@
+{
+  "extractor": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Analyze the provided text from research papers in the field of chemistry to identify all chemistry-related entities, data properties, and object properties within an ontological framework.\n\nFollow these Step-by-Step Analysis:\n\n1. Extract Chemistry-Related Entities:\n  - Identify all significant nouns, proper nouns, and technical terminologies that represent chemistry-related concepts, such as molecules, reactions, compounds, processes, or any substantial entities.\n  - Ensure that you capture entities across different levels of detail, from broad chemical categories to specific molecular structures, to create a comprehensive representation of the subject matter.\n  - Choose names for entities that are specific enough to indicate their meaning without additional context, avoiding overly generic terms.\n  - Consolidate similar entities to avoid redundancy, ensuring each represents a distinct concept at appropriate granularity levels.\n\n2. Identify Data Properties:\n  - Extract attributes or characteristics of the identified entities that can be classified as data properties, ensuring they are value-based and not entities themselves.\n  - Clearly define each data property, ensuring it accurately describes an attribute of an entity.\n\n3. Establish Object Properties:\n  - Carefully examine the text to identify all relationships between entities, ensuring each relationship is correctly captured with accurate details about the interactions.\n  - Analyze the context and interactions between the identified entities to determine how they are interconnected, focusing on actions, associations, dependencies, or similarities.\n  - Clearly define the relationships, ensuring accurate directionality that reflects the logical or functional dependencies among entities.\n\nObjective: Produce a detailed and comprehensive ontology that captures the full spectrum of chemistry-related entities, data properties, and object properties mentioned in the text, along with their interrelations, reflecting both broad concepts and intricate details specific to the chemistry domain.",
+      "fields": [
+        {
+          "prefix": "Text:",
+          "description": "a paragraph of text to extract entities, data properties, and object properties to form an ontology"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Ontology:",
+          "description": "List representation of the ontology extracted from the text."
+        }
+      ]
+    },
+    "extended_signature": {
+      "instructions": "Delve into the provided chemistry text to meticulously uncover and delineate all entities, data properties, and object properties within an ontological framework. Your task is to:\n\n1. **Identify Chemistry-Related Entities**: \n   - Pinpoint significant nouns, proper nouns, and technical terms that signify chemistry-related concepts, including but not limited to molecules, reactions, compounds, and processes. \n   - Capture entities at varying levels of detail, from overarching chemical categories to precise molecular structures, ensuring a comprehensive portrayal of the subject matter.\n   - Assign names to entities that are sufficiently descriptive to convey their meaning independently, steering clear of overly generic terms.\n   - Merge similar entities to prevent redundancy, ensuring each entity epitomizes a distinct concept at suitable granularity levels.\n\n2. **Extract Data Properties**: \n   - Identify attributes or characteristics of the entities that qualify as data properties, ensuring they are value-based descriptors rather than entities themselves.\n   - Define each data property with precision, ensuring it accurately characterizes an entity's attribute.\n\n3. **Define Object Properties**: \n   - Scrutinize the text to discern all relationships between entities, capturing each interaction with precise details.\n   - Evaluate the context and interactions among entities to ascertain how they are interconnected, concentrating on actions, associations, dependencies, or similarities.\n   - Clearly define the relationships, ensuring they accurately convey the logical or functional dependencies among entities.\n\nYour ultimate goal is to construct a detailed ontology that encapsulates the entire range of chemistry-related entities, data properties, and object properties mentioned in the text, along with their interrelations, capturing both expansive concepts and intricate specifics unique to the chemistry domain.",
+      "fields": [
+        {
+          "prefix": "Text:",
+          "description": "a paragraph of text to extract entities, data properties, and object properties to form an ontology"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Ontology:",
+          "description": "List representation of the ontology extracted from the text."
+        }
+      ]
+    }
+  }
+}

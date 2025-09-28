@@ -1,0 +1,7 @@
+{
+    "example_pdf_filename_1": "10.1000/example-doi-1",
+    "another_pdf_name": "10.1021/acs.chemrev.example",
+    "pdf_without_doi_in_log": "10.1039/c3cs60371e",
+    "filename_with_empty_doi_mapping": "",
+    "filename_not_in_chunks_dir": "10.1111/some.doi.value"
+} 

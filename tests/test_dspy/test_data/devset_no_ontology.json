@@ -1,0 +1,11 @@
+[
+  {
+    "context": " 3. When orbitals of identical energy (degenerate orbitals) are available, elec- trons initially occupy these orbitals singly and with parallel spins. This rule means that we must place electrons singly in each orbital with parallel spins before pairing them to ensure that Hund's rule is followed. A simpli- fied statement of Hund's rule is that, for a given configuration, the arrange- ment having the maximum number of parallel spins is lower in energy than any other arrangement arising from the same configuration. This behavior can be rationalized as follows. Because electrons all carry the same electric charge, if the available orbitals all have the same energy, then by placing  them in different orbitals the electrons are spatially as far apart as possible. Why is the atom's energy lower when the electrons' spins are parallel? The answer to this question may seem odd: Electrons with parallel spins repel each other more, and thus shield each other less, than if their spins were  Opposite. Thus, with the spins parallel, the attraction of each electron to the nucleus is greater than if the electrons had opposite spins. The overall effect is that, for a set of degenerate orbitals, having electrons in different orbitals with their spins parallel lowers the total energy of the atom.\\* "
+  },
+  {
+    "context": "The nuclear charge that an electron would experience if there were no inter- vening electrons is $Z,$ the atomic number. The nuclear charge that an electron  actually experiences is reduced by intervening electrons to a value of $Z_{\\mathrm{eff}},$ called the effective nuclear charge. The less of the nuclear charge that an outer electron \"sees\" (that is, the smaller the value of $Z_{\\mathrm{eff}})$ , the smaller is the attrac- tion of the electron to the nucleus, and hence the higher is the energy of the Orbital in which the electron is found. "
+  },
+  {
+    "context": "8-6 CONCEPT ASSESSMENT For a particle in a one-dimensional box, in which state (value of n) is the   greatest probability of finding the particle at one-quarter the length of the box  from either end? "
+  }
+]

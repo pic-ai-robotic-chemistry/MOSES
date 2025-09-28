@@ -1,0 +1,117 @@
+[
+    {
+        "content": "Contents lists available at ScienceDirect",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "j o u r n a l homepage: www.elsevier.com/locate/saa",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Pei-Hui Shan a , Jing-Lan Kan b , Xin-Yu Deng a , Carl Redshaw , Bing Bian c d , Ying Fan a , Zhu Tao a , Xin Xiao a, ⁎\na Key Laboratory of Macrocyclic and Supramolecular Chemistry of Guizhou Province, Guizhou University, Guiyang 550025, China\nb College of Chemistry, Chemical Engineering and Materials Science, Shandong Normal University, Jinan 250014, China\nc Department of Chemistry and Biochemistry, University of Hull, Hull HU6 7RX, UK\nd College of Chemical and Environmental Engineering, Shandong University of Science and Technology, Qingdao 266590, PR China",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Aminoacids are one of the most important classes of building blocks for proteins and peptides [1]. The twenty natural amino acids are widely distributed in food, condiments, pharmaceutical preparations, and even metabolites in the human body [2,3]. As a consequence, the development of reliable methods for amino acid recognition and determination are of great signi /uniFB01 cance in food testing, nutritional analysis, medical diagnostics, and for numerous other /uniFB01 elds [4 -9]. To date, many methods, including high performance liquid chromatography (HPLC) [10], gas chromatography (GC) [11], capillary electrophoresis (CE) [12],and optical techniques [13,14], have been employed for the recognition and detection of the twenty natural amino acids. Among the optical techniques, the /uniFB02 uorescence approach is particular attractive given its excellent selectivity, fast response time, low detection limits, and the inexpensive instrumentation required [15]. Nevertheless, it remains a challenge to develop an effective /uniFB02 uorescent probe system for the detection of speci /uniFB01 c amino acids.\nThe synthetic macrocyclic receptors, cucurbit[ n ]urils (abbreviated as Q[ n ]s, Fig. 1) comprise n glycoluril units bridged by 2 n methylene groups [16 -21],and possess hydrophobic cavities and carbonyl-laced portals. Cucurbit[ n ]urils have been shown to bind organic guests in\n⁎ Corresponding author. E-mail address: gyhxxiaoxin@163.com (X. Xiao).",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "aqueous solution with equilibrium association constant (Ka) values over an enormous range of af /uniFB01 nities [22 -29]. In recent years, Q[ n ]s and derivatives thereof have been reported to encapsulate a number of speci /uniFB01 c amino acids, peptides and proteins [30 -39]. It is well recognized that the encapsulation or release of guests by hosts can bring about substantial alteration in the chemical and physical properties of the guests [40 -49]. For example, Chang and co-workers demonstrated that the /uniFB02 uorescence of palmatine (PAL) in aqueous solution was greatly enhanced when encapsulated by the cavity of Q[7] [50 -53]. The competitive reaction between target drugs and the PAL for the occupancy of Q[7] cavity can result in /uniFB02 uorescence quenching, and this can be utilized for the recognition of the different drugs. The studies of Chang prompted us to investigate whether the PAL probe could be encapsulated within the Q[7] cavity to form an inclusion complex, and then whether the Q[7]@PAL could be used to sense the binding of natural amino acids.\nIn the present work, we have studied the binding properties of Q[7] towards PAL using a number of techniques including 1 HNMRspectroscopy, UV -vis and /uniFB02 uorescence spectroscopy, and isothermal titration calorimetry (ITC), and found that a 1:1 host-guest inclusion complex is formed, which displayed /uniFB02 uorescence of moderate intensity. More importantly, when phenylalanine (Phe) was added to the 1:1 hostguest inclusion complex of Q[7]@PAL, the /uniFB02 uorescence intensity of the inclusion complex was dramatically quenched. However, the addition of any other natural amino acids to the same inclusion complex did not lead to any distinct /uniFB02 uorescence changes. These observations\nFig. 1. The molecular structures of Q[7], PAL and the amino acid phenylalanine (Phe).\nindicate that this system can be used for the selective recognition and determination of Phe in aqueous solution.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Absorption spectra of the host -guest complexes were recorded on an Aglient 8453 spectrophotometer at room temperature. Fluorescence spectra were recorded on a Varian RF-540 /uniFB02 uorescence spectrophotometer. All the NMR data were recorded on a Bruker DPX 400 spectrometer in D2O at 293.15 K.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Q[7] was prepared in our laboratory according to the literature method. PAL and all the enantiomeric amino acids used in the experimentwerecommercially available and used as received without further puri /uniFB01 cation. Stock standard solutions of PAL and all the enantiomeric amino acids (100 mg·mL -1 ) were prepared by dissolving them in double-distilled water. Stock solution of PAL was prepared by adding double-distilled water to a /uniFB01 nal concentration of 1.0 × 10 -6 mol·mL -1 . A Q[7] stock solution of 1.0 × 10 -7 mol·mL -1 was prepared by dissolving Q[7] in double-distilled water. Stock standard solutions were stable for several weeks at room temperature. Standard working solutions were prepared by dilution of the stock standard solutions with double-distilled water before use. All chemicals were of analytical reagent grade, and double-distilled water was used throughout the procedure.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "The 1 H NMR spectra were recorded at 25 °C on a Bruker DPX 400 spectrometer. D2O was used as a /uniFB01 eld-frequency lock and the observed chemical shifts are reported in parts per million (ppm) relative to that for the internal tetramethylsilane (TMS) standard (0.0 ppm). Measurement of UV -Vis absorption and /uniFB02 uorescence emission spectra.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "UV Vis absorption data are determination of two groups of solu--tions. The /uniFB01 rst group of solutions are prepared by molar ratio method. Add 0, 0.1, 0.2 … 2.0 times Q[7] in the /uniFB01 xed PAL (2 × 10 -5 M). The other group is con /uniFB01 gured by JOB method. 10 pairs of control solutions (2 × 10 -5 M), corresponding to different ratios of NPAL and NQ[7]+PAL, and they are 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9. Fluorescence spectrometry conditions: excitation wavelength of 343 nm, slit width of 5 nm, voltage of 575 V. The next experiment is the same of molar ratio method.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "5.0 equiv. of amino acid (1 × 10 -4 M) are dropped into Q[7]@PAL (1:1 2 × 10 -5 M), and a rough test result can be obtained. To Learn moreaboutthe /uniFB02 uorescence changes, /uniFB02 uorescence titration experiment are necessary, Add 0.15 μ l ten times and then 0.3 μ l each time of amino acid to Q[7]@PAL each time until the change tends to be stable.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Microcalorimetric experiments were performed using an isothermal titration calorimeter Nano ITC (TA, USA). The heat evolved was recorded at 298.15 K. The heat of reaction was corrected for the heat of dilution of the guest solution determined in separate experiments. All solutions were degassed prior to titration experiment by sonication. A typical ITC titration was carried out by titrating the Phe solution (1.0 × 10 -3 mol/L, 6 μ L aliquots, at 250-second intervals) into a Q[7] solution. The concentration of Q[7] in the sample cell (1.3 mL) was 1.0 × 10 -4 mol/L. Computer simulations (curve /uniFB01 tting) were performed using the Nano ITC analyze software. First points in ITC data are excluded when /uniFB01 tting the model to acquire binding constant, enthalpy change, and entropy change.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Thebindingproperties of Q[7] towards PAL in aqueous solution have been monitored by 1 HNMRspectroscopic experiments. Fig. 2 shows the 1 H NMR spectra of PAL in the absence and in the presence of differing equivalents of Q[7] in neutral D2O solution. Upon the addition of increasing amounts of host Q[7], the Ha, Hb Hc, Hd and He protons of the PAL were shifted up /uniFB01 eld, whilst the Hf, Hi, Hj protons of the PAL were gradually shifted down /uniFB01 eld. This behavior can be rationalized by the inclusion of the methoxy-isoquinoline motif inside the cavity of the host, with the substituted benzene ring remaining outside.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "The binding properties of Q[7] to PAL in aqueous solution was further investigated by UV -vis (Fig. 3) and /uniFB02 uorescence (Fig. 5) spectroscopic titration experiments. As can be seen in Fig. 3, PAL exhibits\nFig. 2. 1 HNMRspectra of PAL (2.0 mmol/L) in the absence (A) and in the presence of 1.02 equivalents of Q[7] (B) and neat Q[7] (C) in D2O at 20 °C.\nFig. 3. (a) UV -vis titration of PAL (2 × 10 -5 mol·L -1 ) on increasing concentrations of Q[7] and (b) absorbance (A) vs . the ratio of the number of mol of host and guest N Q[7] / N PAL ( λ max = 247 nm).\nFig. 4. Continuous variation Job's plot for Q[7] and the guest on the basis of UV -vis titration spectra.\ncharacteristic absorption peaks at 225, 274, and 343 nm. On gradually adding Q[7], the absorption peak of PAL was red shifted to 279 nm. At the same time, the absorbance intensity of PAL was greatly decreased, indicating the high binding af /uniFB01 nity of Q[7] towards PAL. According to the mol ratio method (Fig. 3b), the binding interaction of Q[7] with PAL readily /uniFB01 tted a 1:1 (host: guest) binding model. A continuous variation Job's plot (Fig. 4) further con /uniFB01 rmed that the Q[7]/PAL inclusion complex was formed with a 1:1 stoichiometry.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "The /uniFB02 uorescence spectroscopy of PAL also showed a large change upon the addition of Q[7]. It is well known that PAL display no intrinsic /uniFB02 uorescence in aqueous solution [54], however, upon the gradual addition of Q[7] the /uniFB02 uorescence intensity of PAL displays a signi /uniFB01 cant enhancement. This observed enhancement is attributed to the formation of a 1:1 host-guest inclusion complex in which the Q[7] host provides a hydrophobic microenvironment for the guest [55,56].",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "To further understand the nature of the host -guest complexation of Q[7] with PAL, isothermal titration calorimetry (ITC) experiments (Fig. 6) were carried out. The ITC data revealed that the host -guest complexation is both enthalpically and entropically favorable ( Δ H ° = -29.14 kJ·mol -1 , T Δ S ° = 5.40 kJ·mol -1 , Δ G ° = -34.54 kJ·mol -1 ). In addition to the ion -dipole interaction between the positively charged nitrogens on the PAL guest and the oxygen atoms on the portals of the Q[7] host, van der Waals interactions between the surfaces of the PAL guest and the inner wall of the Q[7] host contribute favorable\nFig. 5. (a) Fluorescence titration of PAL (2 × 10 -5 mol·L -1 ) on increasing concentrations of Q[7] and (b) absorbance (A) vs. the ratio of the number of mol of host and guest N Q[7] / N PAL.\nFig. 6. ITC pro /uniFB01 le of host Q[7] with guest PAL at 298.15 K.\nenthalpy towards the host -guest complexation. The removal of the water molecules from the Q[7] cavity and portals, and from the solvated shell of the PAL is likely responsible for this favorable entropic gain. According to the van't Hoff equation (ln K = -Δ H °/ RT + Δ S °/ R ) and the enthalpic and entropic values, a large binding constant (1.12 ± 0.2) × 10 5 for Q[7] with PAL is obtained.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "As mentioned above, PAL does not display native /uniFB02 uorescence in aqueous solution. Whereas when PAL was encapsulated into the Q[7]\ncavity, the resulting inclusion complex emits /uniFB02 uorescence of moderate intensity. To ascertain whether this inclusion complex PAL@Q[7] can be used to recognize natural amino acids, we carried out a series of /uniFB02 uorescence measurements. Interestingly, when Phe (1 × 10 -4 mol·L -1 ) was added to the 1:1 inclusion complex of Q[7] (2 × 10 -5 mol·L -1 ) with PAL (2 × 10 -5 mol·L -1 ), the /uniFB02 uorescence characteristic of the inclusion complex PAL@Q[7] showed dramatic changes, and /uniFB02 uorescence quenching was observed. However, the addition of any of the other 19 natural amino acids (1 × 10 -4 mol·L -1 ) failed to afford any distinct changes in the /uniFB02 uorescence(Fig. 7). These observations suggest that the inclusion complex PAL@Q[7] can be used for the selective recognition of the Phe in aqueous solution.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "The effect of varying the Phe concentration on the /uniFB02 uorescence intensity of the Q[7]/PAL complex was also investigated. The concentrations of Phe were varied from 0 to 10 × 10 -5 mol·L -1 , and the /uniFB02 uorescence intensity of the Q[7]/PAL complex was found to gradually increase as the Phe concentration increased (Fig. 8). It is worth mentioning that the /uniFB02 uorescence intensity (F) exhibited a near linear relationship with the Phe concentration over a certain range of concentrations (from 0 to 2.0 × 10 -5 mol·L -1 ). The linear range was 0 -2 × 10 -5 mol·L -1 . and the linear regression equations were F = 12.4091C + 86.6569 (C denotes the concentration (mol·L -1 ) of Phe) with correlation coef /uniFB01 cients of 0.9908, which indicated near linearity.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "To understand the response mechanism of the /uniFB02 uorescence quenching of Q[7]/PAL on addition of Phe, we monitored the 1 H NMR spectra of Phe when combined with the Q[7]/PAL inclusion complex. The results revealed that all the peaks of the protons associated with the Phe were shifted to higher /uniFB01 eld relative to those of free Phe. This indicated that the Phe was located inside the Q[7] cavity (Fig. 9), whilst the movement down /uniFB01 eld and broadening of the protons associated with PAL was consistent one included PAL molecule being replaced the Phe molecule, thereby forming a 1:1 inclusion complex.\nIt has been documented that the /uniFB02 uorescence intensity associated with PAL can be greatly enhanced when it included in the hydrophobic cavity of Q[7] [41 -43]. A structural analysis of PAL reveals that the isoquinoline ring and the substituted benzene ring are not in a plane, and they cannot form a conjugated system, thereby resulting in the\nFig. 7. (a) The /uniFB02 uorescence spectra of Q[7]/PAL with different amino acids in aqueous solution with λ ex =343nm.(b)Thephotographs of different L-amino acids was added in Q[7]/PAL under exposure to UV light (365 nm).",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Fig. 8. (a) The /uniFB02 uorescence spectra of Q[7]/PAL at different concentrations of Phe in aqueous solution with λ =343nm,uponadditionofincreasingamounts(0, 0.10,0.20,0.30, 0.40, … 0.9, 1.0, 1.2, 1.4 … 4.8, 5.0 equiv.) of Phe, C Q[7] =2.0 × 10 -5 mol/L, C PAL =2.0 × 10 -5 mol/L. (b) The corresponding plots of /uniFB02 uorescence intensity versus Phe concentration. (c) The plots of /uniFB02 uorescence intensity versus Phe concentration (from 0 to 2.0 × 10 -5 mol·L -1 ).\ncomplete loss of /uniFB02 uorescence. When the PAL was encapsulated into the Q[7] cavity, the isoquinoline ring and the substituted benzene ring forms an effective conjugated system, which leads to enhancement of the /uniFB02 uorescence intensity. An additional factor favorable for /uniFB02 uorescence enhancement is that the degree of freedom of motion of the PAL molecule in the Q[7] cavity is reduced, thereby reducing the probability of radiationless transition. At the same time, the cavity can shield the excited singlet state of PAL from typical quenching processes that usually occur in an aqueous solution. Therefore, better protection was obtained leading to a greater enhancement of the /uniFB02 uorescence intensity of PAL. If the PAL is squeezed out by other molecules, the resulting effect will be /uniFB02 uorescence quenching [56 -58].",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "In the present study, the Q[7] cavity can accommodate 1.0 equiv. of PAL, forming a 1:1 host-guest inclusion complex. The protection of the Q [7] host leads to an enhancement of the /uniFB02 uorescence intensity of the PAL. When amino acid Phe was added to the host -guest system of Q [7]/PAL, Phe competed to occupy the Q[7] cavity. As we observed in\nFig. 9. 1 H NMR spectra of Phe combined with Q[7] and PAL. 1 H NMR spectra of PAL (2.0 mmol/L) in the absence (A) and in the presence of 1.0 equivalents of Q[7] (B) and in the presence of 5.0 equivalents of Phe (1.0 × 10 -2 mol/L) and in the presence 1.0 equivalents of Q[7] (C) and neat Phe (D) in D2O at 20 °C.\ntheir 1 H NMR spectra, the result is that the Q[7] cavity accommodated one Phe. Therefore, a stable inclusion complex was obtained leading to /uniFB02 uorescence quench. For the other 19 natural amino acids, they can't replace the PAL and give no /uniFB02 uorescence variation. This suggests there might be more stronger binding between Phe with Q[7] than the other natural amino acids, as shown in Table 1, the revealed K a values indicated Q[7] binds with Phe with the highest binding af /uniFB01 nity among all the natural amino acids [59].",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "This paper has explored the binding properties of Q[7] to PAL in aqueous solution by a variety of methods. The experimental results suggest that PAL can be encapsulated into the Q[7] cavity to form a 1:1 hostguest inclusion complex. This inclusion complex PAL@Q[7] displays /uniFB02 uorescence of moderate intensity. Interestingly, upon the addition of Phe, a dramatic quenching of the /uniFB02 uorescence intensity of the inclusion complex is observed. In contrast, the addition of any other natural amino acids does not lead to any /uniFB02 uorescence variation. Thus, herein wehave developed a /uniFB02 uorescence probe based on Q[7] and PAL capable of recognizing the amino acid phenylalanine.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "Pei-Hui Shan: Investigation, Formal analysis, Validation, Methodology. Jing-Lan Kan: Formal analysis, Software. Xin-Yu Deng: Validation. Carl Redshaw: Writing - original draft. Bing Bian: Software. Ying Fan: Data curation. Zhu Tao: Resources, Visualization. Xin Xiao: Conceptualization, Funding acquisition, Resources, Writing - review & editing, Supervision.",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    },
+    {
+        "content": "The authors declare that they have no known competing /uniFB01 nancial interests or personal relationships that could have appeared to in /uniFB02 uence the work reported in this paper.\nTable 1 Complex stability constant ( K a amino acids.\n) for Q[7] with some natural\n\nLys@Q[7], K a (M - 1 ) = 2.5 (±0.2) × 10. Arg@Q[7], K a (M - 1 ) = 6.5 (±1.7) × 10 3. His@Q[7], K a (M - 1 ) = 3.7 (±1.7) × 10 2. Trp@Q[7], K a (M - 1 ) = 1.4 (±0.1) × 10 3. Tyr@Q[7], K a (M - 1 ) = 2.2 (±0.7) × 10 4. Phe@Q[7], K a (M - 1 ) = 2.3 (±0.8) × 10 5",
+        "source": "10.1016/j.saa.2020.118177",
+        "file_path": ""
+    }
+]

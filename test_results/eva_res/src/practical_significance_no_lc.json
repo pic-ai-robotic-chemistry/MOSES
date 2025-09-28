@@ -1,0 +1,1241 @@
+{
+  "analysis_type": "no_lc",
+  "alpha_level": 0.05,
+  "model_groups_defined": [
+    "gpt_family",
+    "lightrag_family",
+    "moses_family",
+    "spark_family",
+    "llasmol_family",
+    "flagship_models",
+    "reasoning_comparison"
+  ],
+  "friedman_tests": {
+    "Doubao-Seed-1.6-combined": {
+      "test_type": "Friedman Test",
+      "statistic": 183.90282642339352,
+      "p_value": 2.7091611066890706e-32,
+      "degrees_of_freedom": 13,
+      "significant": true,
+      "models_tested": [
+        "gpt-4.1",
+        "gpt-4.1-nano",
+        "gpt-4o",
+        "gpt-4o-mini",
+        "lightrag-4.1",
+        "lightrag-4.1-nano",
+        "llasmol-top1",
+        "llasmol-top5",
+        "MOSES",
+        "MOSES-nano",
+        "o1",
+        "o3",
+        "spark-chem13b-nothink",
+        "spark-chem13b-think"
+      ],
+      "n_questions": 27,
+      "interpretation": "Very strong evidence of significant differences among 14 models"
+    },
+    "fxx_gemini2.5-pro": {
+      "test_type": "Friedman Test",
+      "statistic": 207.88547189819735,
+      "p_value": 3.2716049385233958e-37,
+      "degrees_of_freedom": 13,
+      "significant": true,
+      "models_tested": [
+        "gpt-4.1",
+        "gpt-4.1-nano",
+        "gpt-4o",
+        "gpt-4o-mini",
+        "lightrag-4.1",
+        "lightrag-4.1-nano",
+        "llasmol-top1",
+        "llasmol-top5",
+        "MOSES",
+        "MOSES-nano",
+        "o1",
+        "o3",
+        "spark-chem13b-nothink",
+        "spark-chem13b-think"
+      ],
+      "n_questions": 27,
+      "interpretation": "Very strong evidence of significant differences among 14 models"
+    }
+  },
+  "cascading_significance": {
+    "Doubao-Seed-1.6-combined": {
+      "cascading_analysis": [
+        {
+          "model": "MOSES",
+          "rank": 1,
+          "mean_score": 8.382862627989367,
+          "significant_difference_found": true,
+          "first_significant_model": "lightrag-4.1-nano",
+          "first_significant_rank": 3,
+          "first_significant_mean": 6.920529139596538,
+          "rank_gap": 2,
+          "mean_difference": 1.4623334883928285,
+          "p_value": 0.001686975359916687,
+          "effect_size": 0.6926861405919867,
+          "models_tested": 3,
+          "non_significant_models": [
+            "o3"
+          ]
+        },
+        {
+          "model": "o3",
+          "rank": 2,
+          "mean_score": 7.78571216973771,
+          "significant_difference_found": true,
+          "first_significant_model": "gpt-4.1",
+          "first_significant_rank": 4,
+          "first_significant_mean": 6.605633751728194,
+          "rank_gap": 2,
+          "mean_difference": 1.1800784180095167,
+          "p_value": 0.03620612621307373,
+          "effect_size": 0.38798333787792016,
+          "models_tested": 3,
+          "non_significant_models": [
+            "lightrag-4.1-nano"
+          ]
+        },
+        {
+          "model": "lightrag-4.1-nano",
+          "rank": 3,
+          "mean_score": 6.920529139596538,
+          "significant_difference_found": true,
+          "first_significant_model": "lightrag-4.1",
+          "first_significant_rank": 7,
+          "first_significant_mean": 5.975266285012226,
+          "rank_gap": 4,
+          "mean_difference": 0.9452628545843123,
+          "p_value": 0.03620612621307373,
+          "effect_size": 0.45459945659902073,
+          "models_tested": 5,
+          "non_significant_models": [
+            "gpt-4.1",
+            "o1",
+            "MOSES-nano"
+          ]
+        },
+        {
+          "model": "gpt-4.1",
+          "rank": 4,
+          "mean_score": 6.605633751728194,
+          "significant_difference_found": true,
+          "first_significant_model": "gpt-4o",
+          "first_significant_rank": 10,
+          "first_significant_mean": 5.125169936130603,
+          "rank_gap": 6,
+          "mean_difference": 1.4804638155975907,
+          "p_value": 0.012076601386070251,
+          "effect_size": 0.534223317629867,
+          "models_tested": 7,
+          "non_significant_models": [
+            "o1",
+            "MOSES-nano",
+            "lightrag-4.1",
+            "gpt-4.1-nano",
+            "spark-chem13b-nothink"
+          ]
+        },
+        {
+          "model": "o1",
+          "rank": 5,
+          "mean_score": 6.538129876599926,
+          "significant_difference_found": true,
+          "first_significant_model": "gpt-4o",
+          "first_significant_rank": 10,
+          "first_significant_mean": 5.125169936130603,
+          "rank_gap": 5,
+          "mean_difference": 1.4129599404693227,
+          "p_value": 0.013010844588279724,
+          "effect_size": 0.5153809109937152,
+          "models_tested": 6,
+          "non_significant_models": [
+            "MOSES-nano",
+            "lightrag-4.1",
+            "gpt-4.1-nano",
+            "spark-chem13b-nothink"
+          ]
+        },
+        {
+          "model": "MOSES-nano",
+          "rank": 6,
+          "mean_score": 6.0601501424217155,
+          "significant_difference_found": true,
+          "first_significant_model": "gpt-4o",
+          "first_significant_rank": 10,
+          "first_significant_mean": 5.125169936130603,
+          "rank_gap": 4,
+          "mean_difference": 0.9349802062911126,
+          "p_value": 0.04355788230895996,
+          "effect_size": 0.3945089462441343,
+          "models_tested": 5,
+          "non_significant_models": [
+            "lightrag-4.1",
+            "gpt-4.1-nano",
+            "spark-chem13b-nothink"
+          ]
+        },
+        {
+          "model": "lightrag-4.1",
+          "rank": 7,
+          "mean_score": 5.975266285012226,
+          "significant_difference_found": true,
+          "first_significant_model": "gpt-4o-mini",
+          "first_significant_rank": 12,
+          "first_significant_mean": 4.428137976258648,
+          "rank_gap": 5,
+          "mean_difference": 1.547128308753578,
+          "p_value": 0.016190022230148315,
+          "effect_size": 0.5285734974212338,
+          "models_tested": 6,
+          "non_significant_models": [
+            "gpt-4.1-nano",
+            "spark-chem13b-nothink",
+            "gpt-4o",
+            "spark-chem13b-think"
+          ]
+        },
+        {
+          "model": "gpt-4.1-nano",
+          "rank": 8,
+          "mean_score": 5.912214569980334,
+          "significant_difference_found": true,
+          "first_significant_model": "spark-chem13b-think",
+          "first_significant_rank": 11,
+          "first_significant_mean": 4.835788848627193,
+          "rank_gap": 3,
+          "mean_difference": 1.0764257213531403,
+          "p_value": 0.029904991388320923,
+          "effect_size": 0.40085840735227946,
+          "models_tested": 4,
+          "non_significant_models": [
+            "spark-chem13b-nothink",
+            "gpt-4o"
+          ]
+        },
+        {
+          "model": "spark-chem13b-nothink",
+          "rank": 9,
+          "mean_score": 5.3207149898134976,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.9374974025883388,
+          "rank_gap": 4,
+          "mean_difference": 4.383217587225158,
+          "p_value": 7.450580596923828e-08,
+          "effect_size": 1.800172950971975,
+          "models_tested": 5,
+          "non_significant_models": [
+            "gpt-4o",
+            "spark-chem13b-think",
+            "gpt-4o-mini"
+          ]
+        },
+        {
+          "model": "gpt-4o",
+          "rank": 10,
+          "mean_score": 5.125169936130603,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.9374974025883388,
+          "rank_gap": 3,
+          "mean_difference": 4.187672533542264,
+          "p_value": 1.4901161193847656e-08,
+          "effect_size": 1.9340774476188836,
+          "models_tested": 4,
+          "non_significant_models": [
+            "spark-chem13b-think",
+            "gpt-4o-mini"
+          ]
+        },
+        {
+          "model": "spark-chem13b-think",
+          "rank": 11,
+          "mean_score": 4.835788848627193,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.9374974025883388,
+          "rank_gap": 2,
+          "mean_difference": 3.8982914460388547,
+          "p_value": 1.4901161193847656e-08,
+          "effect_size": 1.797790584341852,
+          "models_tested": 3,
+          "non_significant_models": [
+            "gpt-4o-mini"
+          ]
+        },
+        {
+          "model": "gpt-4o-mini",
+          "rank": 12,
+          "mean_score": 4.428137976258648,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.9374974025883388,
+          "rank_gap": 1,
+          "mean_difference": 3.490640573670309,
+          "p_value": 6.407499313354492e-07,
+          "effect_size": 1.636110663312123,
+          "models_tested": 2,
+          "non_significant_models": []
+        },
+        {
+          "model": "llasmol-top5",
+          "rank": 13,
+          "mean_score": 0.9374974025883388,
+          "significant_difference_found": false,
+          "first_significant_model": null,
+          "first_significant_rank": null,
+          "first_significant_mean": null,
+          "rank_gap": null,
+          "mean_difference": null,
+          "p_value": null,
+          "effect_size": null,
+          "models_tested": 1,
+          "non_significant_models": [
+            "llasmol-top1"
+          ]
+        }
+      ],
+      "total_models": 14,
+      "models_with_significance": 12,
+      "models_without_significance": 1
+    },
+    "fxx_gemini2.5-pro": {
+      "cascading_analysis": [
+        {
+          "model": "MOSES",
+          "rank": 1,
+          "mean_score": 8.836444784404618,
+          "significant_difference_found": true,
+          "first_significant_model": "lightrag-4.1",
+          "first_significant_rank": 3,
+          "first_significant_mean": 7.530422475907498,
+          "rank_gap": 2,
+          "mean_difference": 1.3060223084971199,
+          "p_value": 0.0012526363134384155,
+          "effect_size": 0.7058274986261354,
+          "models_tested": 3,
+          "non_significant_models": [
+            "o3"
+          ]
+        },
+        {
+          "model": "o3",
+          "rank": 2,
+          "mean_score": 8.717415881737303,
+          "significant_difference_found": true,
+          "first_significant_model": "lightrag-4.1",
+          "first_significant_rank": 3,
+          "first_significant_mean": 7.530422475907498,
+          "rank_gap": 1,
+          "mean_difference": 1.1869934058298046,
+          "p_value": 0.018808094118776632,
+          "effect_size": 0.5242872635810292,
+          "models_tested": 2,
+          "non_significant_models": []
+        },
+        {
+          "model": "lightrag-4.1",
+          "rank": 3,
+          "mean_score": 7.530422475907498,
+          "significant_difference_found": true,
+          "first_significant_model": "gpt-4.1-nano",
+          "first_significant_rank": 7,
+          "first_significant_mean": 6.3134756257950695,
+          "rank_gap": 4,
+          "mean_difference": 1.2169468501124285,
+          "p_value": 0.01506437361240387,
+          "effect_size": 0.5052461619222226,
+          "models_tested": 5,
+          "non_significant_models": [
+            "o1",
+            "lightrag-4.1-nano",
+            "gpt-4.1"
+          ]
+        },
+        {
+          "model": "o1",
+          "rank": 4,
+          "mean_score": 7.40405209486709,
+          "significant_difference_found": true,
+          "first_significant_model": "MOSES-nano",
+          "first_significant_rank": 8,
+          "first_significant_mean": 5.843024628829515,
+          "rank_gap": 4,
+          "mean_difference": 1.561027466037575,
+          "p_value": 0.01738584041595459,
+          "effect_size": 0.5386208357738406,
+          "models_tested": 5,
+          "non_significant_models": [
+            "lightrag-4.1-nano",
+            "gpt-4.1",
+            "gpt-4.1-nano"
+          ]
+        },
+        {
+          "model": "lightrag-4.1-nano",
+          "rank": 5,
+          "mean_score": 7.229269431429975,
+          "significant_difference_found": true,
+          "first_significant_model": "MOSES-nano",
+          "first_significant_rank": 8,
+          "first_significant_mean": 5.843024628829515,
+          "rank_gap": 3,
+          "mean_difference": 1.3862448026004595,
+          "p_value": 0.009608790278434753,
+          "effect_size": 0.5510319189363118,
+          "models_tested": 4,
+          "non_significant_models": [
+            "gpt-4.1",
+            "gpt-4.1-nano"
+          ]
+        },
+        {
+          "model": "gpt-4.1",
+          "rank": 6,
+          "mean_score": 7.008674464641739,
+          "significant_difference_found": true,
+          "first_significant_model": "MOSES-nano",
+          "first_significant_rank": 8,
+          "first_significant_mean": 5.843024628829515,
+          "rank_gap": 2,
+          "mean_difference": 1.165649835812224,
+          "p_value": 0.046262577176094055,
+          "effect_size": 0.44422819610243175,
+          "models_tested": 3,
+          "non_significant_models": [
+            "gpt-4.1-nano"
+          ]
+        },
+        {
+          "model": "gpt-4.1-nano",
+          "rank": 7,
+          "mean_score": 6.3134756257950695,
+          "significant_difference_found": true,
+          "first_significant_model": "spark-chem13b-nothink",
+          "first_significant_rank": 10,
+          "first_significant_mean": 4.725248348623439,
+          "rank_gap": 3,
+          "mean_difference": 1.5882272771716304,
+          "p_value": 0.018655240535736084,
+          "effect_size": 0.47765038650579916,
+          "models_tested": 4,
+          "non_significant_models": [
+            "MOSES-nano",
+            "spark-chem13b-think"
+          ]
+        },
+        {
+          "model": "MOSES-nano",
+          "rank": 8,
+          "mean_score": 5.843024628829515,
+          "significant_difference_found": true,
+          "first_significant_model": "gpt-4o",
+          "first_significant_rank": 11,
+          "first_significant_mean": 4.2167666778299955,
+          "rank_gap": 3,
+          "mean_difference": 1.6262579509995199,
+          "p_value": 0.008888542652130127,
+          "effect_size": 0.5334040887656825,
+          "models_tested": 4,
+          "non_significant_models": [
+            "spark-chem13b-think",
+            "spark-chem13b-nothink"
+          ]
+        },
+        {
+          "model": "spark-chem13b-think",
+          "rank": 9,
+          "mean_score": 5.267471994107608,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.8293786923220503,
+          "rank_gap": 4,
+          "mean_difference": 4.438093301785558,
+          "p_value": 2.9802322387695312e-08,
+          "effect_size": 1.6532158211839674,
+          "models_tested": 5,
+          "non_significant_models": [
+            "spark-chem13b-nothink",
+            "gpt-4o",
+            "gpt-4o-mini"
+          ]
+        },
+        {
+          "model": "spark-chem13b-nothink",
+          "rank": 10,
+          "mean_score": 4.725248348623439,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.8293786923220503,
+          "rank_gap": 3,
+          "mean_difference": 3.8958696563013886,
+          "p_value": 1.4901161193847656e-07,
+          "effect_size": 1.439950384107588,
+          "models_tested": 4,
+          "non_significant_models": [
+            "gpt-4o",
+            "gpt-4o-mini"
+          ]
+        },
+        {
+          "model": "gpt-4o",
+          "rank": 11,
+          "mean_score": 4.2167666778299955,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.8293786923220503,
+          "rank_gap": 2,
+          "mean_difference": 3.387387985507945,
+          "p_value": 1.4901161193847656e-08,
+          "effect_size": 1.4451375105881872,
+          "models_tested": 3,
+          "non_significant_models": [
+            "gpt-4o-mini"
+          ]
+        },
+        {
+          "model": "gpt-4o-mini",
+          "rank": 12,
+          "mean_score": 3.9774960608934538,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top5",
+          "first_significant_rank": 13,
+          "first_significant_mean": 0.8293786923220503,
+          "rank_gap": 1,
+          "mean_difference": 3.1481173685714037,
+          "p_value": 1.3113021850585938e-06,
+          "effect_size": 1.2066049811035915,
+          "models_tested": 2,
+          "non_significant_models": []
+        },
+        {
+          "model": "llasmol-top5",
+          "rank": 13,
+          "mean_score": 0.8293786923220503,
+          "significant_difference_found": true,
+          "first_significant_model": "llasmol-top1",
+          "first_significant_rank": 14,
+          "first_significant_mean": 0.37511745380231903,
+          "rank_gap": 1,
+          "mean_difference": 0.45426123851973127,
+          "p_value": 0.015576468116855436,
+          "effect_size": 0.5402162726609053,
+          "models_tested": 2,
+          "non_significant_models": []
+        }
+      ],
+      "total_models": 14,
+      "models_with_significance": 13,
+      "models_without_significance": 0
+    }
+  },
+  "practical_comparisons": {
+    "Doubao-Seed-1.6-combined": {
+      "group_comparisons": {
+        "gpt_family": {
+          "group_name": "GPT Family Models",
+          "comparisons": [
+            {
+              "comparison": "gpt-4.1 vs gpt-4.1-nano",
+              "description": "GPT-4.1 vs Nano variant",
+              "model1_mean": 6.605633751728194,
+              "model2_mean": 5.912214569980334,
+              "mean_difference": 0.6934191817478599,
+              "wilcoxon_statistic": 131.0,
+              "p_value": 0.1698138564825058,
+              "effect_size": 0.28364676367961456,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.5094415694475174,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "gpt-4o vs gpt-4o-mini",
+              "description": "GPT-4o vs Mini variant",
+              "model1_mean": 5.125169936130603,
+              "model2_mean": 4.428137976258648,
+              "mean_difference": 0.6970319598719552,
+              "wilcoxon_statistic": 125.0,
+              "p_value": 0.12860044836997986,
+              "effect_size": 0.23612880006675985,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.3858013451099396,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "gpt-4.1 vs gpt-4o",
+              "description": "GPT-4.1 vs GPT-4o flagship",
+              "model1_mean": 6.605633751728194,
+              "model2_mean": 5.125169936130603,
+              "mean_difference": 1.4804638155975907,
+              "wilcoxon_statistic": 86.0,
+              "p_value": 0.012076601386070251,
+              "effect_size": 0.534223317629867,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 0.036229804158210754,
+              "significant_corrected": true
+            }
+          ]
+        },
+        "lightrag_family": {
+          "group_name": "LightRAG Family Models",
+          "comparisons": [
+            {
+              "comparison": "lightrag-4.1 vs lightrag-4.1-nano",
+              "description": "LightRAG full vs nano",
+              "model1_mean": 5.975266285012226,
+              "model2_mean": 6.920529139596538,
+              "mean_difference": -0.9452628545843123,
+              "wilcoxon_statistic": 102.0,
+              "p_value": 0.03620612621307373,
+              "effect_size": -0.45459945659902073,
+              "significant": true,
+              "practical_significance": false,
+              "p_value_corrected": 0.03620612621307373,
+              "significant_corrected": true
+            }
+          ]
+        },
+        "moses_family": {
+          "group_name": "MOSES Family Models",
+          "comparisons": [
+            {
+              "comparison": "MOSES vs MOSES-nano",
+              "description": "MOSES full vs nano variant",
+              "model1_mean": 8.382862627989367,
+              "model2_mean": 6.0601501424217155,
+              "mean_difference": 2.322712485567651,
+              "wilcoxon_statistic": 36.0,
+              "p_value": 7.289648056030273e-05,
+              "effect_size": 1.025520368925523,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 7.289648056030273e-05,
+              "significant_corrected": true
+            }
+          ]
+        },
+        "spark_family": {
+          "group_name": "Spark-Chem Models",
+          "comparisons": [
+            {
+              "comparison": "spark-chem13b-think vs spark-chem13b-nothink",
+              "description": "Chain-of-thought vs direct reasoning",
+              "model1_mean": 4.835788848627193,
+              "model2_mean": 5.3207149898134976,
+              "mean_difference": -0.48492614118630417,
+              "wilcoxon_statistic": 149.0,
+              "p_value": 0.3483276069164276,
+              "effect_size": -0.177837695762678,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.3483276069164276,
+              "significant_corrected": false
+            }
+          ]
+        },
+        "llasmol_family": {
+          "group_name": "LlasMol Models",
+          "comparisons": [
+            {
+              "comparison": "llasmol-top1 vs llasmol-top5",
+              "description": "Top-1 vs Top-5 selection",
+              "model1_mean": 0.9321277007576169,
+              "model2_mean": 0.9374974025883388,
+              "mean_difference": -0.00536970183072194,
+              "wilcoxon_statistic": 159.0,
+              "p_value": 0.9249707861129906,
+              "effect_size": -0.003854502264976285,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.9249707861129906,
+              "significant_corrected": false
+            }
+          ]
+        },
+        "flagship_models": {
+          "group_name": "Flagship/Best Models",
+          "comparisons": [
+            {
+              "comparison": "MOSES vs o3",
+              "description": "Top 2 performers",
+              "model1_mean": 8.382862627989367,
+              "model2_mean": 7.78571216973771,
+              "mean_difference": 0.5971504582516562,
+              "wilcoxon_statistic": 116.0,
+              "p_value": 0.21087195144032855,
+              "effect_size": 0.3265191905140003,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.8434878057613142,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "o3 vs gpt-4.1",
+              "description": "Rank 2 vs 3",
+              "model1_mean": 7.78571216973771,
+              "model2_mean": 6.605633751728194,
+              "mean_difference": 1.1800784180095167,
+              "wilcoxon_statistic": 102.0,
+              "p_value": 0.03620612621307373,
+              "effect_size": 0.38798333787792016,
+              "significant": true,
+              "practical_significance": false,
+              "p_value_corrected": 0.14482450485229492,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "gpt-4.1 vs o1",
+              "description": "Rank 3 vs 4",
+              "model1_mean": 6.605633751728194,
+              "model2_mean": 6.538129876599926,
+              "mean_difference": 0.06750387512826794,
+              "wilcoxon_statistic": 172.0,
+              "p_value": 0.6963860541582108,
+              "effect_size": 0.02358302059751517,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 1.0,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "o1 vs lightrag-4.1-nano",
+              "description": "Rank 4 vs 5",
+              "model1_mean": 6.538129876599926,
+              "model2_mean": 6.920529139596538,
+              "mean_difference": -0.3823992629966124,
+              "wilcoxon_statistic": 158.0,
+              "p_value": 0.4698396325111389,
+              "effect_size": -0.13868964261988762,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 1.0,
+              "significant_corrected": false
+            }
+          ]
+        },
+        "reasoning_comparison": {
+          "group_name": "Reasoning Approaches",
+          "comparisons": [
+            {
+              "comparison": "o1 vs o3",
+              "description": "OpenAI reasoning models",
+              "model1_mean": 6.538129876599926,
+              "model2_mean": 7.78571216973771,
+              "mean_difference": -1.2475822931377847,
+              "wilcoxon_statistic": 78.0,
+              "p_value": 0.01327509438986435,
+              "effect_size": -0.5753184826767951,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 0.0265501887797287,
+              "significant_corrected": true
+            },
+            {
+              "comparison": "spark-chem13b-think vs spark-chem13b-nothink",
+              "description": "Chain-of-thought impact",
+              "model1_mean": 4.835788848627193,
+              "model2_mean": 5.3207149898134976,
+              "mean_difference": -0.48492614118630417,
+              "wilcoxon_statistic": 149.0,
+              "p_value": 0.3483276069164276,
+              "effect_size": -0.177837695762678,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.6966552138328552,
+              "significant_corrected": false
+            }
+          ]
+        }
+      },
+      "adjacent_ranking_tests": [
+        {
+          "rank_comparison": "#1 vs #2",
+          "models": "MOSES vs o3",
+          "model1_mean": 8.382862627989367,
+          "model2_mean": 7.78571216973771,
+          "mean_difference": 0.5971504582516562,
+          "p_value": 0.21087195144032855,
+          "effect_size": 0.3265191905140003,
+          "significant": false,
+          "practical_significance": true,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#2 vs #3",
+          "models": "o3 vs lightrag-4.1-nano",
+          "model1_mean": 7.78571216973771,
+          "model2_mean": 6.920529139596538,
+          "mean_difference": 0.8651830301411723,
+          "p_value": 0.08148856461048126,
+          "effect_size": 0.38342507613844057,
+          "significant": false,
+          "practical_significance": true,
+          "p_value_corrected": 0.7333970814943314,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#3 vs #4",
+          "models": "lightrag-4.1-nano vs gpt-4.1",
+          "model1_mean": 6.920529139596538,
+          "model2_mean": 6.605633751728194,
+          "mean_difference": 0.3148953878683445,
+          "p_value": 0.5148514956235886,
+          "effect_size": 0.12369339798721939,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#4 vs #5",
+          "models": "gpt-4.1 vs o1",
+          "model1_mean": 6.605633751728194,
+          "model2_mean": 6.538129876599926,
+          "mean_difference": 0.06750387512826794,
+          "p_value": 0.6963860541582108,
+          "effect_size": 0.02358302059751517,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#5 vs #6",
+          "models": "o1 vs MOSES-nano",
+          "model1_mean": 6.538129876599926,
+          "model2_mean": 6.0601501424217155,
+          "mean_difference": 0.47797973417821016,
+          "p_value": 0.3607836216688156,
+          "effect_size": 0.20774531011896866,
+          "significant": false,
+          "practical_significance": true,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#6 vs #7",
+          "models": "MOSES-nano vs lightrag-4.1",
+          "model1_mean": 6.0601501424217155,
+          "model2_mean": 5.975266285012226,
+          "mean_difference": 0.08488385740948967,
+          "p_value": 0.7495975196361542,
+          "effect_size": 0.037308716996323946,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#7 vs #8",
+          "models": "lightrag-4.1 vs gpt-4.1-nano",
+          "model1_mean": 5.975266285012226,
+          "model2_mean": 5.912214569980334,
+          "mean_difference": 0.06305171503189211,
+          "p_value": 0.9528931677341461,
+          "effect_size": 0.028768720424279866,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#8 vs #9",
+          "models": "gpt-4.1-nano vs spark-chem13b-nothink",
+          "model1_mean": 5.912214569980334,
+          "model2_mean": 5.3207149898134976,
+          "mean_difference": 0.5914995801668361,
+          "p_value": 0.3011907488107681,
+          "effect_size": 0.19921373225465597,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#9 vs #10",
+          "models": "spark-chem13b-nothink vs gpt-4o",
+          "model1_mean": 5.3207149898134976,
+          "model2_mean": 5.125169936130603,
+          "mean_difference": 0.19554505368289465,
+          "p_value": 0.8593128323554993,
+          "effect_size": 0.05605792929260194,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        }
+      ],
+      "summary_stats": {
+        "total_group_comparisons": 13,
+        "significant_group_comparisons": 4,
+        "group_significance_rate": 0.3076923076923077,
+        "total_adjacent_comparisons": 9,
+        "significant_adjacent_comparisons": 0,
+        "adjacent_significance_rate": 0.0
+      }
+    },
+    "fxx_gemini2.5-pro": {
+      "group_comparisons": {
+        "gpt_family": {
+          "group_name": "GPT Family Models",
+          "comparisons": [
+            {
+              "comparison": "gpt-4.1 vs gpt-4.1-nano",
+              "description": "GPT-4.1 vs Nano variant",
+              "model1_mean": 7.008674464641739,
+              "model2_mean": 6.3134756257950695,
+              "mean_difference": 0.6951988388466699,
+              "wilcoxon_statistic": 136.0,
+              "p_value": 0.3157546761755551,
+              "effect_size": 0.2194610918946764,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.9472640285266652,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "gpt-4o vs gpt-4o-mini",
+              "description": "GPT-4o vs Mini variant",
+              "model1_mean": 4.2167666778299955,
+              "model2_mean": 3.9774960608934538,
+              "mean_difference": 0.23927061693654172,
+              "wilcoxon_statistic": 154.0,
+              "p_value": 0.41325296461582184,
+              "effect_size": 0.07732026821374605,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 1.0,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "gpt-4.1 vs gpt-4o",
+              "description": "GPT-4.1 vs GPT-4o flagship",
+              "model1_mean": 7.008674464641739,
+              "model2_mean": 4.2167666778299955,
+              "mean_difference": 2.791907786811744,
+              "wilcoxon_statistic": 45.0,
+              "p_value": 0.00023631751537322998,
+              "effect_size": 0.863459670597476,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 0.0007089525461196899,
+              "significant_corrected": true
+            }
+          ]
+        },
+        "lightrag_family": {
+          "group_name": "LightRAG Family Models",
+          "comparisons": [
+            {
+              "comparison": "lightrag-4.1 vs lightrag-4.1-nano",
+              "description": "LightRAG full vs nano",
+              "model1_mean": 7.530422475907498,
+              "model2_mean": 7.229269431429975,
+              "mean_difference": 0.3011530444775232,
+              "wilcoxon_statistic": 169.0,
+              "p_value": 0.6445824354887009,
+              "effect_size": 0.11431166801002844,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.6445824354887009,
+              "significant_corrected": false
+            }
+          ]
+        },
+        "moses_family": {
+          "group_name": "MOSES Family Models",
+          "comparisons": [
+            {
+              "comparison": "MOSES vs MOSES-nano",
+              "description": "MOSES full vs nano variant",
+              "model1_mean": 8.836444784404618,
+              "model2_mean": 5.843024628829515,
+              "mean_difference": 2.9934201555751025,
+              "wilcoxon_statistic": 18.0,
+              "p_value": 3.769993782043457e-06,
+              "effect_size": 1.1529350441621475,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 3.769993782043457e-06,
+              "significant_corrected": true
+            }
+          ]
+        },
+        "spark_family": {
+          "group_name": "Spark-Chem Models",
+          "comparisons": [
+            {
+              "comparison": "spark-chem13b-think vs spark-chem13b-nothink",
+              "description": "Chain-of-thought vs direct reasoning",
+              "model1_mean": 5.267471994107608,
+              "model2_mean": 4.725248348623439,
+              "mean_difference": 0.5422236454841691,
+              "wilcoxon_statistic": 171.0,
+              "p_value": 0.6789510101079941,
+              "effect_size": 0.1434520628446846,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 0.6789510101079941,
+              "significant_corrected": false
+            }
+          ]
+        },
+        "llasmol_family": {
+          "group_name": "LlasMol Models",
+          "comparisons": [
+            {
+              "comparison": "llasmol-top1 vs llasmol-top5",
+              "description": "Top-1 vs Top-5 selection",
+              "model1_mean": 0.37511745380231903,
+              "model2_mean": 0.8293786923220503,
+              "mean_difference": -0.45426123851973127,
+              "wilcoxon_statistic": 52.0,
+              "p_value": 0.015576468116855436,
+              "effect_size": -0.5402162726609053,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 0.015576468116855436,
+              "significant_corrected": true
+            }
+          ]
+        },
+        "flagship_models": {
+          "group_name": "Flagship/Best Models",
+          "comparisons": [
+            {
+              "comparison": "MOSES vs o3",
+              "description": "Top 2 performers",
+              "model1_mean": 8.836444784404618,
+              "model2_mean": 8.717415881737303,
+              "mean_difference": 0.11902890266731525,
+              "wilcoxon_statistic": 173.0,
+              "p_value": 0.7139776796102524,
+              "effect_size": 0.08606178477542374,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 1.0,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "o3 vs gpt-4.1",
+              "description": "Rank 2 vs 3",
+              "model1_mean": 8.717415881737303,
+              "model2_mean": 7.008674464641739,
+              "mean_difference": 1.7087414170955633,
+              "wilcoxon_statistic": 46.0,
+              "p_value": 0.00100530430207743,
+              "effect_size": 0.7723076651613299,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 0.00402121720830972,
+              "significant_corrected": true
+            },
+            {
+              "comparison": "gpt-4.1 vs o1",
+              "description": "Rank 3 vs 4",
+              "model1_mean": 7.008674464641739,
+              "model2_mean": 7.40405209486709,
+              "mean_difference": -0.3953776302253509,
+              "wilcoxon_statistic": 159.0,
+              "p_value": 0.4846055656671524,
+              "effect_size": -0.12102943117058802,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 1.0,
+              "significant_corrected": false
+            },
+            {
+              "comparison": "o1 vs lightrag-4.1-nano",
+              "description": "Rank 4 vs 5",
+              "model1_mean": 7.40405209486709,
+              "model2_mean": 7.229269431429975,
+              "mean_difference": 0.17478266343711546,
+              "wilcoxon_statistic": 184.0,
+              "p_value": 0.9153143465518951,
+              "effect_size": 0.059622805399815335,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 1.0,
+              "significant_corrected": false
+            }
+          ]
+        },
+        "reasoning_comparison": {
+          "group_name": "Reasoning Approaches",
+          "comparisons": [
+            {
+              "comparison": "o1 vs o3",
+              "description": "OpenAI reasoning models",
+              "model1_mean": 7.40405209486709,
+              "model2_mean": 8.717415881737303,
+              "mean_difference": -1.3133637868702124,
+              "wilcoxon_statistic": 75.0,
+              "p_value": 0.018554892252216022,
+              "effect_size": -0.5829309881412816,
+              "significant": true,
+              "practical_significance": true,
+              "p_value_corrected": 0.037109784504432045,
+              "significant_corrected": true
+            },
+            {
+              "comparison": "spark-chem13b-think vs spark-chem13b-nothink",
+              "description": "Chain-of-thought impact",
+              "model1_mean": 5.267471994107608,
+              "model2_mean": 4.725248348623439,
+              "mean_difference": 0.5422236454841691,
+              "wilcoxon_statistic": 171.0,
+              "p_value": 0.6789510101079941,
+              "effect_size": 0.1434520628446846,
+              "significant": false,
+              "practical_significance": false,
+              "p_value_corrected": 1.0,
+              "significant_corrected": false
+            }
+          ]
+        }
+      },
+      "adjacent_ranking_tests": [
+        {
+          "rank_comparison": "#1 vs #2",
+          "models": "MOSES vs o3",
+          "model1_mean": 8.836444784404618,
+          "model2_mean": 8.717415881737303,
+          "mean_difference": 0.11902890266731525,
+          "p_value": 0.7139776796102524,
+          "effect_size": 0.08606178477542374,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#2 vs #3",
+          "models": "o3 vs lightrag-4.1",
+          "model1_mean": 8.717415881737303,
+          "model2_mean": 7.530422475907498,
+          "mean_difference": 1.1869934058298046,
+          "p_value": 0.018808094118776632,
+          "effect_size": 0.5242872635810292,
+          "significant": true,
+          "practical_significance": true,
+          "p_value_corrected": 0.16927284706898968,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#3 vs #4",
+          "models": "lightrag-4.1 vs o1",
+          "model1_mean": 7.530422475907498,
+          "model2_mean": 7.40405209486709,
+          "mean_difference": 0.12637038104040776,
+          "p_value": 0.7775428401502809,
+          "effect_size": 0.04173396732684156,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#4 vs #5",
+          "models": "o1 vs lightrag-4.1-nano",
+          "model1_mean": 7.40405209486709,
+          "model2_mean": 7.229269431429975,
+          "mean_difference": 0.17478266343711546,
+          "p_value": 0.9153143465518951,
+          "effect_size": 0.059622805399815335,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#5 vs #6",
+          "models": "lightrag-4.1-nano vs gpt-4.1",
+          "model1_mean": 7.229269431429975,
+          "model2_mean": 7.008674464641739,
+          "mean_difference": 0.22059496678823542,
+          "p_value": 0.7139776796102524,
+          "effect_size": 0.09393301540934564,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#6 vs #7",
+          "models": "gpt-4.1 vs gpt-4.1-nano",
+          "model1_mean": 7.008674464641739,
+          "model2_mean": 6.3134756257950695,
+          "mean_difference": 0.6951988388466699,
+          "p_value": 0.3157546761755551,
+          "effect_size": 0.2194610918946764,
+          "significant": false,
+          "practical_significance": true,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#7 vs #8",
+          "models": "gpt-4.1-nano vs MOSES-nano",
+          "model1_mean": 6.3134756257950695,
+          "model2_mean": 5.843024628829515,
+          "mean_difference": 0.47045099696555415,
+          "p_value": 0.27924175560474396,
+          "effect_size": 0.18133153883566414,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#8 vs #9",
+          "models": "MOSES-nano vs spark-chem13b-think",
+          "model1_mean": 5.843024628829515,
+          "model2_mean": 5.267471994107608,
+          "mean_difference": 0.5755526347219071,
+          "p_value": 0.4270208328962326,
+          "effect_size": 0.1748080459466402,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        },
+        {
+          "rank_comparison": "#9 vs #10",
+          "models": "spark-chem13b-think vs spark-chem13b-nothink",
+          "model1_mean": 5.267471994107608,
+          "model2_mean": 4.725248348623439,
+          "mean_difference": 0.5422236454841691,
+          "p_value": 0.6789510101079941,
+          "effect_size": 0.1434520628446846,
+          "significant": false,
+          "practical_significance": false,
+          "p_value_corrected": 1.0,
+          "significant_corrected": false
+        }
+      ],
+      "summary_stats": {
+        "total_group_comparisons": 13,
+        "significant_group_comparisons": 5,
+        "group_significance_rate": 0.38461538461538464,
+        "total_adjacent_comparisons": 9,
+        "significant_adjacent_comparisons": 0,
+        "adjacent_significance_rate": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,1143 @@
+4812 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+Cite this: Chem. Soc. Rev., 2021,
+50, 4812
+Host–guest binding in water, salty water, and
+biofluids: general lessons for synthetic,
+bio-targeted molecular recognition
+Meagan A. Beatty
+and Fraser Hof
+*
+Synthetic molecular recognition systems are increasingly being used to solve applied problems in the life
+sciences, and bio-targeted host–guest chemistry has rapidly arisen as a major field of fundamental research.
+This tutorial review presents a set of fundamental lessons on how host–guest molecular recognition can be
+programmed in water. The review uses informative examples of aqueous host–guest chemistry organized
+around generalizable themes and lessons, building towards lessons focused on molecular recognition in salty
+solutions and biological fluids. It includes selected examples of macrocyclic host systems that work well, as
+well as common pitfalls and how to avoid them. The review closes with a survey of the most important and
+inspirational recent advances, which involve host–guest chemistry in living cells and organisms.
+Key learning points
+(1) There are multiple approaches to introducing water solubility. Each brings with it additional, sometimes unintended, consequences for aggregation and
+molecular recognition.
+(2) Individual kinds of noncovalent interactions acting alone are rarely suﬃcient to encode molecular recognition in water. The combination of polar
+interactions with significant hydrophobic surface area is required, and it is often advantageous when the polar and hydrophobic groups are directly adjacent to
+each other. These arrays of interacting groups must be arranged in hosts that are rigid enough to avoid hydrophobic collapse, but flexible enough to
+accommodate slightly imperfect shape matching between host and guest.
+(3) The impacts of biological solutions are complex and hard to predict. Salts and other biological co-solutes can perturb molecular recognition in multiple
+ways. Ionic solutes can change host solubility, induce aggregation (to the benefit or detriment of the host–guest system), compete directly for guest binding
+sites, and have other unexpected consequences. Each biological solution requires its own considerations and optimization.
+Introduction
+Supramolecular chemistry, or chemistry beyond the molecule,
+involves the design and study of simple components interacting
+through non-covalent bonds to form larger, more complex
+assemblies. Nature has mastered the art of directing intricate
+molecular assemblies in water, yet supramolecular chemists are
+still learning the rules. Within a cell, many types of assemblies
+have evolved to carry out the functional requirements of life. All
+such assemblies need to form in aqueous solutions that contain
+various salts, competitive co-solutes, and other proteins. Chemists
+arguably have access to a much wider array of molecular building
+blocks, functional groups, and molecular properties than those
+routinely used by Nature. However, it remains a major challenge
+to create synthetic molecules that are soluble in water and can still
+carry out their programmed binding function in the presence of
+salts and co-solutes.
+One goal that motivates much of supramolecular chemistry
+is to mimic Nature’s sophisticated assemblies, while adding
+unique characteristics that chemists can program into the
+system. Although there are many strategies to develop such
+assemblies, one common strategy is to synthesize a concave
+‘host’ molecule that contains a recognition motif for a specific
+secondary ‘guest’ molecule. Upon recognition of the two compo-
+nents, a complex is formed based on the strength of non-covalent
+bonds that are shared between each component. The medium
+that solvates each component influences the strength of the non-
+covalent bonds and in turn the complex. Early supramolecular
+systems were almost exclusively studied in organic solvents. Yet
+mimicking Nature requires systems to operate in water, which
+interacts with the assembling components much diﬀerently than
+organic solvents. Computational and supramolecular chemists
+have collaborated to model binding interactions through the SAMPL
+(Statistical Assessment of the Modelling of Protein and Ligand)
+Department of Chemistry, University of Victoria, 3800 Finnerty Rd, Victoria, BC,
+V8W 3V6 Canada. E-mail: fhof@uvic.ca
+Received 14th October 2020
+DOI: 10.1039/d0cs00495b
+rsc.li/chem-soc-rev
+Chem Soc Rev
+TUTORIAL REVIEW
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+View Journal  | View Issue
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4813
+host–guest blind challenge exercises (https://github.com/sampl
+challenges). These have tracked the major improvements in the
+field, but have also shown that we are still not able to fully
+understand or predict host–guest chemistry in water – especially
+where salts are involved. Chemists have reported many systems
+that mimic different aspects of natural molecular recognition and
+self-assembly, and from this history we can identify key lessons.
+Creating a host that predictably binds guests in water, salty
+water, or biological fluids remains a major challenge. This tutorial
+review is aimed at researchers who are starting in the area of
+aqueous host–guest chemistry. The lists of non-covalent interac-
+tions and solvation effects that are used to program molecular
+recognition of guests (e.g. hydrogen bonds, cation–p interactions,
+dispersion forces, electrostatics, the hydrophobic effect, and more)
+will be familiar to our target audience, and are well described in
+textbooks.1 These will be alluded to without detailed descriptions,
+except where necessary for the specific lessons within this tutorial.
+Many comprehensive reviews of aqueous molecular recognition
+have also been presented elsewhere. One specific goal of this
+tutorial review is to present strategies that are used to create hosts
+that work in water, and to derive general lessons about those
+strategies. Another goal is to teach researchers who are new to the
+field about the common challenges, and how to achieve success in
+programming their own host–guest systems for operation in salty
+aqueous solutions. Our approach starts with introducing the key
+concepts and strategies in aqueous host–guest chemistry, showing
+illustrative examples, highlighting common pitfalls, and presenting
+general lessons. In order to show the most important recent
+advances, we will finish with a section covering the relatively
+small number of host–guest systems that successfully function
+in real biofluids and living systems.
+An introduction to the common building blocks
+We will focus mainly on an informative subset of macrocyclic
+hosts, including cyclophanes, cucurbiturils, and cyclodextrins.
+Cyclophanes are macrocycles consisting of an aromatic repeating
+unit connected by a bridging component. A major branch of
+cyclophanes that has produced many lessons in molecular
+recognition is the family known as calix[n]arenes (Fig. 1a); the
+calix[4]arene is comprised of phenol units repeated n = 4 times
+and bridged by n = 4 methylenes.2 Pillar[n]arenes are relatives
+that involve [n] hydroquinone units similarly bridged by [n]
+methylenes (Fig. 1b). Other cyclophanes will be introduced as
+they arise in the review. To solidify key lessons and highlight
+important comparisons, some non-cyclophane hosts such as
+cucurbiturils and cyclodextrins will also be included. Briefly,
+cucurbit[n]urils (CBs) are rigid hosts that contain glycoluril units
+bridged by pairs of methylenes, with the most common members
+being CB5–CB8 (Fig. 2a and b). Cucurbit[n]urils feature a hydro-
+phobic cavity and two symmetric portals lined by carbonyl oxygen
+atoms. Cyclodextrins (CDs) are cyclic oligosaccharides that
+contain a repeating glucose molecule joined by a glycosidic
+bond, in which the rims and exterior of the toroid are lined with
+hydroxyl groups, and the cavity is lined with hydrophobic CH
+groups. As the number of glucose units varies from 6–8, the
+common cyclodextrins are called a-CD, b-CD, and c-CD, respec-
+tively (Fig. 2c and d). Table 1 provides a broader overview of
+Fig. 1
+Examples of cyclophane type hosts. (a) Calix[4]arene and (b) pillar[5]-
+arene involve repeating aromatic and methylene subunits that each enclose
+a guest-binding cavity.
+Meagan A. Beatty
+Meagan Beatty received her BSc
+in 2014 from the University of the
+Fraser
+Valley
+in
+Abbotsford,
+Canada. She then went on to
+work with Prof. Fraser Hof at
+the
+University
+of
+Victoria,
+located on beautiful Vancouver
+Island. There, she received her
+PhD in 2019 for her work on
+supramolecular
+sensors
+that
+operate in competitive aqueous
+solutions and biofluids. She is
+now a Marie Skłodowska-Curie
+Fellow in Prof. Sijbren Otto’s
+group at the University of Groningen, in the Netherlands, where
+she is working to develop functional foldamers that emerge from
+dynamic combinatorial libraries in water.
+Fraser Hof
+Fraser
+received
+his
+BSc
+in
+Chemistry from the University of
+Alberta, and obtained his PhD in
+supramolecular chemistry at The
+Scripps Research Institute with
+Julius
+Rebek,
+Jr.
+He
+studied
+medicinal chemistry as a post-
+doctoral
+fellow
+with
+François
+Diederich
+at
+ETH-Zurich,
+and
+then returned to Canada as a
+professor at the University of
+Victoria in 2005. Fraser is passio-
+nate about creating chemical tools
+that drive biology and medicine in
+new directions... a passion that is accompanied by an unhealthy
+obsession with the subtleties of molecular recognition in water. Fraser
+takes his greatest pleasures from family, students, writing, coﬀee, and
+soccer.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4814 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+common water-soluble hosts and examples of strong-binding
+guests for each.
+Strategies for introducing water solubility
+The first step toward making organic hosts functional in an
+aqueous medium is to ensure they are water soluble. Early work
+with cyclodextrins, which are inherently water soluble due to
+their external-facing hydroxyl groups, demonstrated that hydro-
+phobic cavities provide strong binding of organic guests in
+aqueous solutions.8 Cyclophanes became interesting targets as
+they also provide hydrophobic pockets and can be synthetically
+manipulated to form diverse recognition sites. Many cyclo-
+phane derivatives have been synthesized with varying charged
+functional groups that render them both water-soluble and
+eﬃcient at binding guests in water.
+A large diversity of charged groups are routinely used. Sulfo-
+nates, carboxylates, and phosphonates are commonly employed
+to create negatively charged hosts. Ammonium ions, guanidinium
+ions, and pyridinium ions are frequently used to create cationic
+hosts. Some predictable eﬀects arise: the pillar[5]arene host with
+ammonium ions (7, Fig. 3) binds a variety of carboxylate contain-
+ing guests; the analog with carboxylates (8) binds a variety of
+cationic guests; a mixture of 7 and 8 leads to aggregates of
+alternating cationic and anionic host molecules.9
+Not all similarly charged groups are created equal. Hosts
+bearing multiple groups such as carboxylates, which have pKa
+values relatively close to the pH at which the host is operating,
+don’t always remain fully charged under experimental conditions.
+Hosts with either permanently fixed charges (e.g. quaternary
+ammonium ions) or more extreme pKa values (e.g. sulfonates or
+sulfates) are more likely to stay charged, soluble, and functional
+under all solution pH values. Pillar[5]arenes with pendant sulfate
+(9) groups provide an example of how a subtle change in group
+can produce large eﬀects (Fig. 3).10 The sulfates in 9 are directly
+attached to the macrocycle which creates a very large, local
+buildup of charge that is directly lining the binding pocket.
+Although the number of potential anionic groups is the same in
+8 and 9, the potency of binding for diammonium ions is orders of
+magnitude higher (up to 88 000-fold) for 9. This can be attributed
+to the flexibility of the linkages to carboxylates, which allow them
+to partially collapse onto one another, as well as the very low pKa
+of sulfates, which ensures they all remain anionic in spite of their
+close proximity to each other.
+Neutral polar functional groups are an alternate strategy to
+increase water solubility. For example, when polyethylene glycol
+tails have been appended to one rim of pillar[5]arenes (10, Fig. 4)
+they become water-soluble with the aid of 10% DMSO.11 When
+both rims display polyethene glycol tails (11) then the host is
+fully soluble in water without the aid of any organic solvent.
+Cucurbiturils contain neutral polar carbonyls, but many of these
+hosts are only moderately water soluble (20–30 mM for CB5 and
+CB7, Fig. 5a and b). Although synthetically modifying these hosts
+Fig. 2
+Cucurbiturils and cyclodextrins are macrocyclic hosts that make
+notable host–guest complexes. (a) Cucurbiturils vary by the number of
+glycoluril units. (b) CB7 is a commonly used cucurbituril. (c) Cyclodextrins
+are formed from repeating units of glucose. (d) An example is c-CD.
+Table 1
+Some example of common water-soluble hosts, each presented
+with an example of a strong-binding guest
+Host structure
+Name/number Exemplary guest Kd
+sCx4
+35 nM3
+Sugammadex
+56 nM4
+CB7
+1.4 aM5
+3
+9.8 nM6
+5
+10 nM7
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4815
+is not trivial, there exist CBs externally functionalized with
+neutral alkyl groups that are more water soluble than their
+unfunctionalized counterparts. For example, cyclohexyl-CB5
+(Cy5CB5) is water soluble up to B200 mM, while the addition
+of two methyl groups on CB7 (Me2CB7) increases its water
+solubility to 264 mM (Fig. 5c and d).12–14 These results can’t be
+easily understood, because the new groups added are themselves
+nonpolar, but their ability to increase water solubility presum-
+ably comes from some form of perturbation of stable packing in
+the solid state.
+The challenges of amphiphilic aggregation and charge
+neutralization-induced precipitation
+Appending charged functional groups onto an organic host
+improves water solubility, but often creates an amphiphilic
+species that is prone to aggregation. At certain concentrations
+in water, the hydrophobic regions of the host can aggregate into
+micelles or other structures, while the charged groups face
+outwards and maximize their contacts with water. Often the
+hosts’ critical aggregation concentration is determined to
+ensure that host–guest binding studies are conducted under
+conditions where the host monomer is dominant, instead of
+studying guest binding by an ill-defined aggregate. However,
+even at low host concentrations the addition of the guest itself
+can cause aggregation and precipitation. In one set of examples,
+it has been observed that guests like fluorescent dyes, drugs,
+surfactants, or proteins form large assemblies with sulfonated
+calixarenes. This phenomenon is so general that it was given a
+name: ‘‘calixarene-induced aggregation’’ (CIA).2,15,16 In one series
+of studies, this potential nuisance was transformed into a strategy
+to form stimuli-responsive drug delivery vesicles, as well as other
+novel materials. For example, the sulfonated calixarene sCx4
+formed a host–guest complex with an amphiphilic guest, 12,
+and together they further assembled into a bilayer vesicle that
+encapsulated the drug doxorubicin, 13 (Fig. 6).17
+In a related set of challenges, precipitation can occur when
+charged
+solubilizing
+groups
+encounter
+certain
+oppositely
+charged binding partners that render them eﬀectively neutral
+and decrease solubility. For example, tetra-anionic (14) and
+tetra-cationic (15) calixarenes form dimeric capsules with each
+other in polar organic solvents, driven by complementarity of
+electrostatic charges (Fig. 7).18 Yet, this perfect charge comple-
+mentarity causes the complex to become water-insoluble and
+Fig. 3
+Pillar[5]arenes show the varied eﬀects of being functionalized with diﬀerent charged groups. Oppositely charged pillar[5]arenes bearing
+ammonium (7) and carboxylate groups (8) prefer guests with diﬀerent charges, and when mixed with each other form bilayers due to electrostatic
+interactions between the two kinds of hosts. Pillar[5]arene bearing sulfates (9) binds diammonium ions much more strongly than does 8, in spite of their
+similar charges.
+Fig. 4
+Polyethylene glycol tails improve water solubility without introducing
+electrostatic interactions from charged functional groups. (a) A single glycol
+tail improves solubility (1 mM with 10% DMSO) while (b) two glycol tails
+renders the host completely water soluble (1 mM).
+Fig. 5
+Structurally modifying cucurbiturils improves their water solubility.
+(a) CB5 and (b) CB7 are moderately water-soluble (20–30 mM). Analogs
+substituted with neutral groups such as (c) Cyclohexyl-CB5 (Cy5CB5) and
+(d) dimethyl-CB7 (Me2CB7) can have improved water solubility (Z200 mM).
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4816 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+precipitate from aqueous solution. This can be overcome
+modifying each member of the capsule with diﬀerent solubilizing
+groups. For example, by changing the upper-rim sulfonates to
+carboxylates (16) while also replacing the lower rim alkyl groups
+for glycol-type groups (17) the capsule forms and remains soluble
+in water.19 In our own group, we have synthesized unpublished
+calixarenes that contain a symmetric arrangement of two anionic
+and two cationic functional groups, and we noticed this internal,
+symmetric charge neutralization routinely renders the molecules
+almost perfectly insoluble in water (or any other solvent). We
+have also heard many tales at conferences of work in which the
+study of a host–guest system in water was impeded because of
+charge-neutralization-induced precipitation. This work is well
+known by many, but is almost always unpublished, because of
+the significant barriers to characterizing precipitating systems
+and to publishing negative results. The presence of counter-ions
+from the host, buffer or salt from biological solutions can also
+change the solubility of hosts in water. This effect will be
+explored more in depth in a later section.
+Host topology, shape, hydration and flexibility
+We often look to Nature for guidance as to which interactions
+are more prevalent and perhaps most important when forming
+large assemblies in water. For example, we learn early that
+hydrogen bonds are responsible for nucleotide base pairing in
+DNA. However, when hydrogen bonds alone stitch a host and a
+guest together, assemblies are very sensitive to competition by
+water. (The assembly of DNA in fact benefits from a large
+hydrophobic driving force that is often omitted from our earliest
+lessons on the subject.) Hydrogen bonds alone are rarely enough
+to bring host and guest together in pure water.
+One exception to this rule about hydrogen bonds helps us to
+understand the influence of host topology on guest binding.
+Triazole-based hosts can bind Cl through hydrogen bonds
+donated by strongly polarized CH bonds. An acyclic host (18,
+Fig. 8a) with four triazoles binds very weakly in CD2Cl2
+(Kd B 12 mM) and not at all in water.20 A macrocyclic analog
+(19, Fig. 8b) binds much more strongly in CD2Cl2 (Kd = 125 nM),
+showing how macrocycles (like many hosts in this review) provide
+an advantage based on preorganized binding surfaces that sur-
+round a guest in two dimensions.21 But the cryptand-like cage, 20,
+in Fig. 8c contains 9 C–H derived hydrogen bonds that surround
+the Cl in three dimensions. It binds incredibly strongly using
+only hydrogen bonds (Kd = 10 aM in wet CD2Cl2) and successfully
+binds the anion in water and transfers it into dichloromethane.21
+In pure water, a host topology that combines a hydrophobic
+binding motif with adjacent polar interactions is often advanta-
+geous. The CBs have rigid hydrophobic cavities, and electronega-
+tive ureido carbonyl groups tilted inwards towards the Cn axis at
+each portal to stabilize polar or positively charged groups. CB7
+binds to neutral, hydrophobic guest diamantane (21) strongly in
+water (Kd = 250 pM) due to complementary guest shape and
+hydrophobicity. The addition of cationic substituents strengthens
+the complex as the cationic diammonium analog, 22, binds
+35-fold more strongly with CB7 (Kd = 7.1 pM) (Fig. 9).6 However,
+the strongest synthetic host–guest complex reported to date is
+with CB7 and the trimethylated diammonium analogue, 2 as
+more ion–dipole interactions are made due to an improved
+alignment of the guest within CB7 (Kd = 1.4 aM).5 The ion–
+dipole interactions between the two ammonium groups and the
+carbonyls would be impotent in water if presented on their own,
+but constitute an effective motif for molecular recognition in
+water when preorganized, surrounding the guest, and adjacent
+to host and guest hydrophobic elements. The guest itself some-
+times provides the hydrophobic component that drives the
+assembly of hosts bearing polar functional groups.62
+Cation–p interactions readily combine both polar and hydro-
+phobic aspects, and as such are especially important in aqueous
+host–guest chemistry. Aromatic rings provide an electron-rich
+Fig. 6
+Host–guest charge neutralization can cause aggregation, but that
+isn’t necessarily a problem. Calixarene-induced aggregation (CIA) is an
+example that has been used to make drug delivery systems.
+Fig. 7
+(a) Oppositely charged solubilizing groups on 14 and 15 neutralize
+each other, rendering the assembly insoluble in water. (b) Changing the
+sulfonates for carboxylates (16) and propyl chains for glycol-type groups
+(17) increases the solubility of the capsular assembly.
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4817
+surface
+for
+strong
+non-covalent
+interactions
+with
+cations
+(Fig. 10a). This interaction is amplified with cyclophane hosts,
+as there are multiple aromatic rings that create a pocket that is
+simultaneously
+hydrophobic
+(lined
+by
+aromatic
+rings)
+and
+electron-rich (lined by the p clouds of those rings) (Fig. 10b).22,23
+This inherently provides these hosts with selectivity for alkyl
+ammonium ion guests, which are themselves both cationic and
+hydrophobic. The combined influence of cation–p interactions
+and hydrophobicity is supported by a few examples involving the
+comparison of related guests. Cyclophane 23 binds cationic
+N-methylquinolinium, (24) nearly 80-fold stronger than its neutral,
+isosteric counterpart, 4-methylquinoline (25), showing that the
+cation–p component is indeed critical for binding (Fig. 10c).
+sCx4 binds to N(CH3)4
++ with a dissociation constant of 40 mM
+(Fig. 10d) while the more hydrophilic guest, CH3NH3
++, binds much
+more weakly (Kd = 1.8 mM) (Fig. 10e), showing that hydrophobicity
+also plays an important role.24 This trend extends to biologically
+relevant cations, many of which are quite hydrophobic (including
+many drugs, neurotransmitters, natural products, and certain
+amino acids and peptides). sCx4 is 70 times selective for a greasy
+cation, trimethyllysine (Fig. 10f) over the un-methylated counter-
+part, lysine (Fig. 10g).25 These trends in binding are commonly
+observed, and can’t be explained by the cation–p interaction alone;
+the strength of cation–p interactions decrease as the ionic radius of
+a guest increases, and should actually favour the smaller cations in
+the absence of any hydrophobic contribution.
+The hydrophobic eﬀect alone is also strongly dependent on
+host topology. An advanced, theoretical understanding of the
+hydrophobic eﬀect can be found elsewhere.26,27 Here, we will
+discuss the practical (and sometimes unexpected) consequences
+of water existing inside host cavities of diﬀerent shapes and sizes.
+Because water makes many strong contacts with itself, as
+well as charged and polar motifs, it is by exclusion from water
+that neutral and non-polar motifs associate. How water inter-
+acts with a guest and host before and after complexation is a
+major factor in determining how strong the association will be.
+The phase separation of oil and water is entropically driven,
+which leads to the first explanations of the hydrophobic eﬀect
+that one is typically taught. To explain the observed entropic
+driving force, it is normally considered that the layer of water
+solvating hydrophobic surfaces has fewer degrees of freedom in
+comparison to bulk water. The binding of one hydrophobic
+surface to another reduces the total surface area that is solvated
+by water, which liberates some water back into the bulk and
+increases entropy. This model is sometimes called the ‘classical
+hydrophobic eﬀect’ (Fig. 11a).
+Fig. 8
+(a) A flexible, foldamer-type host (18) binds weekly to chloride (Kd = 12 mM) while binding is significantly improved with (b) the planar analog 19
+(Kd = 125 nM in wet dichloromethane) and the (c) cryptand-like cage 20 (Kd = 10 aM in wet dichloromethane).
+Fig. 9
+Weak, polar interactions can function in water when adjacent to hydrophobic surfaces. In this example, the ion–dipole interactions provided by
+cucurbituril carbonyl portals form a more stable complex with the dicationic guest (22) than with an analogous neutral guest (21). The strongest assembly
+reported is between CB7 and 2 and is due to an extensive network of ion–dipole interactions formed with the ureido carbonyls.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4818 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+Defying the expectations of this simple model, host–guest
+binding in water is often also accompanied by a favourable
+change in enthalpy. The models that explain these observations,
+collectively called the ‘non-classical hydrophobic effect,’ center
+on the unusual hydration of small, rigid cavities. Small hosts and
+other highly concave surfaces put unusual constraints on their
+solvating waters. They can fit, but they can’t form their normal
+complement of hydrogen bonds with neighboring waters and
+therefore solvate the host cavity poorly or not at all. Guest
+binding leads to new host–guest interactions, as well as the
+return of cavity-solvating waters back into bulk where more
+water–water hydrogen bonds can form, giving in either case a
+structural explanation for the observed favorable enthalpies of
+binding (Fig. 11b). In recent studies, host cavities have been
+observed to be partially dried, or even completely devoid of
+water,28 prior to guest binding.29
+One set of examples demonstrates how host size is not the
+only factor influencing cavity hydration. CB5—the smallest
+member of the cucurbituril family—is too small to encapsulate
+any water molecules, and few or zero water molecules exist
+within the cavity of the free host (Fig. 12).28 This drives the
+encapsulation of noble gases in water. Interestingly, hosts like
+sCx4 and a-CD can’t bind noble gases as well (or at all), in spite
+of their cavity size and chemical functionality being generally
+similar to CB5. Both sCx4 and a-CD cavities have conical shapes
+that allow at least partial access to solvating waters, giving a
+concrete example of how more ‘closed’ topology hosts can have
+better guest binding than those that are more ‘open’ to solvation.
+The hydration of the guest is also important to consider.
+Highly charged guests tend to be strongly hydrated by waters in
+the free state, and therefore must pay a large desolvation
+penalty in order to bind to host cavities.30 Guests that are very
+heteroatom rich, multiply charged, and/or zwitterionic, tend to
+bind weakly to hosts of any description. Because of this, most
+guests that are targeted by molecular hosts (and indeed almost
+all of the guests in this review) combine both polar elements
+with hydrophobic elements. This is complementary to a lesson
+from earlier in this review, which taught that many hosts
+juxtapose polar and nonpolar binding elements in order to
+achieve potent guest binding.
+If it fits, it sits. Complementary host–guest shape aids in the
+formation of strong complexes. While essentially every host–
+guest complex holds lessons in shape complementarity, we
+choose a pair of cyclophanes, 26 and 27, to teach this lesson.
+The two hosts are very similar in chemical functionality, but
+vary in cavity shape in a way that favors the binding of different,
+closely related guests (Fig. 13).31 Host 26 contains a single
+carboxyphenyl linker, creates an overall more rounded binding
+pocket, and selectively binds to trimethyllysine (Kme3), an
+amino acid with a cationic element that has a complementary,
+rounded shape. Host 27 contains a carboxynaphthyl linker,
+which creates a more rectangular binding pocket, and instead
+selectively binds to asymmetric dimethylarginine (aRme2).
+aRme2 is an amino acid with a flatter and more rectangular
+cationic side chain. The subtle change in cavity shape increases
+the selectivity by B2-fold for aRme2 over Kme3.
+Host flexibility is a distinct aspect of shape and topology that
+must be understood in order to create strong host–guest
+complexes.
+As mentioned earlier, preorganized, rigid hosts are favour-
+able for guest binding, and also help to encode guest selectivity.
+sCx4 provide a rigid, well-defined pocket that binds strongly to
+organic cations such as trimethyllysine (Kd = 28 mM) and
+lucigenin, LCG (Kd = 35 nM).3,25 Larger, more flexible analogs
+Fig. 10
+Aromatic faces provide an electron rich surface to interact
+strongly with cationic guests. (a) A simple benzene ring participates in
+cation–p interactions which can be effective for guest binding when
+(b) the aromatic rings are arranged in a cyclic array. (c) Cyclophane 23
+binds preferably to 24 over the isosteric, neutral analog 25. (d–g) Host
+sCx4 (see Fig. 6) binds to a series of ammonium ions through a combi-
+nation of electrostatic and cation–p forces, and the hydrophobic effect.
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4819
+of sCx4 are available in the forms of the 6-membered calixarene,
+sCx6 (Fig. 14a). This ultimately changes the binding topology
+and stoichiometry which is reflected in the binding strengths to
+the same guests. sCx6 easily interconverts to adopt many confor-
+mations. It does not bind strongly with trimethyllysine (Kd = 1.1 mM),
+in spite of having more hydrophobic surface area and more
+negative charge than sCx4 (Fig. 14b).25 Yet sCx6 has an aﬃnity
+for the larger guest lucigenin, LCG (Kd = 5 nM, 1 : 1), which is
+similar to that determined for the sCx4–lucigenin complex, and
+also displays the ability to form 1 : 2 complexes with this guest
+(Kd = 122 nM, Fig. 14c).32 These examples show that it is difficult,
+and often inadvisable, to predict the behaviours of highly flexible
+Fig. 11
+Two simple models that show how entropic and enthalpic driving forces for hydrophobic binding apply in the context of host–guest chemistry.
+(a) Cartoon illustration of the entropy-driven classical hydrophobic effect between a hydrophobic host and its guest. The release of highly ordered water
+molecules increases their entropy, which drives complexation. (b) Cartoon illustration of the enthalpy-driven non-classical hydrophobic effect where it
+arises for small host cavities. Water encapsulated in small cavities is constrained such that the cavity is poorly hydrated. Release of these water molecules
+upon guest binding leads to new, favourable host–guest contacts, as well as a net increase in hydrogen bonds, either of which can explain favourable
+decreases in enthalpy.
+Fig. 12
+The interplay of host topology and solvating waters can influence guest binding. CB5 is the only host from among three similarly sized hosts that
+sequesters Xenon from water. CB5 contains an empty de-solvated cavity that is filled perfectly when noble gases complex. a-CD and sCx4 have similar
+sizes but diﬀerent topologies, and make favourable interactions with water while not binding Xenon.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4820 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+hosts. Computational modelling is improving and becoming a
+more powerful tool to accurately predict binding energies for
+flexible hosts as illustrated in the latest SAMPL7 exercise,33 and
+we look forward to further advances in this direction.
+Fig. 13
+Diﬀerent cavity shapes influence guest binding. (a) 26 has a spherical cavity that complements the side chain of Kme3 while (b) 27 has a
+rectangular cavity that is better suited for a planar guest like aRme2.
+Fig. 14
+Host flexibility can dramatically alter guest binding in unpredictable ways. (a) sCx4 oﬀers a more rigid binding site than sCx6. (b) Trimethyllysine
+(Kme3) binds well to sCx4 (see text), but very poorly to sCx6. (c) A larger guest, lucigenin (LCG), binds very strongly to both sCx4 (1 : 1 complex, not
+shown), and sCx6 (both 1 : 1 and 1 : 2 complexes).
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4821
+There are some scenarios in which giving hosts small
+degrees of added flexibility provides a clear advantage. If a
+rigid host is only a fraction of an Angstrom too small, it will
+absolutely refuse to bind a guest. For example, CB7 binds many
+ammonium ion guests very strongly but does not bind morphine
+at all. Compound 28, which is an acyclic, U-shaped CB analog
+binds strongly to morphine (Kd = 2 mM) and also binds a diverse
+suite of similar, large guests (Fig. 15).34 The acyclic, cleft-like
+host is rigid enough to encode strong binding, but has a slight
+flexibility that allows it to accommodate guests that can’t be
+retained by its cyclic counterpart. On the extreme, however, it is
+well known that the binding pocket of a completely flexible host
+will undergo a hydrophobic collapse upon itself when dissolved
+in water, which completely turns oﬀguest binding. These
+examples show how a balance of rigidity and flexibility can be
+advantageous in creating aqueous host systems.
+Salts perturb host–guest systems in aqueous solution
+Salts are ubiquitous in nature, and often negatively impact
+host–guest systems. In order to design hosts that will function
+in a biological medium, the system is typically first studied in
+buffered water to mimic the pH levels (and sometimes ionic
+strength) of the natural solution. The type of salt and the choice
+of buffer can drastically change how the host behaves.
+Hard metal cations can act as competitive guests for polar
+sites in host cavities. The counter-cation in most anionic
+buﬀers (phosphate, citrate, etc.) is often overlooked, but in fact
+can bind directly to hosts that have anionic solubilizing groups
+or other electron-rich motifs. sCx4 is best known to bind with
+cationic ammonium guests, but also binds Na+ with Kd = 5.3 mM.35
+Although this is a weaker binding event than with other ammonium
+guests, if one considers that the buﬀer concentration is often as
+high as 150 mM (see below), then nearly every host can be occupied
+by Na+ (Fig. 16a). The addition of salt or acid (H3O+) helps increase
+the solubility of cucurbiturils in water because the cation binds to
+the electronegative ureido carbonyls. Extensive mechanistic studies
+have shown that Na+ and other simple cations can bind to both
+carbonyl portals and modulate guest encapsulation. This either
+weakens the complex (when the cation acts as a competitive guest),
+or increases the strength of host–guest complex (when the cation
+directly enhances binding). For example, CB7 binds with a ditopic
+guest, 29, via the phenyl or naphthyl ring but prefers the latter at low
+Fig. 15
+Host flexibility facilitates an induced fit for larger guests. (a) Acyclic
+cucurbituril, 28, can flex to bind with large guests like morphine whereas
+(b) cyclic cucurbiturils are inflexible and bind poorly to morphine.
+Fig. 16
+Direct influences of counterions over host–guest binding. (a) Buffer-derived Na+ ions are guests for sCx4, and can disrupt the binding of
+intended guests. (b) Na+ binds with the carbonyl portals of cucurbiturils and modulates guest binding and orientation.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4822 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+concentrations of Na+.36 At high concentrations of Na+, the cation
+acts as a competitor and weakens the naphthyl inclusion, flipping
+the host’s preferences by acting as a stabilizing cap for the phenyl
+inclusion complex (Fig. 16b).
+To avoid unfavourable interactions of salt with various
+hosts, a low buﬀer concentration is ideal. It must be noted
+that buﬀers should always be at least 10-fold more concentrated
+than the ionizable species they are buﬀering, in order to ensure
+suﬃcient buﬀering capacity to maintain a constant pH value.
+However, when translating these systems to real biological
+solutions, it is hard to escape the 100’s of mM concentrations
+of various ions that exist in Nature.
+Soft, polarizable ions can act as direct competitors for hydro-
+phobic cavities. Anions such as I, ClO4
+, and SCN are common
+examples that associate with hydrophobic surfaces, and are even
+capable of outcompeting guests for the binding pocket. For
+example, the host–guest complex of 5 and 30 weakens in the
+presence of increasing concentrations of NaI, NaClO4, and NaSCN
+(Fig. 17) NMR studies directly show that perchlorate is encapsu-
+lated within the 5, preventing 30 from binding.37 This effect
+becomes more dramatic when anions increase further in size
+and polarizability, such as in the case of borate clusters and
+polyoxometalates.38
+High concentrations of salt can induce precipitation when
+ions condense onto charged hosts. Earlier, we described how
+charged hosts can precipitate upon the association of an
+oppositely charged guest. Host solubility in water can also be
+aﬀected by salt when the buﬀer or solution counterions associate
+and neutralize the charge on the host (Fig. 18). Many examples of
+such negative results go unreported, but one useful example can
+teach the lesson. sCx4 and its corresponding thia-calixarene
+derivative (31) were used to encapsulate ketone and alcohol
+guests in water, prior to a 100-fold excess of NaCl being added
+to neutralize the hosts, precipitate the host–guest complexes,
+and allow their isolation (Fig. 18).39 The authors reported that
+there was a clear preference for 31 to capture guests and salt-out
+more readily than sCx4, despite both bearing four sulfonates
+along the upper rim and having similar structures and charged
+groups. This shows that it is not simple to predict how any given
+class of host will behave in a certain concentration of a salt.
+When problems are encountered, we recommend changing the
+identities of buffers and supporting solutes, because subtle
+changes can solve precipitation problems in unexpected ways.
+In some cases, the presence of salts can stop short of inducing
+complete precipitation, and instead induce host aggregation or
+assembly in a way that can be beneficial for their function.
+Several of the hosts in the next sections are examples of this kind
+of outcome.
+Exemplary systems that operate in the presence of salts and
+buﬀers
+An understanding of how hosts behave in salty water aids in the
+design of supramolecular systems that carry out their functions in
+a biological context. While there are many examples of hosts that
+bind with peptides or proteins, lipids and/or act as bio-active
+surfactants, and that act as bio-compatible reaction vessels, this
+discussion will focus on a series of anionic hosts that act as
+sensors, as well as some key relatives that extend the lesson.
+Sensors are particularly informative for the current discussion,
+as the supramolecular systems that target biological analytes need
+to generate a detectable output in water, while using binding
+mechanisms that are resistant to salts and other biological solutes.
+Transforming a host into a chemosensor requires the inte-
+gration of a reporter motif or molecule that signals when an
+analyte has been bound by the host. Dyes are common reporters
+as their optical properties can be sensitive to the environment
+and to the presence of other molecules. There are various
+photophysical mechanisms that modulate the response of dyes,
+Fig. 17
+The association between host 5 and guest 30 is perturbed by hydrophobic, polarizable anions such as ClO4
+, which directly compete for the
+hydrophobic binding pocket.
+Fig. 18
+Millimolar concentrations of salt neutralize the charge on highly
+charged hosts and can render them insoluble in water. 31 and sCx4 are
+similar, but 31 precipitates from solution much more readily upon addition
+of NaCl.
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4823
+and one common strategy is through indicator displacement
+assays (IDAs), as illustrated in Fig. 19. The dye/indicator is
+encapsulated by the host which creates an ‘‘analyte absent’’
+optical state. Once an analyte is present, it displaces the indicator
+into the bulk water, which induces another optical state of
+‘‘analyte present’’.40 Some examples of hosts exist in which the
+hosts have been structurally modified to include this dye molecule
+tethered covalently to their structure. However, many more supra-
+molecular sensors simply use an added, external dye molecule to
+avoid the synthetic challenges of creating dye-integrated hosts.
+Although these sensors are often easily constructed, they suﬀer
+from the same challenges as any aqueous host–guest system—
+chemosensors that target biological analytes must work in salty
+water. Salts can not only act as competitors (see above), but can also
+directly perturb the photophysical properties of the indicators.
+In spite of these challenges, some examples of supramolecular
+sensors teach key lessons about compatible buﬀers and how to use
+salt eﬀects as an advantage. The two following examples show how
+the eﬀects of buﬀer and salt can be considered predictively and/or
+empirically in order to provide supramolecular chemosensors that
+can operate in complex aqueous solutions.
+In the first example, sCx4 was used to detect the product
+formation of an enzymatic reaction in real-time when combined
+with lucigenin (LCG) as the dye component in an indicator
+displacement assay.41 sCx4 binds to LCG and quenches its
+emission (Fig. 20). One sCx4–LCG assay monitored LCG’s
+fluorescence increase as the dye was displaced from the sCx4
+cavity by a trimethyllysine-containing peptide, which was the
+product of an enzymatic methylation reaction. A glycine buffer
+(5 mM, pH 10) avoids the presence of large amounts of Na+ and/
+or Cl that might have been present in other typical buffers.41 As
+discussed previously, sCx4 binds with Na+ directly in a way that
+can compete with guest recognition. More importantly, Cl and
+other halides bind to LCG directly and quench its fluorescence.
+A diﬀerent example shows how salt eﬀects can provide a
+functional advantage. In this case a deep-walled cavitand, 32,
+was paired with a trimethylammonium–fluorescein conjugate,
+33, as the displaceable indicator and was used to detect the
+progress of an enzymatic demethylation reaction (Fig. 21).42 In
+this case the IDA works as a turn-off sensor. Host 32 first binds
+the trimethyllysine-containing substrate peptide, leaving indicator
+33 uncomplexed and emissive. Once the enzyme creates the
+unmethylated peptide, indicator 33 associates with the host.
+However, 33 does not participate in a typical indicator displace-
+ment scheme when encapsulated by 32. Instead, the amphiphilic
+dye-host complex forms micelles in which the dye is quenched by
+aggregation effects. The complex assembly strength was tested in
+the presence of various salts (e.g. NaCl and NaI). Each salt had a
+unique influence on the sensor’s aggregation, which in turn
+affected the sensitivity of the assay.
+One final set of examples teaches about a surprising, yet
+seemingly general motif for salt-tolerant assemblies. Hosts that
+combine a significant amount of negative charge along with
+hydrophobic recognition motifs are often able to assemble with
+similar partners in salty solutions, and even be promoted by
+salt. The Gibb cavitand (34) self-assembles into dimers around
+hydrophobic guests despite forming a complex with overall 16
+charge. However, with the addition of various salts, the assembly
+Fig. 19
+Indicator displacement assay (IDA) is used to detect analytes by displacement of a quenched dye. Added salt can negatively aﬀect IDAs in
+multiple ways, including by acting as a competitor for the host or by quenching the emission of the dye (see main text).
+Fig. 20
+sCx4 and lucigenin (LCG) are used as a conventional IDA sensor to monitor a methyltransferase reaction, giving a turn-on fluorescence
+response when trimethyllysine is formed by the enzymatic reaction. The use of low NaCl concentrations minimizes potentially deleterious salt eﬀects.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4824 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+Fig. 21
+Aggregation-quenched IDA reports on the progress of a demethylase-catalyzed reaction. The sensitivity is influenced by various hydrophobic
+and/or polarizable anions that modulate the formation of the quenched aggregate.
+Fig. 22
+Controlled assembly and salt eﬀects for two examples of like-charged host molecules. (a) An anionic cavitand (34) forms a dimer with a
+16 overall charge to encapsulate n-heptadecane, and upon the addition of salt is induced to form a tetramer with 32 overall charge while enclosing
+two guests. (b) A sulfonated calixarene bearing hydrophobic pendant arms (35) form homodimers with a 8 overall charge in water, and those anionic
+dimers becomes thermodynamically stronger in presence of added salts.
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4825
+changes to a tetrameric species (4: 2) with an overall 32 charge.
+The highly charged assembly is presumably stabilized by the
+binding of cations to anionic groups in order to reduce the
+overall repulsion among monomers (Fig. 22a).43 A family of
+calixarenes each functionalized with single, rigid, hydrophobic
+arms display a related behaviour, forming anionic dimers in
+aqueous solutions that get stronger upon addition of added salt
+(Fig. 22b).44 The operating principle is the same in both cases:
+hydrophobic aggregation is balanced against the mutual repul-
+sion between like charges in each monomer; salts act to reduce
+the mutual electrostatic repulsion and strengthen the hydrophobic
+eﬀect; the strength of each assembly is increased in the presence of
+salt; the overall negative charge is enough to keep the well-ordered
+assemblies in solution.
+Systems that function in real biological media
+The goal for many water-compatible supramolecular systems is to
+operate in real biological solutions, which can be both complex
+and unpredictable. Supramolecular hosts oﬀer selective and
+potent recognition sites that mimic those of biomolecules in
+Nature. However, an additional challenge for these supramolecu-
+lar tools is to operate in solutions that are even more complex and
+less controlled than the salty, buﬀered aqueous solutions that
+have been discussed above. Biofluids such as serum, saliva, and
+urine contain a mixture of salts, proteins, and organic metabolites
+that vary in concentrations over time and between individuals.
+This complexity and heterogeneity is further amplified in cells
+and whole organisms. Examples of biofluid-compatible chemo-
+sensors and medicinally relevant systems that operate in cells and
+Fig. 23
+A generic representation of a host–guest based sensor array. An array of dyes paired with promiscuous hosts create IDAs that detect many
+different analytes, each to a varying extent. This produces a complex ‘fingerprint’ of output data which is simplified and analysed through chemometric
+analyses in order to distinguish each analyte.
+Fig. 24
+A combination of two diﬀerent calixarenes (36, 39) and dyes (38, 40) detect and discriminate a cancer biomarker, lysophosphatidic acid (37),
+from an oﬀ-target molecule, adenosine triphosphate, ATP. The system functions in plasma.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4826 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+whole organisms are discussed below. It is generally harder to
+teach general lessons from such diverse material. The purpose of
+this section is to inspire tutorial readers with examples of the
+achievements of host–guest chemistry under the most complex
+and challenging of biological conditions.
+Chemosensors that function in biofluids
+Many chemosensors that function in biofluids operate within a
+sensor array to overcome the diﬃculty of achieving highly
+specific analyte sensing in competitive solutions. Often, a single
+chemosensor is not enough to selectively target one analyte in a
+complex mixture that contains a number of structurally similar
+analytes and biological co-solutes. Instead of re-designing a
+chemosensor to improve selectivity, the original IDA can be
+expanded to form an array of partially promiscuous, cross-
+reactive chemosensors that detect many analytes but to diﬀerent
+extents. In this approach, popularized by Anslyn and since
+thoroughly explored my many others,45 the output is a unique
+pattern or fingerprint for a given analyte that is subsequently
+simplified and visualized through chemometric analyses in
+order to distinguish diﬀerent analytes (Fig. 23).
+In one illustrative example that works in a real biofluid, a
+guanidinium-modified calix[5]arene, 36, was able to detect an
+ovarian cancer marker, lysophosphatidic acid (37), at nM con-
+centrations in plasma through the displacement of fluorescein,
+38 (Fig. 24).46 Despite high selectivity over most other co-solutes,
+ATP was found to be a major competitor. An array of similar
+calixarenes (39) and diﬀerent dyes (40) were used in combination
+with chemometrics to robustly distinguish ATP from the targeted
+biomarker, 37.
+Non-covalent IDA’s often dissociate in the presence of salt,
+rendering them unable to operate in biofluids. One strategy to
+circumvent this problem is to covalently attach the dye to the
+host molecule. In one example, a fluorescent dye berberine was
+synthetically linked to CB7 to create the sensor 41 (Fig. 25). The
+Fig. 25
+A covalently linked berberine to CB7 sensor (41) remains stable in buﬀered water (and biofluids) and is able to sequester and detect amantadine (42).
+Fig. 26
+An array of 7 dye-integrated calix[4]pyrrole chemosensors detect
+carboxylate-based drugs in urine despite also forming weak interactions
+with other inorganic anions.
+Fig. 27
+The
+DimerDye
+Disassembly
+Assay.
+A
+self-assembled,
+self-
+quenched DimerDye dissociates in the presence of hydrophobic cationic
+guests to yield a turn on fluorescent complex. The combination of five
+DimerDyes in a sensor array was able to detect and discriminate between
+illicit drugs and their metabolites.
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4827
+tethered sensor was superior to a non-covalent CB7-berberine
+complex in sequestering and sensing the drug amantadine (42)
+in salted buﬀers, saliva and urine.47
+Dye-labeled hosts can also function in non-IDA sensing modes.
+In one example, a library of dye-conjugated calix[4]pyrroles
+detected and discriminated between diﬀerent carboxylate-based
+drugs in urine (Fig. 26).48 Once a drug is bound to the pyrroles,
+the dye, which is conjugated directly to the binding motif, turns
+on through an intramolecular partial charge transfer. The authors
+initially found that each calix[4]pyrrole chemosensor bound more
+strongly to competitive biological anions like Cl and H2PO4
+
+than with benzoate, a compound that is structurally similar to the
+tested drugs. However, the library of calix[4]pyrroles in combi-
+nation of chemometrics was able to detect and successfully
+discriminate between the carboxylate drugs in urine.
+Host aggregation can also be used to create functional sensors.
+An array of calix[4]arene-based chemosensors detects and discri-
+minates between diﬀerent illicit drugs in saliva. The previously
+mentioned salt-tolerant calixarene dimers (Fig. 27) inspired the
+invention of chemosensors called DimerDyes that replace the
+pendant hydrophobic group with environment-sensitive merocya-
+nine dyes. These novel chemosensors operate as a DimerDye
+Disassembly Assay, in which they first form self-quenched homo-
+dimers, and then operate as sensors when the homodimers
+disassemble in the presence of competing hydrophobic, cationic
+guests in order to induce a turn-on fluorescence response. To
+achieve successful discrimination of closely related drugs and
+their metabolites in human saliva, sixteen DimerDyes were made
+and tested in parallel, leading to the selection of five sensors that
+could achieve the desired sensing tasks. The combination of the
+selected five DimerDyes and chemometric tools were used to
+successfully detect and discriminate between illicit drugs such
+as cocaine, heroin, methamphetamine, ecstasy, and their respec-
+tive metabolites at low mM concentrations in human saliva.49 In
+another, elaborate example of aggregation-triggered sensing, cavi-
+tand 32 (see Fig. 21) was combined with two diﬀerent dyes and
+heavy metals that collectively caused several distinct aggregation
+states. The changes in aggregation upon addition of tetrahydro-
+cannabinol (43, Fig. 28) were able to be read out as distinct
+changes in optical responses in either human saliva or urine.50
+Hosts that operate in whole cells and cell lysates
+Some hosts can function individually in whole cells and cell lysates,
+in spite of the many salts, metabolites and other biomolecules that
+exist in living systems. In one example, a host was used as a
+biomolecular enrichment tool that functioned in a cell lysate to
+‘‘fish out’’ a protein from a complex mixture (Fig. 29).51 An
+acetamidocalix[4]arene, 44, was conjugated to an agarose bead
+and mixed with HeLa cell lysate. The goal was to allow the
+Fig. 28
+D9-THC (43) is a challenging metabolite with relatively little polar
+functionality. It was able to be detected and identified in saliva and in urine
+using a complex combination of an aggregation-prone host, two diﬀerent
+dyes, and various heavy metals.
+Fig. 29
+An unbiased approach to discovering host–guest complexes. An acetamidocalix[4]arene (44) was conjugated to an agarose bead, and used to
+‘‘fish’’ proteins from a cancer cell lysate. LC-MS/MS based proteomics analysis revealed the proteins that bound strongly. Adapted with permission from
+ref. 51. Copyright 2015, John Wiley and Sons.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4828 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+calixarene to form complexes with a few strong protein partners
+from the thousands of proteins contained in the cancerous cell.
+‘‘Hit’’ proteins were identified after a pull-down, cleavage from
+the bead, and proteomics analysis. Subsequent re-testing con-
+firmed the biological activity of the calixarene on its newly
+discovered protein target.
+Cells have lipid bilayers and other barriers that prevent foreign
+substances from entering, yet there are some supramolecular
+hosts that can successfully pass through membranes. While
+highly charged hosts often fail to enter cells, the pre-formed
+complex of sCx4 and lucigenin dye (LCG) penetrated and worked
+as an IDA sensor within live Chinese hamster ovary cells and
+fibroblasts (Fig. 30).52 The sensing abilities were strongly aﬀected
+by
+the
+chloride-containing
+cell
+medium
+(binding
+strength
+decreased 100-fold, quenching eﬃciency decreased 5-fold) yet
+the diﬀerential response was enough to detect guests such as
+acetylcholine. There are a small but growing number of such
+reports, in which a host can enter a cell along with the guest to
+which it is bound. The actual mechanism behind the cellular
+entry of sCx4 remains unknown. But the ability of oppositely
+charged, somewhat lipophilic host–guest complexes to enter cells
+is reminiscent of the way that cationic lipids can bind to DNA and
+serve as transfection agents.
+CB7s bind with N-terminal phenylalanine residues on pro-
+teins such as insulin with sub-micromolar aﬃnities (Fig. 31a).53
+Many proteins involved in protein misfolding diseases such as
+Alzheimer’s and amyloidosis contain hydrophobic residues, like
+phenylalanine, that promote unfolding, refolding, and sequential
+formation of fibrils and amyloids. The fibrils of amyloidogenic
+proteins like insulin can be toxic to cells. In a promising proof-of-
+concept for a new kind of therapeutic approach, CB7 was able to
+bind insulin through its N-terminal phenylalanine residue,
+decrease insulin fibrillization, and reduce the toxicity of insulin
+fibrils to living cells in a standard cell culture medium (Fig. 31b).54
+Supramolecular systems that function in whole organisms
+For a supramolecular system to be successful in a whole organism,
+the host must be both tolerant of co-solutes and also behave well
+Fig. 30
+sCx4 and LCG enter cells and can serve as an intracellular IDA to detect acetylcholine in fibroblasts. Adapted with permission from ref. 52.
+Copyright 2015, John Wiley and Sons.
+Fig. 31
+CB7 encapsulates the N-terminal phenylalanine on insulin, preventing toxic fibril and amyloid formation in cells. (a) Crystal structure of CB7
+complexed to phenylalanine derivative. Adapted with permission from ref. 53. Copyright 2011, American Chemical Society. (b) TEM images show
+a decrease of insulin fibers formed with higher ratios of CB7 (insulin : CB7 ratio). Adapted with permission from ref. 54. Copyright 2014, John Wiley
+and Sons.
+Chem Soc Rev
+Tutorial Review
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+This journal is © The Royal Society of Chemistry 2021
+Chem. Soc. Rev., 2021, 50, 4812–4832 |  4829
+pharmacologically. Many common host macrocycles seem to be
+relatively inert in the body, and examples of these hosts can act as
+drug carriers, bioimaging agents, disease inhibitors, and even
+reversal agents for other drugs.
+Many examples of host–guest chemistry operating success-
+fully in whole organisms involve hosts acting as drug reversal
+agents. Many hosts including sCx4, cyclodextrins, cyclic and
+acyclic cucurbiturils form strong complexes with various illicit,
+harmful, or toxic drugs in water with association constants
+ranging from 0.1 mM to 10 nM.34 Compound 45 was successful
+at binding methamphetamine in rats, reducing drug-induced
+hyperlocomotion, and also remove the neuromuscular blockade
+agent rocuronium (1) from mice, restoring normal muscular
+control after an anaesthetic procedure (Fig. 32).34,56 This follows
+on from a currently approved cyclodextrin drug called Sugam-
+madex, which also removes rocuronium and restores muscular
+activity in humans after surgical neuromuscular blockade.56,57
+An acyclic CB analogue, 28, was also successfully able to bind
+fentanyl, significantly improving respiratory impairment and
+other side effects.55 sCx4 has been shown to reverse drug toxicity
+by, for example, lowering the concentration of a toxic herbicide,
+paraquat (4), rescuing animals in a rat model of herbicide
+poisoning.58 An increasing number of such examples exist for
+pillar[n]arenes, calix[n]arenes, CB-analogs, and cyclodextrins. An
+almost universal aspect of these studies is the focus on drugs
+(guests) that are both cationic and hydrophobic, and that are
+therefore well suited to being bound by anionic hosts.
+Hosts can also act as carriers for beneficial drugs and
+therapies.4,59 Cyclodextrins have long been used as excipients
+that solubilize and stabilize drugs in the bloodstream. We will
+present here recent examples in which a novel host releases the
+drug at the site of disease due to an environmental change. For
+example, carboxylatopillar[6]arene (3) transports toxic cancer
+drugs, oxaliplatin-C10 (46) and doxorubicin (13) by forming
+both a pH-dependent host–guest complex and vesicles, to
+tumor cells in mice (Fig. 33).60 The release of the drugs is
+triggered by a pH drop in cancer tissue, causing oxaliplatin-C10
+to lose affinity for protonated 3.
+In another strategy, a host can encapsulate a reactive mole-
+cule in vivo, rendering it temporarily inert. A specific biomarker
+localized at a diseased site can then displace the reactive guest
+from the host in order to kill the diseased cells. An example of
+this uses a modified calixarene, 47, which forms a strong
+complex with a photosensitizer (40) that renders it photoche-
+mically inert (Fig. 34).61 The large abundance of ATP present in
+certain tumour cells displaces 40, and when free 40 is irradiated
+by a localized light source it creates highly toxic singlet oxygen.
+Excitingly, this approach was shown to kill tumor cells in mice
+with good cell-type selectivity.
+Fig. 32
+Acyclic cucurbituril, 45, binds to methamphetamine to reduce hyperactivity in rats, and binds rocuronium to remove neuromuscular blockade
+in mice.
+Fig. 33
+Carboxylatopillar[6]arene, 3, complexes a potent cancer drug,
+oxaliplatin-C10 (46), when deprotonated in the bloodstream but releases
+the drug in acidic tumour tissue.
+Tutorial Review
+Chem Soc Rev
+Published on 02 March 2021. Downloaded by University of Science and Technology of China on 10/15/2024 8:41:55 AM. 
+View Article Online
+4830 |  Chem. Soc. Rev., 2021, 50, 4812–4832
+This journal is © The Royal Society of Chemistry 2021
+Conclusion and outlook
+The field of host–guest chemistry has evolved dramatically from its
+origins in fundamental research. Successful complexation in water,
+once a frontier of discovery for the basic sciences, is now regularly
+achieved. The creative application of host–guest chemistry offers
+solutions to diverse kinds of problems in the life sciences, and this
+approach is already starting to make major impacts in biomedical
+research and in medicine. We hope that this practically oriented
+tutorial review both encourages and enables newcomers to
+contribute to this exciting field.
+Fig. 34
+Biomarker displacement for phototherapy. An amphiphilic calix[5]arene, 47, binds and quenches a photosensitizer, 40, forming stable micelles
+that remain inert in mice. The high concentrations of ATP in tumour cells bind to the calixarene and displace 40. Irradiation of the tissues containing the
+now-released photosensitizer creates highly reactive singlet oxygen, selectively killing cancer cells.
+Chem Soc Rev
+Tutorial Review
+P

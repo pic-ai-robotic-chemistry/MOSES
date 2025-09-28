@@ -1,0 +1,33 @@
+ontology:
+  directory_path: ${PROJECT_ROOT}data/ontology/
+  ontology_file_name: "chem_ontology.owl"
+  base_iri: "http://www.test.org/chem_ontologies/"
+  closed_ontology_file_name: "closed_chem_ontology.owl"
+  java_exe: "C:/Program Files/Java/jdk-23/bin/java.exe"
+
+entity_retrieval:
+  top_k: 5
+  bm25_weight: 0.5
+  jaccard_weight: 0.5
+  trigram_size: 3
+  min_score_threshold: 0.1
+
+LLM:
+  model: "gpt-4.1-nano"
+  # model: "o1-preview"
+  # model: "o1-mini"
+  streaming: false
+  temperature: 0
+  max_tokens: 5000 # 5000 for query  and 20000 for ontology extraction
+
+extractor_examples:
+  individual_directory_path:  ${PROJECT_ROOT}data/extractor_examples/concept/
+  concept_file_path: "{{individual_directory_path}}concepts.json"
+
+dataset_construction:
+  folder_path: ${PROJECT_ROOT}data
+  raw_data_folder_path: "{{folder_path}}processed_texts"
+  devset_file_path: "{{folder_path}}datasets/devset.json"
+  trainset_file_path: "{{folder_path}}datasets/trainset.json"
+
+

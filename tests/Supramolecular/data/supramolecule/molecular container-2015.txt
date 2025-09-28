@@ -1,0 +1,3010 @@
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 547
+Cite this: Chem. Soc. Rev., 2015,
+44, 547
+Molecular containers assembled through the
+hydrophobic eﬀect
+Jacobs H. Jordan and Bruce C. Gibb*
+This review focuses on molecular containers formed by assembly processes driven by the hydrophobic
+eﬀect, and summarizes the progress made in the field over the last ten years. This small but growing
+facet of supramolecular chemistry discusses three classes of molecules used by researchers to
+investigate how self-assembly can be applied to form discrete, mono-dispersed, and structurally well-
+defined supramolecular entities. The approaches demonstrate the importance of preorganization of
+arrays of rigid moieties to define a specific form predisposed to bind, fold, or assemble. As the examples
+demonstrate, studying these systems and their properties is teaching us how to control supramolecular
+chemistry in water, shedding light on aspects of aqueous solutions chemistry, and illustrating novel
+applications that harness the unique properties of the hydrophobic eﬀect.
+1.0 Introduction
+Why water?
+Chemists are spoilt for choice when it comes to solvent;1 in
+contemporary chemistry there are literally dozens of diﬀerent
+solvents to choose from, each with their own unique properties
+to fit a task. So why would a chemist focus on just one? And why
+would an organic chemist focus on one that doesn’t dissolve
+most organic molecules? Why would an organic chemist choose
+water as a solvent? One reason that may be suggested is the
+environment. Green chemists might argue that we should aim
+for water as the default solvent; that organic chemists should
+be systematically converting – by whatever means possible – the
+cornucopia of organic reactions in the literature into water-based
+processes. Of course, whether or not this is possible, or even
+desirable, is debatable. And so for this and many other reasons
+organic chemists focus on organic solvents.
+But there is no debating that supramolecular chemists should be
+very interested in water.2 With important exceptions, the expertise in
+controlling and utilizing non-covalent forces that the field has built
+up over the last few decades has been grounded in organic solvents.
+And yet aqueous chemistry is fundamental to the biosphere, hydro-
+sphere, lithosphere and the atmosphere.3 Choose just one of these
+(the biosphere?), and one tiny fraction of it (Homo Sapiens?),
+and consider all of the key non-covalent interactions going on
+in aqueous solution.4 Opportunities abound.
+But there are problems. Although pure water is relatively
+well understood, there are still some controversies arising from
+its dynamic structure. The idea of memory water and poly-water
+may have been refuted,5 but the recent debate about the
+ability of water to store charge6 should remind us that its
+complicatedness – its complexity (in the sense of emergence) –
+provides many opportunities to be led astray.
+Moving away from the controversial, just the slightest compli-
+cation to the pure water picture and our view becomes somewhat
+murky.7 Hence, a simple(!) air–water interface, or a change in
+pressure or temperature leads to debate and controversy. Dissolve
+something in water, be it a salt or a relatively hydrophobic,
+organic molecule and the water becomes murkier still. That is
+not to say that progress isn’t being made. For example, the
+Jones and Ray effect (a minimum in the surface tension of
+electrolyte solutions at 1 mM concentrations) – a phenomenon
+that caused considerable debate last century – now seems to be
+resolved.8 More generally, it now seems clear that certain kinds
+of ions do accumulate at the air water interface, and that the
+ensuing models can now bridge the divide between physical
+chemists who point out that surface tension increases in
+solutions as a function of increasing salt concentrations can
+only be accounted for by a depletion of ions from the air–water
+interface, and atmospheric chemists who can only explain
+aerosol properties by having ions accumulate on droplet sur-
+faces.9 Progress is also being made in regards to the solvation
+of hydrophobic surfaces, although the focus has primarily been
+on convex10 and flat surfaces11 and is only more recently
+turning to concave surfaces.12 All this noted, there is still plenty
+to discover about the hydrophobic effect (most simply put, why
+oil and water don’t mix) and the Hofmeister effect (how salts
+effect the properties of water and aqueous solutions). Water science
+is a rich field barely scratched by supramolecular chemistry.
+But one thing is for sure, dissolve benzene and sodium chloride
+in water and there are six non-covalent interactions to consider
+Department of Chemistry, Tulane University, New Orleans, LA 70118, USA.
+E-mail: bgibb@tulane.edu
+Received 29th May 2014
+DOI: 10.1039/c4cs00191e
+www.rsc.org/csr
+Chem Soc Rev
+REVIEW ARTICLE
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+View Journal  | View Issue
+548 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+(water–water, salt–salt, benzene–benzene, water–benzene, water–
+salt and benzene–salt). Rich pickings for supramolecular chemists.
+Topic boundaries of the review
+This review focuses on one small but growing area of supra-
+molecular chemistry in aqueous solution. As the title suggests,
+the topic is molecular containers that are formed by assembly
+processes driven by the hydrophobic eﬀect. But when is a
+container a container? What is an assembly? And which assem-
+blies are, or are not, driven by the hydrophobic eﬀect? We take
+the following perspectives.
+The definition of a molecular container can be approached
+quantitatively or qualitatively, although both are subjective and
+arbitrary. Quantitatively, in our minds a molecular container
+envelops at least 83% of a smaller guest. This is based on our
+experiences at the macroscopic scale. Thus, in the extreme a
+container encloses 100% and there is no opportunity for the
+inner contents to escape without the opening of the container
+itself. Opening the container may be irreversible (an egg), but
+most containers can be opened and closed repeatedly because
+they have a screw-top or lid, and in our minds a molecular
+container is more akin to the plastic boxes devised by Earl
+Tupper (Tupperwares) than it is to an open cage-like structure.
+Our envisioned containers therefore possess the equivalent of
+at least five of six sides and envelop at least 83% (100%  5/6)
+of their contents. Qualitatively, we view a molecular container
+as fully preventing guest exchange unless the container is opened.
+In the case of a true molecular container bond breakage may be
+required to do this, but in the context of assembled containers
+then disassembly (removing the lid) suﬃces to allow guest
+entry or egression.
+The extent by which a container envelops is not the only
+quality colored by our macro-scale view, so too is our definition
+of the type of construction material used to form the molecular
+walls. Thus, our definition includes structurally well-defined,
+mono-dispersed chemical entities with kinetically stable walls, but
+not those that are fluxional and/or poorly defined. We therefore
+do not include the topic of fluxional foldamers (but see below),
+even though we acknowledge that defining these as fluxional
+and/or poorly defined is colored by how they are analyzed.
+In chemistry, self-assembly is the process in which a relatively
+disordered system of pre-existing molecules or ions forms a
+more organized structure as a result of specific, local interac-
+tions among the subunits. And so the systems under review here
+are principally molecules that form dimers, trimers, tetramers
+etc. and in doing so modify (put the lid on) or create the
+container. We have however intentionally chosen the more vague
+term ‘‘assembly’’ for the title rather than ‘‘self-assembly’’ so that
+structurally well-defined self-folding molecules can be included.
+In our minds there are too many similarities and overlaps
+between self-assembling and self-folding molecules to comple-
+tely exclude the latter. Again, we acknowledge the vagaries
+in deciding what is and what is not a kinetically or thermo-
+dynamically stable entity.
+Which assemblies are, or are not, driven by the hydrophobic
+eﬀect? That depends on the definition of the hydrophobic
+eﬀect. Our view is that it is the phenomenon of the separation
+of hydrophobes from water and/or the desolvation of hydro-
+phobic surfaces that is primarily driven by the highly cohesive
+nature of water. More specifically, it is an observed eﬀect
+arising from the strong hydrogen bonding within water and,
+to a lesser extent, the van der Waals forces between solutes.
+The simple face-to-face cyclohexane dimer in water illustrates
+this idea perfectly. But it doesn’t take much structural diversity
+to make things ambiguous. Is a similar face-to-face dimer of
+cyclohexanol driven by the hydrophobic eﬀect? Or is the
+potential hydrogen bond between alcohol OH groups impor-
+tant? Our drawing of the line in this regard is based on the
+following: (1) the system in question must be in water. Systems
+with co-solvents were not included (mostly); (2) no systems
+involving covalent, or strong non-covalent interactions such as
+metal coordination, are discussed in detail. Reversible13 and
+irreversible covalent bond14 formation and metal–ligand driven
+assembly15 are very important topic in self-assembly but are
+excluded here; (3) there must be both structural features in the
+solute and empirical evidence that desolvation of hydrophobic
+surfaces is key to assembly.
+Finally, in this paper we have tried to summarize the progress
+made in the field over the last ten years. During this time-period
+we have attempted to be as comprehensive as possible. However,
+as is always the case, the topic of ‘‘molecular containers assembled
+through the hydrophobic eﬀect’’ did not appear out of the
+ether. Consequently, where appropriate we have stretched back
+in the literature to before 2004.
+2.0 Classes of self-assembling
+molecules
+2.1
+Deep-cavity cavitands
+2.1.1
+Investigating the properties of deep-cavity cavitands
+(a) Synthesis, structure and coatings. The water-soluble deep-
+cavity cavitands discussed here have their roots in analogous
+organic-soluble deep-cavity cavitands devised by the Gibb group.16
+Available in two linear steps from the respective resorcinarene,
+hosts such as 1 possess deeper pockets than those popularized by
+Cram and others, and acted as a proof-of-concept for the facile
+formation of relatively rigid (non-collapsing) binding pockets.
+Building on this early work, the Gibb group reported the first
+example of a water-soluble deep-cavity cavitand (2) that binds
+and assembles into well-defined supramolecular entities via
+the hydrophobic eﬀect; a host that is commonly called octa-acid
+(OA).17 The synthesis of OA 218 involves six steps from the
+requisite resorcinarene, only one of which requires chromato-
+graphic separation. Consequently, gram quantities of OA 2 are
+readily available. Briefly (Scheme 1), the resorcinarene scaﬀold
+was built up by first stereoselective bridging resorcinarene 3 with the
+corresponding benzal bromide (1-3-dibromo-5-(dibromomethyl)-
+benzene) to aﬀord the deep-cavity cavitand octabromide 4.16e,19
+Subsequently, an eight-fold Ullmann ether reaction introduces
+rigidity to the cavity and adds functionality at the rim in the
+form of hydroxyl groups (5). Oxidation then gives crude OA 2.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 549
+Esterification followed by chromatographic purification, then
+hydrolysis of the octa-ester 6 aﬀords OA 2 in six linear steps.
+Taking OA 2 as a representative of this class of molecule,
+these hosts possess a ca. 0.8 nm diameter wide and ca. 0.8 nm
+deep hydrophobic pocket comprised primarily of eight aromatic
+rings (Fig. 1). Atop the cavity, forming a rim around the portal,
+are four more aromatic rings orthogonal to the C4 axis of the
+host that ‘stitch’ the bowl together. The rim defined by these four
+rings is relatively hydrophobic and is key to the predisposition20
+of the molecules to assemble into supramolecular capsules.
+In addition, they provide diverging functionalization points for
+water solubilizing groups (R1, in this case four carboxylic acids),
+as well as four converging (endo) positions for groups that modulate
+the shape and properties of the hydrophobic pocket (R2). Four
+more functional groups for water-solubilization can be found
+at the termini of the pendant groups that hang down from the
+main bowl structure (R3).
+By virtue of its eight carboxylic acid/carboxylate groups OA 2
+is soluble in tens of micromolar concentration at pH 7, and
+greater than one hundred millimolar concentrations at pH 9 or
+above. As is outlined in this section, this deep-cavity cavitand
+has been the most utilized and studied of this family of hosts.
+Scheme 1
+Synthesis of octa acid (OA) 2. Reagents are: (1) 3,5-dibrombenzal bromide, DBU, DMA; (2) 3,5-dihydroxybenzyl alcohol, K2CO3, CuO, Pyr; (3)
+KMnO4, DMA, t-BuOH; (4) HCl, EtOH/CHCl3; (5) LiOH, DMA, H2O.
+Fig. 1
+Structure of octa-acid 2. The space-filling model on the left is from the same perspective as the chemical structure in the center. The space-filling
+model on the right looking down into the pocket of the host is from ‘above’ as viewed from the chemical structure.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+550 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+Key to this point is not only its good water solubility, but also its good
+behavior under a variety of conditions. Thus, whereas at above pH E
+10 and concentrations less than 10 mM random aggregation of the
+host is rare, the presence of guests from as small as propane21 to as
+large as cholesterol17 trigger quantitative dimerization into mono-
+dispersed capsular complexes. We attribute the good behavior of
+OA 2 not only to the fact that it has eight water-solubilizing groups,
+but also to the fact that they are distributed in an pseudo square anti-
+prismatic or anti-cubic array that spreads the negative charges
+evenly (but not uniformly) around its outer surface (eight, maximally
+distant points on the surface of a sphere define an anti-cube). The
+distortion to the anti-cube – that the upper portal face is larger than
+its opposing face, and the carboxylates on the rim are below the lip of
+the pocket – means that the charge distribution is not even; the
+upper portal face is a relatively hydrophobic surface and likely
+contributes to the predisposition of these hosts to assemble.
+Before discussing the diﬀerent derivatives of these water-
+soluble deep-cavity cavitands it is worth noting the fine balance
+between charge number/charge distribution and the water
+solubility of these hosts; a concept that applies to the design
+of water-soluble hosts and self-assembling subunits in general.
+Cavitands 7, possessing only four carboxylic acid groups,
+aggregates in aqueous solution and DMSO is required as a
+co-solvent to give interpretable NMR spectra.22 It is a similar
+story for host 8 (R = 3,5-benzene dicarboxylic acid), whose eight
+water-solubilizing groups are all on one end of the molecule.
+This host is too amphiphilic and also undergoes aggregation in
+aqueous solution.
+As well as these anionic hosts, neutral and cationic deriva-
+tives have also been synthesized. Examples of these are high-
+lighted in the following sections. Here we briefly highlight
+some examples from these two classes for illustrative purposes.
+The first example of a neutral water-soluble host was third
+generation (G3) dendrimer 9 (Scheme 2) from the Grayson
+group.23 The G3 host 9 was prepared by three successive rounds
+of coupling, and deprotection starting from the precursor
+compound octol 5. Thus, the eight hydroxy moieties were
+dendronized with an acetonide-protected anhydride and depro-
+tected using a solid-phase acid resin to give the G1 cavitand
+with 16 hydroxyl groups. Two successive rounds of protection-
+coupling-deprotection gave the G3 cavitand with 64 water-
+solubilizing hydroxyls on the termini of the dendritic chains.
+Three generations of dendrimer were necessary for full water
+solubility. Thus the corresponding G2 cavitand required at least
+20% methanol solutions for dissolution. Although possessing
+the same type of properties of OA 2 (see below), guest aﬃnities
+to the G3 cavitand 9 were generally lower than with OA 2. This
+was attributed to self-inclusion of the dendritic arms within the
+hydrophobic concavity.
+In an alternative approach, Grayson introduced a range of
+surface modifications using Cu(I) catalyzed aza-alkyne cyclo-
+addition (‘‘click’’) chemistry. Thus, the octol 5 was treated with
+a carbodiimide in the presence of 4-pentynoic acid to give the
+activated core cavitand 10 with eight alkynes protruding from
+the exterior (Scheme 3). Subsequently, treatment of 10 with an
+excess of the requisite azide under ‘‘click’’ conditions led to an
+array of coated hosts (11) including two with dendrons, and
+several with polymer coats such as polycaprolactone (PCL), and
+polyethylene glycol (PEG). All of the functionalized cavitands
+were highly mono-disperse and were characterized by MALDI-
+TOF MS analysis. The PCL-grafted cavitand showed increased
+solubility in organic solvents, whilst the PEGylated cavitand
+Scheme 2
+Synthesis of dendronized cavitand 9. Conditions are: (1) acetonide-
+protected bis(hydroxymethyl)propanoic anhydride, DMAP; (2) Dowex acid resin;
+(3) repeat coupling and deprotection steps (1) and (2) twice.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 551
+showed increased solubility in polar solvents such as methanol
+(488 mg ml1), ethanol (424 mg ml1) and water (433 mg ml1).
+The first example of water-soluble cavitands coated with
+cationic groups, host 12 and its octa-triethyl ammonium deri-
+vative, have been recently reported by the Ramamurthy group.24
+The initial studies on these hosts suggest that at low pH, 12
+undergoes a degree of aggregation, but that it is better behaved
+as a complex with diﬀerent guests. Preliminary host–guest and
+photochemical studies suggest properties similar to OA 2.
+On the other hand, preliminary work with the corresponding
+octa-triethyl ammonium derivative suggest a poorly behaved
+host at neutral pH. Interestingly, host 12 also allowed the first
+glimpse in the gas phase of the 1 : 1 and capsular complexes
+made by these types of hosts.25
+(b) Factors aﬀecting complexation and assembly. Both the
+nature of the host and guest are important in the complexes
+formed by deep-cavity cavitands. To date the following host–
+guest complexes have been identified with deep-cavity cavitands:
+1 : 1, 1 : 2, 2 : 1, 2 : 2, 4 : 2 and 6 : 3. We will focus first on guest
+effects and the formation of 1 : 1 and 2 : 1 complexes to high-
+light why one or the other forms.
+Guest eﬀects. The Gibb group first identified the key point
+about forming 1 : 1 complexes with OA 2 in a study of the
+binding of a range of cyclic and acyclic aliphatic carboxylates.26
+1H NMR showed that these amphiphilic guests bound with
+their hydrophobic chains in the pocket of host 2, and their
+polar carboxylates exposed to the free aqueous medium.
+Consequently, by binding in the orientation specific manner
+the ‘upper’ surface of the host defined by the portal to the
+pocket and its attendant rim is rendered more hydrophilic and
+assembly to the capsular state is switched oﬀ. A later study with
+related molecules confirmed these findings.27
+In the study of cyclic and acyclic aliphatic carboxylates,26
+Isothermal Titration Calorimetry (ITC) were utilized to examine
+three cyclic and three acyclic carboxylates typified by hexanoate
+13 and adamantane carboxylate 14 (Fig. 2). All of the examined
+carboxylates were found to associate with a Ka of between 103
+and 106 M1, with the weakest being hexanoate (Ka = 3.64  103)
+and the strongest proving to be adamantane carboxylate
+(Ka = 1.14  106). Butanoate, with a short propyl chain, did
+not bind. Apparently, the propyl chain was unable to eﬀectively
+compete with the hydrophilicity of the carboxylate. A linear trend
+was observed for the relationship between DG1 for complexation
+and the number of carbon atoms in the guest (Nc). DG1 values
+become more favorable with increasing number of Nc, with the
+gradients dDG1/dNc for the acyclic acids and cyclic acids
+respectively being similar to those observed for the transfer of
+hydrocarbons from water to organic solvents.
+Examining how the enthalpy and entropy changes as a
+function of Nc revealed two trends. First, for the acyclic guests
+as Nc increased both the entropy and enthalpy terms for
+complexation became more favorable. In contrast, enthalpy–
+entropy compensation was observed with the cyclic guests;
+with increasing Nc the entropy component of binding became
+less favorable, while the enthalpy component became more
+favorable. This was interpreted to arise from increasing host–
+guest contacts with larger guests being countered by restricted
+motion within the cavity.
+For both series, the thermodynamics of complexation as
+a function of temperature displayed near perfect enthalpy–
+entropy compensation so that DG1 was nearly independent
+of T. In all cases the exothermicity of complexation increase
+Scheme 3
+‘‘Click’’ chemistry for diverse water-soluble cavitands. Conditions are: (1) 4-pentynoic acid, N,N0-dicyclohexylcarbodiimide, DMAP, pyr/
+CH2Cl2; (2) various azides, Cu(I)Br/Cu/N,N,N0,N0,N00-pentamethyldiethylenetriamine/CH2Cl2.
+Fig. 2
+Representative carboxylate guests for 1 : 1 complexes with OA 2.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+552 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+with T confirming that the heat capacity change
+DC
+p
+
+
+upon
+complexation was negative. The obtained values were generally
+equal to and/or greater than those seen with cyclodextrins,
+perhaps reflective of the more hydrophobic pocket of the deep-
+cavity cavitand. Expanding on this work, the same authors
+recently examined the binding of a series of cyclic aliphatic and
+aromatic carboxylates as part of the fourth statistical assessment
+of modeling of proteins and ligands (sampl.eyesopen.com).28
+Another illustrative example of the formation of 1 : 1
+complexes is the binding of ‘hydrophobic’ anions to the cavity
+of OA 2.29 This work examined the eﬀects of diﬀerent salts on
+the binding of adamantane carboxylate 14. There was only a slight
+change in the free energy of guest binding (B0.5 kcal mol1)
+between the absence and presence of salting-out salts such as
+sodium fluoride. In these cases complexation was strongly
+endothermic and only slightly entropically promoted. In contrast
+to this were the series of salting-in sodium salts (chlorate, iodide,
+thiocyanate and perchlorate) which demonstrated a trend towards
+a decreasing free energy of complexation. Underlying this free
+energy change was a dramatic decline in the contribution to the
+free energy by enthalpy and a concomitant increase in the
+contribution made by entropy; so much so that in the presence
+of sodium perchlorate, guest binding was entirely entropy driven
+and the binding of 14 was actually endothermic.
+1H NMR showed that fundamental to the reported changes
+in thermodynamics with salting-in salts was anion binding to
+the pocket of the host competing with the complexation of 14.
+Subsequent NMR titrations of salt to OA 2 without 14 revealed
+association constants ranging from o1 M1 in the case of sodium
+nitrate, to 95 M1 in the case of sodium perchlorate. This first
+reported instance of inorganic anion binding to a hydrophobic
+pocket again demonstrates that like 13 or 14, very small charged
+guests lead to 1 :1 complexes.
+It is understood that anionic amphiphiles and simple
+anions form 1 : 1 complexes with OA 2 because the upper portal
+region of the complex remains quite hydrophilic. If on the other
+hand the binding of a guest renders the portal region of OA 2
+hydrophobic, then there is a thermodynamic preference for a
+second host molecule to cap the complex and form an encap-
+sulation complex. In fact, the first complexes reported with
+OA 2 were 2 : 1 host–guest complexes with steroids.17 In this
+report a number of steroid guests were encapsulated including
+estradiol 15, progesterone 16 and cholesterol 17 (Fig. 3). In each
+case, because of the chirality of the guest the 2 : 1 host–guest
+complexes could be identified from symmetry arguments of
+the 1H NMR data alone. In addition though, 2D NOESY NMR
+confirmed the spatial proximity of the host–host interactions
+and the host–guest interactions from the two sets of non-
+equivalent hydrogens in each hemisphere of the capsule.
+Guests such as 15 and 16 formed very stable and structurally
+defined complexes, with a Ka for the former (empty capsule to
+full capsule) estimated to be 41  108 M1. Strong as these
+complexes are however, they were ‘denatured’ when methanol
+was added to the solution. It is noteworthy that the steroids such
+as cholesterol 17, although greatly solubilized by the host, did
+not form kinetically stable complexes (on the NMR time scale).
+In such cases, the length of guest is too large for the capsule and
+as a result the two hemispheres of the capsule cannot clamp
+down on one another and must remain partially solvated.
+The stability of 2 : 1 host–guest capsular complexes involving
+OA 2 to co-solvent induced denaturation has been examined
+using 1H NMR.30 In this study, a series of capsular complexes
+of trioxolane guests, e.g. 18–20 (Fig. 4) were investigated. The
+trioxolanes varied from practically insoluble to sparingly
+soluble in aqueous media, yet nevertheless were fully dissolved
+in a 2 : 1 solution of OA 2 in aqueous buffer. 1H NMR demon-
+strated that all of these trioxolanes were readily taken up as a
+kinetically and thermodynamically stable 2 : 1 complex. The
+denaturation experiments of the different complexes utilized
+a series of per-deuterated water miscible solvents, namely:
+acetone-d6,
+dimethylsulfoxide-d6
+(DMSO-d6)
+methanol-d4,
+ethanol-d6, isopropanol-d8, acetonitrile-d3, and tetrahydro-
+furan-d8 (THF-d8); as well as trifluoroethanol (TFE). Overall,
+18 formed the weakest of the complexes, and a 1 : 1 ratio of
+the host and guest did not form any 1 : 1 or 2 : 1 complex in
+50% aqueous acetone. On the other hand, under identical
+conditions guest 19 formed 78% 1 : 1 and no 2 : 1 complex.
+Because of solubility issues with 20, only a 2 : 1 host–guest ratio
+could be examined in 50% aqueous acetone, in which case the
+mixture formed essentially only the 2 : 1 complex.
+The diﬀerent cyclic alkyl groups of 19 proved illuminating in
+so much as it was possible to observe the denaturation of the
+2 : 1 capsular complex to form the 1 : 1 complex in which the
+adamantyl group is bound, and ultimately the breakdown of
+this complex with even higher equivalents of added co-solvent.
+Overall, for the diﬀerent solvents examined, the ability to denature
+the complex formed by 19 was: acetonitrile-d3 4 THF-d8 4 TFE 4
+i-PrOD-d8 4 acetone-d6 4 ethanol-d6 4 methanol-d4 E DMSO-d6.
+Thus it was observed that whereas acetonitrile denatures most
+of the capsular complex at 30% by volume, a 70% aqueous
+solution of DMSO was needed to bring about the same extent
+of decomplexation.
+In related work it has been shown that a fully fitting and
+rigid guest is not a prerequisite for capsule formation, but
+that even small straight-chain alkanes can lead to assembly.31
+In this work, the authors investigated the binding of the alkanes
+Fig. 3
+Example of steroids that from 2 : 1 host–guest complexes with OA 2.
+Fig. 4
+Examples of encapsulated trioxolanes.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 553
+n-pentane through n-octadecane (C18). Although, the latter
+guest was reportedly (vide infra) too large to form a kinetically
+stable complex, the C5–C17 guests did form stable complexes
+with assembly/disassembly rates slower than the NMR timescale.
+As was noted for the aforementioned steroid and trioxolane com-
+plexes, for the free host the diffusion constant (D) as determined by
+pulse-gradient stimulated spin-echo (PGSE) NMR experiment was
+1.82  106 cm2 s1, considerably larger than that for the capsular
+complexes (D = 1.36  106 cm2 s1).
+More specifically, the guests n-pentane through n-heptane
+were found to form stable 2 : 2 complexes with OA 2. These were
+the first examples of multiple molecules binding within the
+capsule formed by the host. Apparently there is too much empty
+space in the capsule when only one molecule is encapsulated.
+For the longer alkanes examined, the complexes formed were
+2 : 1 in stoichiometry; the one exception being intermediately
+sized n-octane which formed both 2 : 1 and 2 : 2 capsules in
+a temperature dependent ratio (the quaternary complex dom-
+inating at higher temperature).
+The propensity for deep-cavity cavitands to tend towards
+capsule formation was further investigated by comparing a series
+of guests of roughly equal volume but diﬀering polarity/water
+solubility (Fig. 5).32 In these instances, it was shown that as the
+number of oxygen atoms increased in the series the stability of
+the corresponding capsular complexes decreased.
+Competition experiments between the varying guests indicated
+that both tridecane (C13) 21 and dodecanol 22 bound strongly and
+favored 2:1 capsule formation, with the former possessing a
+binding aﬃnity an order of magnitude greater than the latter.
+This was attributed to both the hydrophilicity of the polar hydroxyl
+group of 22 and its ability to hydrogen bond and be freely solvated
+by waters, and the loss of C–Hp interactions between the host
+and guest upon replacement of the terminal methyl of 21. Both
+tridecane 21 and dodecanol 22 adopt an extended, pole-to-pole
+motif within the capsule (for guest packing within the capsule
+formed by OA 2 see Section 2.1.1.e), and for the methylene groups
+at C-1 and C-11 of 22 the Dd values indicated that the hydroxyl
+moiety was bound more deeply in one half of the capsule that the
+methyl group was in the other.
+While the other guests 23 and 24 had clearly defined NMR
+signals indicative of 2 : 1 complexation, 2-[2-(2-propoxyethoxy)-
+ethoxy] ethanol (tri(ethylene glycol)propyl ether) 25 exhibited
+broadened signals which were confirmed by PGSE NMR to be
+due to a capsule of low stability. Furthermore, bis[2-(2-hydroxy-
+ethoxy)ethyl] ether tetra(ethylene glycol) 26 did not show any
+signals indicative of capsule formation and indeed was confirmed
+by PGSE NMR to form only a 1 : 1 complex. An interesting side-
+note regarding 26 is that opinion is split about whether it is
+hydrophilic or hydrophobic. At least by the metric of binding to
+OA 2 the answer is clear; it is relatively hydrophobic.
+To recap, the question of whether a 1 : 1 or a capsular
+complex is formed with cavitands such as OA 2 rests in large
+part on the nature of the guest. If the guest is highly water
+soluble, or at least can adopt a binding orientation that projects
+a polar group to the portal of the host, then only a 1 : 1 complex
+will be formed. If on the other hand the guest binds and the net
+polarity of the portal/rim region of the host–guest complex is
+hydrophobic, then a capsular complex is preferentially formed;
+and the more hydrophobic the guest the stronger the capsular
+complex that is formed.
+Host eﬀects. In addition to the nature of the guest, the
+structure of the host also plays a role in the assemblies seen. This
+was first demonstrated with the deep-cavity cavitand TEMOA
+(tetra-endo-methyl octa-acid, 27). In an analogous procedure to
+that utilized in the synthesis of OA 2, TEMOA 27 was synthesized
+by the eight-fold Ullmann reaction of octabromide 4 (Scheme 1)
+with 3,5-dihydroxy-4-methylbenzyl alcohol. This aﬀorded four
+methyl substituents in place of the corresponding protons at
+the hydrophobic rim, which after oxidation, esterification and
+purification, and hydrolysis led to host 27.33
+The four endo methyl groups of 27 provide for a slightly
+deeper cavity with a narrower portal region. Furthermore, the
+methyls crenellate the rim of the cavity and consequently
+disrupt 2 : 1 capsule formation. As a result, its properties are
+quite diﬀerent from OA 2. For example, as a function of guest
+size the assembly of OA 2 is straightforward: with small guests
+such as methane and ethane it forms 1 : 1 complexes (vide
+infra), but with bigger guests a 2 : 2 and then a 2 : 1 capsule is
+formed (vide supra). In contrast, diﬀusion NMR experiments
+revealed that TEMOA 27 forms 1 : 1 assemblies for methane,
+ethane, n-heptane and n-octane, a mixture of 1 : 1 and 2 : 2
+complexes with propane, n-butane, and n-hexane, and only
+capsular assemblies for n-pentane (2 : 2) and the longer chain
+alkanes C9 to C14 (2 : 1).31,33 Why? It would appear that because
+the methyl groups at the rim of 27 reduce its predisposition to
+dimerize, 1 : 1 complexes are preferentially formed even with
+some hydrophobic guests. This occurs with methane and ethane
+because they are too small and the 2 : 2 complexes would have
+too much void space, and with n-heptane (C7) and n-octane (C8)
+because in both cases two guests cannot fit in the capsule and
+Fig. 5
+Approximately isosteric guests of varying polarity.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+554 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+the 2 : 1 complexes again would have too much empty space. In
+contrast, n-pentane can form a relatively stable 2 : 2 complex,
+and the longer chain alkanes C9 to C14 form relatively stable 2 : 1
+capsular complexes. The guests propane, n-butane, and n-hexane
+are intermediate between the ‘islands of stability’ defined by
+n-pentane, and the alkanes C9 to C14.
+The unusual assembly properties of TEMOA 27 are reflected
+in what happens with mixtures of it and OA 2.34 In this work
+NMR was used to probe the extent of hetero-capsule formation
+when these two hosts are combined, i.e., whether a guest or guests
+were complexed inside 22, 272, or 227. A range of n-alkanes
+(C5 to C16) was used in this study.
+A combination of
+1H and NOESY NMR confirmed the
+possibility of hetero-capsule formation, and that the ratio of
+the homo- and hetero-capsular complexes varied depending on
+the nature of the included guest. Thus 24% of the hetero-complex
+involving 2 and 27 was formed in the presence of n-heptane
+(C7), whereas 74% was formed in the presence of n-tridecane
+(C13). Overall, the extent of hetero-capsule formation was high
+for guests n-pentane, n-hexane and C9–C14, and small for C7, C8,
+C15, and C16 (Fig. 6). It was noted that there was a reasonable
+correlation between the extent of this hetero-capsule formation
+and the measured hydrodynamic volumes of the homo-capsular
+complexes formed by TEMOA 27 alone in the presence of the
+same guests (Fig. 6). These results were interpreted as follows.
+First, the guests n-heptane (C7) and n-octane (C8) formed limited
+amounts of hetero-capsular complex because they are poor
+templates of both homo- and hetero-capsules. As a result, it is
+energetically preferential for TEMOA 27 to form 1 : 1 complexes
+and allow OA 2 to from stable homo-capsular complexes. In
+other words, these guests promote self-sorting of OA 2. For the
+guests C9 through C14, the higher amounts of hetero-capsular
+complex formed was attributed to the more efficient packing of
+the (singular) guest within the capsular complexes compensating
+for the limited ability of 27 to assemble. The reason why the
+largest guests examined (C15 and C16) formed below statistical
+amounts of hetero-complex was not discussed.
+The point that the methyl groups of deep-cavity cavitand
+TEMOA 27 reduce its predisposition to form a dimer capsule
+suggests that other assembly pathways may be more favorable
+to this host. Relatively recently this has indeed been shown to
+be the case.35 Thus, whereas OA 2 has only been observed to
+assemble into dimers, TEMOA 27 can form dimeric, tetrameric
+and even hexameric capsules depending on the size of the guest
+that is encapsulated (Fig. 7a).
+The diﬀerent assembly states of TEMOA 27 were identified
+by investigating a series of homologous n-alkanes, from n-tetra-
+decane (C14) to n-hexacosane (C26). While the C14 guest bound
+in the typical 2 : 1 fashion previously observed with OA 2,
+(1H and PGSE NMR), longer alkane chains (C17–C20) formed
+Fig. 6
+Left panel: extent of hetero-capsule formation for hosts 2 and 27
+in the presence of n-alkane guests. Right panel: correlation between the
+extent of hetero-capsule (227) formation and the hydrodynamic volumes
+of the corresponding complexes formed by 27 alone; guest size for each
+point are indicated.
+Fig. 7
+(a) Diﬀerent assemblies observed with TEMOA 27. (b) Diﬀerent potential packing motifs within the tetramer of TEMOA 27.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 555
+pseudo Td (D2d) 4:2 host–guest complexes. Models suggest that
+the inner volume of this tetrameric host shell to be 1400–1500 Å3,
+i.e., this assembly is more voluminous than the familiar resor-
+cinarene hexamer.36 In contrast, the intermediate length
+guests, the C15 and C16 alkanes, showed broad and/or poorly
+resolved NMR spectra suggesting that mixtures of assembly
+products were formed. Furthermore, although this was also the
+case with the C21 to C23 guests, with n-tetracosane (C24) only one
+highly symmetric assembly product was observed in a 2 : 1 host–
+guest ratio. PGSE diffusion NMR examination of the host–guest
+signals indicated a diffusion coefficient of 9.6  107 cm2 s1,
+which after correction for the higher working concentrations
+revealed a hydrodynamic volume of 48.9 nm3. In short, C24
+formed a nonary 6 : 3 host–guest complex with overall Oh
+symmetry and an estimated internal volume of between 3200
+and 3700 Å3. The same complex was also observed for the
+longer guests n-pentacosane (C25) and n-hexacosane (C26), but
+unfortunately the kinetics of complex formation with even
+longer alkanes were too slow to investigate the formation of
+still larger assemblies. The precise packing arrangement of the
+two or three guests in the pseudo Td and Oh capsules could not
+be surmised from the given data, but from the highfield
+positioning of the shielded guest methyl signal and the large
+anisotropy of the guest signals it was assumed that, to take the
+pseudo Td capsule as an example, the guests adopt one of three
+different arrangements in which each end of a guest occupies one
+cavity of a host: an X-motif, a double U-motif, or a ‘catenated’
+double U-motif (Fig. 7b).
+(c) Environment inside the OA capsule. We have noted that OA
+2 and TEMOA 27 are predisposed to form respectively dimeric,
+and dimeric, tetrameric and hexameric assemblies depending
+on the guests. In addition, the aforementioned studies reveal
+that it is the hydrophobic eﬀect that drives the formation of
+these supramolecular entities. If this is indeed the case, then
+desolvation of the pocket and rim of the host, and of course
+desolvation of the guest molecules, must both be key. This
+leads to the question, are there any water molecules within the
+cavity of these capsular complexes? It is noteworthy that mole-
+cular dynamics simulations have indicated that water molecules
+are included within the hydrophobic concavity of free OA 2.37
+These calculations suggest that on average there are 4.34  0.04
+water molecules inside the hydrophobic pocket of the free host.
+Nature simply abhors a vacuum. Furthermore, these simulations
+reveal that during a wetting event the number of water molecules
+fluctuate, with four being the most probable (or lowest free
+energy) and the maximum number being seven. Overall, DGhyd
+of the cavity was estimated to be 5 kcal mol1, with DHhyd E
+20 kcal mol1 and TDShyd E 15 kcal mol1. This study also
+determined that these hydrophobic pocket waters are stabilized
+by their interaction with the bulk. Thus, when a hydrophobe
+approaches the portal of the pocket the cavity is rapidly and
+completely dewetted. Is there complete dewetting when a
+capsule is formed? The use of fluorescent probes as guests has
+addressed this question. For example, the ratio of the I1 and I3
+vibronic bands in the fluorescence spectrum of pyrene 28 (Fig. 8)
+confirm that no waters are present in the complex of 28 with
+OA 2.38 Furthermore, a more comprehensive study suggests that –
+at least for sizeable guests that fill most of the cavity – this is the
+case regardless of the nature of the guest encapsulated.39 To take
+one example from a series of guests investigated, coumarin-1 29,
+whose fluorescent quantum yield and lifetime increase with a
+decrease in solvent polarity, also demonstrated a low polarity
+environment inside the capsule. Overall these results suggest that,
+as would be expected considering the nature of the host, the
+environment inside the OA 2 dimer is benzene-like. To the authors’
+knowledge, a study of the environment within the TEMOA tetramer
+or hexamer has not been undertaken.
+(d) Kinetics of capsule opening and closing. The very earliest
+studies with these container molecules demonstrated that for
+most hydrophobic guests the exchange between the free and the
+encapsulated state is slow on the NMR timescale; the lifetimes
+of many complexes are 40.1 s. This point noted, there remains
+the idea that very small (atomic or diatomic) guests such as
+molecular oxygen might be able to enter an occupied capsule
+via partial opening (breathing) of the equatorial seam of the
+container. The first detailed analysis focusing on this possibility
+came from measurements of the rate constants for the quenching
+of excited singlet and triplet guests by oxygen.40 These guests
+included (Fig. 9) T1 excited dimethyl benzil 30 (phosphorescence)
+and S1 excited phenanthrene 31 (fluorescence), and covered
+excited-state lifetimes from 0.05 to 922 ms. Two classes of guests
+were observed, those that were quenched by oxygen when
+enclosed within the capsule, and those that were not. The latter
+were a mixture of singlet and triplet guests and therefore the
+spin state of the guest was dismissed as an explanation for why
+these guests were not quenched. Rather the obtained results
+reflected the guest-dependent accessibility of oxygen to the
+bound guest; if the guest had an excited lifetime of less than
+5 ms it was inaccessible to oxygen.
+To investigate the formation/dissociation dynamics of the
+encapsulation complexes formed by OA 2, the Bohne group
+Fig. 8
+Molecular probes to examine the inner environment of the OA 2
+dimer.
+Fig. 9
+Molecular probes to examine the opening and closing of the OA 2
+dimer.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+556 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+measured the real-time kinetics of formation of the 1 : 1 and
+2 : 1 host–guest complexes formed between OA 2 and pyrene 28
+(Fig. 10).41 Pyrene 28 formed the expected 2 : 1 host–guest
+complex in aqueous solution, and upon encapsulation there
+was a marked red shift (5–6 nm) in its excitation and absorption
+spectra. This could not be attributed to dimerization of the guest
+as no excimer emission or spectral broadening was observed.
+Further evidence for the encapsulation of a single molecule of 28
+within the OA 2 dimer was that its fluorescence lifetime was
+nearly three times longer than free 28 in aqueous borate buffer
+(361  1 ns vs. 130  1 ns), whilst the quenching rate by iodide
+anion was roughly four orders of magnitude slower (5.9  0.7 
+105 M1 s1 vs. 1.0  0.2  109 M1 s1). As the iodide
+quenching rate constant was similar to that observed for oxygen
+quenching of the triplet excited 28 within the OA 2 dimer,38 this
+suggested a similar mode of action, namely, a partial opening
+of the capsular complex allowing small guest entry and egress.
+Measurements of the fluorescent intensity change of the
+complex as a function of added OA 2 were carried out and the
+observed trend fitted the expected 2 : 1 binding isotherm with
+an overall b21 of 3.2  1012 M2. Subsequent stopped-flow
+experiments successfully probed eqn (1) (Fig. 10), and identified
+a fast reaction for the formation of the 1 : 1 complex with a
+K11 value of K1 = (4.5  0.6)  105 M1. Hence a K21 value of
+K21 = (7  1)  106 M1 could be calculated (eqn (4)). The K11
+and K21 values represented the first thermodynamic view of the
+diﬀerence between forming a 1 : 1 complex (desolvating half the
+guest and the pocket) and capping this complex (desolvating
+half the guest a pocket, and the two rims of the subunits).
+This clamping down of the two hemispheres in the second step
+leads to an association constant K21 one order of magnitude
+larger than the formation of the 1 : 1 complex, and is why K11
+of the transient 1 : 1 complex could only be determined from
+kinetic experiments.
+The lifetime of the capsular complex encapsulating 28 was
+also determined in this study. Thus the K21
++ and K21
+ values
+((2.6  0.2)  106 M1 s1 and 0.37  0.06 s1 respectively) were
+obtained from global fitting of the slow change in fluorescence
+intensity attributed to the second step of the assembly (eqn (2)),
+and how this was modulated as a function of OA 2. This
+gave a lifetime for the 2228 complex of 2.7 s. While the afore-
+mentioned entrance/egress of small molecules occurred on
+the microsecond timescale, these results suggest that for the
+complex with 28 the ‘breathing’ of the complex was on the
+order of 105 times faster than the release of 28.
+(e) Movement of internalized guests and guest packing motifs.
+The shape of guests such as steroids forces them to bind along
+the long Y-axis of the capsule (Fig. 11).17 Whilst their rigidity
+precludes their rotation around the X or Z axes of the capsule,
+even such rigid guests are capable of rotation around their
+Y-axis. The net eﬀect of this movement is that by NMR the
+two hemispheres of the capsule are non-equivalent but each
+maintains its C4 symmetry. In contrast, although flexible and
+highly mobile guests such as ethylene glycol monononyl ether
+23 have been shown to bind in a similar pole-to-pole manner
+(Fig. 11), the two hemispheres of the capsule appear equivalent
+because on the NMR timescale the guest can freely tumble
+around the X or Z-axis of the container.32
+In an eﬀort to gain a better understanding of the mobility of
+molecules within the capsule formed by OA 2, the Turro and
+Ramamurthy groups used a combination of NMR and EPR
+experiments to analyze the movement of encapsulated guests
+Fig. 10
+Assembly states and kinetic parameters for the complex formed
+between OA 2 and pyrene 28.
+Fig. 11
+(a) Axes within the capsule; (b–d) encapsulated guests illustrating predominant packing motif: (b) estradiol 15; (c) ethylene glycol monononyl
+ether 23; (d) 1-methyl-4-(octyloxy)benzene 32.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 557
+within diﬀerent complexes.42 Their approach was to classify
+guests according to whether not they were capable of rotation
+around their X or Z axis, and if so, the temperature required to
+do so and whether or not the rotation was faster or slower than
+the NMR timescale. The 1H and NOESY NMR data gathered
+in this study indicates that as in the case of ethylene glycol
+monononyl ether 23, the NMR spectra of complexes of guests
+such as 1-methyl-4-(octyloxy)benzene 32 (Fig. 11) show the two
+capsule hemispheres to be equivalent. Furthermore, the data
+also showed that the guest rotation around the X or Z axis
+needed to induce this equivalence did not involve disassembly/
+reassembly of the capsule. In addition, the accompanying EPR
+studies revealed that, as the guest was increased in length so
+the rate of rotation around the Y-axis decreased.
+Although not specifically discussed in Section 2.1.1.c, the
+binding of n-alkanes from C5 to C17 inside the dimer formed by
+OA 2 gave valuable early information about how guests pack
+within the capsule.31 Thus, 1H NMR investigations focusing on
+the spectral diﬀerence between the free and the bound state of
+the guest revealed pole-to-pole guest binding. Because of the
+tapering nature of these deep-cavity cavitands, a general rule is
+that the more deeply an atom resides in a host the more it is
+upfield shifted relative to the free state. Most simply put, at the
+base of the pocket the aromatic walls of the host are closest
+together and therefore exert the largest shift in the NMR signals
+of atoms located there. In contrast, at the equator the greater
+separation of the aromatic rings results in smaller upfield
+shifts. Hence an evaluation of the Dd value of the free versus
+bound signals from the guest gives valuable information
+about the time-averaged guest-packing motif within the host
+dimer. For all the n-alkane guests examined it was the terminal
+methyl groups that displayed the largest Dd value, with upfield
+shifts as high as 3.15 ppm in the case of C12. In contrast the
+guest protons midway along the alkane chain were the least
+shifted, indicating they reside near the equatorial region of
+the capsule.
+Space-filling models illustrate that C12 is just slightly longer
+than the Y-axis of the capsule and can therefore occupy the
+cavity in an essentially fully extended conformation (Fig. 12a).
+Guests longer than this must however compress somewhat to be
+accommodated. Do these compressed guests adopt any distinct
+form? NOESY and COSY NMR experiments were also utilized to
+elucidate the conformational preferences of these guests, and
+the former revealed stronger NOE Ci–Ci+1 and Ci–Ci+2 correla-
+tions between the terminal methyl groups and the penultimate
+methylenes than for the methylenes at the center of the cavity.
+In addition, Ci–Ci+3 and Ci–Ci+4 were also observed with the
+longer guests. As with previous work from the Rebek group,43
+the inference from this data was that guests such as C14
+adopt helical conformations within the cavity of the OA 2 dimer
+(Fig. 12b). Models demonstrate that the helical motif allows
+both for maximal C–H  p interactions with the cavitand walls
+and for maximal packing within the cavity; two factors that
+counter the strain of contiguous gauche dihedrals down the
+length of the chain.
+Two recent papers have demonstrated that other motifs are
+also possible. In the first, the Prabhakar and Ramamurthy groups
+examined the binding of phenyl-substituted hydrocarbons
+(Fig. 13) to the capsule formed by OA 2 using a combination
+of NMR and molecular dynamics (MD) simulations.44
+As expected, small guests such as 33 were found to pack the
+cavity in an essentially fully extended manner, with the phenyl
+group in one hemisphere and the methyl binding to the polar
+region of the other. The case of 34 is very similar, but being 4 Å
+longer the guest must adopt a slightly compressed motif and its
+movement within the cavity is restricted. At room temperature
+the guest signals are broadened somewhat, but these are seen
+to sharpen as the temperature is increased. For the longer
+guests examined, e.g., 35, both NMR and the MD simulations
+demonstrate that these molecules are forced to fold into J- or
+U-shaped motifs. Such motifs are frequently observed in fatty
+acids bound to fatty acid binding proteins,45 and have also
+Fig. 12
+Schematic representations of observed binding motifs within deep-cavity cavitand hosts.
+Fig. 13
+Guests for probing conformational preferences within the dimer of OA 2.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+558 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+been observed with similar guests binding to cucurbiturils.46
+Overall, it was noted that the inclusion of saturation in the
+hydrocarbon sidechain has a pronounced eﬀect on the confor-
+mational options available to the guest. In passing, it is perhaps
+worth noting that these J- and U-motifs suggest a mechanism by
+which the ends of very flexible guests (e.g., Fig. 12c and d) can
+exchange hemispheres without complex disassembly.
+The second paper in question reveals a further packing motif.
+This study concerned a combined study of long n-alkanes within
+the capsule formed by OA 2 and the hexalenediamine-linked
+dimer (HOA) 36.
+This covalently-linked dimer of OA was readily synthesized
+by taking advantage of a modification to the esterification of OA
+2 (Scheme 1) that gave a high yield of the corresponding hepta-
+ester with one free carboxylate group at the rim of the cavitand.
+Two equivalents of the hepta-ester were then covalently linked
+using 1,6-hexanediamine and HBTU as a coupling agent to give
+the corresponding tetradeca-ester, subsequent hydrolysis of
+which gave HOA 36.47
+The covalent linking of OA 2 in this manner results in a host with
+quite diﬀerent assembly modes and subtle diﬀerences in guest
+packing. Regarding the former, the possible complexes/assembly
+products pertinent to this discussion are: the open 1 : 2 host–
+guest complex; the 1 : 1 capsular complex; the 2 : 2 bis-capsule
+complex; and the 2 : 2 capsular complex (Scheme 4). The 2 : 2
+bis-capsule complex possesses two essentially independent
+inner volumes, whereas the 2 : 2 capsular complex possesses a
+single inner space more capacious than the 2 : 2 bis-capsule
+complex because the internal volume is comprised of the binding
+pockets of four cavitands plus a central, pseudo tetrahedral space,
+defined by the four cavitands.
+As extensive NMR analysis reveals OA 2 and HOA 36 have
+quite diﬀerent properties. Earlier work had reported that for
+n-alkanes the guest-size limit of OA 2 was C17,31 but this proved
+to be largely the result of poor solubility and poor uptake
+and not a limiting factor of the host itself. Thus, in this more
+recent report a combination of heating and sonication allowed
+encapsulation of guests inside of the OA 2 dimer as large as
+n-hexacosane (C26). As noted previously, guests up to twelve carbon
+atoms (dodecane) adopt extended motifs with contiguous anti
+dihedral angles, whereas longer guests adopt a more compressed
+motif. These E/C (extended/compressed) motifs cannot be readily
+distinguished by NMR, although helical motifs (Fig. 12b) can.
+For
+alkane
+guests
+exceeding
+eighteen
+carbon
+atoms
+(n-octadecane) it is not possible to pack OA 2 in either of
+these motifs. Instead, NMR demonstrates that guests such as
+n-eicosane (C20) pack the cavity by adopting a U-shaped motif
+(Fig. 12c). This motif holds true for guests up to n-tricosane,
+however the largest guests seen to unequivocally bind to the
+capsule formed by OA 2 (C24 to C26) cannot adopt this U-shape.
+Instead, for these guests the motif appears to be akin to a
+spinning-top (Fig. 12d) whereby the two terminal ends of the
+alkane chain are nestled in the poles of each cavitand and the
+central portion of the hydrophobic chain sandwiched between
+the two aromatic rims of the host.
+Scheme 4
+Assemblies of HOA 36.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 559
+HOA 36 was found to form a 1 : 1 capsular complex in
+the presence of short n-alkanes (C6, C8 and C10) as well as
+n-hexadecane (C16), and in each case the packing motif of the
+guest was as is observed with OA 2. However packing of alkane
+chains with eighteen to twenty-three carbons displayed very
+diﬀerent binding profiles, while packing of guests with more
+than twenty-three carbons did not occur as the linker prevented
+suﬃcient separation of the two hemispheres of HOA 36 to allow
+the guest to adopt the spinning-top motif.
+For the longer alkanes (C18 to C23), NMR experiments
+revealed two complexes for each guest: one with a lower energy
+E/C conformation and one with a higher energy U-shaped motif.
+Unusually, as the guest size was increased so the amount of the
+lower energy E/C motif increased. PGSE NMR unraveled this
+conundrum. Whereas the diﬀusion constants for the complexes
+with the U-shaped motif were the same as for the 1 : 1 complex
+between HOA 33 and n-dodecane C12 (D = 1.31  106 cm2 s1),
+the complexes with the E/C motif had significantly smaller
+diﬀusion rates (D = 0.95  106 cm2 s1) corresponding
+to a dimer host structure. Although it was not possible to
+unequivocally diﬀerentiate between the 2 : 2 bis-capsule complex
+and the 2 : 2 capsular complex (Scheme 4), the 1H NMR data
+supported the latter. Furthermore, as the 2 : 2 capsular complex
+is necessarily more capacious than the 2 : 2 bis-capsule complex,
+this assumption fits with the guest motif changing to a more
+relaxed E/C motif as the guest size increases. In summary,
+whereas OA 2 accommodates very large guests by adopting a
+high energy spinning-top motif (the motif of last resort), HOA 36
+accommodates such guests by switching from a 1 : 1 capsular
+complex to a more voluminous 2 : 2 capsular complex.
+We complete this section by noting that it is not just highly
+flexible guests than can be persuaded to adopt unusual conforma-
+tions or motifs within the confines of these supramolecular
+capsules. For example, a comprehensive NMR examination of
+piperidine derivatives 37–41 (Fig. 14) revealed that the conforma-
+tional preferences of 37, and 39–41 within the capsule formed by
+OA 2 were similar to that seen in solutions; these guests adopt a
+conformation in which the OR group is exclusively equatorial.48
+On the other hand, when 38 is encapsulated within the OA 2
+dimer it adopts a 53 : 47 mixture of the equatorial and axial
+conformers that interconvert slowly on the NMR timescale.
+Apparently, the n-Pr group is just the right size to reduce
+the energy difference between the more stable equatorial con-
+former and the axial form, where as an ethyl group is too small
+and a n-butyl group too big. Such precise control of one molecule
+in a homologous series suggests interesting possibilities vis-a`-vis
+reaction control (see Section 2.1.2.b).
+( f ) Communication through the capsule. As has been reviewed,
+when a guest is bound inside the dimer formed by OA 2 it is not
+completely isolated from the bulk. Thus even during occupancy,
+guests can be exposed to small co-guests such as molecular
+oxygen via capsule ‘breathing’. Furthermore, as we highlight in
+this section, direct communication between bound guests and
+the bulk is also possible through the walls of the host.
+The communication between molecules entrapped within the
+OA 2 dimer and molecules in free solution has been extensively
+investigated. As detailed below, to date the following systems
+have been explored: (1) confined excited singlet or triplet donors
+and a free acceptor (respectively singlet-singlet and triplet–triplet
+energy transfers); (2) a confined radical and one free in the bulk
+(spin–spin exchange); (3) an encapsulated, excited molecule and
+a radical in free solution; (4) internalized fluorescence resonance
+energy donors and external acceptors (FRET), and; (5) confined
+electron donors and free acceptors (electron transfer).
+The Turro group has led investigations into the ability of
+guests inside the capsule to ‘communicate’ through the walls
+of the host with guests in bulk solution.49 The first example of
+communication involved a superexchange process whereby the
+orbitals of a guest nitroxide interact with those of a nitroxide
+solute in free solution through the bond orbitals of the host.
+The guests utilized for this study were 42 and 43 (Fig. 15).
+Encapsulation of paramagnetic guest 14N labeled 42 inside the
+capsule lead to broadening of the 1H NMR spectrum of the
+complex. Although this is good evidence of complex formation,
+conformation of guest internalization was sought using 14N
+labeled diamagnetic guest 43. This similarly sized molecule
+resulted in a 2 : 1 host–guest complex that was readily charac-
+terized by 1H NMR. Subsequent analysis of the Electron Para-
+magnetic Resonance (EPR) rotational correlation times and
+hyperfine coupling constants for the complex between OA 2 dimer
+and the 14N labeled 42 confirmed encapsulation. As anticipated
+by the researchers, EPR studies of the capsular complex of
+diamagnetic 14N guest 43 demonstrated that positively charged
+14N labeled solute 44 bound to the outside of the capsule, but
+the negatively charged 45 did not. Furthermore, using the
+capsular complex containing the 15N paramagnetic guest 42,
+EPR demonstrated a strong electron spin-electron spin inter-
+action between the encapsulated guest and the cationic 14N
+solute 44. As expected however, the same experiment using the
+anionic 14N solute 45 indicated no interaction with the anionic
+capsular complex.
+Building on this steady-state EPR work, the Turro and
+Ramamurthy groups used time-resolved EPR to gain a better
+understanding of superexchange between an encapsulated guest
+and a solute.50 Key to this work was the encapsulation complex
+formed between 15N thioxanthone guest 46 (Fig. 15) and the
+dimeric capsule formed by OA 2. Steady state EPR spectroscopy
+demonstrated that encapsulated 15N 46 possessed the expected
+increased rotational correlation time and decreased hyperfine
+Fig. 14
+Piperidine guests encapsulated within the OA 2 dimer, and their
+conformational options.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+560 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+coupling constant (relative to free solution) indicative of
+restricted motion within a non-polar environment. Separately,
+transient triplet–triplet absorption measurements upon 14N 46
+and 47 in acetonitrile revealed that upon irradiation at 355 nm
+their thioxanthone moieties were readily excited to the triplet
+state, but that in this case of 14N 46 this was rapidly quenched
+by the adjacent nitroxide. Furthermore, time-resolved EPR of
+14N 46 in acetonitrile (355 nm, 5 ns) demonstrated that during
+this quenching process the spin-polarized triplet states of the
+thioxanthone moiety transferred their spin polarization to
+the nitroxide. A similar time-resolved EPR experiment with
+15N guest 46 encapsulated within the OA 2 dimer revealed the
+same phenomenon, but that confinement resulted in a longer
+spin polarization lifetime for the nitroxide. Following this, an
+analogous experiment but with the addition of 14N solute 44
+in bulk solution demonstrated that spin polarization of the
+incarcerated guest could be transferred to the cationic solute.
+Thus the time-resolved EPR kinetic traces of spin polarization
+for both the 15N guest 46 and the 14N solute 44 revealed a
+reduced lifetime of the former, and a delayed rise-time of the
+spin polarization of the latter. That association with the outside of
+the capsule is key was demonstrated in two ways: by the addition
+of cucurbit[8]uril that strongly sequesters 44, or by using anionic
+guest 45 that is repelled from the surface of the host. In both
+cases no superexchange between encapsulated guest and solute
+occurred. As excited thioxanthone 47 and benzil 30 (Fig. 9)
+guests led to opposite signs of spin polarization of nitroxides, it
+was concluded that the principle mechanism for the formation
+of polarized nitroxides involved the electron spin polarization
+transfer mechanism.51
+A diﬀerent viewpoint on the barrier engendered by the
+wall of the capsule formed by OA was obtained by examining
+the communication (exited spin state-radical spin transfer)
+between solutes 44, 45 and 48, and a range of eight internalized
+guests including benzil 30 (Fig. 9), thione 49, and stilbene 50
+(R = 4-Me, Fig. 15). The cationic, anionic and neutral states of
+the nitroxide radicals 44, 45 and 48 allowed control of the
+lifetime of the solute-capsule encounter complex, and in the
+case of the cationic solute 44 NMR signal relaxation times
+suggested that it specifically associates at the equator of the
+capsule. These results also suggested that 48 has no specific
+interaction with the capsule, whilst not unexpectedly 45 is
+repelled from it. Although the guests examined formed both
+2 : 2 and 2 : 1 host–guest complexes and formed a range of excited
+states, quenching of the excited, entrapped guest by the nitroxide
+solute 44 revealed only two distinct systems: (1) triplet states that
+are quenched dynamically by cationic nitroxide 44; (2) triplet and
+excited singlet states that are quenched via a static process.
+Moreover, the decay curves and lifetimes of the encapsulated,
+excited state guests revealed that regardless of the lifetime of the
+former, they are quenched with almost identical rate constants.
+In contrast the latter group all have short (o5 ms) lifetimes.
+En masse, a detailed analysis of these results supported the
+hypothesis that if a guest relaxed more slowly than 5 ms then
+its relaxation is controlled by through the wall quenching as a
+result of diffusion controlled encounter complexes, whereas
+guests with lifetimes shorter than 5 ms undergo static relaxation
+in the cavity of the capsule.
+As an alternative to this short range (Dexter type) super-
+exchange, the Ramamurthy group have used femtosecond (fs)
+up-conversion to study longer range Fo¨rster resonance energy
+transfers (FRET) between an encapsulated donor and an cationic
+acceptor associating with the outer surface of the OA 2 capsule.52
+In these experiments the (bound) donors were coumarin dyes
+such as 51, whilst the acceptor in free solution was rhodamine
+6G 52 (Fig. 15). A combination of steady-state fluorescence and
+1H NMR confirmed that the diﬀerent donors examined were
+bound within the dry interior of the capsule, whilst fluorescence,
+Fig. 15
+Guests and solutes used by the Turro and Ramamurthy groups to explore through-the-wall communication in the OA 2 dimer.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 561
+1H, and diﬀusion NMR spectroscopies revealed that the cationic
+acceptor had an aﬃnity for the outside of the negatively
+charged capsule.
+The accompanying time-resolved fluorescence studies invol-
+ving the encapsulated coumarin dye and the externally bound
+52 revealed a rapid decay of the excited state of the donor.
+This was attributed to an ultrafast FRET process arising from
+the close proximity of donor and acceptor; a hypothesis that
+was confirmed by the rapid rise on the acceptor emission
+observed in a fs up-conversion experiment. Calculations from
+these studies suggested that the donor–acceptor distance in
+these systems was a mere 13 Å.
+It is not only spin and energy that can be transferred through
+the walls of the capsule formed by OA 2; electron transfer is
+also possible. In a step towards this, the Kaifer group examined
+the properties of encapsulated ferrocene 53 (Fig. 16).53 A combi-
+nation of 1H and PGSE NMR experiments demonstrated that 53
+formed a 2 : 1 host–guest complex with OA 2. Neither cyclic
+voltammetry (CV) nor square-wave voltammetry (SWV) detected
+any faradaic response from the encapsulated 53, and a series of
+experiments varying the host–guest ratio indicate that inside
+the OA 2 dimer the guest does not give rise to a measurable
+current–potential response.
+Whereas ferrocene 53 is strongly bound within the host
+capsule, 1H and PGSE NMR clearly showed that methyl, ethyl,
+and n-butyl viologen 54 (R = Me, Et and n-Bu respectively) bind
+to the exterior of empty OA 2 dimer. Indeed, two molecules of
+viologen bind to this empty capsule, suggesting that the
+four carboxylates at each pole are the viologen-specific binding
+site. That noted, this was the first example of an empty
+capsule formed by OA 2; all work prior, and the vast majority
+of subsequent work, demonstrates that an internalized guest
+is required for capsule formation. These facts suggest that
+there is also likely association of the viologens with the equa-
+torial carboxylates of the capsule that helps to hold the empty
+capsule together.
+CV studies of viologens 54 associated with OA 2 demonstrate
+the two expected reduction steps (to radical cation and then
+to the neutral), but with substantially reduced current levels.
+Furthermore, these studies revealed that the host stabilized both
+the reduced forms; particularly the first (cationic) reduction
+product. Furthermore, the rates of heterogeneous electron
+transfer for the viologens associated with the OA 2 dimer were
+significantly attenuated relative to free solution. This was
+attributed to the association between the anionic poles of the
+OA 2 capsule and the viologen increasing the average distance
+of maximum approach between the viologen center and the
+electrode surface.
+Subsequently it was shown that the capsule formed by
+the dimerization of OA 2 around ferrocene 53 could also
+(externally) bind ethyl viologen (54, R = Et) to form the corre-
+sponding quinternary complex.
+The Kaifer group subsequently built on this work by demon-
+strating cationic ferrocene derivative 55 (Fig. 16) associates
+strongly with the outer surface of the OA 2 capsule containing
+ferrocene 53, and that this quaternary complex can undergo
+a homogeneous electron transfer process.54 PGSE NMR con-
+firmed the quaternary complex, yielding very similar diﬀusion
+coeﬃcients from signals corresponding to the capsular complex
+and 55. A similar situation was obtained if (E)-stilbene (50, R = H)
+replaced the internalized guest 53.
+When the voltammetric behavior of the quaternary assembly
+was investigated with the encapsulated stilbene, the current
+levels were depressed relative to 55 alone. However, when stilbene
+was replaced by guest 53 a number of changes to the cyclic
+voltammogram were observed. On the forward scan, there was no
+faradaic response detected where 53 would be directly oxidized,
+but the oxidation of 55 was observed, albeit at higher current
+levels than expected. Furthermore, on the reverse scan, two peaks
+were observed: one corresponding to the reduction of the ferro-
+cenium form of 55, and a second corresponding to the reduction
+of ferrocenium form of 53. The results demonstrate that once
+oxidized, the ferrocenium form of 55 accepts an electron from the
+internalized 53, to generate the cation (ferrocenium) form 53
+inside the capsule. However, this guest is a poor one and it is
+released to bulk solution. This process was fully reversible and so
+the OA 2 capsule containing 53 was again formed upon
+reduction. Control experiments were also carried out with 56.
+In this instance, there were no changes in the CV response in the
+presence of the OA 2 dimer encapsulating either (E)-stilbene 50
+(R = H) or 53. Furthermore, the complex of 55 with cucurbit[7]uril
+was determined to be a poor promoter of the electron transfer
+process in the system where 55 needs to associate with the outer
+walls of the OA 2 dimer. Clearly, there must be close association
+between the internalized and external ferrocene derivatives for
+electron transfer to occur.
+A second example of redox-controlled capsular assembly/
+disassembly from the Kaifer group focused on tetrathiaful-
+valene (TTF) 57 (Fig. 16) encapsulated inside the OA 2 dimer.55
+As anticipated, 1H and PGSE NMR demonstrated that 57 formed
+the corresponding 2:1 complex. These studies were performed at
+1 mM concentrations, and therefore the complex represents a
+much higher concentration of 57 ‘in water’ than is usually possible.
+Tetrathiafulvalene 57 and its derivatives undergo two con-
+secutive one-electron oxidations to first generate the corresponding
+Fig. 16
+Guests and solutes used to study electron transfer through the
+walls of the OA 2 capsule.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+562 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+radical cation and eventually the dication form at more positive
+potentials. However the first oxidation is usually poorly devel-
+oped in water because of the low solubility of 57.
+The electrochemical behavior of this OA 2 dimer complex
+containing 57 was analyzed by both CV and SWV. In the
+absence of OA 2, two shallow waves at +0.18 V and +0.48 V
+were observed in the forward scan of the cyclic voltammogram,
+and no peaks were apparent on the reverse scan. This is
+consistent with the behavior of 57 in aqueous solution. However,
+in the presence of two equivalents of OA 2, the small initial
+current corresponding to the first oxidation step disappeared
+entirely and there was a well-developed peak corresponding to
+the second oxidation process at +0.56 V. In the reverse scan only
+one small wave was observed corresponding to the second
+reduction to regenerate neutral 57. The SWV trace confirmed
+the hindered voltammetric response associated with encapsu-
+lated 57, which was attributed to the increased distance between
+it (versus free TTF) and the electrode surface. In contrast, the
+well-developed second oxidation process was attributed to the
+release of the cationic form of 57. The solitary, small peak
+observed in the reverse process was attributed to the dicationic
+form of 54 being unstable under basic conditions. Larger tetra-
+thiafulvalene derivatives were also examined in this study, but
+they were found to not bind to the host.
+More recently, electron transfer across the walls of the OA 2
+capsule has also been observed by the Ramamurthy group.56 To
+demonstrate this, one donor–acceptor pair ideally suited to the
+capsule formed by OA 2 is 4,40-dimethylstilbene 50 (R = 4-Me,
+Fig. 15) and N-methyl pyridinium 58 or viologen 54 (R = Me,
+Fig. 16). 1H NMR demonstrated that electron donor 50 is strongly
+encapsulated within the capsule, whilst diffusion NMR revealed
+that both 54 (R = Me) and 58 associated with the exterior of the
+capsule via Coulombic forces. Fluorescence spectroscopic analy-
+sis of the titration of 54 or 58 into a solution of encapsulated 50
+revealed that the pyridinium solutes statically quenched the
+fluorescence of the encapsulated guest. Laser flash photolysis
+pin-pointed the cause of this quenching, namely the transient
+formation of the radical cation of 50. The presence of two
+transient absorptions (at 510 and 4700 nm) with identical decay
+kinetics suggested that the quenching was due to electron
+transfer from the singlet excited state of 50 to 54 or 58. In the
+case of viologen 54 (R = Me) it was also possible to observe the
+mono-cation radical ‘product’ resulting from electron transfer.
+Further supporting electron transfer were similar fluorescence
+and transient absorption experiments in the presence of cucur-
+bit[7]uril (CB7). CB7 is a strong binder of viologen 54 (R = Me),
+and consequently its addition restored fluorescence of the inter-
+nalized 50, and quenched the observed transient absorption.
+Laser flash photolysis also revealed that the lifetime of the radical
+cation of 50 was o20 ns in the presence of 54 (R = Me) and 4.6 ms
+in the presence of 58. This difference was attributed to the fact
+that the single electron reduction product of the latter is neutral
+but mono-cationic in the former, and that the mono-cation has a
+relatively strong affinity with the exterior of the capsule.
+Building on this work, photo-induced electron transfer has
+been recently demonstrated using TiO2 as an acceptor.57 In this
+work, the encapsulated donors were a series of three coumarins
+including guest 29 (Fig. 8) whilst for solution studies viologen
+54 (R = Me) was again used as the acceptor that partitioned
+between bulk solution and the outer wall of the capsule. As
+anticipated, titration of the acceptor 54 (R = Me) into a solution
+of the capsular complex resulted in static quenching of the
+fluorescence of the donor 29, but that fluorescence could be
+recovered by the addition of a strong binder of 54 (R = Me) such
+as CB7. With this knowledge in hand, the emersion of films of
+TiO2 (and as a control ZrO2 films) into solutions of the capsular
+complex lead to the complex adhering to the surface of
+the oxides (Fourier Transform, Infra-Red Attenuated Total
+Reflection spectroscopy, FT-IR-ATR). Furthermore, in the case
+of the large band-gap ZrO2 film where electron transfer is not
+possible, fluorescence spectroscopy indicated that adherence to
+the surface did not induce capsular breakup and release of the
+coumarin. In contrast, adherence to the TiO2 film resulted in
+full quenching of the coumarin indicative of electron transfer.
+Finally, titration of TiO2 into a solution of the capsular complex
+of OA 2 and the coumarins was achieved by using colloidal TiO2.
+In this experiment the reduction in fluorescence suggested that
+quenching was again static rather than dynamic.
+In a recent collaboration between the Burda and Ramamurthy
+groups the ultrafast electron transfer dynamics of these processes
+have been investigated using femtosecond laser spectroscopy.58
+In these studies coumarin-153 (51, Fig. 15) was used as the
+encapsulated donor, whilst once more viologen 54 (R = Me) and
+N-methyl pyridinium 58 (Fig. 16) served as the solute acceptors.
+The transient absorption spectra obtained using a 390 nm
+pump pulse confirmed the existence of the oxidized state of
+the internal excited guest and the reduced state of viologen 54
+(R = Me) associating with the outside of the cavity. A kinetic
+analysis of the increase of the radical cation of 54 (R = Me) as a
+function of time, and the corresponding decay of the laser
+induced fluorescence of the excited donor 51, gave time con-
+stants of t = 20  1 and 18  2 ps respectively. Furthermore, the
+recombination kinetics were measured at t = 724  38 ps.
+These results were in sharp contrast with those obtained in free
+(30% aqueous acetonitrile) solution, where the electron transfer
+rate was much lower (t = 631  50 ps) and almost identical to
+the recombination rate.
+2.1.2
+Applications for deep-cavity cavitands and their
+assemblies
+(a) Novel separations strategies. The preferred encapsulation of
+one guest over another within molecular containers – differential
+compartmentalization – offers many intriguing possibilities
+vis-a`-vis molecular separations. Examples of both physical
+and chemical-based separations have been documented with
+the deep-cavity cavitands discussed here. With respect to the
+former, the Gibb group has reported on the separation of
+hydrocarbon gases using dimeric capsules formed by OA 2.21
+This study demonstrated (1H NMR) that when n-butane was
+added to the headspace above a buffered solution of OA 2, the
+corresponding 2 : 2 capsular complex was formed in solution.
+Furthermore, these experiments revealed that it was possible to
+store n-butane as its 2 : 2 complex at ca. 200 times its nominal
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 563
+solubility in pure water. The actual physical limit of solubility of
+this complex may be even higher than this as it was viscosity
+issues with the chosen sodium tetraborate buffer that restricted
+NMR analysis. NMR was also used to determine the stability of
+the 2 : 2 host–butane complex. As it was not possible to differ-
+entiate between the free host and guest and their 1 : 1 complex,
+an apparent K value was defined as: Kapp = [H2G2]/[Ha][Ga], with
+[Ha] = [Hfree + HG] and [Ga] = [Gfree + HG]. Values for Kapp ranged
+from 1400 M1 in simple buffer solution to 1  106 M1 in 14 mM
+NaCl. A subsequent competition experiment between propane
+and n-butane demonstrated that the latter bound an order of
+magnitude more strongly (Krel = 12), and this led to an investiga-
+tion to determine whether or not the two gases could be
+separated. This was indeed the case. Thus, when the head-space
+above a solution of OA 2 was filled with a 1 : 1 mixture of propane
+and n-butane, only the latter was complexed leaving a propane-
+enriched gas-phase in the head space.
+The Gibb group has also demonstrated an example of
+a chemical separation using these types of supramolecular
+capsules.59 The focus of this report was on the supramolecular
+protection of molecules from reactive (hydrolytic) media. More
+specifically, pairs of diﬃcult to separate, constitutionally iso-
+meric esters were examined in basic media. The idea behind
+this work was that one guest would be preferentially bound to
+the capsule formed from OA 2, leaving the other molecule of
+the pair to reside in solution and undergo hydrolysis. Hence the
+supramolecular nanocapsules formed by OA 2 would bias
+the relative rates of ester hydrolysis and bring about kinetic
+resolution.59 Two series of constitutional esters were examined:
+those composed of thirteen non-hydrogen atoms, and those
+composed of sixteen non-hydrogen atoms. The former were
+chosen in part because previously reported data31 suggested that
+dodecane and tridecane optimally fill the cavitand by neither
+being too compressed or by having too much empty space. The
+latter series was a test of what happens to a resolution at the
+limit of guest encapsulation. The obtained kinetic resolutions
+were highest with those composed of thirteen non-hydrogen
+atoms (Fig. 17, 59–63) and therefore are the primary focus of
+our discussion here.
+The free esters were hydrolyzed in 3 : 7 acetone-d6 : D2O con-
+taining 10 mM NaOH to obtain the pseudo first-order hydrolysis
+rates at room temperature. The methyl ester 59, and to a lesser
+extent the ethyl ester 60, hydrolyzed slightly faster than the
+others, but the relative rate (krel) between the fastest (59) and
+slowest (62 and 63) was only three, i.e., insuﬃcient for kinetic
+resolution in itself. 1H NMR and COSY NMR were conducted to
+determine the goodness of the fit of the guests in the series,
+and all were found to form strong 2 : 1 complexes within the
+OA 2 dimer. The relative binding constants (Krel) between all the
+esters were then determined, with the strongest and weakest
+binding guests found to be 59 and 61 respectively (Krel for esters
+59–63 were respectively: 165.4 1.8 1.0 10.7 16.4). Two key factors
+were concluded to influence binding. First, the relative position
+of the ester group within the cavity presents significant steric
+clash as it is moved closer to the end of the molecule and hence
+deeper into the pole-region of the capsule. Second, this steric
+clash is overcome by compensatory –CH3  p interactions
+between the methyl of the guest and the walls of the host when
+the C–H bonds are more polarized by a proximal electronegative
+atom (the sp3 O atom). Hence the methyl ester 59 binds
+strongest, the ethyl- and propyl-esters 60 and 61 the weakest,
+and the butyl and pentyl-esters 62 and 63 have intermediate
+affinity. It was noted in the corresponding experiments with
+the second set of esters that the range of binding affinities was
+essentially half that found in the first series, presumably because
+of increased steric strain in the more tightly packed cavity.
+Competition experiments between pairs of esters were then
+carried out in the presence of the capsule formed by OA 2. As it
+was noted for a complex of a single ester that even after one
+month r5% hydrolysis had occurred at room temperature, all
+competition experiments were carried out at 100 1C. After
+cooling of each sample the extent of hydrolysis was determined
+by NMR. When pairs of esters were competed against each
+other it was determined that for esters with similar Krel kinetic
+resolution was not possible, but for those with Krel an order of
+magnitude or more diﬀerent, fair to good kinetic resolution of
+isomers was observed. Larger Krel diﬀerences still led to very
+good resolutions. Thus, the best resolution was determined
+between 59 (the strongest binder) and 61 (the weakest). In this
+case when all of the latter had reacted, 84% of the former still
+remained. Subsequent studies in the presence and absence of
+host indicated that although the rate-determining step in the
+hydrolysis of free ester is nucleophilic attack by hydroxide, this
+was not the case for the encapsulated ester where instead the
+rate-determining step was likely capsule opening. To test this,
+the authors added a stronger-binding, inert guest (n-dodecane,
+C12) as they monitored the slow hydrolysis of 61; almost
+immediately following injection the ester was displaced, and
+hydrolyzed within 10 minutes. Furthermore, using the projected
+kinetic data for hydrolysis of free ester at 100 1C (via Arrhenius
+plots), a model based on the notion that capsule opening was
+the rate-determining step fitted well with the kinetic traces of
+ester hydrolysis in the presence of a capsule. Overall, these
+Fig. 17
+Constitutional isomeric esters for kinetic resolution.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+564 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+studies demonstrated that kinetic resolutions can be brought
+about via selective molecular protection; selective binding one
+of the reactive molecules biases reactions that, in the absence
+of the capsule, are otherwise very similar.
+(b) As nano-scale reactors. As the last example of the previous
+section demonstrated, encapsulation can protect molecules
+from reactive external environments. The opposite of this
+strategy is to use the inner nano-space of capsules as yoctoliter
+(1024 L) reaction vessels; a popular topic in supramolecular
+chemistry,60 and one we discuss in this section.
+The vast majority of chemical conversions carried out in
+the capsules discussed here involve OA 2 and photochemistry.
+A collaboration between the Gibb and Ramamurthy groups
+established the foundation for these studies, and from this
+the Ramamurthy group have built up a flourishing deep-cavity
+cavitand program within their field of expertise of studying
+photophysical and photochemical processes within confined media.
+Arguably the most studied reaction within the capsule
+formed by OA has been the photolysis of dibenzyl ketone
+derivatives; a class of reaction that has shed much light on
+the ability of capsules formed by OA 2 to bring about unusual
+photochemical reactions. By way of example,38 the photolysis of
+ketone 64 (Scheme 5) in aqueous solution gave, via homolytic
+cleavage of the C(O)–C bond and decarbonylation, products 65
+(AA) 66 (AB) and 67 (BB) in the expected (statistical) 1 : 2 : 1 ratio.
+In contrast, irradiation of 64 encapsulated within the OA 2
+dimer led to only type AB products because the radical formed
+from 64 are – in the timeframe of the photochemical conver-
+sion – trapped within the capsule. This exceedingly high (100%)
+cage effect had only previously been observed in the solid-state.
+More interestingly, the major products formed from encapsulated
+64 were identified as rearrangement product 68 (44%), 66 (41%),
+and a mixture of various decarbonylated, ortho substituted
+derivatives such as 69 (15% combined yield). Compound 68 is
+believed to be formed (Fig. 18) via cleavage of the C(O)–C bond,
+intersystem crossing from the triplet to the singlet radical
+pair, rapid reorientation of the unsubstituted benzyl radical,
+recombination and a 1,5 H-shift. Reorientation occurs because
+whereas the phenylacetyl radical is anchored in place by its
+p-methyl group, the benzyl radical isn’t. Consequently, it
+rotates 1801 relative to rest of the complex to better pack the
+cavity and place the benzyl group in the narrow region at the
+base of the nano-space. A hydrogen shift and recombination of
+the radicals gives product 68.
+Extending this work, the Gibb and Ramamurthy groups
+examined a-(n-alkyl) dibenzyl ketones 70 (Scheme 6) where R
+varied from Me to n-octyl. Extensive NMR analysis including
+1H studies, diﬀusion, and 2D experiments revealed all guests
+formed 2 : 1 host–guest complexes with three distinct packing
+motifs depending on the R group of the guest. For the smaller R
+groups (R = Me, Et, n-Pr) it was found that each phenyl ring
+occupied the polar regions of the container whilst the R group
+occupied the equatorial region (Fig. 19). In contrast, for mid-sized
+Scheme 5
+Major photochemical products from the photolysis of 64 in free solution or encapsulated within the OA 2 dimer.
+Fig. 18
+Schematic of the proposed mechanism for the formation of rearranged product 68.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 565
+R groups (R = n-Bu n-pentyl and n-hexyl) it was found that one
+phenyl ring (distal to the R group) and the R group occupied the
+polar regions of the container and the proximal phenyl ring
+occupied the equatorial region. Finally, in the case of the largest
+R groups examined (R = n-heptyl and n-octyl) it was found that the
+guest packed the cavity such that the distal phenyl ring occupies
+the equatorial region of the capsule.
+In hexane or buﬀer solution the majority of products from
+photolysis of these eight ketones arise via Norrish Type I
+mechanisms and indicate no cage eﬀect. In contrast, photolysis
+within the capsule revealed again a 100% cage eﬀect with only
+AB type products observed. Nevertheless, the relationship
+between the packing of the capsule and the outcome of photo-
+lysis was complex because of the multiple chemical channels
+in the triplet excited-state surface. Consequently, the guests
+examined yielded a considerable range of products arising from
+both Norrish Type I and Norrish Type II (Norrish–Yang) chemistry.
+Prominent examples include rearranged products 71, 72 and
+decarbonylated product 73 via Norrish Type 1 mechanisms, and
+dealkylated (Norrish–Yang) products such as 74.
+Although overall many products were formed, the range of
+products from individual host–guest complexes was much
+narrower than in free solution and some general conclusions
+regarding packing and reactivity were possible. First, smaller R
+groups (R = Me, Et, and n-Pr) formed substantial amounts of
+rearranged product 72 and only trace amounts of the other
+rearranged product 71. This was attributed to the faster
+cleavage of the more substituted C(O)–C bond of 70, and the
+fact that the resulting substituted benzyl radicals from the
+three guests were able to rotate in the cavity and generate 72.
+On the other hand, midsized R groups (n-butyl and n-pentyl)
+give roughly equal amounts of both rearranged products 71
+and 72. Although the cleavage of the more substituted C(O)–C
+bond of 70 would be expected to the faster, apparently the
+reorientation of the resulting substituted benzyl radical is difficult.
+Consequently, via recombination of the initially formed phenacetyl
+and benzyl radicals, the slower cleaving C(O)–C bond that is the
+first step to product 72 effectively competes. Finally, the largest
+R groups (n-hexyl through n-octyl) gave the most Norrish–Yang
+products such as 73. This was attributed to two phenomena: (1)
+with little space in the cavity, Type I chemistry and rearrange-
+ment processes were disfavored; (2) the conformation preference
+(Fig. 19) for these guests promotes g-hydrogen abstraction and
+Type II chemistry.
+A diﬀerent perspective on this encapsulation chemistry was
+obtained with the series of dibenzyl ketones 75 (R = Et through
+n-hexyl, Scheme 7).61 With 75, the outcome of photolysis in
+hexanes (Scheme 7) is independent of the nature of the R
+group, with in all cases, a statistical mixture (1 : 2 : 1) of the
+AA, AB, and BB decarbonylated products 76–78. In the case of
+the encapsulated reactions all the products were again of the
+AB type (100% cage effect), with the predominant products
+being 77, 79, 80 and 81. In general, yields of 79 decreased and
+those of 77 increased as R increased in size, suggesting that
+with larger and larger R groups rotation of the intermediate
+benzyl radical became energetically more demanding and the
+decarbonylation pathway became more competitive. Yields of
+80 and 81 were less dependent on the R group size, suggesting
+that the increase in yield of decarbonylated 77 is at the expense
+of rearrangement product 79.
+One question that the photolysis of these diﬀerent type of
+dibenzylketones does not reveal is the extent of recombination
+of the phenylacetyl and benzyl radicals to regenerate the starting
+ketone (Fig. 18). To address this question a recent study examined
+the photolysis of optically pure a-deoxybenzoins (Scheme 8)
+encapsulated within the dimer capsule formed by OA 2.62 These
+guests can only undergo cleavage on one side of the carbonyl
+group, and so photolysis of these complexes forms a narrower
+range of products. With 82 (R = H) only Type I reactions are
+possible and the rearranged product 83 (R = H) was formed
+quantitatively. Guest 82 (R = Et) formed mostly 83 (R = Et), but
+also the Type II products 84 (R1 = Me) and 85. In contrast, guests
+82 (R = n-pentyl and n-heptyl) gave no Type I products but only 84
+(respectively R1 = n-Bu and n-pentyl) and 85. Equally important,
+in all cases if photolysis was kept to o20% the recovered starting
+Scheme 6
+Examples of photochemical products from the photolysis of 70 (R = various) encapsulated within the OA 2 dimer.
+Fig. 19
+Packing motifs observed for the diﬀerent guests within the OA 2
+capsule.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+566 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+material was found to have undergone partial racemization; a
+phenomenon that necessitates the first step of the Type I
+mechanism, i.e., formation of the phenylacetyl benzyl radical
+pair. Two key observations were made from the data: (1) longer
+chain lengths led to reduced extents of racemization; (2) but
+even with guests 82 (R = n-pentyl and n-heptyl) which gave no
+Type I products, the first step of the Type I mechanisms is not
+suppressed. Overall these studies revealed that the reduction of
+free space in the complex with increasing R group significantly
+decreases the ability of the guest to undergo Type I chemistry
+and rearrangement—100% yield of 83 for 82 (R = H), 0% for 82
+(R = n-pentyl and n-heptyl)—but the eﬀect of packing coeﬃcient
+on the formation of the phenylacetyl/benzyl radical pair and
+subsequent racemization is much smaller 75 : 25 er versus
+88 : 12 er for 82 (R = H and n-heptyl respectively). In other
+words, formation of the phenylacetyl benzyl radical pair occurs
+with all guests, but increasing packing coeﬃcient has more of
+an eﬀect on the rearrangement reaction to form 83 than on
+flipping of the benzyl radical necessary for racemization.
+Studies of the photophysical and photochemical properties
+of encapsulated stilbenes also reveals that the cavity formed by
+the dimerization of OA 2 has a profound eﬀect on encapsulated
+guest molecules.63 In this work the authors examined a series
+of cis- and trans-methyl stilbenes (2-, 3- and 4-substituted) as
+well as dimethyl stilbenes (2,20-, 3,30-, and 4,40-) 50. (Fig. 15).
+NMR studies demonstrated that both cis- and trans-stilbenes
+readily form 2 : 1 host–guest complexes, with the latter more
+efficiently filling the nano-space of the capsule. Furthermore,
+the NMR shift data between the free and the bound states
+suggested that it was the 4,40-disubstituted stilbene that
+demonstrated the greatest difference between the cis- and
+trans-isomers; the more rotund form of the former guest only
+filled the ‘equatorial’ region of the capsule, whereas the shape
+of the latter was sufficient to more efficiently fill the bulk of the
+interior, and in particular, allow its two methyl groups to bind
+deeply into the narrow ‘polar’ regions of the nano-space.
+Fluorescence studies revealed that the stilbenes displayed
+weak aggregate emission in free borate solution, but well-
+defined monomer emission when encapsulated. Furthermore,
+the singlet lifetime of all the disubstituted guests was longer
+than the corresponding values in hexanes solution (the corre-
+sponding lifetimes of the mono-substituted stilbenes were too
+short to measure).
+Photochemical studies revealed that the 4,40-dimethyl stilbene
+50 (R = 4-Me) was unique among all the diﬀerent isomers
+examined. Free in hexane solution or bound in the capsule,
+irradiation of the other isomers led to similar cis/trans ratios in
+the pseudo-photostationary states (Scheme 9). However, in the
+case of 4,40-dimethyl stilbene 50 its pseudo-photostationary state
+in hexane was 18% trans and 76% cis, but (a more slowly attained)
+85% trans and 15% cis in the capsule. Furthermore, whereas
+irradiation in hexane led to high yields of the corresponding
+phenanthrene 31, only trace amounts of 31 formed over extended
+irradiation of the bound 4,40-dimethyl stilbene 50. These results
+demonstrated that the two methyl groups of the guest are uniquely
+positioned to anchor the two ends of the guest in the nano-space
+of the capsule, inhibiting the formation of the preferred cis-isomer
+and so preventing the formation of the expected phenanthrene 31.
+A recent related paper examined the photophysical and
+photochemical properties of an expanded array of encapsulated
+Scheme 7
+Major photochemical products from the photolysis of 75 in free solution or encapsulated within the OA 2 dimer.
+Scheme 8
+Major photochemical products from the photolysis of 82 in free solution or encapsulated within the OA 2 dimer.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 567
+stilbene and stilbene-like guests molecules.64 In this work, the
+photostationary states of the diﬀerent guests were attained via a
+second OA 2 capsular complex containing a triplet sensitizer.
+A comparison of qualitative competition studies for the encap-
+sulation of the diﬀerent cis/trans isomers, with the photo-
+stationary state ratios obtained upon photolysis suggested that
+the latter is biased in the capsule by the relative binding aﬃnities
+of the guests. Models explaining the mechanism by which energy
+is transferred from the encapsulated, excited donor and the
+encapsulated acceptor were discussed.
+A number of other photochemical transformations have
+been investigated within the confines of the dimeric capsule
+formed by OA 2. For example, the dimerization of acenaphthy-
+lene 86 in water gives 40% of the syn-dimer and 60% of the anti
+stereoisomer (Scheme 10). In the capsule however the syn-dimer is
+formed quantitatively.65 Interestingly, when the water-soluble tri-
+plet sensitizer Eosin-Y is added to the reaction, in the case of free
+86 the syn:anti ratio is 51:49, and in the case of the encapsulated
+86 60:40. The authors tentatively ascribe this increase in the yield
+of the anti isomer in the presence of Eosin-Y to the increase in the
+triplet lifetime of 86 in the presence of the sensitizer. As a result,
+the triplet state of 86 may be able to exit the cavity and undergo
+reaction in free solution. Building on this concept, the general
+ability of the OA 2 dimer to control photo-dimerization reactions
+has been illustrated with methyl cinnamates, p-methyl styrene,
+indene, and 4,4-dimethylcyclohex-2-enone.66
+The familiar photo-Fries reaction has also been studied
+within the confines of the dimer capsule of OA 2.67 In organic
+solvents the Photo-Fries reaction can produce a bewildering array
+of products. For example, the naphthyl esters examined by the
+authors (Scheme 11) gave as many as nine products depending
+on the nature of the R group. However, in the confines of the
+capsule formed by OA 2 the three esters examined, 87–89 all gave
+quantitative yields of their respective rearranged products 90–92.
+As the authors noted, such selectivity in the Photo-Fries reaction
+had only been observed in zeolites, and suggests little transla-
+tional and rotational freedom for the excited singlet state and
+subsequent b-cleavage process.
+A fascinating example of the control of a photochemical
+reaction is the selective oxidation of olefins by singlet oxygen
+within the OA 2 capsule.68 Alkenes with multiple allylic posi-
+tions normally react indiscriminately with singlet oxygen via
+addition to the double bond and simultaneous abstraction of
+an allylic hydrogen. However, when alkenes such as 1-methyl
+cyclohexene were exposed to solutions of OA 2 a 2 : 2 host–
+guest complex was spontaneously formed in which each guest
+adopted a specific orientation with its methyl group filling the
+narrow polar region of the inner space (Fig. 20). As a result, only
+the C-3 allylic position is accessible via partial opening of the
+capsule (see Section 2.1.1.d).
+In this system singlet oxygen was generated using two sensi-
+tizers: water-soluble Rose Bengal (Fig. 20), and water insoluble
+Scheme 9
+Major photochemical products from the photolysis of 50 in free solution or encapsulated within the OA 2 dimer.
+Scheme 10
+Major photochemical products formed from 86 in free solution or encapsulated within the OA 2 dimer (see text).
+Scheme 11
+Photochemical products from the photolysis of 87–89
+encapsulated within the OA 2 dimer.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+568 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+dimethyl benzil (30, Fig. 9). The latter was itself made water-
+soluble by encapsulation within an OA 2 capsule. Although
+mixing of the capsular complexes of substrate and sensitizer 30
+did not result in the formation of any hetero-guest complex,
+irradiation at 500 nm successfully oxidized the encapsulated
+substrate to give a 95% yield of the product peroxide arising
+from C-3 abstraction. Elucidation of the mechanism for this
+conversion began with an examination of the encapsulated
+dimethyl benzil 30 on its own. Thus, lifetime measurements
+of singlet oxidation generated by this capsule were 5 and 41 ms
+in water and D2O respectively, indicating that singlet oxygen
+spends most of its time in free solution. Next, the rate constant
+for oxygen induced quenching of the triplet excited state of
+encapsulated 30 was determined. Two diﬀerent approaches
+gave very similar results; the rate was approximately one order
+of magnitude slower than diﬀusion, but faster than through-
+the-wall energy transfer observed with hemicarcerands.69 These
+results suggest that energy transfer from the encapsulated
+(triplet) guest to oxygen involves partial opening of the container
+to allow oxygen to enter the capsule, a mechanism facilitated by
+the relatively long lifetime of the excited sensitizer. Indeed, as
+was discussed in Section 2.1.1.d, sensitizers with much shorter
+lifetimes were only slightly aﬀected by the presence of oxygen in
+solution. Based on this information, the overall mechanism
+proposed involved: (1) generation of triplet encapsulated 30, (2)
+capsule breathing to allow contact between oxygen and excited
+30 and subsequent energy transfer; (3) exit of singlet oxygen from
+the capsule into bulk solution; and (4) entry of singlet oxygen
+into the capsule containing the alkene and regioselective
+oxidation.
+Two papers detailing chiral photochemistry within the cap-
+sule formed by OA 2 have also been reported. In the first, the 4e
+disrotatory cyclization of pyridones was examined (Scheme 12).
+At its most stereochemically simple level this reaction produces
+two enantiomers, but the addition of a chiral R group to the
+N-atom leads instead to two diastereomeric products. Two related
+questions raised by such conversions are: (1) even though the
+chirality of the R group is quite distant from the developing
+stereocenters, can packing within the capsule formed by OA 2
+promote high diastereoselective reaction? (2) How do other groups
+around the pyridine ring influence reaction outcome?
+The described research focused on the five pyridones 93–97.
+NMR revealed that all formed 2 : 1 host–guest complexes in the
+presence of excess OA 2, with the methyl group of 96 exhibiting
+the largest shift from the free state indicating that it anchors
+deeply into the polar region of one of the hemispheres of the
+capsule. These studies also revealed that the molecules adopt a
+pole-to-pole orientation with free rotation around the long
+polar axis, but no flipping of the guest on this axis (Section
+2.1.1.e). Presumably, in the dry environment of the capsule a
+hydrogen bond can exist between the pyridine carbonyl and the
+N–H of the chiral amide sidechain (Fig. 21). Photochemical
+reaction of these pyridones in free acetonitrile solution resulted
+in very low diastereoselectivity (diastereoselectivity ratio (dr) o
+52 : 48), presumably because the chiral center in each example
+cannot transmit its stereochemical information over the
+relatively long distance between it and the developing stereo-
+centers. On the other hand, within the capsule good to excellent
+diastereoselectivity was observed, especially at 278 K. Thus dr
+values ranged from B60 : 40 in the case of 93, to as high as 96: 4
+in the case of 94; contrary to what was observed in solution, the
+confining effect of the capsule did allow the stereochemical
+information of the chiral center to be transmitted to the
+developing centers.
+A second paper detailing chiral photochemistry in the capsule
+formed by OA 2 concerned the encapsulation of tropolone ethers
+such as 98 and cyclohexadienones such as 99. The former
+undergoes a 4e disrotatory cyclization to form [3.2.0]bicycles,
+whilst the latter undergoes an oxa-di-p-methane rearrangement
+to form [3.1.0]bicycles (Scheme 13). NMR analysis revealed that
+both guests form 2 : 1 host–guest complexes with OA 2 dimer,
+Fig. 20
+Left: orientation of 1-methyl cyclohexene with the capsule
+formed by OA 2. Right: structure of Rose Bengal.
+Scheme 12
+The 4e disrotatory cyclization of chiral pyridones 93–97.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 569
+with their respective 7- and 6-member rings occupying one
+hemisphere, and their chiral side chains occupying the other.
+In free solution both molecules gave little or no diastereoselectivity
+(dr B 50:50), but as anticipated, higher diastereoselectivity when
+encapsulated within the host dimers. Thus tropolone ether 98
+and cyclohexadienone 99 gave diastereomeric ratios of their
+respective compounds of B68 : 32 (at 278 K).
+It is not only stereochemical information within a molecule
+that can be enhanced or biased within the confines of containers,
+but conformation information too. Cyclohexylphenyl ketones
+possess established conformational-dependent photochemistry
+in solution, and were therefore prime targets to examine within
+the nano-scape of the OA 2 dimer.70 Cyclohexylphenyl ketones
+undergo Type I and Type II Norrish photochemistry (Scheme 14).
+The Norrish type I reaction is independent of the conformational
+preference of the cyclohexyl group, whereas the Norrish Type II
+reaction that occurs in these compounds is dependent on the
+position of the C-3 hydrogens in relation to the excited phenylacyl
+carbonyl chromophore. Thus, only when the phenylacyl group is
+axial are these hydrogens on the same side of the 6-membered
+ring within reach of the carbonyl group. Two cyclohexylphenyl
+ketones were examined: 100 (R = H in Scheme 14) and 100
+(R = Me), both of which formed the expected 2 : 1 host–guest
+complexes with OA 2. A comparison of the photochemistry
+of these two ketones in free acetonitrile and encapsulated
+within the capsule revealed that 100 (R = H) gave mostly
+the Type II cyclobutanol product in free solution and only the
+Type I products when encapsulated, whereas 100 (R = Me) gave
+Fig. 21
+Proposed binding motif of pyridine 96.
+Scheme 14
+Type I and Type II Norrish photochemistry of cyclohexylphenyl ketones 100 (R = H) and 100 (R = Me).
+Scheme 13
+The photochemistry of tropolone ethers such as 98 and cyclohexadienones such as 99.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+570 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+exclusively the cyclobutanol in free solution and the Type I
+products when encapsulated. The initial conclusion of these
+results could be that within the capsule the conformation
+preference of the 6-membered ring is with an equatorial
+phenylacyl group whose carbonyl cannot react with the C-3
+hydrogens and so Type II chemistry is switched off. However,
+1H DQF COSY NMR analysis revealed that in both free solution
+and within the capsule it is the conformer with the axially
+positioned phenacyl group that is preferred. Why no Type II
+chemistry? Molecular dynamics simulations of the complexes
+formed by 100 (R = H) and 100 (R = Me) reveal that although the
+phenylacyl group is oriented axially, its carbonyl group is turned
+away from the 6-membered ring. Thus, assuming a similar
+packing of the excited state, the carbonyl group is seldom
+in the position to react with the C-3 hydrogen atoms and form
+Type II products (Fig. 22).
+The behavior of carbenes generated within the OA 2 host has
+recently been investigated (Scheme 15).71 A range of carbenes
+generated from diazirines 101–104 were studied, with initial
+investigations focused on the types of complex formed between
+guests 101–104 and OA 2. From a combination of 1H and
+diffusion NMR studies the authors concluded that 101 formed
+a 2 : 2 host–guest complex, but that guests 102–104 formed
+strong (ITC) 1 : 1 complexes.
+In free solution, irradiation of 101–104 gave predominantly
+ketone 106 and alcohol 107 in a combined yield of 490%. In
+contrast, irradiation of the corresponding complexes generated
+different products depending on the guest. In the case of 101,
+the 2 : 2 complex led to an 89% yield of azine 105 (R = H). On the
+other hand, the 1 : 1 complex of 102 in OA gave a 92% yield of
+insertion products 108 and 109 (R = OH) and 8% 106 (R = OH),
+while the host–guest complexes with 103 and 104 gave 55 and
+63% of 106 (R = Cl and Br respectively), and a combined 45%
+and 37% of the insertion products 108 and 109 (R = Cl and Br
+respectively). The difference between the 1 : 1 complex of 102,
+and the 1 : 1 complexes of 103 and 104 was rationalized with the
+aid of molecular dynamics simulations. Thus, the preferred
+orientation of 102 in the cavity of OA is with the diazirine group
+pointing down into the base of the pocket of the host.
+The corresponding carbene has little reaction options but to
+therefore undergo insertion reactions. On the other hand, the
+adamantanes 103 and 104 were predicted to bind with the
+diazirine group pointing up. Such an orientation allows
+the resulting carbene to readily react with water and generate
+a significant amount of the ketone 106.
+Whilst compartmentalization can radically alter photo-
+chemistry it can also stop photophysical or photochemical
+processes normally observed in solution. An excellent example
+comes in the form of the entrapment of naphthalene 110,
+anthracene 111, and tetracene 112 (Fig. 23) within the dimer
+formed by OA 2.38 The smallest of these guests, naphthalene
+110, shows only monomer emission in aqueous solution at
+104 M, but at the same concentration in the presence of the
+host shows a red-shifted monomer and an excimer emission.
+NMR spectroscopy reveals why this is so: the guest forms a 2 : 2
+complex with OA 2, and with two guests inside the capsule they
+experience an eﬀective concentration of 3 M. Contrastingly, in
+solution tetracene 112 normally undergoes facile photo-induced
+dimerization and shows both monomer and excimer emission.
+The capsular complex of this guest however only demonstrates
+monomer emission and does not undergo guest dimerization
+Fig. 22
+Proposed binding motif of cyclohexylphenyl ketones based on
+reaction outcome and computer models.
+Scheme 15
+Diazirines reactivity within OA 2.
+Fig. 23
+Left panel: structures of naphthalene, anthracene and tetracene
+(110–112). Right panel: proposed binding motif of anthracene 111 based
+on NMR evidence and photolysis experiments.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 571
+because the size and shape of the guest is such that only one
+can fit within the capsule formed by OA 2. Between these two
+examples is the interesting case of anthracene 111. Irradiation
+of solutions of 111 normally leads to rapid and quantitative
+formation of anthracene dimer, and as a result of the speed and
+eﬃciency of this reaction only the weakest of excimer emissions
+is normally observed along with monomer emission. NMR reveals
+that this guest forms a 2:2 complex with OA 2, but rather than
+promoting dimerization, none is observed. However, there is a
+strong excimer emission band in the fluorescence spectrum of the
+complex. Close scrutiny of the 1H NMR spectrum of the complex
+solved this puzzle. The guests are held out of register with respect
+to each other (Fig. 23), and in this relative position the two pairs
+of 9,10 atoms cannot approach each other. As a result, extensive
+irradiation leads to excimer emission but no dimerization.
+As might be anticipated, this unusual situation has been shown
+to be independent of the coating of the cavitand.22
+The capsules formed by OA 2 also allow thioketones to
+phosphoresce at room temperature.72 Phosphorescence of this
+class of molecule is normally minimal at best because they
+demonstrate strong diﬀusion limited self-quenching as well as
+diﬀusion controlled oxygen quenching. Furthermore, singlet
+oxygen generated by this process reacts with thioketones irre-
+versibly. To examine the eﬀects of encapsulation on thioketones
+three guests were chosen: camphorthione 113, fenchthione 114
+(Fig. 24) and adamantanethione 49 (Fig. 15). Guests 113 and 49
+are illustrative (Fig. 24, right).
+1H, NOESY and diﬀusion NMR analysis revealed that these
+two guests have subtly diﬀerent binding motifs within the
+capsule. Thus camphorthione 113 binds preferentially with its
+thioketone groups buried in the deep, ‘polar’ region of the nano-
+space, whereas adamantanethione 49 binds in the opposite
+manner with the two thioketone groups of the guests at the
+equatorial region of the capsule (Fig. 24).
+Guest 113 demonstrated phosphorescence at a capsule
+concentration of 104 M, and possessed a relatively long lifetime
+in the capsule (conc. 105 M), exceeding its lifetime at infinite
+dilution in perfluorodimethylcyclohexane. Its enhanced fluores-
+cence and lifetime suggests that no self-quenching of the guests
+occurs, even though there are two per capsule with an eﬀective
+molar concentration in the nano-space. This was attributed to
+the preferred orientation of the guest within the capsule that
+inhibits self-quenching and protects the guest from dissolved
+oxygen. Indeed, when the rate constant for oxygen quenching
+was measured it was found to be two orders of magnitude lower
+than in common solvents. Considering the orientation of ada-
+mantanethione 49 within the capsule it may be anticipated that
+the complex demonstrates no phosphorescence. However, this is
+not the case. Although weaker than the complex with 113, the
+adamantanethione 49 possessed phosphorescence much greater
+than that observed at infinite dilution. Interestingly the lifetime
+of the phosphorescence from this complex was shorter than that
+at infinite dilution. Apparently the two guests are oriented
+relative to one another such that they can partially self-quench
+and reduce their lifetimes, but cannot adopt the relative orienta-
+tions attainable in free solution that bring about nearly complete
+self-quenching. Overall, the ability of the capsule formed by OA 2
+to enhance the phosphorescence of these guests (and in capsules
+formed by related cavitands22) was found to be superior to that
+of comparably sized, but more open, cucurbit[7]uril.
+The photophysics and photochemistry discussed thus far
+has assumed that the capsule formed by OA 2 is an inert
+container akin to a nano-scale round-bottomed flask. However,
+very recent results have demonstrated for the first time that this
+is not actually the case.73 Thus in their excited state the capsules
+formed by OA 2 and related cavitand 8 have been shown to be
+good triplet energy donors to ground state guests, and in their
+ground state have been shown to be electron donors to excited
+state species. To investigate the possibility that these hosts can
+act as triplet sensitizers guests such as 115 – that form distinct
+products depending on the type of excitation – were included
+inside the capsule (Scheme 16). Guest 115 formed a strong,
+structurally well-defined 2 : 2 host–guest complex with OA 2,
+and irradiation of this complex led smoothly to a quantitative
+yield of the triplet product 116. Guest 115 did likewise with
+the capsule formed by 8, but in this instance the transforma-
+tion to 116 was considerably slower than with OA 2. With
+either host there was no evidence of the singlet product 117.
+Fig. 24
+Left panel: structures of camphorthione 113 and fenchthione 114. Right panel: proposed binding motif of camphorthione 113 and
+adamantanethione 49 based on NMR evidence and photophysics.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+572 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+Benzoate groups are known triplet sensitizers, and so these
+results strongly support the notion that the benzoate groups of
+the hosts are excited to the singlet state, undergo intersystem
+crossing, and transfer their energy to the encapsulated guest; in
+the case of OA 2, the more local benzoate groups at the rim of
+the host are more efficient at transferring their energy than the
+more distal benzoates in the pendant groups of 8.
+The OA 2 capsule is also capable of donating electrons to
+excited electron acceptors. To take one example, the fluorescence
+of acridinium 118 was quenched upon the addition of OA 2, a
+quenching that was shown to be static rather than dynamic,
+with
+a
+sub-nanosecond
+rate
+constant.
+Since
+water-soluble
+cationic guests are known to associate with the outside of the
+host (Section 2.1.1.f), and considering the higher S1 energies of OA
+2 versus 118, the observed fluorescence quenching was unlikely to
+arise from singlet-singlet energy transfer. Considering the likely
+oxidation potentials of OA 2 and 8, the authors attributed the loss
+of fluorescence of excited guests such as 118 to electron transfer.
+There are also rare examples of reactions occurring between
+the OA 2 capsule and an encapsulated guest. In this regard it is
+worth highlighting a paper that, although on the edge of the
+purview of this review, is of significant note74 Specifically, it has
+recently been noted that the 1 and 2-azidoadamantanes 119
+and 120 (Fig. 25) bind to OA 2 to form the corresponding 1 : 1
+complexes. Irradiation of these complexes results in the genera-
+tion of the corresponding nitrene complexes, and this reactive
+guest then inserts into one of the four benzal hydrogens of the
+host to generate ‘cavitands’ such as 121 (Fig. 25).
+And on the topic of photochemical insertion into the
+capsule formed by OA 2 we turn to the last example on the
+topic of photoreactions in these cavitand dimers, the release of
+encapsulated guests via a photo-trigger mechanism.75 In this
+work, a series of p-methoxyphenacyl esters 122 (R = various) were
+encapsulated with the OA 2 dimer. In each case the corre-
+sponding 2 : 1 host–guest complex was formed. 1H NMR analysis
+demonstrated that irradiation of these complexes fragmented
+the guest which in turn led to the breakdown of the supra-
+molecular capsule. Each guest produced between three and five
+products, primarily the p-methoxy acetophenone and the corre-
+sponding carboxylic acid (Scheme 17), but also in some cases the
+insertion product where the p-methoxy acetophenone moiety
+inserted into a benzal C–H bond of the host (cf. 121). The wide
+range of products observed suggested to the authors that more
+than one mechanism for the decomposition of the guest might
+be operational. Because the host is a good triplet sensitizer
+(vide supra) it was suggested that the triplet excited state of the
+bound guest was central to its decomposition. However, further
+work is required to fully understand this system.
+(c) As tools for probing fluorescent protein chromophores.
+The chromophores of fluorescent proteins exhibit markedly
+diﬀerent fluorescence properties when sequestered inside a
+b-barrel of a protein compared to those observed in free solution.
+Scheme 16
+Singlet and triplet photochemistry of 115.
+Scheme 17
+Primary photochemical outcome of 122 encapsulated within the dimer of OA 2.
+Fig. 25
+Left panel: structures of azidoadamantanes 119 and 120. Right panel: structure of insertion product 121 from reaction between OA 2 and a
+bound nitrene.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 573
+The eﬀect of sequestration is generally attributed to the control
+of the overall shape of the 4-(p-hydroxybenzylidene)imidazoli-
+din-5-one chromophore. Mimics of this chromophore, e.g. 123
+(R1 and R2 = various) have been investigated to examine how
+changes to the dihedral angle of the benzylidene single and
+double bond influence their fluorescence properties. To gain
+further insight, a group of researchers led by Tolbert examined
+the encapsulation of 123 (R1 and R2 = various) by the OA 2 dimer
+capsule.76 As anticipated, the para-alkyl derivatives exhibited
+strong shielding of both the para-alkyl and N-alkyl group
+signals, suggesting that groups in this position are anchored
+at the polar region of the capsule. However, neither para- nor
+meta-substituents were eﬃcient at ameliorating internal con-
+version of the guest. In contrast, ortho-substituents led to a one
+order of magnitude increase in the fluorescence quantum yield
+relative to benzene solution.
+All of the 2 : 1 complexes of the guests examined were biased
+towards their trans-isomer, with photo-stationary states as high
+as 94 : 6 for the trans to cis ratio. As has been discussed above,
+this bias for alkene geometry reflects a more eﬃcient filling of
+the cavity of the trans isomer. Interestingly, contrary to what
+has been observed with stilbenes, the propensity for cis to trans
+isomerization did not correlate with the internal conversion
+eﬃciency. Thus, the presence of an ortho-substituent in 123
+attenuated internal conversion without inhibiting isomerization.
+The conclusion of the authors was therefore that within the capsule
+formed by OA 2 the ortho-substituent prevents rotation around
+the benzylidene single bond, decreasing internal conversion,
+and allowing either fluorescence or double bond isomerization.
+In contrast, in solution the combination of a double bond
+isomerization with eﬃcient single bond rotation allows both
+eﬃcient isomerization and eﬃcient internal conversion.
+More recently, the range of chromophores encapsulated
+within the confines of the OA 2 dimer was expanded consider-
+ably.77 Specifically, the choice of R1 groups was expanded to
+include a range of ortho-, meta-, and para-substituents covering
+the gamut of common electron withdrawing and donating groups.
+With the exception of cases where the guest had an ortho ethyl
+group, all the chromophores formed the expected 2 :1 host–guest
+complexes. In each case fluorescence quantum yields were
+measured and fitted (linear regression analysis) to an equation
+based on a linear free energy relationship involving a Hammett
+substituent constant and a density functional theory derived
+volume change from replacing an H-atom in the parent with the
+substituent. An analysis of the resulting correlation factors from
+the data obtained with the chromophores in free solution
+revealed that electronic effects dominated the fluorescence of
+the different molecules in the case of meta- or para-substituents,
+but that steric factors as large as 12% were apparent with ortho-
+substituents. On the other hand, the effect of R2 was negligible.
+In addition, this analysis also revealed that there is substantial
+negative charge transfer to the aryl ring in the transition state
+for decay.
+In contrast, a similar analysis for the data obtained from the
+chromophores encapsulated within the OA 2 dimer revealed that
+the remote R2 group did have a significant eﬀect, approaching
+that of ortho-substituents, but that the eﬀect of R2 decreased in
+the order: ortho 4 meta 4 para for the position of the R1 group.
+Unusually, this analysis also revealed that as R1 was kept constant
+and R2 increased in size there was a non-monotonic relationship
+with quantum yield; the quantum yield increased for methyl
+through propyl, and then decreased with larger R2 groups.
+This was attributed to conformational locking of the guest
+with increasing size, and then an over-crowding of the capsule.
+Comparing the steric eﬀects of the ortho-, meta-, and para-
+substituents, guest conformational locking was more apparent
+with the ortho- and meta-substituents; the para-substituents
+could not prevent aryl group rotation. Finally, a comparison
+of the data from benzene with that of the encapsulated guest
+demonstrated that internal conversion within the capsule must
+require more charge transfer back to the ground state; an
+observation that may reflect a larger amount of twist in the
+guest when bound within the capsule.
+(d) Cavitands and capsules on surfaces. A range of cavitands
+has been investigated on solid surfaces. For example, with a
+long-term goal of examining photochemistry on inert solid
+supports, the photophysical properties of complexes formed
+by OA 2, and cavitands 7 and 8 have been studied on silica
+surfaces.22 Whereas the fluorescence of 30 (Fig. 9) and phos-
+phorescence of 113 (Fig. 24) are weak at best when adhered to
+silica, the corresponding adhered cavitand complexes both
+showed
+strong
+phosphorescence,
+suggesting
+that
+they
+remained intact upon binding to the silica. Similarly, when
+adsorbed onto silica the capsular complex of anthracene 111
+(Fig. 23) showed strong excimer emission consistent with the
+stable 2 : 2 capsular complex observed in solution.78 Perhaps
+the strongest evidence for successful capsule formation on
+silica came from guest 64 (Scheme 5). As has been discussed,
+in solution irradiation of the OA 2 complex with 64 produces a
+high yield of rearranged product 68, and likewise complexes of
+this guest with OA 2, 7 and 8 absorbed onto silica gave
+comparable yields of this benzyl phenyl ketone.
+The unusual optical and electronic properties of gold nano-
+particles have led to much interest in their potential biomedical
+and opto-electronic applications. With this in mind, the Rama-
+murthy group has synthesized a number of amine-coated and
+thiol-footed cavitands for functionalizing gold nano-particles.79
+Nano-particles coated with the former did not behave well and
+will therefore not be discussed here, but within this thiol-group
+several cavitands were studied in aqueous solution. Hosts 124
+and 125 are representative examples.
+Gold particles were synthesized with 124 on their surface and
+characterized with a combination of Transmission Electron
+Microscopy (TEM), UV-vis absorption, IR, 1H NMR, Dynamic
+Light Scattering (DLS), and Thermogravimetric Analysis (TGA).
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+574 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+All of these techniques indicated successful inclusion of the
+cavitands onto the gold surface. Regarding host–guest complexa-
+tion, although hampered by the expected signal broadening NMR
+studies confirmed that guests could form 1:1 host–guest com-
+plexes with the bound cavitands. Furthermore, with guests such as
+30 (Fig. 9) NMR suggested that capsular complexes were formed on
+the surface of the gold. Taking this one step further, a mixture of
+gold nano-particles coated with 124, guest 30, and excess cavitand
+125 in free solution, suggested a degree of hetero-capsule
+formation on the surface of the nano-particle. Apparently, the
+hydrophobic effect is in operation at the surface of these gold
+nano-particles and that capsular complexes similar to the ones
+constituting the bulk of this review can be formed.
+2.2
+Velcrands
+Velcrands are resorcinarene-based cavitands that, because of
+the two-atom bridging between pairs of opposing resorcinarene
+oxygen atoms, can exist as either in a ‘flat’ (C2v) kite form, or a
+deeper concave (C4v) vase form (Scheme 18). The rather flat
+nature of the kite form means that it readily undergoes self-
+assembly to form the corresponding dimer devoid of binding
+properties. On the other hand, the vase form has a rich record
+of host–guest chemistry that goes back some three decades.80
+One prominent thrust of the Rebek group has been the devel-
+opment of novel water-soluble velcrands. The majority of this
+work has focused on solution studies, but as we discuss below
+some amphiphilic velcrands have also been studied having been
+imbedded into micelles or membranes. We highlight these
+studies where they are carried out in conjunction with solution
+work. Readers should note in passing though that papers
+describing micelles composed of amphiphilic velcrands,81 and
+papers centered solely on micelle bound velcrands82 have also
+appeared in the literature.
+An early example of a water-soluble velcrand 126 (Scheme 19)
+was synthesized in three steps from the octa-nitro derivative 127;
+itself available from bridging the corresponding resorcinarene
+128 with 1,2-difluoro-4,5-dinitrobenzene.83
+The carboxylate appended host 126 was shown to exist only
+in the vase form under aqueous conditions, in large part because
+water molecules can bridge the benzimidazole groups and help
+seam the host together. In addition though, the ‘free’ host was
+found to contain a single adventitious molecule of THF bound to
+the cavity that resisted removal even by heating to 100 1C under
+high vacuum. This uninvited guest was however displaced in the
+presence of suitable alternative guests.
+In passing it is worth noting that in further work,84 it
+was shown that when the solvent in the final step for the
+preparation of 126 (Scheme 19) was switched from THF/H2O
+to EtOH/H2O, the THF-free host could be isolated. However, 1H
+and DOSY NMR, as well as electrospray MS demonstrated
+that this ‘free’ host existed in the aqueous and gas phase as
+the kite-form dimer. The dimer was however quite weak; one
+equivalent of THF was suﬃcient to form the monomeric
+vase form. Consequently, all studies on 126 focused on the
+THF-containing monomeric host.
+Tetraalkylammonium ions as large as tetraethylammonium
+were found to bind to host 126, but larger guests such
+as tetrapropylammonium did not. To take one successful
+example, tetramethylammonium bound with an association
+constant of Ka = 3800 M1. Binding of these guests was slow
+on the 1H NMR timescale, and 2D NOESY experiments revealed
+that the egression rate of bound tetramethylammonium was
+8.2 s1. This corresponds to a relatively high energy-barrier
+of 16 kcal mol1. Binding was not just a question of size,
+shape and charge complementarity. For example, primary and
+secondary ammoniums of similar size to the aforementioned
+Scheme 18
+C2v kite (left) and C4v vase (right) forms of velcrands.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 575
+tetraalkylammoniums were rejected by the host, presumably
+because they have much stronger hydration shells. However,
+larger ammoniums that could simultaneously present a relatively
+hydrophobic moiety for binding to the pocket and an ammonium
+group for the rim carboxylates, were found to bind strongly.
+Examples include S-nicotinium 129 and rimantadium 130
+(Fig. 26). Acetylcholine 131 and choline 132 were also found to
+bind strongly to the host (Ka = 14600 and 25900 M1 respectively),
+but the related L-carnitine 133 was found to only weakly bind
+(Ka = 150 M1). This was attributed to the fact that the carboxylate
+of the guest is in close proximity to the negatively charged upper
+rim of the host. Although ITC data suggested that Coulombic
+forces were important in these complexations, the hydrophobic
+eﬀect also plays a role. Thus, host 126 could readily extract
+adamantane 134 from the solid state into a D2O solution.
+Preliminary investigations of the eﬀects of buﬀer and salts
+(the Hofmeister eﬀect) on the solubility of host 126 revealed
+complex and poorly understood physicochemical properties.
+Trembleau and Rebek also used host 126 to demonstrate the
+first helical motif of an encapsulated guest.43a A 2 mM solution
+of 126 and dodecyl phosphocholine (DPC, 135, Fig. 27) resulted
+in an 1H NMR spectra showing individual signals for each
+methylene unit of the hydrocarbon chain and the terminal
+methyl, with upfield shifts for the proton signals of eight carbons
+as high as Dd = 5 ppm. However, the internal environment of 126
+can only accommodate at most six carbons in an extended
+motif. As the 2 mM concentration of DPC is above its critical
+micelle concentration (CMC) of 1 mM, analogous experiments
+were conducted with sodium dodecyl sulfate (SDS, 136, Fig. 27)
+below its B8 mM CMC. These produced similar results, with far
+upfield shifted signals for the methylene units and terminal
+methyl group. A comparison of the NMR of free and bound 135
+and 136 revealed little diﬀerence between the guests indicating
+they bind in a similar fashion.
+This data can only be readily explained by assuming
+the alkyl chain coils up inside the pocket of the host. This
+preference for the coiled motif was attributed by the authors to
+the release of ‘‘ordered’’ water molecules from the surface of
+the hydrocarbon chain and from the interior of the cavity.
+Additionally, in the coiled form more C–H bonds of the guest
+can form attractive interactions with the aromatic p-surfaces of
+the benzene moieties that line the cavity. Finally, the authors
+noted size complementarity exists between the dodecyl chain
+(126 Å3) and the inside of the cavity (225 Å3), a close to ideal
+packing coefficient of 0.56. These factors combine to overcome
+Scheme 19
+Synthesis of tetra-acid velcrand 126. Reagents are: (1) 1,2-difluoro-4,5-dinitrobenzene Et3N, DMF; (2) SnCl2, HCl; (3) ethyl 3-ethoxy-3-
+iminopropanoate; (4) NaOH, THF/H2O.
+Fig. 27
+Helix-adopting guests for host 126.
+Fig. 26
+Guests for host 126.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+576 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+the roughly 2.5–3.0 kcal mol1 of straining gauche interactions
+that this conformation imposes on the coiled chain.
+Further examination of the NMR spectra of these complexes
+reveals slightly broadened bound guest peaks in the upfield region.
+Since the exchange process must overcome a 15–20 kcal mol1
+barrier afforded by the breaking and refolding of the seam of
+hydrogen (deuterium) bonds that enforces the vase form of
+the receptor, and as the helical guest motif within the cavity
+should produce diastereomeric complexes, the broadening of
+the proton signals was attributed to time-averaging of the
+signals from multiple conformations.
+In related work the same group looked at the interaction
+between SDS 136 and water soluble cavitand 126 as a function
+of increasing amounts of surfactant.85 As just discussed, with
+one equivalent of 136 the guest forms a kinetically stable
+complex with host 126. However, in the presence of a slight
+excess of guest (ca. 1.3 equiv.) the exchange rate becomes rapid
+relative to the NMR timescale and the upfield resonances
+diminish as the chemical shifts relating to the free and bound
+species average. With a concentration of 10 mM 136, i.e., above
+the CMC, the host NMR signals broaden somewhat, whilst at
+very high concentrations of 136 (20–40 mM) a new set of broad
+signals appeared. Considering the amphiphilic nature of the
+host, the authors hypothesized that the host was being
+included into micelles, and to test this diffusion (DOSY) NMR
+measurements were performed. The first of these indicated that
+host 126 was monomeric between 0.2 mM–4 mM, and in the
+presence of one equivalent of 136 a similarly sized 1 : 1 complex
+was observed. Further DOSY measurements on 136 alone
+indicated a decreasing diffusion coefficient with increasing
+concentration; below 3.7 mM (D = 4.2  106 cm2 s1) the
+surfactant was essentially monomeric, whilst above the CMC
+there existed an equilibrium between micelle and monomer.
+Finally, at 40 mM SDS (D = 1.3  106 cm2 s1) the apparent
+hydrodynamic radius of the micelle was calculated to be 15.4 Å.
+For the mixture of 40 mM surfactant and 1 mM 126 the
+diffusion coefficient of the latter was noted to have decreased
+to just 0.8  106 cm2 s1; a corresponding hydrodynamic
+radius of approximately 25 Å. These data indicate each cavitand
+is associated within a micelle composed of approximately
+60 amphiphiles. Incorporated into the surfactant micelle, there
+was no evidence of lipid tail binding into the pocket of the host.
+Furthermore, the host retained the ability to bind guests from
+the exterior aqueous solution. For example, acetylcholine bound
+with an affinity of Ka E 1.7  104.
+The Rebek group have also reported on a comprehensive
+analysis of the binding of acyclic and cyclic hydrocarbons to
+host 126.84,86 As just discussed, in the case of DPC 135 and SDS
+136 the guest adopts a helical packing motif to maximize the
+number of methylene groups shielded from the outer aqueous
+environment. For small n-alkanes, NMR illustrated well that
+they do not bind in quite the same way. For the smallest guests
+(C3–C5) peaks are broad, presumably because of relatively fast
+exchange. However, even the larger guests (C6–C12) gave broad
+and/or clustered peaks on the NMR spectra indicative of coiled
+motifs that were rapidly tumbling within the cavity. In addition,
+with guest lengths too long to be accommodated within the
+cavity (C9 or larger) binding was quite weak and competing THF
+binding prevented full complexation. Branched alkanes also bound,
+but with slower tumbling and broad ill-defined NMR signals.
+Entropic costs with confinement were smaller for cyclic
+guests, and these proved to be generally stronger guests than
+the acyclic counterparts. Overall competitive binding studies
+revealed that cyclohexane was the best guest.
+Small aromatic guests on the other hand are rigid and there-
+fore cannot adopt diﬀering conformations to optimally fill the
+cavity space. Consequently, these showed only weak aﬃnity to the
+cavity. Larger aromatic guests did however bind. 4,40-Dimethylbi-
+phenyl 137 (Fig. 28) was the longest guest bound, and anthracene
+(111), stilbene 50 (R = H), and 1,4-di-tert-butylbenzene 138 also
+bound eﬃciently.
+The insolubility of these aliphatic and aromatic alkanes in
+water precluded quantification of the thermodynamics for
+binding. Consequently, a series of neutral, amphiphilic guests
+were also chosen as guests to study by ITC. Guests included a
+number of cyclic and adamantyl alcohols and ketones which all
+bound with the neutral hydrophobic moiety inside the cavity
+and the polar head group at the cavity rim. Binding constants
+were typically 4105 M1. Complexation of these guests was noted
+to be strongly entropically driven with only a small contribution
+made by enthalpy. This latter point was attributed to the absence
+of cation–p interactions. As expected for complexations driven
+by the hydrophobic effect, complexation was associated with a
+negative heat capacity change
+DC
+p
+
+
+.
+Two dimensional EXSY NMR experiments were used to
+determine the exchange rates of the various guests. For the
+diﬀerent guests examined egression rates varied from 1.7 to
+14.6 s1, which correspond to free energies of activation DG‡
+from 17.2 to 16.0 kcal mol1. The similarity of these values,
+coupled with the concentration independence of the guest
+exchange rates, suggests that host 126 must fully unfold for a
+guest to vacate the cavity.
+Velcrand 126 has been shown to act as a phase-transfer
+catalysts for transporting hydrophobic species into aqueous
+solution to bring about their reaction.87 The reaction in question
+was between organic-phase maleimides (139) and a water-soluble
+thiol (Scheme 20).
+Fig. 28
+Examples of aromatic guests for host 126.
+Scheme 20
+Reaction between a water-soluble thiol to a maleimide 139.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 577
+Host 126 readily transferred a number of N-substituted
+maleimides by complexation to the R group of the substrate,
+whereupon the resulting complex rapidly reacted with the thiol.
+Owing to the charge on each product, the resulting products
+were poorer guests than their corresponding starting materials.
+Hence product inhibition was avoided and eﬃcient catalysis
+seen at levels as low as 0.5 mol%. Variations on the nature
+of the R group in 139 highlighted several important factors
+necessary for eﬃcient and rapid transfer and reaction. First, if
+the starting material was a poor guest and poorly soluble in
+water then it would undergo only very slow reaction. Second, if
+139 was partially soluble in water then although the presence of
+126 accelerated the reaction, the fast background rate meant
+low relative rate acceleration. Third, the rate of the overall
+process was determined by the transfer rates of the maleimide
+into the aqueous layer, and this in turn was linked to the
+binding aﬃnity of the R group. Good complementarity led to
+high relative rates (assuming 139 was insoluble in water).
+Finally, with selected pairs of maleimides significant reaction
+selectivities could be achieved.
+Kaifer and Rebek have studied the electrochemistry of
+ferrocene derivatives bound to the hydrophobic pocket of
+cavitand 126.88 This work showed that a 1.0 mM solution
+of 126 increased the solubility of ferrocene 53 (Fig. 16) from
+50 mM in 0.1 M NaCl to fully soluble at like salt concentrations.
+As expected, NMR analysis of the mixture indicated guest
+inclusion within the hydrophobic pocket; an association con-
+stant of B9  104 M1 was estimated based on the fact that
+with a 1:1 stoichiometry of host and guest there was no free guest
+observed by NMR, and the assumption this corresponded to at
+least 90% guest complexation. Similar studies with partially water-
+soluble guests 55 (Fig. 16) and ferrocenemethanol 140 allowed
+association constants to be accurately determined. Thus, 55
+bound with an aﬃnity of Ka = 1300 M1, whilst 140 had an
+association constant of Ka = 4800 M1. In all cases NMR demon-
+strated slow exchanging systems with the expected insertion of
+the ferrocene moiety into the hydrophobic cavity, and where
+present, the polar group exposed to the exterior environment.
+The included guests were also investigated using cyclic
+voltammetry (CV). Of particular note is that in the presence of
+equimolar amounts of host 126, the voltammogram was essen-
+tially flat with no observed faradaic response. In the case of
+excess guest 55 and 140 (53 did not possess suﬃcient solubility)
+a cyclic voltammetric response was observed. Complete encap-
+sulation of these guests within the dimer formed by OA 2
+(Section 2.1.1.f) was previously noted to completely switch oﬀ
+their electrochemistry,53 but this was not anticipated in the
+open 1 : 1 complex with 126. Precisely why 126 has such an
+eﬀect on these guests is yet to be determined.
+Host 141 (Fig. 29) is an interesting variation on 126. The aryl
+groups of tetra-acid 141 eﬀectively act as revolving doors to the
+cavity and modulate both the thermodynamics and kinetics of
+guest binding.89 For example, the presence of the doors means that
+141 has a preference for cyclopentane over cyclohexane. For 126 the
+reverse was true. Correspondingly, in a competition study between
+these two hosts, 141 preferentially bound cyclopentane (7.5:1), but
+in a similar study with cyclohexane 126 outcompeted 141 by two to
+one. Additionally, the residency time of guests within host 141 are
+much longer than for host 126. Thus, EXSY NMR revealed that for
+cyclohexane as guest entry and egression rates are approximately
+two orders of magnitude slower in the case of 141.
+We close on the topic of ethyl-footed velcrands with a passing
+note concerning tetra-ammonium cavitand 142 (Fig. 29).90 The
+bromide salt of this cavitand had good solubility in water, and
+existed solely in the kite form in aqueous solution. In contrast to
+126 however, the addition of THF did not trigger the formation
+of the vase form. In fact, formation of the vase form required
+substantial amounts of a water-miscible co-solvent. Consequently,
+its hosting properties could not be investigated in water but in
+3 : 1 D2O : DMSO solutions instead.
+An alternative family of water-soluble velcrands is shown in
+Scheme 21. The formation of carbohydrate-conjugated cavitand
+143 utilized tetrahydroxy resorcinarene 3,91 and was based on
+earlier related examples of water-soluble velcrands.92 The tetrakis
+(b-D-glucosyl) moieties of 143 was added by a late-stage azide–
+alkyne ‘‘click’’ reaction between a lower-rim functionalized tetra-
+zido cavitand and a propargyl glycoside. As with other hosts of
+this type, the eight amide groups at the rim help to stabilize the
+vase conformation. NMR evidence suggested that host 143 exists
+in a kite-conformation in order to minimize solvent-exposed
+hydrophobic surfaces. However, addition of guests induced vase
+conformation with concomitant complexation.
+NMR studies revealed that this cavitand bound a range of
+water-soluble guests containing hydrophobic alkane surfaces
+Fig. 29
+A gated cavitand 141 and tetra-ammonium cavitand 142.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+578 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+including: cylcohexanesulfonate 144, (1R)-(—)-10-camphorsulfonic
+acid 145, quinuclidine hydrochloride 146, and adamantylamine
+hydrochloride 147 (Fig. 30). EXSY NMR experiments revealed
+for 146 a guest dissociation barrier of 13.6 kcal mol1 at 37 1C.
+However, under strongly basic conditions the neutral form of this
+guest did not bind. Similar studies have also been performed for
+a velcrand with tetraethylene glycol pendant groups possessing
+pH-independent water solubility.93
+When exposed to SDS micelles host 143 was successfully
+incorporated (DOSY NMR). Within the micelle the host adopted
+the vase form and could bind small molecules such as 146.
+Other molecules that did not bind to the host in free solution
+were also bound by 143 when it itself was within the micelle,
+the interpretation being that the absence of any dimeric kite
+form in the micelle enhanced the binding properties of the
+host. Guest 146 also dissociated more slowly from the micelle-
+associated caviplex, with a barrier of 14.4 kcal mol1 at 37 1C.
+Interestingly, the binding properties of 143 remained even after
+dissolution in human serum. Furthermore, in a subsequent report
+it was noted that this host could bind and detect guests 146 and
+147 (a FDA approved drug for influenza and Parkinson’s disease)
+in spiked samples of human urine.94 In lyophilized human urine
+reconstituted with deuterium oxide, 143 existed as a soluble
+dimer velcrand, i.e., no endogenous constituents of human urine
+can occupy the binding site of the host and enforce the vase
+form. Unfortunately, the detection limit for this technique was in
+the millimolar range and therefore of limited application.
+The Rebek group also showed the ability of a guanidinium-footed
+cavitand 148 to incorporate in dodecylphosphocholine (DPC, 135)
+micelles.95 The host was prepared in one step from tetra-amine 149
+(Scheme 22), itself available in ten steps from commercially available
+materials.92b Cavitand 148 was soluble up to 2.0 mM in D2O and
+adopted the characteristic non-binding kite form. In contrast, the
+vase form was only observed in solutions of acetone.
+Scheme 21
+Synthesis of tetrakis(b-D)glucosyl velcrand 143. Reagents are: (1) 1,2-difluoro-4,5-dinitrobenzene Et3N, DMF; (2) propionyl chloride, Et3N,
+THF; (3) Ra–Ni, H2, THF. (4) Propionyl chloride, Et3N, THF, 45 1C. (5) K2CO3, MeOH. (6) MsCl, Et3N, THF, 0 1C. (7) NaN3, DMF, 70 1C. (8) propargyl
+glycoside, Cu(I)I, TBTA, THF, 40 1C. (9) K2CO3, MeOH.
+Scheme 22
+Synthesis of the octa-amide, guanidinium footed velcrand 148. Reagents are: (1) 1-H-pyrazole-1-carboxamidine hydrochloride, i-Pr2NEt, CHCl3.
+Fig. 30
+Examples of aromatic guests for host 143.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 579
+In aqueous solution, 148 modestly bound a variety of cationic
+and neutral guests, in each case with the nonpolar group of the
+guest buried deep within the pocket. One possibility for the
+relatively weak binding was the lack of any unoccupied vase form
+of 148. Thus, for a guest to bind to the host it must first
+overcome the dimerization of the kite form of the host. Although
+functioning as a cation and neutral guest binder, the addition of
+anionic species induced precipitation of the host.
+When 148 was included in a solution containing dodecyl-
+phosphocholine (DPC, 135) micelles (20 mM), the NMR spectrum
+showed signals characteristic of the vase form and an additional
+upfield signal at 0.4 ppm. ROESY NMR studies showed reso-
+nance between this peak and the trimethylammonium group of
+135 and not the nonpolar tail group, suggesting that the host was
+located near the surface of the micelle. Approximately 25% of
+the host was occupied by lipid. Experiments below the critical
+micelle concentration of 135 showed no appreciable binding
+between 148 and either terminal of the phospholipid, suggesting
+that preorganization of the vase form by the micelle enhances the
+binding ability of 148. As such, 148 serves as both a guest to the
+micelle and host to the lipid head-group.
+Molecular dynamics simulations on the incorporation of 148
+into a 65-molecule DPC micelle were then carried out. The simula-
+tion began with 148 at the interface, but over time it submerged
+itself into the micelle to the point that its hydrophobic portions
+were surrounded by alkyl chains of 135 whilst its open-end
+remained accessible to bulk solvent. Subsequent to this, as
+observed by NMR, an ammonium group from the phospholipid
+bound into the pocket of the cavitand.
+Binding studies using the micelle-incorporated host demon-
+strated that all of the guests tested in aqueous solution still
+bound to 148. In addition, guest binding was much stronger,
+with as much as a 230-fold increase in Ka. Van’t Hoﬀplots for
+the case of 146 binding to the cavitand, in both free solution
+and within the micelle, revealed a favorable enthalpy of binding
+in both cases (DH = 3.0 and 8.1 kcal mol1 respectively). The
+diﬀerence between the DH for complexation in water versus the
+micelle was tentatively attributed to the greater preorganization
+of the host in the latter. These studies also revealed a small
+entropic penalty of DS = 8.4 and 9.7 cal K1 mol1 in water
+and DPC micelles respectively. Interestingly, other related
+cavitands usually give strongly positive DS values in water.
+Because the NMR spectra of 148 showed very well resolved signals,
+this diﬀerence was tentatively attributed to a lack of aggregation of
+host 143. The more negative entropy of formation in the presence
+of the micelle is, as the authors noted, consistent with the
+reduction of the degrees of freedom of the micelle-bound complex.
+A variation on velcrand 149 is the chiral derivative 150.96
+This host possesses a unique benzimidazole bridge with an
+appended carboxylic acid group that dangles into its binding
+pocket. Consequently it can form a hydrogen bond/salt bridge
+with amine guests that bind to the pocket. In the absence of a
+suitable guest 150 adopts a kite form, but the addition of a
+suitable binder such as quinuclidine hydrochloride 146 results
+in the vase form. The association constant of this guest is over
+two orders of magnitude larger than that between 146 and 149.
+This corresponds to an enhancement of 2.7 kcal mol1, a
+stabilization attributed in large part to the buried hydrogen
+bond between host and guest. A more rigorous determination
+using a free-energy cycle gave a value of this hydrogen bond of
+3.0 kcal mol1. EXSY NMR studies suggested that the intro-
+verted carboxylic acid also aﬀected the rate of guest exchange.
+An energy barrier for guest egression from 150 was measure at
+19 kcal mol1 in the case of guest 146, a full 2 kcal mol1 more
+than for host 149. Regardless, this relatively high barrier strongly
+supports the common guest exchange mechanism seen with
+these type of velcrands: such a mechanism requires a change
+from the vase to kite form costs (ca. 10–12 kcal mol1), plus the
+rupture of the seam of hydrogen bonds (5–7 kcal mol1).
+The Hooley, Cheng, and Rebek groups have examined the
+immobilization of cavitands on gold substrates for protein
+recognition.97 This study centered round cavitand 151, which by
+virtue of its thioether-functionalized feet could be readily appended
+onto gold surfaces. A combination of Surface Plasmon Resonance
+(SPR) and Surface Plasmon Resonance Imaging (SPRi) was used
+to study the binding properties of this host.
+The host was first deposited as a self-assembled monolayer
+(SAM) onto a cleaned gold electrode by immersing the electrode in
+a 0.5 mM solution of 151 in n-butanol containing a 10:1 ratio of
+151 and either N-octadecanethiol (ODT) or 11-mercaptoundecanoic
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+580 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+acid (MUA). The ODT or MUA were needed as fillers to enhance
+the predominance of the vase form of 151 and completely
+inhibit CV current; the SAM of 151 alone incompletely
+filled the gold chip and resulted in limited insulation of the
+electrode surface.
+Focusing first on the NMe3
++-tagged fluorescein guest 152
+(Fig. 31), it was noted that the strongest SPR response was for
+the SAM composed of 151 alone, but that suﬃcient although
+more modest signal could be obtained with the mixed SAM
+composed of 151 and ODT. Unfortunately, tests revealed that
+the SAM composed of just ODT also had a strong response
+to 152. Consequently, attention turned to the MUA filler, and as
+expected, monolayers of MUA alone showed no aﬃnity for 152
+whereas the mixed monolayer with 151 and MAU did.
+A number of additional ammonium guests were bound to
+the immobilized 151, and although changes in resonance angle
+upon binding were modest, they were significant. To take this one
+step further, the authors then turned to guest binding detection
+using SPRi, which, because of its micro-array compatibility makes
+the approach amenable to large-scale screening of targets in the
+fields of drug discovery. Briefly, a similar sample preparation led
+to successful surface deposition in defined arrays, and these could
+be used in label-free guest binding determinations.
+Finally, the group turned to protein recognition by SPR. For
+this they first demonstrated that the mixed monolayer with 151
+and MAU successfully bound biotin derivative 153. Subsequent
+addition of a solution of streptavidin induced an increase
+in resonance angle indicative of immobilization of the strepta-
+vidin at the surface. Cross-checks demonstrate that 153 was
+essential for streptavidin recognition, and that no signal was
+observed in the absence of the cavitand. In combination these
+experiments proved that neither the guest nor the protein can
+be immobilized by MUA alone, and biosensing required the
+complete set of specific non-covalent interactions involving the
+cavitand, the biotin guest 153, and streptavidin.
+Most recently the Rebek group have utilized velcrands to form
+capsules that form in water. As we will see, whilst hydrogen bonding
+is important in their formation, the hydrophobic eﬀect also plays a
+key role in their formation. This program is based on velcrand 154, a
+host that is based on an early example of a velcrand capsule devised
+by De Mendoza.98 The dimeric capsule of 154 is held together by
+sixteen hydrogen bonds between the hydrogen bond acceptors and
+donor groups of the benzimidazolone rim, whilst its water-solubility
+arises from the eight pyridinium pendant groups.
+Host 154 is synthesized in eight steps and exists in both the
+kite and vase forms at low concentrations. The first guests
+reported that confirmed capsule formation were n-undecane
+through n-tetradecane (C11–C14). NMR demonstrated that the
+guest n-undecane fits comfortably in an extended conforma-
+tion, while the longer alkanes adopt gauche conformations
+within the capsule. Absolute binding affinities could not be
+determined because of the very low water solubility of these
+guests, but competitive studies revealed a relative order for
+binding affinity to be: C11 4 C12 4 C13 4 C14.
+A series of rigid molecules with subtly diﬀering lengths,
+including stilbene 50 (Fig. 15) and viologen 54 (R = Me, Fig. 16),
+were used to probe both the length of the inner-space and the
+guest preferences of the 154 dimer. The initially report data
+suggested that uncharged guests bound more strongly that
+isosteric pyridinium salts.
+The photophysical behavior of encapsulated stilbene derivative
+50 also provided indirect evidence of the robustness of the seam
+of hydrogen bonds at the capsule equator. The fluorescence of
+50 was strong in mesitylene but completely quenched upon
+encapsulation within the dimer formed by 154. This supports
+the idea that the capsule must be quite robust in shape, for if it
+were dynamic or ill-defined the host could adapt to accommodate
+Fig. 31
+Examples of aromatic guests for host 151.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 581
+a planar stilbene guest and allow fluorescence. In reality, the
+seam of hydrogen bonds stoutly defines the shape of the inner-
+space such that the rings of a stilbene guest cannot be coplanar
+while inside and its fluorescence is quenched.
+In a follow-up communication, the short n-alkanes (C7 through
+C11), and the appetite stimulant peptide ghrelin were respectively
+encapsulated and complexed by 154.99 The smallest guest
+n-alkanes heptane, octane, and nonane all formed the corre-
+sponding 1 : 1 complex with the host. These rotated rapidly in
+the internal hydrophobic environment created by the mono-
+meric host and their corresponding 1H NMR signals were broad
+and the spectra highly symmetrized. Interestingly, n-decane
+formed both a 1 : 1 and a 2 : 1 complex with the host. Tell-tail
+characteristics of the two complexes were: in the 1 : 1 complex
+the guest exhibited 1H NMR signals over a narrow range indica-
+tive of gauche interactions and an overall compressed guest
+motif; in the 2 : 1 complex the same signals for the bound guest
+were spread out over a wide ppm range indicating an extended
+motif in a symmetrical environment. It was noted that the ratio
+of the two complexes was temperature dependent, with the
+capsular assembly predominating at elevated temperatures and
+exclusively so above 340 K.
+Exposure to amphiphiles such as octanoic acid also resulted
+in a 1 : 1 complex, with as anticipated, the alkane chain
+imbedded in the host cavity. Similarly the peptide ghrelin – a
+28 amino-acid peptide that contains an octanoyl ester moiety at
+the third (serine) residue – was also bound in a 1 : 1 manner.
+Similar results were obtained for rat ghrelin, a truncated 10 amino
+acid peptide. The binding constant of both ghrelin and rat-ghrelin
+were too large to determine by NMR, but ITC titrations with rat-
+ghrelin showed Ka = 2.5  105 M1, and both favorable enthalpy
+and entropy of binding.
+Per-methylation of the benzamidazolones groups of host 154
+leads to 155, a velcrand which exhibited water solubility up to
+10 mM in the kite form. Host 155 was expected to have more
+flexible walls because whereas the vase form of 154 is stitched
+together by hydrogen bonds to ‘‘bridging’’ water molecules, this
+is not possible with 155. Correspondingly, the vase form of 155
+could potentially hold wide guests (or wider guest motifs).
+It transpires that this is indeed the case.
+Brief sonication and/or heating with a series of n-alkanes
+(C6 to C14) gave characteristic spectra associated with the vase
+form, but with noticeably compressed signal ranges for the
+bound-guest. Hence for the smallest guests this range spanned
+only about 0.6 ppm, whilst for C13 and C14 this range was still a
+relatively modest 2 ppm. As expected, for the short n-alkanes
+(C6 to C10) the furthest upfield shifted signals were those of the
+terminal methyl protons; time-averaged as they tumbled quickly
+on the NMR time-scale with the one end pointed to the solvent
+exterior and the other nestled deep within the pocket.
+In contrast were the longer alkanes (C12 to C14) whose
+terminal methyls were unexpectedly furthest downfield on the
+1H NMR. Typically terminal methyl groups reside the deepest
+within the cavitand pocket and as such are shielded the most by
+the aromatic walls of the host. Hence they have the largest Dd
+values with upfield shifts of 4.0 ppm or more. However, in the
+case of these guests within 155 it was the central methylene
+protons that possessed the largest upfield shift, demonstrating
+that the mid-section of these guests is closest to the base of the
+pocket. Correspondingly, the terminal methyl group signals
+were the furthest downfield shifted of the bound guest region in
+the NMR. In combination, this data indicates that the n-alkanes
+C12–C14 adopt U-shaped motifs within the binding pocket of 155.
+Because of the small range of signals in the NMR spectra, these
+guests likely ‘‘writhe’’ in the defined space and adopt many low
+energy variations on the idealized U-shaped motif.
+To probe this type of binding further the authors turned to a
+series of n-alcohols. NMR investigations confirmed that the
+terminal methyls reside deep within the cavity for n-octanol and
+n-nonanol (3.4 ppm, Dd = 4.2 ppm), but as the carbon chain
+length increases the terminal methyl becomes less and less
+shielded. With n-decyl (C10) and n-undecyl alcohols (C11) the
+methyl signals are still the furthest upfield but have shifted
+significantly downfield to 3.1 ppm and 2.6 ppm, respectively,
+indicating the methyl is in the wider more capacious interior of
+the cavity. The guest adopts a J-shaped motif. For the longest
+homologue, tetradecanol (C14), the bound methyl signal appeared
+at only 0.3 ppm, suggesting that this longer guest adopts a
+U-shaped motif. Supporting this
+1H NMR information, COSY
+NMR indicated the carbon chains adopt helical and/or folded
+conformations within the cavity as the terminal methyl is pushed
+further and further out of the base of the pocket. Among other
+groups tested, a, o diols also exhibited similar folding patterns.
+2.3
+Amphiphilic cogs
+The Shionoya group has developed two water-soluble self-assemblies
+driven by the hydrophobic eﬀect. The requisite amphiphiles were
+based on pyridine containing tris-monodentate ligands 156 (Fig. 32),
+which had previously been shown to self-assemble in organic media
+to form either cages and capsules depending on the stoichio-
+metry of Hg2+ and whether or not a cryptand was also present.100
+The cages (Hg61564) required no templating guest, whilst the
+Fig. 32
+Amphiphilic cogs 156–159.
+Chem Soc Rev
+Review Article
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+582 | Chem. Soc. Rev., 2015, 44, 547--585
+This journal is ©The Royal Society of Chemistry 2015
+fluorescently active capsules (Hg61568) were templated by an
+encapsulated cryptand guest.
+As a stepping-stone to working in pure water, the amphi-
+phile 156 was shown to self-assemble in aqueous methanol to
+form box-shaped hexamers (1566).101 Suggestive of the impor-
+tance of the hydrophobic eﬀect in this assembly, water was
+required to form the hexamer; the subunit was monomeric in
+pure methanol. Optimal assembly required the encapsulation
+of two templating molecules and with tribromomesitylene 160
+(Fig. 33) as guest a crystal structure of the assembly was obtained.
+As is so often the case with templated assemblies, the nature of
+the template had a large influence on the success of assembly.
+Thus, hexamethylbenzene 161 and mesitylene 162 were shown
+by NMR to be good templates for this process, whereas 1,3-5-
+trichlorobenzene 163 proved too small and hexabromobenzene
+164 too big to template assembly.
+Furthermore, in a subsequent publication it was revealed
+that when adamantane 134 was used as a template, the product
+formed was a tetrameric assembly 1564 with the template
+encapsulated within.102 X-ray crystallography, NMR and MS were
+all used to characterize the assembly. Similar self-assembled
+inclusion complexes were also formed upon addition of pseudo-
+spherical species such as Me4Si or CBr4, to a solution of 156.
+Methylation of 156 gave the N-methylpyridinium amphi-
+philes 157–159,103 of which 157 was insoluble in pure water
+whereas 158 and 159 were fully water-soluble. NMR and X-ray
+crystallography demonstrated that cog 158 had the predisposi-
+tion to self-assembled into box-shaped hexamer 1586, and when
+a suitable guest molecule such as 160 was present the assembly
+encapsulated the guest to form the corresponding complex.
+The 1H NMR spectrum of 158 in deuterated methanol was
+remarkably simple showing monomeric 158 with C2v symmetry,
+whereas the spectrum in D2O indicated several upfield shifted
+proton signals indicating an aggregate. Examination of the
+non-equivalent N-methyl and p-tolyl signals indicated a highly
+symmetric box-shaped container was exclusively formed. The
+formation of the hexameric aggregate was confirmed by PGSE
+NMR measurement (log D = 9.9; D = 1.26  1010 m2 s1)
+consistent with a 2 nm box. X-ray crystallography revealed that
+the stability of the assembly was in part due to interactions
+between electron-rich pyridyl groups sandwiched between pairs
+of electron-deficient pyridiniums.
+The box-shaped aggregate of 1586 was shown to be remark-
+ably stable; heating to 353 K produced noticeably sharp NMR
+spectra with no signs of dissociated monomer in solution. By
+contrast, heating aggregate 1566 in CD3OD : D2O (3 : 1) aﬀorded
+primarily the monomeric species at only 333 K. Additionally,
+the critical concentration required for capsular assembly was
+shown to be significantly lower than 1 mM: a 1 mM solution of
+158 in MeOH showed characteristic UV absorption at 265 and
+287 nm corresponding to the monomeric species, while an
+increasing fraction of H2O caused a significant lessening of the
+absorption bands; examination of the concentration eﬀect on
+absorbance in pure H2O showed no hypochromism at all in the
+concentration range from 1 mM to 100 mM.
+The inner space formed by 1586 is 0.8 nm  0.8 nm and as
+such can comfortably house two copies of the guest 160 in its
+internal cavity; addition of water insoluble 160 to a D2O solution
+containing 1586 resulted in rapid internalization of the guests
+and downfield shifts of the 1H NMR signals of the methyl groups
+from d = 2.64 ppm (in CD3OD) to d = 3.49 ppm in D2O.
+In contrast to the properties of C2v symmetric 158, C3h
+subunit 159 with three pyridinium groups formed a tetrameric
+assembly around a templating adamantane 134 molecule. In
+the absence of the template 159 actually forms a 1 : 9 ratio of the
+tetramer and hexamer, but the addition of template 134 leads
+to the quantitative formation of the tetramer.
+3.0 Conclusions and outlook
+This review has discussed three classes of molecules that have
+been used by researchers to investigate self-assembly in aqueous
+solution. The use of resorcinarene-based hosts dominates the area,
+but all approaches demonstrate the importance of preorganization
+of arrays of rigid (aromatic) moieties to define a specific form
+predisposed to bind, fold, or assemble. Studying these molecules
+and their properties is: (1) teaching us how to control supramole-
+cular chemistry in water; (2) shedding light on some dark corners
+of aqueous solutions chemistry, and; (3) illustrating novel applica-
+tions that necessitate water being the solvent.
+Regarding the first of these, supramolecular chemists are
+familiar with the concept of a functional group driving and/or
+directing binding or assembly. Thus the directionality of a
+hydrogen bond – a notion derived from the variance on DH1
+on the angle between donor and acceptor – may help drive a
+molecule to form an assembly of specific form (constitution, and
+relative position and orientation of subunits). The molecules
+discussed in this review suggest modifications to this concept,
+namely that: directionality can be free energy based rather than
+enthalpically based, and that the definition of a ‘‘functional
+group’’ can be expanded from a list useful to synthetic chemists,
+to include moieties useful to supramolecular chemists. In all the
+examples highlighted here, careful crafting of structure resulted
+in functional groups (to use the just expanded definition) that
+bind, fold, or assemble. . . in water.
+Fig. 33
+Guests and templates for the assembly of amphiphilic cogs 160–164.
+Review Article
+Chem Soc Rev
+Published on 04 August 2014. Downloaded by University of Science and Technology of China on 10/15/2024 8:40:47 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2015
+Chem. Soc. Rev., 2015, 44, 547--585 | 583
+The second and third points listed above are for the future;
+but we are confident much can be learned from aqueous
+supramolecular chemistry. Continued investigations involving
+the aforementioned families of molecules, and potentially new
+classes of molecules that are yet to be developed, will shed
+more light on the mysteries of water and undoubtedly engender
+new and useful applications. The details are certainly murky,
+but the bigger picture seems quite clear.

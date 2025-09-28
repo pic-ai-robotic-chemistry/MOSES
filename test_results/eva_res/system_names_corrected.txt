@@ -1,0 +1,13 @@
+Extracted system names from CSV header:
+
+ 1. gpt-4.1-final
+ 2. gpt-4.1-nano-final-815-1
+ 3. lightrag-gpt-4_1
+ 4. lightrag-gpt-4_1-nano
+ 5. o1-final
+ 6. o3-final
+ 7. reordered_MOSES-final
+ 8. reordered_MOSES-nano-final
+ 9. chemqa27_from_chem13b_rag_infer_yesthink
+10. gpt-4o-final-815-1
+11. gpt-4o-mini-final-815-1

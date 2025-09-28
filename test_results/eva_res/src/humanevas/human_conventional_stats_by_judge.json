@@ -1,0 +1,134 @@
+{
+  "human": {
+    "gpt-4.1-final": {
+      "judge": "human",
+      "overall_mean": 7.098765432098766,
+      "overall_std": 1.697276776719143,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 9.395061728395062,
+      "dim_completeness_mean": 7.395061728395062,
+      "dim_theoretical_depth_mean": 3.6049382716049383,
+      "dim_rigor_and_information_density_mean": 8.0
+    },
+    "gpt-4.1-nano-final-815-1": {
+      "judge": "human",
+      "overall_mean": 6.638888888888889,
+      "overall_std": 1.4301442234963577,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 9.246913580246913,
+      "dim_completeness_mean": 6.481481481481482,
+      "dim_theoretical_depth_mean": 3.111111111111111,
+      "dim_rigor_and_information_density_mean": 7.716049382716049
+    },
+    "lightrag-gpt-4_1": {
+      "judge": "human",
+      "overall_mean": 7.716049382716049,
+      "overall_std": 1.5626265380860727,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 9.45679012345679,
+      "dim_completeness_mean": 7.246913580246914,
+      "dim_theoretical_depth_mean": 5.802469135802469,
+      "dim_rigor_and_information_density_mean": 8.358024691358025
+    },
+    "lightrag-gpt-4_1-nano": {
+      "judge": "human",
+      "overall_mean": 6.570987654320987,
+      "overall_std": 1.4476460245328204,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 9.25925925925926,
+      "dim_completeness_mean": 5.654320987654321,
+      "dim_theoretical_depth_mean": 3.8518518518518516,
+      "dim_rigor_and_information_density_mean": 7.518518518518518
+    },
+    "o1-final": {
+      "judge": "human",
+      "overall_mean": 6.080246913580247,
+      "overall_std": 2.0123940812553602,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 8.851851851851851,
+      "dim_completeness_mean": 5.246913580246914,
+      "dim_theoretical_depth_mean": 2.876543209876543,
+      "dim_rigor_and_information_density_mean": 7.345679012345679
+    },
+    "o3-final": {
+      "judge": "human",
+      "overall_mean": 7.191358024691358,
+      "overall_std": 2.1705671799592037,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 9.098765432098766,
+      "dim_completeness_mean": 7.1234567901234565,
+      "dim_theoretical_depth_mean": 4.530864197530864,
+      "dim_rigor_and_information_density_mean": 8.012345679012345
+    },
+    "reordered_MOSES-final": {
+      "judge": "human",
+      "overall_mean": 8.833333333333334,
+      "overall_std": 0.6754628043053148,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 9.691358024691358,
+      "dim_completeness_mean": 7.901234567901234,
+      "dim_theoretical_depth_mean": 8.407407407407407,
+      "dim_rigor_and_information_density_mean": 9.333333333333334
+    },
+    "reordered_MOSES-nano-final": {
+      "judge": "human",
+      "overall_mean": 6.552469135802469,
+      "overall_std": 1.4909707667021825,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 9.148148148148149,
+      "dim_completeness_mean": 5.444444444444445,
+      "dim_theoretical_depth_mean": 4.234567901234568,
+      "dim_rigor_and_information_density_mean": 7.382716049382716
+    },
+    "chemqa27_from_chem13b_rag_infer_yesthink": {
+      "judge": "human",
+      "overall_mean": 5.8919753086419755,
+      "overall_std": 1.7712717322259497,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 8.469135802469136,
+      "dim_completeness_mean": 4.938271604938271,
+      "dim_theoretical_depth_mean": 3.271604938271605,
+      "dim_rigor_and_information_density_mean": 6.888888888888889
+    },
+    "gpt-4o-final-815-1": {
+      "judge": "human",
+      "overall_mean": 6.074074074074074,
+      "overall_std": 2.255356278827016,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 8.345679012345679,
+      "dim_completeness_mean": 6.0246913580246915,
+      "dim_theoretical_depth_mean": 2.9876543209876543,
+      "dim_rigor_and_information_density_mean": 6.938271604938271
+    },
+    "gpt-4o-mini-final-815-1": {
+      "judge": "human",
+      "overall_mean": 5.672839506172839,
+      "overall_std": 1.997123703334311,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 7.938271604938271,
+      "dim_completeness_mean": 5.814814814814815,
+      "dim_theoretical_depth_mean": 2.5555555555555554,
+      "dim_rigor_and_information_density_mean": 6.382716049382716
+    },
+    "llasmol": {
+      "judge": "human",
+      "overall_mean": 0.8549382716049383,
+      "overall_std": 1.4768337105584959,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 2.225,
+      "dim_completeness_mean": 0.2345679012345679,
+      "dim_theoretical_depth_mean": 0.06172839506172839,
+      "dim_rigor_and_information_density_mean": 0.9259259259259259
+    },
+    "darwin": {
+      "judge": "human",
+      "overall_mean": 0.2741358024691358,
+      "overall_std": 0.8500539652440664,
+      "total_questions": 81.0,
+      "dim_correctness_mean": 0.8125925925925926,
+      "dim_completeness_mean": 0.024691358024691357,
+      "dim_theoretical_depth_mean": 0.0,
+      "dim_rigor_and_information_density_mean": 0.25925925925925924
+    }
+  }
+}

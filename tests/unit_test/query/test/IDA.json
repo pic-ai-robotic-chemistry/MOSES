@@ -1,0 +1,205 @@
+{
+    "template": "### **Test #{question_number}: Chemical Knowledge and Reasoning: Indicator Displacement Assay (IDA) System**\n\n**Scenario Description**\n\nAn Indicator Displacement Assay (IDA) is a powerful sensing method based on supramolecular chemistry, widely used for the detection of various analytes. A typical IDA system consists of three core components:\n\n1.  **Host (A):** A molecule possessing a recognition cavity or binding site.\n2.  **Indicator (B):** A guest molecule that exhibits a signal response (e.g., in its color or fluorescence).\n3.  **Analyte (C):** The target guest molecule to be detected.\n\nThe principle of operation involves two steps:\n\n1.  The Host (A) and Indicator (B) bind to form a supramolecular complex, `A·B`. This binding event causes a significant change in the indicator's signal (e.g., fluorescence quenching or a color change).\n2.  When the Analyte (C) is introduced, it competes for the host's cavity. If C binds to A more strongly than B does, it will displace the indicator, forming a new complex, `A·C`, and releasing the free indicator B. This displacement restores the indicator's signal to its original state, thus enabling the detection of the analyte C.\n\n------\n\n**Problem Statement**\n\nA given IDA system consists of the following components:\n\n* **Known Component 1:** {known_comp1_name_and_role}\n* **Known Component 2:** {known_comp2_name_and_role}\n* **Unknown Component:** {unknown_comp_role}\n\nIn this system, one component is now considered unknown.\n\n------\n\n**Your Task**\n\nFrom the options provided below, select the most suitable chemical substance to serve as the **Unknown Component** in the system.\n\n**Options:**\n\n{options}\n\n------\n\n**Instructions for Analysis and Response**\n\nTo fully assess your chemical knowledge and logical reasoning, you are required to follow the steps below in your response:\n\n1.  **Analyze the Known Components:** First, please briefly analyze the key chemical properties of the two known components provided in the problem (e.g., molecular structure, size, shape, charge characteristics, hydrophobicity/hydrophilicity, functional groups, and their typical features as a host or guest).\n2.  **Define the Requirements for the Unknown Component:** Second, based on the principles of IDA and the properties of the known components, clearly define the critical chemical characteristics that the **Unknown Component** must possess for the entire assay to function successfully.\n    * *(If the unknown is a guest, B or C):* For example, what are the requirements for its binding affinity with Host A relative to the other guest? What specific size, charge, or structural features are necessary for effective binding or displacement? If it is the indicator, what signal-response properties must it have?\n    * *(If the unknown is the host, A):* For example, to bind the given guests, what size, shape, and chemical environment (e.g., hydrophobicity, charge) must its cavity possess? What solubility properties are required for it to function, presumably in an aqueous phase?\n3.  **Evaluate Each Option Systematically:** Next, please rigorously evaluate **each option** from the list. Provide a detailed explanation of why it is suitable or unsuitable to serve as the unknown component.\n    * **Crucial Requirement:** For any unsuitable option, you must justify its exclusion from a **fundamental, conceptual perspective**, such as its **chemical category, physical state, molecular scale, charge properties, solubility, or core function.** Clearly articulate *why* it is incorrect.\n4.  **State Your Final Conclusion:** Finally, state your definitive choice and briefly summarize the core reasoning for its selection.",
+    "descriptions": {
+        "CB[8]": "Cucurbit[8]uril (CB[8]): A large, barrel-shaped macrocyclic molecule composed of eight glycoluril units joined by sixteen methylene bridges. This construction creates a rigid, pumpkin-shaped structure with a large, hydrophobic internal cavity and two identical polar portals lined with sixteen carbonyl groups.",
+        "β-CD": "β-cyclodextrin (β-CD): A cyclic oligosaccharide consisting of seven D-glucopyranose units linked in a ring by α-1,4-glycosidic bonds. It forms a truncated cone or torus shape, featuring a relatively hydrophobic inner cavity and a hydrophilic outer surface due to the numerous external hydroxyl groups.",
+        "TCC": "TCC: A large macrocyclic host based on a calix[4]arene scaffold, where four phenol-derived units are linked by ether bridges. In the provided examples, this core is functionalized on the upper rim with four imidazole-containing arms, which are further terminated with water-solubilizing sodium carboxylate groups, making the entire structure anionic and suitable for binding cationic guests in aqueous solution.",
+        "WP6": "WP6 (water-soluble pillar[6]arene): A water-soluble macrocycle belonging to the pillararene family. The host is composed of six hydroquinone units linked by methylene bridges at their para-positions, forming a rigid, symmetrical, pillar-shaped structure with a defined internal cavity. Water solubility is achieved by functionalizing all twelve hydroxyl groups with sodium carboxylate moieties (-OCH₂COONa).",
+        "SCX4": "p-sulfonatocalix[4]arene (SCX4): A water-soluble, anionic host molecule from the calixarene family. It consists of four phenol units cyclically linked by methylene bridges at their ortho-positions, creating a distinctive cup-shaped conformation. Each phenolic ring is functionalized with a sulfonate group (-SO₃⁻) at the para-position, which imparts high water solubility and creates a negatively charged rim for interacting with cationic guests.",
+        "MB": "Methylene Blue (MB): A cationic organic dye of the phenothiazine class. Its molecular structure consists of a tricyclic aromatic core containing both a sulfur and a nitrogen atom. It features two dimethylamino groups attached to the aromatic rings, with the positive charge delocalized across the conjugated system, including an iminium cation.",
+        "DSMI": "DSMI: An asymmetric, cationic styryl dye. It is composed of an N-methylpyridinium ring linked via a vinyl bridge (-CH=CH-) to a 4-(dimethylamino)phenyl group. The extended π-conjugated system is responsible for its color, and the positive charge is formally located on the pyridinium nitrogen.",
+        "DTMI": "DTMI: A cationic cyanine dye, structurally related to DSMI. It consists of a N-methylbenzothiazolium cation (a benzene ring fused to a thiazole ring) connected via a vinyl bridge to a 4-(dimethylamino)phenyl group. The positive charge is formally on the benzothiazolium moiety.",
+        "ST": "Safranine T (ST): A large, planar, and complex cationic dye belonging to the azine family. Its core is a phenazinium structure, which is asymmetrically substituted with amino and methyl groups. A phenyl group is attached to one of the heterocyclic nitrogen atoms, and the positive charge is delocalized over the extensive conjugated system.",
+        "PF": "Proflavine (PF): A symmetric and planar acridine-based dye. Its structure is a tricyclic aromatic system (acridine) that is protonated on the central nitrogen atom, making it cationic. It is symmetrically substituted with an amino group (-NH₂) at both the 3 and 6 positions.",
+        "AcH": "Acridine Dye (AcH⁺): The protonated form of the parent compound, acridine. It is a planar, tricyclic aromatic heterocycle where two benzene rings are fused to a central pyridine ring. The positive charge resides on the central nitrogen atom.",
+        "AMA": "Amantadine (AMA): A tricyclic primary amine. Its structure is based on a rigid, bulky, and cage-like adamantane hydrocarbon skeleton with an amino group (-NH₂) attached to one of the four bridgehead carbon atoms.",
+        "Quinine": "Quinine: A complex, naturally occurring alkaloid molecule with multiple stereocenters. Its structure is composed of a quinoline ring system (containing a methoxy group) linked by a hydroxymethyl bridge to a bicyclic quinuclidine system (containing a vinyl group).",
+        "Cho": "Choline (Cho): A small, simple quaternary ammonium cation. Its chemical structure is (2-hydroxyethyl)trimethylammonium, featuring a positively charged trimethylammonium head group attached to a two-carbon chain that terminates with a hydroxyl group.",
+        "Bucho": "Butyrylcholine (Bucho): An ester derivative of choline. It shares the same quaternary ammonium cation structure as choline but the terminal hydroxyl group is esterified with butyric acid, resulting in a four-carbon acyl chain.",
+        "Caffeine": "Caffeine: A common purine alkaloid. Its bicyclic structure consists of a pyrimidinedione ring fused to an imidazole ring. It is characterized by three methyl groups attached to various nitrogen atoms and two carbonyl groups on the pyrimidine portion.",
+        "GEF": "Gefitinib (GEF): A complex synthetic organic molecule used as a targeted anti-cancer drug. Its structure is based on a quinazoline core, which is substituted at the 4-position with a (3-chloro-4-fluorophenyl)amino group and at the 6-position with a morpholine-terminated alkoxy side chain.",
+        "AcCh": "Acetylcholine (AcCh): An ester derivative of choline and acetic acid. It is a small quaternary ammonium cation featuring a (2-acetoxyethyl)trimethylammonium structure. It has a flexible two-carbon chain connecting the ester group to the positively charged trimethylammonium head.",
+        "TTF": "Tetrathiafulvalene (TTF): Its molecular structure consists of two sulfur-containing five-membered rings (1,3-dithiole rings) connected by a central carbon-carbon double bond, forming an electron-rich, conjugated planar system.",
+        "DMAP": "4-Dimethylaminopyridine (DMAP): A derivative of pyridine, its structure features a pyridine ring with a dimethylamino group (-N(CH₃)₂) attached at the 4-position.",
+        "Ferrocene": "Ferrocene: An organometallic compound with a \"sandwich\" configuration, where a divalent iron ion (Fe²⁺) is situated between two parallel cyclopentadienyl anions (C₅H₅⁻).",
+        "Anthracene": "Anthracene: A polycyclic aromatic hydrocarbon composed of three linearly fused benzene rings, forming a planar, conjugated molecule.",
+        "Methyl Viologen": "Methyl Viologen: A bipyridinium salt, its structure consists of two pyridine rings directly linked at the 4,4'-positions, with the nitrogen atoms of both rings being methylated, forming a dication with two positive charges.",
+        "Urea": "Urea: An organic compound with the molecular formula CO(NH₂)₂. Its structure features a central carbonyl group (C=O) bonded to two amino groups (-NH₂), resulting in a planar molecule.",
+        "Aspirin": "Aspirin: Known chemically as acetylsalicylic acid. Its structure features a benzene ring substituted with a carboxylic acid group (-COOH) and an acetoxy group (-OCOCH₃) at the ortho-position relative to each other.",
+        "Ethanol": "Ethanol: A simple primary alcohol with the molecular formula C₂H₅OH, its structure consists of an ethyl group bonded to a hydroxyl group (-OH).",
+        "Ascorbic Acid (Vitamin C)": "Ascorbic Acid (Vitamin C): An organic acid featuring a five-membered lactone ring structure with an enediol group attached.",
+        "Vancomycin": "Vancomycin: A complex glycopeptide. Its structural core is a heptapeptide chain that is highly cross-linked through phenol oxidative coupling, forming a rigid, chiral, cup-shaped scaffold which is also decorated with sugar moieties.",
+        "Erythromycin": "Erythromycin: A macrolide compound. Its core structure is a 14-membered large lactone ring, which is substituted with multiple hydroxyl, methyl, and ketone groups, and is attached via glycosidic bonds to two deoxysugar molecules.",
+        "Cisplatin": "Cisplatin: A coordination compound of platinum. Its structure is a square planar complex centered on a platinum(II) ion, with a coordination sphere consisting of two ammine ligands (NH₃) and two chloride ligands (Cl⁻) arranged in a cis configuration.",
+        "Grubbs' Catalyst, 2nd Generation": "Grubbs' Catalyst, 2nd Generation: An organometallic ruthenium (Ru) complex. Its central ruthenium atom is coordinated to two chloride ions, one tricyclohexylphosphine (PCy₃) ligand, one N-heterocyclic carbene (NHC) ligand, and a benzylidene (=CHPh) ligand.",
+        "Mn₁₂-ac": "Mn₁₂-ac: A polynuclear coordination compound. Its core is a [Mn₁₂O₁₂] cluster composed of twelve manganese ions and twelve oxygen ions, surrounded by sixteen acetate ligands and four water molecules.",
+        "PEDOT:PSS": "PEDOT:PSS: A physical blend of two polymers. One component is PEDOT, which has a conjugated polythiophene backbone, and the other is PSS, a polystyrene with a sulfonic acid group on each phenyl ring.",
+        "YBCO": "YBCO (Yttrium Barium Copper Oxide): An inorganic oxide with a complex, defect-laden, layered perovskite-like crystal structure, containing yttrium, barium, copper, and oxygen atoms in its unit cell.",
+        "PLGA": "PLGA (Poly(lactic-co-glycolic acid)): A linear, amorphous copolyester. It is formed by the random polymerization of two monomer units, lactic acid and glycolic acid, linked by ester bonds.",
+        "Rubrene": "Rubrene: A polycyclic aromatic hydrocarbon, its core is tetracene (four linearly fused benzene rings), with the four hydrogen atoms on the central rings substituted by four phenyl groups.",
+        "Perovskite": "Perovskite (FAPbI₃): A compound with the ABX₃ crystal structure. In this structure, the A-site is occupied by the formamidinium cation, the B-site by the lead cation, and the X-site by the iodide anion.",
+        "C₆₀ Fullerene": "C₆₀ Fullerene: An allotrope of carbon, it consists of 60 carbon atoms arranged in a truncated icosahedron structure resembling a soccer ball, composed of interconnected hexagons and pentagons.",
+        "CdSe/ZnS Core/Shell Quantum Dot": "CdSe/ZnS Core/Shell Quantum Dot: A spherical nanocrystal. Its structure consists of a core made of cadmium selenide (CdSe) material, which is encapsulated by a shell made of zinc sulfide (ZnS) material.",
+        "PNIPAM": "PNIPAM (Poly(N-isopropylacrylamide)): A linear polymer. Its structure consists of a polyacrylate backbone with an N-isopropylamide side chain on each repeating unit.",
+        "Pd-MOP": "Palladium-based Metal-Organic Polyhedron (Pd-MOP): A discrete, cage-like polyhedral structure. It is formed from the precise assembly of multiple palladium ions (as nodes) and multiple organic nitrogen-containing ligands (as linkers) via coordination bonds.",
+        "p-tert-Butylcalix[4]arene": "p-tert-Butylcalix[4]arene: A derivative of calix[4]arene. Its host structure is a cup-shaped macrocycle made of four phenol units linked by methylene bridges. It is characterized by a bulky tert-butyl group on the upper rim (para-position) of each phenol unit.",
+        "18-Crown-6": "18-Crown-6: A macrocyclic polyether. Its structure is an 18-membered ring containing six oxygen atoms and twelve carbon atoms (as six ethyleneoxy units).",
+        "Zeolite ZSM-5": "Zeolite ZSM-5: A crystalline aluminosilicate. Its three-dimensional framework is composed of silicon-oxygen and aluminum-oxygen tetrahedra, which form a network of well-defined, intersecting, molecular-scale channels.",
+        "γ-Cyclodextrin": "γ-Cyclodextrin: A cyclic oligosaccharide, it is composed of eight D-glucose units linked in a ring by α-1,4-glycosidic bonds.",
+        "[2.2.2]Kryptofix": "[2.2.2]Kryptofix: A bicyclic polyether amine. Its three-dimensional cage-like structure is formed by two bridgehead nitrogen atoms connected by three polyoxyethylene chains.",
+        "Metal-Organic Framework MOF-5": "Metal-Organic Framework MOF-5: A three-dimensional network material. Its structure consists of inorganic nodes (tetranuclear zinc-oxide clusters, Zn₄O) and organic linkers (terephthalate anions) connected alternately by coordination bonds.",
+        "SDS Micelle": "SDS (Sodium Dodecyl Sulfate) Micelle: A spherical, self-assembled aggregate formed by SDS (an anionic surfactant) molecules in water. Its structure features a hydrophobic core composed of dodecyl chains and a hydrophilic shell composed of sulfate head groups.",
+        "α-Cyclodextrin": "α-Cyclodextrin: A cyclic oligosaccharide, it is composed of six D-glucose units linked in a ring by α-1,4-glycosidic bonds.",
+        "Zeolite Y": "Zeolite Y: A crystalline aluminosilicate with a Faujasite (FAU) framework topology. Its internal three-dimensional structure is composed of β-cages and larger supercages.",
+        "ZIF-8": "Metal-Organic Framework ZIF-8: A three-dimensional network material. Its structure consists of zinc ions (as tetrahedral nodes) and 2-methylimidazolate anions (as linkers) connected by coordination bonds, forming a topology similar to that of the SOD zeolite."
+      },
+    "combinations": [
+        {
+            "host": "SCX4",
+            "indicator": "AcH",
+            "analyte": "AcCh",
+            "unknown": "indicator",
+            "options": ["AcH", "TTF", "PEDOT:PSS", "YBCO", "Grubbs' Catalyst, 2nd Generation", "Vancomycin"]
+        },
+        {
+            "host": "SCX4",
+            "indicator": "AcH",
+            "analyte": "AcCh",
+            "unknown": "analyte",
+            "options": ["AcCh", "DMAP", "PLGA", "Grubbs' Catalyst, 2nd Generation", "Rubrene", "Erythromycin"]
+        },
+        {
+            "host": "SCX4",
+            "indicator": "AcH",
+            "analyte": "AcCh",
+            "unknown": "host",
+            "options": ["SCX4", "β-CD", "p-tert-Butylcalix[4]arene", "18-Crown-6", "Zeolite ZSM-5", "TTF"]
+        },
+        {
+            "host": "CB[8]",
+            "indicator": "PF",
+            "analyte": "GEF",
+            "unknown": "indicator",
+            "options": ["PF", "Ferrocene", "PEDOT:PSS", "Perovskite", "Mn₁₂-ac", "C₆₀ Fullerene"]
+        },
+        {
+            "host": "CB[8]",
+            "indicator": "PF",
+            "analyte": "GEF",
+            "unknown": "analyte",
+            "options": ["GEF", "Anthracene", "PEDOT:PSS", "YBCO", "C₆₀ Fullerene", "Vancomycin"]
+        },
+        {
+            "host": "CB[8]",
+            "indicator": "PF",
+            "analyte": "GEF",
+            "unknown": "host",
+            "options": ["CB[8]", "γ-Cyclodextrin", "[2.2.2]Kryptofix", "Metal-Organic Framework MOF-5", "SDS Micelle", "Grubbs' Catalyst, 2nd Generation"]
+        },
+        {
+            "host": "WP6",
+            "indicator": "ST",
+            "analyte": "Caffeine",
+            "unknown": "indicator",
+            "options": ["ST", "Methyl Viologen", "Grubbs' Catalyst, 2nd Generation", "Rubrene", "CdSe/ZnS Core/Shell Quantum Dot", "Vancomycin"]
+        },
+        {
+            "host": "WP6",
+            "indicator": "ST",
+            "analyte": "Caffeine",
+            "unknown": "analyte",
+            "options": ["Caffeine", "Urea", "PLGA", "Perovskite", "Mn₁₂-ac", "C₆₀ Fullerene"]
+        },
+        {
+            "host": "WP6",
+            "indicator": "ST",
+            "analyte": "Caffeine",
+            "unknown": "host",
+            "options": ["WP6", "α-Cyclodextrin", "p-tert-Butylcalix[4]arene", "Zeolite Y", "Pd-MOP", "Rubrene"]
+        },
+        {
+            "host": "β-CD",
+            "indicator": "MB",
+            "analyte": "Quinine",
+            "unknown": "indicator",
+            "options": ["MB", "Aspirin", "PEDOT:PSS", "Grubbs' Catalyst, 2nd Generation", "YBCO", "Vancomycin"]
+        },
+        {
+            "host": "β-CD",
+            "indicator": "MB",
+            "analyte": "Quinine",
+            "unknown": "analyte",
+            "options": ["Quinine", "TTF", "YBCO", "C₆₀ Fullerene", "PLGA", "Mn₁₂-ac"]
+        },
+        {
+            "host": "β-CD",
+            "indicator": "MB",
+            "analyte": "Quinine",
+            "unknown": "host",
+            "options": ["β-CD", "γ-Cyclodextrin", "18-Crown-6", "Aspirin", "PNIPAM", "Mn₁₂-ac"]
+        },
+        {
+            "host": "CB[8]",
+            "indicator": "MB",
+            "analyte": "AMA",
+            "unknown": "indicator",
+            "options": ["MB", "DMAP", "PEDOT:PSS", "Perovskite", "Rubrene", "Mn₁₂-ac"]
+        },
+        {
+            "host": "CB[8]",
+            "indicator": "MB",
+            "analyte": "AMA",
+            "unknown": "analyte",
+            "options": ["AMA", "Ferrocene", "PEDOT:PSS", "Grubbs' Catalyst, 2nd Generation", "Vancomycin", "YBCO"]
+        },
+        {
+            "host": "CB[8]",
+            "indicator": "MB",
+            "analyte": "AMA",
+            "unknown": "host",
+            "options": ["CB[8]", "18-Crown-6", "Zeolite Y", "SDS Micelle", "p-tert-Butylcalix[4]arene", "GEF"]
+        },
+        {
+            "host": "TCC",
+            "indicator": "DTMI",
+            "analyte": "Bucho",
+            "unknown": "indicator",
+            "options": ["DTMI", "Anthracene", "YBCO", "Grubbs' Catalyst, 2nd Generation", "Erythromycin", "PLGA"]
+        },
+        {
+            "host": "TCC",
+            "indicator": "DTMI",
+            "analyte": "Bucho",
+            "unknown": "analyte",
+            "options": ["Bucho", "TTF", "PEDOT:PSS", "Rubrene", "Mn₁₂-ac", "Vancomycin"]
+        },
+        {
+            "host": "TCC",
+            "indicator": "DTMI",
+            "analyte": "Bucho",
+            "unknown": "host",
+            "options": ["TCC", "β-CD", "ZIF-8", "PNIPAM", "[2.2.2]Kryptofix", "Cisplatin"]
+        },
+        {
+            "host": "TCC",
+            "indicator": "DSMI",
+            "analyte": "Cho",
+            "unknown": "indicator",
+            "options": ["DSMI", "Methyl Viologen", "PEDOT:PSS", "Mn₁₂-ac", "C₆₀ Fullerene", "Perovskite"]
+        },
+        {
+            "host": "TCC",
+            "indicator": "DSMI",
+            "analyte": "Cho",
+            "unknown": "analyte",
+            "options": ["Cho", "Ethanol", "Ascorbic Acid (Vitamin C)", "Cisplatin", "Vancomycin", "Pd-MOP"]
+        },
+        {
+            "host": "TCC",
+            "indicator": "DSMI",
+            "analyte": "Cho",
+            "unknown": "host",
+            "options": ["TCC", "α-Cyclodextrin", "[2.2.2]Kryptofix", "Zeolite ZSM-5", "Pd-MOP", "PLGA"]
+        }
+    ]
+  }

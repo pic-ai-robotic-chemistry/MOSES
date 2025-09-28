@@ -1,0 +1,952 @@
+2025-05-13 18:36:12,151 - INFO - Script started.
+2025-05-13 18:36:12,151 - INFO - PDF output directory: D:\\CursorProj\\Chem-Ontology-Constructor\\tests\\Supramolecular\\data\\interaction\\pdfs
+2025-05-13 18:36:12,152 - INFO - Loading Excel file: D:\\CursorProj\\Chem-Ontology-Constructor\\tests\\Supramolecular\\data\\interaction\\interaction.xlsx
+2025-05-13 18:36:12,200 - INFO - Found DOI column 'DOI' at index 1 (0-indexed).
+2025-05-13 18:36:12,201 - INFO - Skipping DOI: 未加粗DOI的文献提到了关注的内容，但是文章主题偏离。 (Row 2) due to 'normal' importance.
+2025-05-13 18:36:12,201 - WARNING - Invalid DOI format: '加粗DOI的文献内容相关度高。' (Row 3). Skipping.
+2025-05-13 18:36:12,201 - WARNING - Invalid DOI format: '红色加粗DOI的文献内容相关度很高。' (Row 4). Skipping.
+2025-05-13 18:36:12,201 - INFO - Skipping DOI: 10.1002/macp.201500295 (Row 5) due to 'normal' importance.
+2025-05-13 18:36:12,202 - INFO - Skipping DOI: 10.3390/molecules28010063 (Row 6) due to 'normal' importance.
+2025-05-13 18:36:12,202 - INFO - Processing DOI: 10.1016/j.saa.2023.123079 (Row 7, Importance: red)
+2025-05-13 18:36:12,202 - INFO - Attempting to download PDF for DOI: 10.1016/j.saa.2023.123079 from https://www.sci-hub.ru//10.1016/j.saa.2023.123079
+2025-05-13 18:36:18,118 - WARNING - Downloaded content for DOI 10.1016/j.saa.2023.123079 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.saa.2023.123079
+2025-05-13 18:36:18,119 - INFO - Processing DOI: 10.1016/j.saa.2020.118177 (Row 9, Importance: bold)
+2025-05-13 18:36:18,119 - INFO - Attempting to download PDF for DOI: 10.1016/j.saa.2020.118177 from https://www.sci-hub.ru//10.1016/j.saa.2020.118177
+2025-05-13 18:36:19,387 - WARNING - Downloaded content for DOI 10.1016/j.saa.2020.118177 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.saa.2020.118177
+2025-05-13 18:36:19,388 - INFO - Processing DOI: 10.3390/molecules26010106 (Row 11, Importance: red)
+2025-05-13 18:36:19,388 - INFO - Attempting to download PDF for DOI: 10.3390/molecules26010106 from https://www.sci-hub.ru//10.3390/molecules26010106
+2025-05-13 18:36:21,339 - WARNING - Downloaded content for DOI 10.3390/molecules26010106 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.3390/molecules26010106
+2025-05-13 18:36:21,340 - INFO - Processing DOI: 10.1002/asia.201600803 (Row 13, Importance: bold)
+2025-05-13 18:36:21,340 - INFO - Attempting to download PDF for DOI: 10.1002/asia.201600803 from https://www.sci-hub.ru//10.1002/asia.201600803
+2025-05-13 18:36:22,618 - WARNING - Downloaded content for DOI 10.1002/asia.201600803 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/asia.201600803
+2025-05-13 18:36:22,619 - INFO - Processing DOI: 10.1016/j.aca.2020.09.028 (Row 15, Importance: red)
+2025-05-13 18:36:22,619 - INFO - Attempting to download PDF for DOI: 10.1016/j.aca.2020.09.028 from https://www.sci-hub.ru//10.1016/j.aca.2020.09.028
+2025-05-13 18:36:23,866 - WARNING - Downloaded content for DOI 10.1016/j.aca.2020.09.028 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.aca.2020.09.028
+2025-05-13 18:36:23,867 - INFO - Processing DOI: 10.1002/anie.202009797 (Row 17, Importance: bold)
+2025-05-13 18:36:23,867 - INFO - Attempting to download PDF for DOI: 10.1002/anie.202009797 from https://www.sci-hub.ru//10.1002/anie.202009797
+2025-05-13 18:36:25,158 - WARNING - Downloaded content for DOI 10.1002/anie.202009797 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/anie.202009797
+2025-05-13 18:36:25,160 - INFO - Processing DOI: 10.1002/anie.201606763 (Row 18, Importance: red)
+2025-05-13 18:36:25,160 - INFO - Attempting to download PDF for DOI: 10.1002/anie.201606763 from https://www.sci-hub.ru//10.1002/anie.201606763
+2025-05-13 18:36:26,426 - WARNING - Downloaded content for DOI 10.1002/anie.201606763 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/anie.201606763
+2025-05-13 18:36:26,427 - INFO - Processing DOI: 10.1021/acsomega.7b00429 (Row 21, Importance: bold)
+2025-05-13 18:36:26,427 - INFO - Attempting to download PDF for DOI: 10.1021/acsomega.7b00429 from https://www.sci-hub.ru//10.1021/acsomega.7b00429
+2025-05-13 18:36:27,723 - WARNING - Downloaded content for DOI 10.1021/acsomega.7b00429 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acsomega.7b00429
+2025-05-13 18:36:27,725 - INFO - Processing DOI: 10.1007/s10847-021-01113-2 (Row 23, Importance: red)
+2025-05-13 18:36:27,725 - INFO - Attempting to download PDF for DOI: 10.1007/s10847-021-01113-2 from https://www.sci-hub.ru//10.1007/s10847-021-01113-2
+2025-05-13 18:36:29,002 - WARNING - Downloaded content for DOI 10.1007/s10847-021-01113-2 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1007/s10847-021-01113-2
+2025-05-13 18:36:29,003 - INFO - Processing DOI: 10.1016/j.molliq.2021.115479 (Row 25, Importance: bold)
+2025-05-13 18:36:29,003 - INFO - Attempting to download PDF for DOI: 10.1016/j.molliq.2021.115479 from https://www.sci-hub.ru//10.1016/j.molliq.2021.115479
+2025-05-13 18:36:30,288 - WARNING - Downloaded content for DOI 10.1016/j.molliq.2021.115479 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.molliq.2021.115479
+2025-05-13 18:36:30,289 - INFO - Skipping DOI: 10.1002/ijch.201700105 (Row 28) due to 'normal' importance.
+2025-05-13 18:36:30,290 - INFO - Processing DOI: 10.1021/jacs.9b00148 (Row 29, Importance: bold)
+2025-05-13 18:36:30,290 - INFO - Attempting to download PDF for DOI: 10.1021/jacs.9b00148 from https://www.sci-hub.ru//10.1021/jacs.9b00148
+2025-05-13 18:36:31,542 - WARNING - Downloaded content for DOI 10.1021/jacs.9b00148 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/jacs.9b00148
+2025-05-13 18:36:31,543 - INFO - Processing DOI: 10.1039/d2an01091g (Row 30, Importance: bold)
+2025-05-13 18:36:31,543 - INFO - Attempting to download PDF for DOI: 10.1039/d2an01091g from https://www.sci-hub.ru//10.1039/d2an01091g
+2025-05-13 18:36:32,791 - WARNING - Downloaded content for DOI 10.1039/d2an01091g is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1039/d2an01091g
+2025-05-13 18:36:32,792 - INFO - Processing DOI: 10.1021/acsomega.2c00511 (Row 31, Importance: red)
+2025-05-13 18:36:32,792 - INFO - Attempting to download PDF for DOI: 10.1021/acsomega.2c00511 from https://www.sci-hub.ru//10.1021/acsomega.2c00511
+2025-05-13 18:36:34,042 - WARNING - Downloaded content for DOI 10.1021/acsomega.2c00511 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acsomega.2c00511
+2025-05-13 18:36:34,043 - INFO - Processing DOI: 10.1021/acs.jpcb.6b07925 (Row 33, Importance: bold)
+2025-05-13 18:36:34,043 - INFO - Attempting to download PDF for DOI: 10.1021/acs.jpcb.6b07925 from https://www.sci-hub.ru//10.1021/acs.jpcb.6b07925
+2025-05-13 18:36:35,312 - WARNING - Downloaded content for DOI 10.1021/acs.jpcb.6b07925 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acs.jpcb.6b07925
+2025-05-13 18:36:35,313 - INFO - Processing DOI: 10.1021/acs.accounts.3c00585 (Row 35, Importance: bold)
+2025-05-13 18:36:35,314 - INFO - Attempting to download PDF for DOI: 10.1021/acs.accounts.3c00585 from https://www.sci-hub.ru//10.1021/acs.accounts.3c00585
+2025-05-13 18:36:36,576 - WARNING - Downloaded content for DOI 10.1021/acs.accounts.3c00585 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acs.accounts.3c00585
+2025-05-13 18:36:36,577 - INFO - Skipping DOI: 10.1007/s00726-015-2132-9 (Row 36) due to 'normal' importance.
+2025-05-13 18:36:36,577 - INFO - Skipping DOI: 10.1021/jacsau.3c00484 (Row 37) due to 'normal' importance.
+2025-05-13 18:36:36,577 - INFO - Processing DOI: 10.1039/c6cc04771h (Row 38, Importance: red)
+2025-05-13 18:36:36,577 - INFO - Attempting to download PDF for DOI: 10.1039/c6cc04771h from https://www.sci-hub.ru//10.1039/c6cc04771h
+2025-05-13 18:36:37,920 - WARNING - Downloaded content for DOI 10.1039/c6cc04771h is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1039/c6cc04771h
+2025-05-13 18:36:37,921 - INFO - Processing DOI: 10.1002/cbic.201800398 (Row 39, Importance: red)
+2025-05-13 18:36:37,921 - INFO - Attempting to download PDF for DOI: 10.1002/cbic.201800398 from https://www.sci-hub.ru//10.1002/cbic.201800398
+2025-05-13 18:36:39,204 - WARNING - Downloaded content for DOI 10.1002/cbic.201800398 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/cbic.201800398
+2025-05-13 18:36:39,205 - INFO - Processing DOI: 10.1021/acs.accounts.2c00026 (Row 40, Importance: red)
+2025-05-13 18:36:39,205 - INFO - Attempting to download PDF for DOI: 10.1021/acs.accounts.2c00026 from https://www.sci-hub.ru//10.1021/acs.accounts.2c00026
+2025-05-13 18:36:40,512 - WARNING - Downloaded content for DOI 10.1021/acs.accounts.2c00026 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acs.accounts.2c00026
+2025-05-13 18:36:40,513 - INFO - Processing DOI: 10.1021/acs.jpcb.7b12259 (Row 41, Importance: bold)
+2025-05-13 18:36:40,513 - INFO - Attempting to download PDF for DOI: 10.1021/acs.jpcb.7b12259 from https://www.sci-hub.ru//10.1021/acs.jpcb.7b12259
+2025-05-13 18:36:41,803 - WARNING - Downloaded content for DOI 10.1021/acs.jpcb.7b12259 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acs.jpcb.7b12259
+2025-05-13 18:36:41,804 - INFO - Processing DOI: 10.1016/j.molliq.2019.111656 (Row 43, Importance: bold)
+2025-05-13 18:36:41,804 - INFO - Attempting to download PDF for DOI: 10.1016/j.molliq.2019.111656 from https://www.sci-hub.ru//10.1016/j.molliq.2019.111656
+2025-05-13 18:36:43,080 - WARNING - Downloaded content for DOI 10.1016/j.molliq.2019.111656 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.molliq.2019.111656
+2025-05-13 18:36:43,081 - INFO - Processing DOI: 10.1021/acs.joc.1c00794 (Row 45, Importance: red)
+2025-05-13 18:36:43,081 - INFO - Attempting to download PDF for DOI: 10.1021/acs.joc.1c00794 from https://www.sci-hub.ru//10.1021/acs.joc.1c00794
+2025-05-13 18:36:44,343 - WARNING - Downloaded content for DOI 10.1021/acs.joc.1c00794 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acs.joc.1c00794
+2025-05-13 18:36:44,344 - INFO - Processing DOI: 10.1021/jacs.6b04372 (Row 47, Importance: red)
+2025-05-13 18:36:44,344 - INFO - Attempting to download PDF for DOI: 10.1021/jacs.6b04372 from https://www.sci-hub.ru//10.1021/jacs.6b04372
+2025-05-13 18:36:45,621 - WARNING - Downloaded content for DOI 10.1021/jacs.6b04372 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/jacs.6b04372
+2025-05-13 18:36:45,622 - INFO - Processing DOI: 10.1002/ajoc.201600187 (Row 48, Importance: bold)
+2025-05-13 18:36:45,622 - INFO - Attempting to download PDF for DOI: 10.1002/ajoc.201600187 from https://www.sci-hub.ru//10.1002/ajoc.201600187
+2025-05-13 18:36:46,881 - WARNING - Downloaded content for DOI 10.1002/ajoc.201600187 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/ajoc.201600187
+2025-05-13 18:36:46,882 - INFO - Processing DOI: 10.1016/j.tca.2017.08.009 (Row 49, Importance: bold)
+2025-05-13 18:36:46,882 - INFO - Attempting to download PDF for DOI: 10.1016/j.tca.2017.08.009 from https://www.sci-hub.ru//10.1016/j.tca.2017.08.009
+2025-05-13 18:36:48,190 - WARNING - Downloaded content for DOI 10.1016/j.tca.2017.08.009 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.tca.2017.08.009
+2025-05-13 18:36:48,192 - INFO - Processing DOI: 10.1002/ajoc.202300434 (Row 50, Importance: bold)
+2025-05-13 18:36:48,192 - INFO - Attempting to download PDF for DOI: 10.1002/ajoc.202300434 from https://www.sci-hub.ru//10.1002/ajoc.202300434
+2025-05-13 18:36:49,442 - WARNING - Downloaded content for DOI 10.1002/ajoc.202300434 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/ajoc.202300434
+2025-05-13 18:36:49,443 - INFO - Processing DOI: 10.3389/fchem.2020.626467 (Row 51, Importance: bold)
+2025-05-13 18:36:49,443 - INFO - Attempting to download PDF for DOI: 10.3389/fchem.2020.626467 from https://www.sci-hub.ru//10.3389/fchem.2020.626467
+2025-05-13 18:36:50,770 - WARNING - Downloaded content for DOI 10.3389/fchem.2020.626467 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.3389/fchem.2020.626467
+2025-05-13 18:36:50,771 - INFO - Processing DOI: 10.1007/s11237-022-09742-5 (Row 52, Importance: red)
+2025-05-13 18:36:50,771 - INFO - Attempting to download PDF for DOI: 10.1007/s11237-022-09742-5 from https://www.sci-hub.ru//10.1007/s11237-022-09742-5
+2025-05-13 18:36:52,112 - WARNING - Downloaded content for DOI 10.1007/s11237-022-09742-5 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1007/s11237-022-09742-5
+2025-05-13 18:36:52,113 - INFO - Skipping DOI: 10.1002/adhm.202303336 (Row 53) due to 'normal' importance.
+2025-05-13 18:36:52,113 - INFO - Skipping DOI: 10.1039/d4nr04288c (Row 54) due to 'normal' importance.
+2025-05-13 18:36:52,114 - INFO - Skipping DOI: 10.3390/ijms222111785 (Row 55) due to 'normal' importance.
+2025-05-13 18:36:52,114 - INFO - Processing DOI: 10.1002/anie.202402139 (Row 56, Importance: bold)
+2025-05-13 18:36:52,114 - INFO - Attempting to download PDF for DOI: 10.1002/anie.202402139 from https://www.sci-hub.ru//10.1002/anie.202402139
+2025-05-13 18:36:53,376 - WARNING - Downloaded content for DOI 10.1002/anie.202402139 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/anie.202402139
+2025-05-13 18:36:53,377 - INFO - Processing DOI: 10.1002/anie.201404774 (Row 57, Importance: bold)
+2025-05-13 18:36:53,377 - INFO - Attempting to download PDF for DOI: 10.1002/anie.201404774 from https://www.sci-hub.ru//10.1002/anie.201404774
+2025-05-13 18:36:54,647 - WARNING - Downloaded content for DOI 10.1002/anie.201404774 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/anie.201404774
+2025-05-13 18:36:54,648 - INFO - Processing DOI: 10.1039/c7sc04989g (Row 58, Importance: bold)
+2025-05-13 18:36:54,649 - INFO - Attempting to download PDF for DOI: 10.1039/c7sc04989g from https://www.sci-hub.ru//10.1039/c7sc04989g
+2025-05-13 18:36:55,936 - WARNING - Downloaded content for DOI 10.1039/c7sc04989g is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1039/c7sc04989g
+2025-05-13 18:36:55,937 - INFO - Processing DOI: 10.1039/c7nr02491f (Row 59, Importance: bold)
+2025-05-13 18:36:55,937 - INFO - Attempting to download PDF for DOI: 10.1039/c7nr02491f from https://www.sci-hub.ru//10.1039/c7nr02491f
+2025-05-13 18:36:57,255 - WARNING - Downloaded content for DOI 10.1039/c7nr02491f is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1039/c7nr02491f
+2025-05-13 18:36:57,256 - INFO - Processing DOI: 10.3390/pr13020553 (Row 60, Importance: red)
+2025-05-13 18:36:57,256 - INFO - Attempting to download PDF for DOI: 10.3390/pr13020553 from https://www.sci-hub.ru//10.3390/pr13020553
+2025-05-13 18:36:58,522 - WARNING - Downloaded content for DOI 10.3390/pr13020553 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.3390/pr13020553
+2025-05-13 18:36:58,523 - INFO - Processing DOI: 10.1016/j.cclet.2024.109999 (Row 61, Importance: bold)
+2025-05-13 18:36:58,523 - INFO - Attempting to download PDF for DOI: 10.1016/j.cclet.2024.109999 from https://www.sci-hub.ru//10.1016/j.cclet.2024.109999
+2025-05-13 18:36:59,878 - WARNING - Downloaded content for DOI 10.1016/j.cclet.2024.109999 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.cclet.2024.109999
+2025-05-13 18:36:59,879 - INFO - Processing DOI: 10.1016/j.gresc.2021.03.004 (Row 62, Importance: red)
+2025-05-13 18:36:59,880 - INFO - Attempting to download PDF for DOI: 10.1016/j.gresc.2021.03.004 from https://www.sci-hub.ru//10.1016/j.gresc.2021.03.004
+2025-05-13 18:37:03,331 - WARNING - Downloaded content for DOI 10.1016/j.gresc.2021.03.004 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.gresc.2021.03.004
+2025-05-13 18:37:03,332 - INFO - Skipping DOI: 10.1016/j.tet.2018.01.049 (Row 63) due to 'normal' importance.
+2025-05-13 18:37:03,333 - INFO - Processing DOI: 10.1021/ja0727058 (Row 65, Importance: bold)
+2025-05-13 18:37:03,333 - INFO - Attempting to download PDF for DOI: 10.1021/ja0727058 from https://www.sci-hub.ru//10.1021/ja0727058
+2025-05-13 18:37:04,682 - WARNING - Downloaded content for DOI 10.1021/ja0727058 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/ja0727058
+2025-05-13 18:37:04,683 - INFO - Processing DOI: 10.1073/pnas.1515233112 (Row 66, Importance: bold)
+2025-05-13 18:37:04,683 - INFO - Attempting to download PDF for DOI: 10.1073/pnas.1515233112 from https://www.sci-hub.ru//10.1073/pnas.1515233112
+2025-05-13 18:37:06,009 - WARNING - Downloaded content for DOI 10.1073/pnas.1515233112 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1073/pnas.1515233112
+2025-05-13 18:37:06,010 - INFO - Processing DOI: 10.1002/agt2.3 (Row 68, Importance: red)
+2025-05-13 18:37:06,010 - INFO - Attempting to download PDF for DOI: 10.1002/agt2.3 from https://www.sci-hub.ru//10.1002/agt2.3
+2025-05-13 18:37:36,682 - ERROR - Timeout occurred while trying to download PDF for DOI: 10.1002/agt2.3 from https://www.sci-hub.ru//10.1002/agt2.3
+2025-05-13 18:37:36,682 - INFO - Processing DOI: 10.1021/acs.inorgchem.7b02541 (Row 70, Importance: bold)
+2025-05-13 18:37:36,682 - INFO - Attempting to download PDF for DOI: 10.1021/acs.inorgchem.7b02541 from https://www.sci-hub.ru//10.1021/acs.inorgchem.7b02541
+2025-05-13 18:37:37,947 - WARNING - Downloaded content for DOI 10.1021/acs.inorgchem.7b02541 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acs.inorgchem.7b02541
+2025-05-13 18:37:37,948 - INFO - Processing DOI: 10.1007/s10847-018-0786-0 (Row 71, Importance: red)
+2025-05-13 18:37:37,948 - INFO - Attempting to download PDF for DOI: 10.1007/s10847-018-0786-0 from https://www.sci-hub.ru//10.1007/s10847-018-0786-0
+2025-05-13 18:37:39,223 - WARNING - Downloaded content for DOI 10.1007/s10847-018-0786-0 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1007/s10847-018-0786-0
+2025-05-13 18:37:39,224 - INFO - Processing DOI: 10.1007/s00706-021-02736-4 (Row 72, Importance: bold)
+2025-05-13 18:37:39,224 - INFO - Attempting to download PDF for DOI: 10.1007/s00706-021-02736-4 from https://www.sci-hub.ru//10.1007/s00706-021-02736-4
+2025-05-13 18:37:40,534 - WARNING - Downloaded content for DOI 10.1007/s00706-021-02736-4 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1007/s00706-021-02736-4
+2025-05-13 18:37:40,535 - INFO - Processing DOI: 10.1038/s41467-024-50980-z (Row 73, Importance: red)
+2025-05-13 18:37:40,535 - INFO - Attempting to download PDF for DOI: 10.1038/s41467-024-50980-z from https://www.sci-hub.ru//10.1038/s41467-024-50980-z
+2025-05-13 18:37:41,797 - WARNING - Downloaded content for DOI 10.1038/s41467-024-50980-z is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1038/s41467-024-50980-z
+2025-05-13 18:37:41,798 - INFO - Processing DOI: 10.1021/jo502825z (Row 74, Importance: bold)
+2025-05-13 18:37:41,799 - INFO - Attempting to download PDF for DOI: 10.1021/jo502825z from https://www.sci-hub.ru//10.1021/jo502825z
+2025-05-13 18:37:43,058 - WARNING - Downloaded content for DOI 10.1021/jo502825z is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/jo502825z
+2025-05-13 18:37:43,059 - INFO - Processing DOI: 10.1007/s10847-015-0546-3 (Row 75, Importance: bold)
+2025-05-13 18:37:43,059 - INFO - Attempting to download PDF for DOI: 10.1007/s10847-015-0546-3 from https://www.sci-hub.ru//10.1007/s10847-015-0546-3
+2025-05-13 18:37:44,776 - WARNING - Downloaded content for DOI 10.1007/s10847-015-0546-3 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1007/s10847-015-0546-3
+2025-05-13 18:37:44,777 - INFO - Skipping DOI: 10.3762/bjoc.15.131 (Row 76) due to 'normal' importance.
+2025-05-13 18:37:44,777 - INFO - Processing DOI: 10.1002/ejoc.201601663 (Row 79, Importance: bold)
+2025-05-13 18:37:44,778 - INFO - Attempting to download PDF for DOI: 10.1002/ejoc.201601663 from https://www.sci-hub.ru//10.1002/ejoc.201601663
+2025-05-13 18:37:46,066 - WARNING - Downloaded content for DOI 10.1002/ejoc.201601663 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/ejoc.201601663
+2025-05-13 18:37:46,067 - INFO - Processing DOI: 10.1002/anie.202012315 (Row 80, Importance: red)
+2025-05-13 18:37:46,067 - INFO - Attempting to download PDF for DOI: 10.1002/anie.202012315 from https://www.sci-hub.ru//10.1002/anie.202012315
+2025-05-13 18:37:47,391 - WARNING - Downloaded content for DOI 10.1002/anie.202012315 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/anie.202012315
+2025-05-13 18:37:47,392 - INFO - Processing DOI: 10.1002/chem.202300524 (Row 81, Importance: red)
+2025-05-13 18:37:47,393 - INFO - Attempting to download PDF for DOI: 10.1002/chem.202300524 from https://www.sci-hub.ru//10.1002/chem.202300524
+2025-05-13 18:37:48,675 - WARNING - Downloaded content for DOI 10.1002/chem.202300524 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/chem.202300524
+2025-05-13 18:37:48,676 - INFO - Skipping DOI: 10.1016/j.dyepig.2022.110335 (Row 82) due to 'normal' importance.
+2025-05-13 18:37:48,676 - INFO - Processing DOI: 10.1002/chem.201800587 (Row 83, Importance: bold)
+2025-05-13 18:37:48,676 - INFO - Attempting to download PDF for DOI: 10.1002/chem.201800587 from https://www.sci-hub.ru//10.1002/chem.201800587
+2025-05-13 18:37:49,943 - WARNING - Downloaded content for DOI 10.1002/chem.201800587 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/chem.201800587
+2025-05-13 18:37:49,944 - INFO - Processing DOI: 10.1039/c8ob02180e (Row 84, Importance: bold)
+2025-05-13 18:37:49,945 - INFO - Attempting to download PDF for DOI: 10.1039/c8ob02180e from https://www.sci-hub.ru//10.1039/c8ob02180e
+2025-05-13 18:37:51,306 - WARNING - Downloaded content for DOI 10.1039/c8ob02180e is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1039/c8ob02180e
+2025-05-13 18:37:51,307 - INFO - Processing DOI: 10.1039/d0qo00649a (Row 85, Importance: bold)
+2025-05-13 18:37:51,307 - INFO - Attempting to download PDF for DOI: 10.1039/d0qo00649a from https://www.sci-hub.ru//10.1039/d0qo00649a
+2025-05-13 18:37:52,594 - WARNING - Downloaded content for DOI 10.1039/d0qo00649a is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1039/d0qo00649a
+2025-05-13 18:37:52,595 - INFO - Processing DOI: 10.1016/j.dyepig.2019.107919 (Row 87, Importance: bold)
+2025-05-13 18:37:52,595 - INFO - Attempting to download PDF for DOI: 10.1016/j.dyepig.2019.107919 from https://www.sci-hub.ru//10.1016/j.dyepig.2019.107919
+2025-05-13 18:37:53,925 - WARNING - Downloaded content for DOI 10.1016/j.dyepig.2019.107919 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.dyepig.2019.107919
+2025-05-13 18:37:53,926 - INFO - Processing DOI: 10.1002/chem.201704098 (Row 88, Importance: red)
+2025-05-13 18:37:53,926 - INFO - Attempting to download PDF for DOI: 10.1002/chem.201704098 from https://www.sci-hub.ru//10.1002/chem.201704098
+2025-05-13 18:37:55,229 - WARNING - Downloaded content for DOI 10.1002/chem.201704098 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/chem.201704098
+2025-05-13 18:37:55,230 - INFO - Processing DOI: 10.1002/chem.202000739 (Row 89, Importance: bold)
+2025-05-13 18:37:55,230 - INFO - Attempting to download PDF for DOI: 10.1002/chem.202000739 from https://www.sci-hub.ru//10.1002/chem.202000739
+2025-05-13 18:37:59,399 - WARNING - Downloaded content for DOI 10.1002/chem.202000739 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/chem.202000739
+2025-05-13 18:37:59,401 - INFO - Processing DOI: 10.1016/j.molliq.2018.05.081 (Row 90, Importance: bold)
+2025-05-13 18:37:59,401 - INFO - Attempting to download PDF for DOI: 10.1016/j.molliq.2018.05.081 from https://www.sci-hub.ru//10.1016/j.molliq.2018.05.081
+2025-05-13 18:38:01,431 - WARNING - Downloaded content for DOI 10.1016/j.molliq.2018.05.081 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.molliq.2018.05.081
+2025-05-13 18:38:01,432 - INFO - Processing DOI: 10.1002/chem.202200185 (Row 91, Importance: bold)
+2025-05-13 18:38:01,432 - INFO - Attempting to download PDF for DOI: 10.1002/chem.202200185 from https://www.sci-hub.ru//10.1002/chem.202200185
+2025-05-13 18:38:02,743 - WARNING - Downloaded content for DOI 10.1002/chem.202200185 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/chem.202200185
+2025-05-13 18:38:02,744 - INFO - Processing DOI: 10.1016/j.inoche.2022.109536 (Row 92, Importance: bold)
+2025-05-13 18:38:02,744 - INFO - Attempting to download PDF for DOI: 10.1016/j.inoche.2022.109536 from https://www.sci-hub.ru//10.1016/j.inoche.2022.109536
+2025-05-13 18:38:04,028 - WARNING - Downloaded content for DOI 10.1016/j.inoche.2022.109536 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.inoche.2022.109536
+2025-05-13 18:38:04,029 - INFO - Processing DOI: 10.1016/j.jphotobiol.2016.05.009 (Row 93, Importance: bold)
+2025-05-13 18:38:04,029 - INFO - Attempting to download PDF for DOI: 10.1016/j.jphotobiol.2016.05.009 from https://www.sci-hub.ru//10.1016/j.jphotobiol.2016.05.009
+2025-05-13 18:38:05,287 - WARNING - Downloaded content for DOI 10.1016/j.jphotobiol.2016.05.009 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.jphotobiol.2016.05.009
+2025-05-13 18:38:05,288 - INFO - Skipping DOI: 10.1021/acsami.3c12827 (Row 94) due to 'normal' importance.
+2025-05-13 18:38:05,288 - INFO - Processing DOI: 10.1016/j.tetlet.2017.05.095 (Row 95, Importance: red)
+2025-05-13 18:38:05,288 - INFO - Attempting to download PDF for DOI: 10.1016/j.tetlet.2017.05.095 from https://www.sci-hub.ru//10.1016/j.tetlet.2017.05.095
+2025-05-13 18:38:06,555 - WARNING - Downloaded content for DOI 10.1016/j.tetlet.2017.05.095 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.tetlet.2017.05.095
+2025-05-13 18:38:06,557 - INFO - Processing DOI: 10.1016/j.saa.2024.125540 (Row 96, Importance: red)
+2025-05-13 18:38:06,557 - INFO - Attempting to download PDF for DOI: 10.1016/j.saa.2024.125540 from https://www.sci-hub.ru//10.1016/j.saa.2024.125540
+2025-05-13 18:38:07,820 - WARNING - Downloaded content for DOI 10.1016/j.saa.2024.125540 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.saa.2024.125540
+2025-05-13 18:38:07,821 - INFO - Processing DOI: 10.1016/j.dyepig.2016.04.013 (Row 97, Importance: bold)
+2025-05-13 18:38:07,822 - INFO - Attempting to download PDF for DOI: 10.1016/j.dyepig.2016.04.013 from https://www.sci-hub.ru//10.1016/j.dyepig.2016.04.013
+2025-05-13 18:38:09,381 - WARNING - Downloaded content for DOI 10.1016/j.dyepig.2016.04.013 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.dyepig.2016.04.013
+2025-05-13 18:38:09,382 - INFO - Skipping DOI: 10.1002/anie.201800175 (Row 98) due to 'normal' importance.
+2025-05-13 18:38:09,382 - INFO - Processing DOI: 10.1002/anie.202214705 (Row 99, Importance: red)
+2025-05-13 18:38:09,383 - INFO - Attempting to download PDF for DOI: 10.1002/anie.202214705 from https://www.sci-hub.ru//10.1002/anie.202214705
+2025-05-13 18:38:10,642 - WARNING - Downloaded content for DOI 10.1002/anie.202214705 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/anie.202214705
+2025-05-13 18:38:10,643 - INFO - Processing DOI: 10.1002/open.202200028 (Row 100, Importance: red)
+2025-05-13 18:38:10,644 - INFO - Attempting to download PDF for DOI: 10.1002/open.202200028 from https://www.sci-hub.ru//10.1002/open.202200028
+2025-05-13 18:38:11,908 - WARNING - Downloaded content for DOI 10.1002/open.202200028 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/open.202200028
+2025-05-13 18:38:11,909 - INFO - Skipping DOI: 10.1002/poc.4066 (Row 101) due to 'normal' importance.
+2025-05-13 18:38:11,909 - INFO - Processing DOI: 10.1016/j.molliq.2024.125473 (Row 102, Importance: bold)
+2025-05-13 18:38:11,909 - INFO - Attempting to download PDF for DOI: 10.1016/j.molliq.2024.125473 from https://www.sci-hub.ru//10.1016/j.molliq.2024.125473
+2025-05-13 18:38:13,200 - WARNING - Downloaded content for DOI 10.1016/j.molliq.2024.125473 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1016/j.molliq.2024.125473
+2025-05-13 18:38:13,201 - INFO - Processing DOI: 10.1002/chem.201605394 (Row 103, Importance: bold)
+2025-05-13 18:38:13,201 - INFO - Attempting to download PDF for DOI: 10.1002/chem.201605394 from https://www.sci-hub.ru//10.1002/chem.201605394
+2025-05-13 18:38:14,524 - WARNING - Downloaded content for DOI 10.1002/chem.201605394 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/chem.201605394
+2025-05-13 18:38:14,525 - INFO - Processing DOI: 10.1021/acs.langmuir.6b01709 (Row 104, Importance: bold)
+2025-05-13 18:38:14,525 - INFO - Attempting to download PDF for DOI: 10.1021/acs.langmuir.6b01709 from https://www.sci-hub.ru//10.1021/acs.langmuir.6b01709
+2025-05-13 18:38:15,793 - WARNING - Downloaded content for DOI 10.1021/acs.langmuir.6b01709 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1021/acs.langmuir.6b01709
+2025-05-13 18:38:15,794 - INFO - Processing DOI: 10.3390/molecules26040980 (Row 105, Importance: bold)
+2025-05-13 18:38:15,794 - INFO - Attempting to download PDF for DOI: 10.3390/molecules26040980 from https://www.sci-hub.ru//10.3390/molecules26040980
+2025-05-13 18:38:17,071 - WARNING - Downloaded content for DOI 10.3390/molecules26040980 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.3390/molecules26040980
+2025-05-13 18:38:17,072 - INFO - Processing DOI: 10.3390/chemosensors9050093 (Row 106, Importance: bold)
+2025-05-13 18:38:17,072 - INFO - Attempting to download PDF for DOI: 10.3390/chemosensors9050093 from https://www.sci-hub.ru//10.3390/chemosensors9050093
+2025-05-13 18:38:18,330 - WARNING - Downloaded content for DOI 10.3390/chemosensors9050093 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.3390/chemosensors9050093
+2025-05-13 18:38:18,331 - INFO - Processing DOI: 10.1002/adfm.202300309 (Row 107, Importance: red)
+2025-05-13 18:38:18,331 - INFO - Attempting to download PDF for DOI: 10.1002/adfm.202300309 from https://www.sci-hub.ru//10.1002/adfm.202300309
+2025-05-13 18:38:20,589 - WARNING - Downloaded content for DOI 10.1002/adfm.202300309 is not a PDF. Content-Type: text/html; charset=utf-8. Check URL: https://www.sci-hub.ru//10.1002/adfm.202300309
+2025-05-13 18:38:20,590 - INFO - Script finished. Total entries processed: 84.
+2025-05-13 18:38:20,590 - INFO - Successfully downloaded: 0 PDFs.
+2025-05-13 18:38:20,591 - INFO - Skipped (normal importance): 15.
+2025-05-13 18:38:20,591 - INFO - Skipped (invalid DOI format): 2.
+2025-05-13 18:53:05,090 - INFO - Script started.
+2025-05-13 18:53:05,091 - INFO - PDF output directory: D:\\\\CursorProj\\\\Chem-Ontology-Constructor\\\\tests\\\\Supramolecular\\\\data\\\\interaction\\\\pdfs
+2025-05-13 18:53:05,091 - INFO - Loading Excel file: D:\\\\CursorProj\\\\Chem-Ontology-Constructor\\\\tests\\\\Supramolecular\\\\data\\\\interaction\\\\interaction.xlsx
+2025-05-13 18:53:05,137 - INFO - Found DOI column 'DOI' at index 1 (0-indexed).
+2025-05-13 18:53:05,137 - INFO - Skipping DOI: 未加粗DOI的文献提到了关注的内容，但是文章主题偏离。 (Row 2) due to 'normal' importance.
+2025-05-13 18:53:05,137 - WARNING - Invalid DOI format: '加粗DOI的文献内容相关度高。' (Row 3). Skipping.
+2025-05-13 18:53:05,137 - WARNING - Invalid DOI format: '红色加粗DOI的文献内容相关度很高。' (Row 4). Skipping.
+2025-05-13 18:53:05,138 - INFO - Skipping DOI: 10.1002/macp.201500295 (Row 5) due to 'normal' importance.
+2025-05-13 18:53:05,138 - INFO - Skipping DOI: 10.3390/molecules28010063 (Row 6) due to 'normal' importance.
+2025-05-13 18:53:05,138 - WARNING - Invalid DOI format: '10.1016/j.saa.2023.123079' (Row 7). Skipping.
+2025-05-13 18:53:05,138 - WARNING - Invalid DOI format: '10.1016/j.saa.2020.118177' (Row 9). Skipping.
+2025-05-13 18:53:05,138 - WARNING - Invalid DOI format: '10.3390/molecules26010106' (Row 11). Skipping.
+2025-05-13 18:53:05,138 - WARNING - Invalid DOI format: '10.1002/asia.201600803' (Row 13). Skipping.
+2025-05-13 18:53:05,138 - WARNING - Invalid DOI format: '10.1016/j.aca.2020.09.028' (Row 15). Skipping.
+2025-05-13 18:53:05,138 - WARNING - Invalid DOI format: '10.1002/anie.202009797' (Row 17). Skipping.
+2025-05-13 18:53:05,139 - WARNING - Invalid DOI format: '10.1002/anie.201606763' (Row 18). Skipping.
+2025-05-13 18:53:05,139 - WARNING - Invalid DOI format: '10.1021/acsomega.7b00429' (Row 21). Skipping.
+2025-05-13 18:53:05,139 - WARNING - Invalid DOI format: '10.1007/s10847-021-01113-2' (Row 23). Skipping.
+2025-05-13 18:53:05,139 - WARNING - Invalid DOI format: '10.1016/j.molliq.2021.115479' (Row 25). Skipping.
+2025-05-13 18:53:05,139 - INFO - Skipping DOI: 10.1002/ijch.201700105 (Row 28) due to 'normal' importance.
+2025-05-13 18:53:05,139 - WARNING - Invalid DOI format: '10.1021/jacs.9b00148' (Row 29). Skipping.
+2025-05-13 18:53:05,139 - WARNING - Invalid DOI format: '10.1039/d2an01091g' (Row 30). Skipping.
+2025-05-13 18:53:05,139 - WARNING - Invalid DOI format: '10.1021/acsomega.2c00511' (Row 31). Skipping.
+2025-05-13 18:53:05,140 - WARNING - Invalid DOI format: '10.1021/acs.jpcb.6b07925' (Row 33). Skipping.
+2025-05-13 18:53:05,140 - WARNING - Invalid DOI format: '10.1021/acs.accounts.3c00585' (Row 35). Skipping.
+2025-05-13 18:53:05,140 - INFO - Skipping DOI: 10.1007/s00726-015-2132-9 (Row 36) due to 'normal' importance.
+2025-05-13 18:53:05,140 - INFO - Skipping DOI: 10.1021/jacsau.3c00484 (Row 37) due to 'normal' importance.
+2025-05-13 18:53:05,140 - WARNING - Invalid DOI format: '10.1039/c6cc04771h' (Row 38). Skipping.
+2025-05-13 18:53:05,140 - WARNING - Invalid DOI format: '10.1002/cbic.201800398' (Row 39). Skipping.
+2025-05-13 18:53:05,140 - WARNING - Invalid DOI format: '10.1021/acs.accounts.2c00026' (Row 40). Skipping.
+2025-05-13 18:53:05,140 - WARNING - Invalid DOI format: '10.1021/acs.jpcb.7b12259' (Row 41). Skipping.
+2025-05-13 18:53:05,140 - WARNING - Invalid DOI format: '10.1016/j.molliq.2019.111656' (Row 43). Skipping.
+2025-05-13 18:53:05,141 - WARNING - Invalid DOI format: '10.1021/acs.joc.1c00794' (Row 45). Skipping.
+2025-05-13 18:53:05,141 - WARNING - Invalid DOI format: '10.1021/jacs.6b04372' (Row 47). Skipping.
+2025-05-13 18:53:05,141 - WARNING - Invalid DOI format: '10.1002/ajoc.201600187' (Row 48). Skipping.
+2025-05-13 18:53:05,141 - WARNING - Invalid DOI format: '10.1016/j.tca.2017.08.009' (Row 49). Skipping.
+2025-05-13 18:53:05,141 - WARNING - Invalid DOI format: '10.1002/ajoc.202300434' (Row 50). Skipping.
+2025-05-13 18:53:05,141 - WARNING - Invalid DOI format: '10.3389/fchem.2020.626467' (Row 51). Skipping.
+2025-05-13 18:53:05,141 - WARNING - Invalid DOI format: '10.1007/s11237-022-09742-5' (Row 52). Skipping.
+2025-05-13 18:53:05,141 - INFO - Skipping DOI: 10.1002/adhm.202303336 (Row 53) due to 'normal' importance.
+2025-05-13 18:53:05,141 - INFO - Skipping DOI: 10.1039/d4nr04288c (Row 54) due to 'normal' importance.
+2025-05-13 18:53:05,141 - INFO - Skipping DOI: 10.3390/ijms222111785 (Row 55) due to 'normal' importance.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.1002/anie.202402139' (Row 56). Skipping.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.1002/anie.201404774' (Row 57). Skipping.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.1039/c7sc04989g' (Row 58). Skipping.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.1039/c7nr02491f' (Row 59). Skipping.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.3390/pr13020553' (Row 60). Skipping.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.1016/j.cclet.2024.109999' (Row 61). Skipping.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.1016/j.gresc.2021.03.004' (Row 62). Skipping.
+2025-05-13 18:53:05,142 - INFO - Skipping DOI: 10.1016/j.tet.2018.01.049 (Row 63) due to 'normal' importance.
+2025-05-13 18:53:05,142 - WARNING - Invalid DOI format: '10.1021/ja0727058' (Row 65). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1073/pnas.1515233112' (Row 66). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1002/agt2.3' (Row 68). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1021/acs.inorgchem.7b02541' (Row 70). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1007/s10847-018-0786-0' (Row 71). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1007/s00706-021-02736-4' (Row 72). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1038/s41467-024-50980-z' (Row 73). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1021/jo502825z' (Row 74). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1007/s10847-015-0546-3' (Row 75). Skipping.
+2025-05-13 18:53:05,143 - INFO - Skipping DOI: 10.3762/bjoc.15.131 (Row 76) due to 'normal' importance.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1002/ejoc.201601663' (Row 79). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1002/anie.202012315' (Row 80). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1002/chem.202300524' (Row 81). Skipping.
+2025-05-13 18:53:05,143 - INFO - Skipping DOI: 10.1016/j.dyepig.2022.110335 (Row 82) due to 'normal' importance.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1002/chem.201800587' (Row 83). Skipping.
+2025-05-13 18:53:05,143 - WARNING - Invalid DOI format: '10.1039/c8ob02180e' (Row 84). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1039/d0qo00649a' (Row 85). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1016/j.dyepig.2019.107919' (Row 87). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1002/chem.201704098' (Row 88). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1002/chem.202000739' (Row 89). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1016/j.molliq.2018.05.081' (Row 90). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1002/chem.202200185' (Row 91). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1016/j.inoche.2022.109536' (Row 92). Skipping.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1016/j.jphotobiol.2016.05.009' (Row 93). Skipping.
+2025-05-13 18:53:05,144 - INFO - Skipping DOI: 10.1021/acsami.3c12827 (Row 94) due to 'normal' importance.
+2025-05-13 18:53:05,144 - WARNING - Invalid DOI format: '10.1016/j.tetlet.2017.05.095' (Row 95). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1016/j.saa.2024.125540' (Row 96). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1016/j.dyepig.2016.04.013' (Row 97). Skipping.
+2025-05-13 18:53:05,145 - INFO - Skipping DOI: 10.1002/anie.201800175 (Row 98) due to 'normal' importance.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1002/anie.202214705' (Row 99). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1002/open.202200028' (Row 100). Skipping.
+2025-05-13 18:53:05,145 - INFO - Skipping DOI: 10.1002/poc.4066 (Row 101) due to 'normal' importance.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1016/j.molliq.2024.125473' (Row 102). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1002/chem.201605394' (Row 103). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1021/acs.langmuir.6b01709' (Row 104). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.3390/molecules26040980' (Row 105). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.3390/chemosensors9050093' (Row 106). Skipping.
+2025-05-13 18:53:05,145 - WARNING - Invalid DOI format: '10.1002/adfm.202300309' (Row 107). Skipping.
+2025-05-13 18:53:05,146 - INFO - Script finished. Total entries processed: 84.
+2025-05-13 18:53:05,146 - INFO - Successfully downloaded: 0 PDFs.
+2025-05-13 18:53:05,146 - INFO - Skipped (normal importance): 15.
+2025-05-13 18:53:05,146 - INFO - Skipped (invalid DOI format): 69.
+2025-05-13 18:54:02,243 - INFO - Script started.
+2025-05-13 18:54:02,243 - INFO - PDF output directory: D:\\\\CursorProj\\\\Chem-Ontology-Constructor\\\\tests\\\\Supramolecular\\\\data\\\\interaction\\\\pdfs
+2025-05-13 18:54:02,243 - INFO - Loading Excel file: D:\\\\CursorProj\\\\Chem-Ontology-Constructor\\\\tests\\\\Supramolecular\\\\data\\\\interaction\\\\interaction.xlsx
+2025-05-13 18:54:02,289 - INFO - Found DOI column 'DOI' at index 1 (0-indexed).
+2025-05-13 18:54:02,289 - INFO - Skipping DOI: 未加粗DOI的文献提到了关注的内容，但是文章主题偏离。 (Row 2) due to 'normal' importance.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '加粗DOI的文献内容相关度高。' (Row 3). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '红色加粗DOI的文献内容相关度很高。' (Row 4). Skipping.
+2025-05-13 18:54:02,290 - INFO - Skipping DOI: 10.1002/macp.201500295 (Row 5) due to 'normal' importance.
+2025-05-13 18:54:02,290 - INFO - Skipping DOI: 10.3390/molecules28010063 (Row 6) due to 'normal' importance.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1016/j.saa.2023.123079' (Row 7). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1016/j.saa.2020.118177' (Row 9). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.3390/molecules26010106' (Row 11). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1002/asia.201600803' (Row 13). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1016/j.aca.2020.09.028' (Row 15). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1002/anie.202009797' (Row 17). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1002/anie.201606763' (Row 18). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1021/acsomega.7b00429' (Row 21). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1007/s10847-021-01113-2' (Row 23). Skipping.
+2025-05-13 18:54:02,290 - WARNING - Invalid DOI format: '10.1016/j.molliq.2021.115479' (Row 25). Skipping.
+2025-05-13 18:54:02,291 - INFO - Skipping DOI: 10.1002/ijch.201700105 (Row 28) due to 'normal' importance.
+2025-05-13 18:54:02,291 - WARNING - Invalid DOI format: '10.1021/jacs.9b00148' (Row 29). Skipping.
+2025-05-13 18:54:02,291 - WARNING - Invalid DOI format: '10.1039/d2an01091g' (Row 30). Skipping.
+2025-05-13 18:54:02,291 - WARNING - Invalid DOI format: '10.1021/acsomega.2c00511' (Row 31). Skipping.
+2025-05-13 18:54:02,291 - WARNING - Invalid DOI format: '10.1021/acs.jpcb.6b07925' (Row 33). Skipping.
+2025-05-13 18:54:02,291 - WARNING - Invalid DOI format: '10.1021/acs.accounts.3c00585' (Row 35). Skipping.
+2025-05-13 18:54:02,291 - INFO - Skipping DOI: 10.1007/s00726-015-2132-9 (Row 36) due to 'normal' importance.
+2025-05-13 18:54:02,291 - INFO - Skipping DOI: 10.1021/jacsau.3c00484 (Row 37) due to 'normal' importance.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1039/c6cc04771h' (Row 38). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1002/cbic.201800398' (Row 39). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1021/acs.accounts.2c00026' (Row 40). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1021/acs.jpcb.7b12259' (Row 41). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1016/j.molliq.2019.111656' (Row 43). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1021/acs.joc.1c00794' (Row 45). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1021/jacs.6b04372' (Row 47). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1002/ajoc.201600187' (Row 48). Skipping.
+2025-05-13 18:54:02,292 - WARNING - Invalid DOI format: '10.1016/j.tca.2017.08.009' (Row 49). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1002/ajoc.202300434' (Row 50). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.3389/fchem.2020.626467' (Row 51). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1007/s11237-022-09742-5' (Row 52). Skipping.
+2025-05-13 18:54:02,293 - INFO - Skipping DOI: 10.1002/adhm.202303336 (Row 53) due to 'normal' importance.
+2025-05-13 18:54:02,293 - INFO - Skipping DOI: 10.1039/d4nr04288c (Row 54) due to 'normal' importance.
+2025-05-13 18:54:02,293 - INFO - Skipping DOI: 10.3390/ijms222111785 (Row 55) due to 'normal' importance.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1002/anie.202402139' (Row 56). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1002/anie.201404774' (Row 57). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1039/c7sc04989g' (Row 58). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1039/c7nr02491f' (Row 59). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.3390/pr13020553' (Row 60). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1016/j.cclet.2024.109999' (Row 61). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1016/j.gresc.2021.03.004' (Row 62). Skipping.
+2025-05-13 18:54:02,293 - INFO - Skipping DOI: 10.1016/j.tet.2018.01.049 (Row 63) due to 'normal' importance.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1021/ja0727058' (Row 65). Skipping.
+2025-05-13 18:54:02,293 - WARNING - Invalid DOI format: '10.1073/pnas.1515233112' (Row 66). Skipping.
+2025-05-13 18:54:02,294 - WARNING - Invalid DOI format: '10.1002/agt2.3' (Row 68). Skipping.
+2025-05-13 18:54:02,294 - WARNING - Invalid DOI format: '10.1021/acs.inorgchem.7b02541' (Row 70). Skipping.
+2025-05-13 18:54:02,294 - WARNING - Invalid DOI format: '10.1007/s10847-018-0786-0' (Row 71). Skipping.
+2025-05-13 18:54:02,294 - WARNING - Invalid DOI format: '10.1007/s00706-021-02736-4' (Row 72). Skipping.
+2025-05-13 18:54:02,294 - WARNING - Invalid DOI format: '10.1038/s41467-024-50980-z' (Row 73). Skipping.
+2025-05-13 18:54:02,294 - WARNING - Invalid DOI format: '10.1021/jo502825z' (Row 74). Skipping.
+2025-05-13 18:54:02,294 - WARNING - Invalid DOI format: '10.1007/s10847-015-0546-3' (Row 75). Skipping.
+2025-05-13 18:54:02,295 - INFO - Skipping DOI: 10.3762/bjoc.15.131 (Row 76) due to 'normal' importance.
+2025-05-13 18:54:02,295 - WARNING - Invalid DOI format: '10.1002/ejoc.201601663' (Row 79). Skipping.
+2025-05-13 18:54:02,295 - WARNING - Invalid DOI format: '10.1002/anie.202012315' (Row 80). Skipping.
+2025-05-13 18:54:02,295 - WARNING - Invalid DOI format: '10.1002/chem.202300524' (Row 81). Skipping.
+2025-05-13 18:54:02,295 - INFO - Skipping DOI: 10.1016/j.dyepig.2022.110335 (Row 82) due to 'normal' importance.
+2025-05-13 18:54:02,295 - WARNING - Invalid DOI format: '10.1002/chem.201800587' (Row 83). Skipping.
+2025-05-13 18:54:02,295 - WARNING - Invalid DOI format: '10.1039/c8ob02180e' (Row 84). Skipping.
+2025-05-13 18:54:02,295 - WARNING - Invalid DOI format: '10.1039/d0qo00649a' (Row 85). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1016/j.dyepig.2019.107919' (Row 87). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1002/chem.201704098' (Row 88). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1002/chem.202000739' (Row 89). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1016/j.molliq.2018.05.081' (Row 90). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1002/chem.202200185' (Row 91). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1016/j.inoche.2022.109536' (Row 92). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1016/j.jphotobiol.2016.05.009' (Row 93). Skipping.
+2025-05-13 18:54:02,296 - INFO - Skipping DOI: 10.1021/acsami.3c12827 (Row 94) due to 'normal' importance.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1016/j.tetlet.2017.05.095' (Row 95). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1016/j.saa.2024.125540' (Row 96). Skipping.
+2025-05-13 18:54:02,296 - WARNING - Invalid DOI format: '10.1016/j.dyepig.2016.04.013' (Row 97). Skipping.
+2025-05-13 18:54:02,296 - INFO - Skipping DOI: 10.1002/anie.201800175 (Row 98) due to 'normal' importance.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.1002/anie.202214705' (Row 99). Skipping.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.1002/open.202200028' (Row 100). Skipping.
+2025-05-13 18:54:02,297 - INFO - Skipping DOI: 10.1002/poc.4066 (Row 101) due to 'normal' importance.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.1016/j.molliq.2024.125473' (Row 102). Skipping.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.1002/chem.201605394' (Row 103). Skipping.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.1021/acs.langmuir.6b01709' (Row 104). Skipping.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.3390/molecules26040980' (Row 105). Skipping.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.3390/chemosensors9050093' (Row 106). Skipping.
+2025-05-13 18:54:02,297 - WARNING - Invalid DOI format: '10.1002/adfm.202300309' (Row 107). Skipping.
+2025-05-13 18:54:02,297 - INFO - Script finished. Total entries processed: 84.
+2025-05-13 18:54:02,297 - INFO - Successfully downloaded: 0 PDFs.
+2025-05-13 18:54:02,297 - INFO - Skipped (normal importance): 15.
+2025-05-13 18:54:02,297 - INFO - Skipped (invalid DOI format): 69.
+2025-05-13 18:55:59,103 - INFO - Script started.
+2025-05-13 18:55:59,103 - INFO - PDF output directory: D:\\\\CursorProj\\\\Chem-Ontology-Constructor\\\\tests\\\\Supramolecular\\\\data\\\\interaction\\\\pdfs
+2025-05-13 18:55:59,103 - INFO - Loading Excel file: D:\\\\CursorProj\\\\Chem-Ontology-Constructor\\\\tests\\\\Supramolecular\\\\data\\\\interaction\\\\interaction.xlsx
+2025-05-13 18:55:59,150 - INFO - Found DOI column 'DOI' at index 1 (0-indexed).
+2025-05-13 18:55:59,150 - INFO - Skipping DOI: 未加粗DOI的文献提到了关注的内容，但是文章主题偏离。 (Row 2) due to 'normal' importance.
+2025-05-13 18:55:59,150 - WARNING - Invalid DOI format: '加粗DOI的文献内容相关度高。' (Row 3). Skipping.
+2025-05-13 18:55:59,150 - WARNING - Invalid DOI format: '红色加粗DOI的文献内容相关度很高。' (Row 4). Skipping.
+2025-05-13 18:55:59,151 - INFO - Skipping DOI: 10.1002/macp.201500295 (Row 5) due to 'normal' importance.
+2025-05-13 18:55:59,151 - INFO - Skipping DOI: 10.3390/molecules28010063 (Row 6) due to 'normal' importance.
+2025-05-13 18:55:59,151 - INFO - Processing DOI: 10.1016/j.saa.2023.123079 (Row 7, Importance: red)
+2025-05-13 18:55:59,151 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.saa.2023.123079 from https://www.sci-hub.ru//10.1016/j.saa.2023.123079
+2025-05-13 18:56:00,947 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.saa.2023.123079
+2025-05-13 18:56:00,948 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1016/j.saa.2023.123079. Trying button strategy.
+2025-05-13 18:56:00,949 - WARNING - div#buttons not found for DOI: 10.1016/j.saa.2023.123079.
+2025-05-13 18:56:00,949 - INFO - Button in div#buttons strategy failed for DOI: 10.1016/j.saa.2023.123079. Trying general button search.
+2025-05-13 18:56:00,949 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1016/j.saa.2023.123079.
+2025-05-13 18:56:00,949 - INFO - General button search failed for DOI: 10.1016/j.saa.2023.123079. Checking for PDF in iframes.
+2025-05-13 18:56:00,949 - WARNING - No suitable iframe found for PDF for DOI: 10.1016/j.saa.2023.123079.
+2025-05-13 18:56:00,949 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1016/j.saa.2023.123079. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:56:00,950 - INFO - Processing DOI: 10.1016/j.saa.2020.118177 (Row 9, Importance: bold)
+2025-05-13 18:56:00,950 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.saa.2020.118177 from https://www.sci-hub.ru//10.1016/j.saa.2020.118177
+2025-05-13 18:56:02,959 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.saa.2020.118177
+2025-05-13 18:56:02,961 - INFO - Found <embed id='pdf'> with src: /downloads/2020-07-12/be/shan2020.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:02,961 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2020-07-12/be/shan2020.pdf
+2025-05-13 18:56:02,961 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2020-07-12/be/shan2020.pdf
+2025-05-13 18:56:05,588 - INFO - Successfully downloaded PDF: 10.1016_j.saa.2020.118177.pdf for DOI: 10.1016/j.saa.2020.118177
+2025-05-13 18:56:05,590 - INFO - Processing DOI: 10.3390/molecules26010106 (Row 11, Importance: red)
+2025-05-13 18:56:05,590 - INFO - Attempting to fetch initial page for DOI: 10.3390/molecules26010106 from https://www.sci-hub.ru//10.3390/molecules26010106
+2025-05-13 18:56:06,896 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.3390/molecules26010106
+2025-05-13 18:56:06,897 - INFO - Found <embed id='pdf'> with src: /downloads/2021-08-11/8b/martins2020.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:06,897 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-08-11/8b/martins2020.pdf
+2025-05-13 18:56:06,897 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-08-11/8b/martins2020.pdf
+2025-05-13 18:56:10,096 - INFO - Successfully downloaded PDF: 10.3390_molecules26010106.pdf for DOI: 10.3390/molecules26010106
+2025-05-13 18:56:10,097 - INFO - Processing DOI: 10.1002/asia.201600803 (Row 13, Importance: bold)
+2025-05-13 18:56:10,098 - INFO - Attempting to fetch initial page for DOI: 10.1002/asia.201600803 from https://www.sci-hub.ru//10.1002/asia.201600803
+2025-05-13 18:56:11,348 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/asia.201600803
+2025-05-13 18:56:11,349 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/0d2cfde77572b99a57c4d1857cf78262/zhang2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:11,349 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/0d2cfde77572b99a57c4d1857cf78262/zhang2016.pdf
+2025-05-13 18:56:11,349 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/0d2cfde77572b99a57c4d1857cf78262/zhang2016.pdf
+2025-05-13 18:56:15,002 - INFO - Successfully downloaded PDF: 10.1002_asia.201600803.pdf for DOI: 10.1002/asia.201600803
+2025-05-13 18:56:15,003 - INFO - Processing DOI: 10.1016/j.aca.2020.09.028 (Row 15, Importance: red)
+2025-05-13 18:56:15,004 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.aca.2020.09.028 from https://www.sci-hub.ru//10.1016/j.aca.2020.09.028
+2025-05-13 18:56:16,273 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.aca.2020.09.028
+2025-05-13 18:56:16,274 - INFO - Found <embed id='pdf'> with src: /downloads/2020-10-03/0d/xu2020.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:16,274 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2020-10-03/0d/xu2020.pdf
+2025-05-13 18:56:16,274 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2020-10-03/0d/xu2020.pdf
+2025-05-13 18:56:18,933 - INFO - Successfully downloaded PDF: 10.1016_j.aca.2020.09.028.pdf for DOI: 10.1016/j.aca.2020.09.028
+2025-05-13 18:56:18,935 - INFO - Processing DOI: 10.1002/anie.202009797 (Row 17, Importance: bold)
+2025-05-13 18:56:18,935 - INFO - Attempting to fetch initial page for DOI: 10.1002/anie.202009797 from https://www.sci-hub.ru//10.1002/anie.202009797
+2025-05-13 18:56:20,219 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/anie.202009797
+2025-05-13 18:56:20,220 - INFO - Found <embed id='pdf'> with src: /downloads/2020-08-28/7f/10.1002@anie.202009797.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:20,220 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2020-08-28/7f/10.1002@anie.202009797.pdf
+2025-05-13 18:56:20,220 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2020-08-28/7f/10.1002@anie.202009797.pdf
+2025-05-13 18:56:23,417 - INFO - Successfully downloaded PDF: 10.1002_anie.202009797.pdf for DOI: 10.1002/anie.202009797
+2025-05-13 18:56:23,419 - INFO - Processing DOI: 10.1002/anie.201606763 (Row 18, Importance: red)
+2025-05-13 18:56:23,419 - INFO - Attempting to fetch initial page for DOI: 10.1002/anie.201606763 from https://www.sci-hub.ru//10.1002/anie.201606763
+2025-05-13 18:56:24,952 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/anie.201606763
+2025-05-13 18:56:24,953 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6072/bb20259419f0297a60efe080a4923159/sonzini2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:24,954 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6072/bb20259419f0297a60efe080a4923159/sonzini2016.pdf
+2025-05-13 18:56:24,954 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6072/bb20259419f0297a60efe080a4923159/sonzini2016.pdf
+2025-05-13 18:56:28,509 - INFO - Successfully downloaded PDF: 10.1002_anie.201606763.pdf for DOI: 10.1002/anie.201606763
+2025-05-13 18:56:28,511 - INFO - Processing DOI: 10.1021/acsomega.7b00429 (Row 21, Importance: bold)
+2025-05-13 18:56:28,511 - INFO - Attempting to fetch initial page for DOI: 10.1021/acsomega.7b00429 from https://www.sci-hub.ru//10.1021/acsomega.7b00429
+2025-05-13 18:56:29,784 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acsomega.7b00429
+2025-05-13 18:56:29,785 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/1837861086097ca38354303986ba5ec0/gao2017.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:29,785 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/1837861086097ca38354303986ba5ec0/gao2017.pdf
+2025-05-13 18:56:29,785 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/1837861086097ca38354303986ba5ec0/gao2017.pdf
+2025-05-13 18:56:33,330 - INFO - Successfully downloaded PDF: 10.1021_acsomega.7b00429.pdf for DOI: 10.1021/acsomega.7b00429
+2025-05-13 18:56:33,331 - INFO - Processing DOI: 10.1007/s10847-021-01113-2 (Row 23, Importance: red)
+2025-05-13 18:56:33,332 - INFO - Attempting to fetch initial page for DOI: 10.1007/s10847-021-01113-2 from https://www.sci-hub.ru//10.1007/s10847-021-01113-2
+2025-05-13 18:56:34,608 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1007/s10847-021-01113-2
+2025-05-13 18:56:34,609 - INFO - Found <embed id='pdf'> with src: /downloads/2022-11-05/4d/bodoor2021.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:34,610 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2022-11-05/4d/bodoor2021.pdf
+2025-05-13 18:56:34,610 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2022-11-05/4d/bodoor2021.pdf
+2025-05-13 18:56:35,860 - ERROR - HTTP error during processing for DOI: 10.1007/s10847-021-01113-2. URL: https://www.sci-hub.ru//10.1007/s10847-021-01113-2. Error: 404 Client Error: Not Found for url: https://www.sci-hub.ru/downloads/2022-11-05/4d/bodoor2021.pdf
+2025-05-13 18:56:35,862 - INFO - Processing DOI: 10.1016/j.molliq.2021.115479 (Row 25, Importance: bold)
+2025-05-13 18:56:35,862 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.molliq.2021.115479 from https://www.sci-hub.ru//10.1016/j.molliq.2021.115479
+2025-05-13 18:56:37,552 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.molliq.2021.115479
+2025-05-13 18:56:37,553 - INFO - Found <embed id='pdf'> with src: /downloads/2021-06-06/d7/ma2021.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:37,554 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-06-06/d7/ma2021.pdf
+2025-05-13 18:56:37,554 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-06-06/d7/ma2021.pdf
+2025-05-13 18:56:40,177 - INFO - Successfully downloaded PDF: 10.1016_j.molliq.2021.115479.pdf for DOI: 10.1016/j.molliq.2021.115479
+2025-05-13 18:56:40,179 - INFO - Skipping DOI: 10.1002/ijch.201700105 (Row 28) due to 'normal' importance.
+2025-05-13 18:56:40,179 - INFO - Processing DOI: 10.1021/jacs.9b00148 (Row 29, Importance: bold)
+2025-05-13 18:56:40,179 - INFO - Attempting to fetch initial page for DOI: 10.1021/jacs.9b00148 from https://www.sci-hub.ru//10.1021/jacs.9b00148
+2025-05-13 18:56:41,461 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/jacs.9b00148
+2025-05-13 18:56:41,462 - INFO - Found <embed id='pdf'> with src: /downloads/2019-10-22/89/borissov2019.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:41,462 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2019-10-22/89/borissov2019.pdf
+2025-05-13 18:56:41,462 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2019-10-22/89/borissov2019.pdf
+2025-05-13 18:56:44,234 - INFO - Successfully downloaded PDF: 10.1021_jacs.9b00148.pdf for DOI: 10.1021/jacs.9b00148
+2025-05-13 18:56:44,236 - INFO - Processing DOI: 10.1039/d2an01091g (Row 30, Importance: bold)
+2025-05-13 18:56:44,236 - INFO - Attempting to fetch initial page for DOI: 10.1039/d2an01091g from https://www.sci-hub.ru//10.1039/d2an01091g
+2025-05-13 18:56:45,489 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1039/d2an01091g
+2025-05-13 18:56:45,490 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1039/d2an01091g. Trying button strategy.
+2025-05-13 18:56:45,490 - WARNING - div#buttons not found for DOI: 10.1039/d2an01091g.
+2025-05-13 18:56:45,490 - INFO - Button in div#buttons strategy failed for DOI: 10.1039/d2an01091g. Trying general button search.
+2025-05-13 18:56:45,490 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1039/d2an01091g.
+2025-05-13 18:56:45,490 - INFO - General button search failed for DOI: 10.1039/d2an01091g. Checking for PDF in iframes.
+2025-05-13 18:56:45,491 - WARNING - No suitable iframe found for PDF for DOI: 10.1039/d2an01091g.
+2025-05-13 18:56:45,491 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1039/d2an01091g. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:56:45,492 - INFO - Processing DOI: 10.1021/acsomega.2c00511 (Row 31, Importance: red)
+2025-05-13 18:56:45,492 - INFO - Attempting to fetch initial page for DOI: 10.1021/acsomega.2c00511 from https://www.sci-hub.ru//10.1021/acsomega.2c00511
+2025-05-13 18:56:46,761 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acsomega.2c00511
+2025-05-13 18:56:46,762 - INFO - Found <embed id='pdf'> with src: /downloads/2022-11-04/8c/el-barghouthi2022.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:46,762 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2022-11-04/8c/el-barghouthi2022.pdf
+2025-05-13 18:56:46,762 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2022-11-04/8c/el-barghouthi2022.pdf
+2025-05-13 18:56:48,008 - ERROR - HTTP error during processing for DOI: 10.1021/acsomega.2c00511. URL: https://www.sci-hub.ru//10.1021/acsomega.2c00511. Error: 404 Client Error: Not Found for url: https://www.sci-hub.ru/downloads/2022-11-04/8c/el-barghouthi2022.pdf
+2025-05-13 18:56:48,010 - INFO - Processing DOI: 10.1021/acs.jpcb.6b07925 (Row 33, Importance: bold)
+2025-05-13 18:56:48,010 - INFO - Attempting to fetch initial page for DOI: 10.1021/acs.jpcb.6b07925 from https://www.sci-hub.ru//10.1021/acs.jpcb.6b07925
+2025-05-13 18:56:49,280 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acs.jpcb.6b07925
+2025-05-13 18:56:49,281 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/5943/2693ea029edcc81fc09aec6497936039/hattori2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:49,282 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/5943/2693ea029edcc81fc09aec6497936039/hattori2016.pdf
+2025-05-13 18:56:49,282 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/5943/2693ea029edcc81fc09aec6497936039/hattori2016.pdf
+2025-05-13 18:56:51,655 - INFO - Successfully downloaded PDF: 10.1021_acs.jpcb.6b07925.pdf for DOI: 10.1021/acs.jpcb.6b07925
+2025-05-13 18:56:51,657 - INFO - Processing DOI: 10.1021/acs.accounts.3c00585 (Row 35, Importance: bold)
+2025-05-13 18:56:51,657 - INFO - Attempting to fetch initial page for DOI: 10.1021/acs.accounts.3c00585 from https://www.sci-hub.ru//10.1021/acs.accounts.3c00585
+2025-05-13 18:56:52,916 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acs.accounts.3c00585
+2025-05-13 18:56:52,917 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1021/acs.accounts.3c00585. Trying button strategy.
+2025-05-13 18:56:52,917 - WARNING - div#buttons not found for DOI: 10.1021/acs.accounts.3c00585.
+2025-05-13 18:56:52,917 - INFO - Button in div#buttons strategy failed for DOI: 10.1021/acs.accounts.3c00585. Trying general button search.
+2025-05-13 18:56:52,917 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1021/acs.accounts.3c00585.
+2025-05-13 18:56:52,917 - INFO - General button search failed for DOI: 10.1021/acs.accounts.3c00585. Checking for PDF in iframes.
+2025-05-13 18:56:52,918 - WARNING - No suitable iframe found for PDF for DOI: 10.1021/acs.accounts.3c00585.
+2025-05-13 18:56:52,918 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1021/acs.accounts.3c00585. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:56:52,919 - INFO - Skipping DOI: 10.1007/s00726-015-2132-9 (Row 36) due to 'normal' importance.
+2025-05-13 18:56:52,919 - INFO - Skipping DOI: 10.1021/jacsau.3c00484 (Row 37) due to 'normal' importance.
+2025-05-13 18:56:52,919 - INFO - Processing DOI: 10.1039/c6cc04771h (Row 38, Importance: red)
+2025-05-13 18:56:52,919 - INFO - Attempting to fetch initial page for DOI: 10.1039/c6cc04771h from https://www.sci-hub.ru//10.1039/c6cc04771h
+2025-05-13 18:56:54,209 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1039/c6cc04771h
+2025-05-13 18:56:54,210 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/cd4f24d518d7ee9e0c1f28e6fc70ded6/hof2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:54,211 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/cd4f24d518d7ee9e0c1f28e6fc70ded6/hof2016.pdf
+2025-05-13 18:56:54,211 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/cd4f24d518d7ee9e0c1f28e6fc70ded6/hof2016.pdf
+2025-05-13 18:56:57,131 - INFO - Successfully downloaded PDF: 10.1039_c6cc04771h.pdf for DOI: 10.1039/c6cc04771h
+2025-05-13 18:56:57,132 - INFO - Processing DOI: 10.1002/cbic.201800398 (Row 39, Importance: red)
+2025-05-13 18:56:57,133 - INFO - Attempting to fetch initial page for DOI: 10.1002/cbic.201800398 from https://www.sci-hub.ru//10.1002/cbic.201800398
+2025-05-13 18:56:58,603 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/cbic.201800398
+2025-05-13 18:56:58,604 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/afd8f7110e19aabbe1520df74c5e4eda/gruber2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:56:58,604 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/afd8f7110e19aabbe1520df74c5e4eda/gruber2018.pdf
+2025-05-13 18:56:58,604 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/afd8f7110e19aabbe1520df74c5e4eda/gruber2018.pdf
+2025-05-13 18:57:01,669 - INFO - Successfully downloaded PDF: 10.1002_cbic.201800398.pdf for DOI: 10.1002/cbic.201800398
+2025-05-13 18:57:01,671 - INFO - Processing DOI: 10.1021/acs.accounts.2c00026 (Row 40, Importance: red)
+2025-05-13 18:57:01,671 - INFO - Attempting to fetch initial page for DOI: 10.1021/acs.accounts.2c00026 from https://www.sci-hub.ru//10.1021/acs.accounts.2c00026
+2025-05-13 18:57:02,908 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acs.accounts.2c00026
+2025-05-13 18:57:02,910 - INFO - Found <embed id='pdf'> with src: /downloads/2022-11-04/91e6/zhong2022.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:02,910 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2022-11-04/91e6/zhong2022.pdf
+2025-05-13 18:57:02,910 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2022-11-04/91e6/zhong2022.pdf
+2025-05-13 18:57:04,158 - ERROR - HTTP error during processing for DOI: 10.1021/acs.accounts.2c00026. URL: https://www.sci-hub.ru//10.1021/acs.accounts.2c00026. Error: 404 Client Error: Not Found for url: https://www.sci-hub.ru/downloads/2022-11-04/91e6/zhong2022.pdf
+2025-05-13 18:57:04,160 - INFO - Processing DOI: 10.1021/acs.jpcb.7b12259 (Row 41, Importance: bold)
+2025-05-13 18:57:04,161 - INFO - Attempting to fetch initial page for DOI: 10.1021/acs.jpcb.7b12259 from https://www.sci-hub.ru//10.1021/acs.jpcb.7b12259
+2025-05-13 18:57:05,410 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acs.jpcb.7b12259
+2025-05-13 18:57:05,412 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6650/044d00419788093bb633f75ce5ec350b/sullivan2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:05,412 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6650/044d00419788093bb633f75ce5ec350b/sullivan2018.pdf
+2025-05-13 18:57:05,412 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6650/044d00419788093bb633f75ce5ec350b/sullivan2018.pdf
+2025-05-13 18:57:08,213 - INFO - Successfully downloaded PDF: 10.1021_acs.jpcb.7b12259.pdf for DOI: 10.1021/acs.jpcb.7b12259
+2025-05-13 18:57:08,216 - INFO - Processing DOI: 10.1016/j.molliq.2019.111656 (Row 43, Importance: bold)
+2025-05-13 18:57:08,216 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.molliq.2019.111656 from https://www.sci-hub.ru//10.1016/j.molliq.2019.111656
+2025-05-13 18:57:09,457 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.molliq.2019.111656
+2025-05-13 18:57:09,458 - INFO - Found <embed id='pdf'> with src: /downloads/2019-09-20/80/wintgens2019.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:09,458 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2019-09-20/80/wintgens2019.pdf
+2025-05-13 18:57:09,459 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2019-09-20/80/wintgens2019.pdf
+2025-05-13 18:57:12,083 - INFO - Successfully downloaded PDF: 10.1016_j.molliq.2019.111656.pdf for DOI: 10.1016/j.molliq.2019.111656
+2025-05-13 18:57:12,085 - INFO - Processing DOI: 10.1021/acs.joc.1c00794 (Row 45, Importance: red)
+2025-05-13 18:57:12,085 - INFO - Attempting to fetch initial page for DOI: 10.1021/acs.joc.1c00794 from https://www.sci-hub.ru//10.1021/acs.joc.1c00794
+2025-05-13 18:57:13,366 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acs.joc.1c00794
+2025-05-13 18:57:13,368 - INFO - Found <embed id='pdf'> with src: /downloads/2021-08-11/bc/zhang2021.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:13,368 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-08-11/bc/zhang2021.pdf
+2025-05-13 18:57:13,368 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-08-11/bc/zhang2021.pdf
+2025-05-13 18:57:16,188 - INFO - Successfully downloaded PDF: 10.1021_acs.joc.1c00794.pdf for DOI: 10.1021/acs.joc.1c00794
+2025-05-13 18:57:16,190 - INFO - Processing DOI: 10.1021/jacs.6b04372 (Row 47, Importance: red)
+2025-05-13 18:57:16,191 - INFO - Attempting to fetch initial page for DOI: 10.1021/jacs.6b04372 from https://www.sci-hub.ru//10.1021/jacs.6b04372
+2025-05-13 18:57:17,427 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/jacs.6b04372
+2025-05-13 18:57:17,428 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/691793acbfe131dda7ff17da084397a6/pinalli2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:17,429 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/691793acbfe131dda7ff17da084397a6/pinalli2016.pdf
+2025-05-13 18:57:17,429 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/691793acbfe131dda7ff17da084397a6/pinalli2016.pdf
+2025-05-13 18:57:20,549 - INFO - Successfully downloaded PDF: 10.1021_jacs.6b04372.pdf for DOI: 10.1021/jacs.6b04372
+2025-05-13 18:57:20,551 - INFO - Processing DOI: 10.1002/ajoc.201600187 (Row 48, Importance: bold)
+2025-05-13 18:57:20,551 - INFO - Attempting to fetch initial page for DOI: 10.1002/ajoc.201600187 from https://www.sci-hub.ru//10.1002/ajoc.201600187
+2025-05-13 18:57:21,813 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/ajoc.201600187
+2025-05-13 18:57:21,814 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6329/fac28ef0d45581a085172e6874750ed7/koski2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:21,814 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6329/fac28ef0d45581a085172e6874750ed7/koski2016.pdf
+2025-05-13 18:57:21,814 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6329/fac28ef0d45581a085172e6874750ed7/koski2016.pdf
+2025-05-13 18:57:24,945 - INFO - Successfully downloaded PDF: 10.1002_ajoc.201600187.pdf for DOI: 10.1002/ajoc.201600187
+2025-05-13 18:57:24,946 - INFO - Processing DOI: 10.1016/j.tca.2017.08.009 (Row 49, Importance: bold)
+2025-05-13 18:57:24,947 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.tca.2017.08.009 from https://www.sci-hub.ru//10.1016/j.tca.2017.08.009
+2025-05-13 18:57:26,197 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.tca.2017.08.009
+2025-05-13 18:57:26,198 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/d3c4038d4287c7cf04e00d5a5e6852ff/bonaccorso2017.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:26,198 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/d3c4038d4287c7cf04e00d5a5e6852ff/bonaccorso2017.pdf
+2025-05-13 18:57:26,198 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/d3c4038d4287c7cf04e00d5a5e6852ff/bonaccorso2017.pdf
+2025-05-13 18:57:28,548 - INFO - Successfully downloaded PDF: 10.1016_j.tca.2017.08.009.pdf for DOI: 10.1016/j.tca.2017.08.009
+2025-05-13 18:57:28,550 - INFO - Processing DOI: 10.1002/ajoc.202300434 (Row 50, Importance: bold)
+2025-05-13 18:57:28,550 - INFO - Attempting to fetch initial page for DOI: 10.1002/ajoc.202300434 from https://www.sci-hub.ru//10.1002/ajoc.202300434
+2025-05-13 18:57:29,777 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/ajoc.202300434
+2025-05-13 18:57:29,778 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1002/ajoc.202300434. Trying button strategy.
+2025-05-13 18:57:29,778 - WARNING - div#buttons not found for DOI: 10.1002/ajoc.202300434.
+2025-05-13 18:57:29,778 - INFO - Button in div#buttons strategy failed for DOI: 10.1002/ajoc.202300434. Trying general button search.
+2025-05-13 18:57:29,779 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1002/ajoc.202300434.
+2025-05-13 18:57:29,779 - INFO - General button search failed for DOI: 10.1002/ajoc.202300434. Checking for PDF in iframes.
+2025-05-13 18:57:29,779 - WARNING - No suitable iframe found for PDF for DOI: 10.1002/ajoc.202300434.
+2025-05-13 18:57:29,779 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1002/ajoc.202300434. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:57:29,780 - INFO - Processing DOI: 10.3389/fchem.2020.626467 (Row 51, Importance: bold)
+2025-05-13 18:57:29,780 - INFO - Attempting to fetch initial page for DOI: 10.3389/fchem.2020.626467 from https://www.sci-hub.ru//10.3389/fchem.2020.626467
+2025-05-13 18:57:31,030 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.3389/fchem.2020.626467
+2025-05-13 18:57:31,032 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.3389/fchem.2020.626467. Trying button strategy.
+2025-05-13 18:57:31,032 - WARNING - div#buttons not found for DOI: 10.3389/fchem.2020.626467.
+2025-05-13 18:57:31,032 - INFO - Button in div#buttons strategy failed for DOI: 10.3389/fchem.2020.626467. Trying general button search.
+2025-05-13 18:57:31,032 - WARNING - No general buttons matching onclick pattern found for DOI: 10.3389/fchem.2020.626467.
+2025-05-13 18:57:31,032 - INFO - General button search failed for DOI: 10.3389/fchem.2020.626467. Checking for PDF in iframes.
+2025-05-13 18:57:31,032 - WARNING - No suitable iframe found for PDF for DOI: 10.3389/fchem.2020.626467.
+2025-05-13 18:57:31,032 - ERROR - All strategies failed to find a PDF download link for DOI: 10.3389/fchem.2020.626467. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:57:31,033 - INFO - Processing DOI: 10.1007/s11237-022-09742-5 (Row 52, Importance: red)
+2025-05-13 18:57:31,033 - INFO - Attempting to fetch initial page for DOI: 10.1007/s11237-022-09742-5 from https://www.sci-hub.ru//10.1007/s11237-022-09742-5
+2025-05-13 18:57:32,293 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1007/s11237-022-09742-5
+2025-05-13 18:57:32,295 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1007/s11237-022-09742-5. Trying button strategy.
+2025-05-13 18:57:32,295 - WARNING - div#buttons not found for DOI: 10.1007/s11237-022-09742-5.
+2025-05-13 18:57:32,295 - INFO - Button in div#buttons strategy failed for DOI: 10.1007/s11237-022-09742-5. Trying general button search.
+2025-05-13 18:57:32,295 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1007/s11237-022-09742-5.
+2025-05-13 18:57:32,296 - INFO - General button search failed for DOI: 10.1007/s11237-022-09742-5. Checking for PDF in iframes.
+2025-05-13 18:57:32,296 - WARNING - No suitable iframe found for PDF for DOI: 10.1007/s11237-022-09742-5.
+2025-05-13 18:57:32,296 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1007/s11237-022-09742-5. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:57:32,297 - INFO - Skipping DOI: 10.1002/adhm.202303336 (Row 53) due to 'normal' importance.
+2025-05-13 18:57:32,297 - INFO - Skipping DOI: 10.1039/d4nr04288c (Row 54) due to 'normal' importance.
+2025-05-13 18:57:32,297 - INFO - Skipping DOI: 10.3390/ijms222111785 (Row 55) due to 'normal' importance.
+2025-05-13 18:57:32,297 - INFO - Processing DOI: 10.1002/anie.202402139 (Row 56, Importance: bold)
+2025-05-13 18:57:32,297 - INFO - Attempting to fetch initial page for DOI: 10.1002/anie.202402139 from https://www.sci-hub.ru//10.1002/anie.202402139
+2025-05-13 18:57:33,539 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/anie.202402139
+2025-05-13 18:57:33,541 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1002/anie.202402139. Trying button strategy.
+2025-05-13 18:57:33,541 - WARNING - div#buttons not found for DOI: 10.1002/anie.202402139.
+2025-05-13 18:57:33,541 - INFO - Button in div#buttons strategy failed for DOI: 10.1002/anie.202402139. Trying general button search.
+2025-05-13 18:57:33,541 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1002/anie.202402139.
+2025-05-13 18:57:33,541 - INFO - General button search failed for DOI: 10.1002/anie.202402139. Checking for PDF in iframes.
+2025-05-13 18:57:33,542 - WARNING - No suitable iframe found for PDF for DOI: 10.1002/anie.202402139.
+2025-05-13 18:57:33,542 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1002/anie.202402139. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:57:33,542 - INFO - Processing DOI: 10.1002/anie.201404774 (Row 57, Importance: bold)
+2025-05-13 18:57:33,543 - INFO - Attempting to fetch initial page for DOI: 10.1002/anie.201404774 from https://www.sci-hub.ru//10.1002/anie.201404774
+2025-05-13 18:57:34,776 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/anie.201404774
+2025-05-13 18:57:34,777 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/2547/ef48fb9eb06fbb05beaf09952e6cd9bd/biavardi2014.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:34,778 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/2547/ef48fb9eb06fbb05beaf09952e6cd9bd/biavardi2014.pdf
+2025-05-13 18:57:34,778 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/2547/ef48fb9eb06fbb05beaf09952e6cd9bd/biavardi2014.pdf
+2025-05-13 18:57:37,250 - INFO - Successfully downloaded PDF: 10.1002_anie.201404774.pdf for DOI: 10.1002/anie.201404774
+2025-05-13 18:57:37,252 - INFO - Processing DOI: 10.1039/c7sc04989g (Row 58, Importance: bold)
+2025-05-13 18:57:37,252 - INFO - Attempting to fetch initial page for DOI: 10.1039/c7sc04989g from https://www.sci-hub.ru//10.1039/c7sc04989g
+2025-05-13 18:57:38,483 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1039/c7sc04989g
+2025-05-13 18:57:38,484 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6626/046eb5a4759aec221a26f566b43f0337/zheng2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:38,484 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6626/046eb5a4759aec221a26f566b43f0337/zheng2018.pdf
+2025-05-13 18:57:38,484 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6626/046eb5a4759aec221a26f566b43f0337/zheng2018.pdf
+2025-05-13 18:57:40,928 - INFO - Successfully downloaded PDF: 10.1039_c7sc04989g.pdf for DOI: 10.1039/c7sc04989g
+2025-05-13 18:57:40,930 - INFO - Processing DOI: 10.1039/c7nr02491f (Row 59, Importance: bold)
+2025-05-13 18:57:40,930 - INFO - Attempting to fetch initial page for DOI: 10.1039/c7nr02491f from https://www.sci-hub.ru//10.1039/c7nr02491f
+2025-05-13 18:57:42,166 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1039/c7nr02491f
+2025-05-13 18:57:42,167 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/562b43ff0effe5f96e10e55d4be96a00/bontempi2017.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:42,168 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/562b43ff0effe5f96e10e55d4be96a00/bontempi2017.pdf
+2025-05-13 18:57:42,168 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/562b43ff0effe5f96e10e55d4be96a00/bontempi2017.pdf
+2025-05-13 18:57:45,855 - INFO - Successfully downloaded PDF: 10.1039_c7nr02491f.pdf for DOI: 10.1039/c7nr02491f
+2025-05-13 18:57:45,857 - INFO - Processing DOI: 10.3390/pr13020553 (Row 60, Importance: red)
+2025-05-13 18:57:45,857 - INFO - Attempting to fetch initial page for DOI: 10.3390/pr13020553 from https://www.sci-hub.ru//10.3390/pr13020553
+2025-05-13 18:57:49,649 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.3390/pr13020553
+2025-05-13 18:57:49,650 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.3390/pr13020553. Trying button strategy.
+2025-05-13 18:57:49,651 - WARNING - div#buttons not found for DOI: 10.3390/pr13020553.
+2025-05-13 18:57:49,651 - INFO - Button in div#buttons strategy failed for DOI: 10.3390/pr13020553. Trying general button search.
+2025-05-13 18:57:49,651 - WARNING - No general buttons matching onclick pattern found for DOI: 10.3390/pr13020553.
+2025-05-13 18:57:49,651 - INFO - General button search failed for DOI: 10.3390/pr13020553. Checking for PDF in iframes.
+2025-05-13 18:57:49,651 - WARNING - No suitable iframe found for PDF for DOI: 10.3390/pr13020553.
+2025-05-13 18:57:49,651 - ERROR - All strategies failed to find a PDF download link for DOI: 10.3390/pr13020553. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:57:49,652 - INFO - Processing DOI: 10.1016/j.cclet.2024.109999 (Row 61, Importance: bold)
+2025-05-13 18:57:49,652 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.cclet.2024.109999 from https://www.sci-hub.ru//10.1016/j.cclet.2024.109999
+2025-05-13 18:57:50,927 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.cclet.2024.109999
+2025-05-13 18:57:50,928 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1016/j.cclet.2024.109999. Trying button strategy.
+2025-05-13 18:57:50,928 - WARNING - div#buttons not found for DOI: 10.1016/j.cclet.2024.109999.
+2025-05-13 18:57:50,928 - INFO - Button in div#buttons strategy failed for DOI: 10.1016/j.cclet.2024.109999. Trying general button search.
+2025-05-13 18:57:50,928 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1016/j.cclet.2024.109999.
+2025-05-13 18:57:50,928 - INFO - General button search failed for DOI: 10.1016/j.cclet.2024.109999. Checking for PDF in iframes.
+2025-05-13 18:57:50,928 - WARNING - No suitable iframe found for PDF for DOI: 10.1016/j.cclet.2024.109999.
+2025-05-13 18:57:50,928 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1016/j.cclet.2024.109999. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:57:50,929 - INFO - Processing DOI: 10.1016/j.gresc.2021.03.004 (Row 62, Importance: red)
+2025-05-13 18:57:50,929 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.gresc.2021.03.004 from https://www.sci-hub.ru//10.1016/j.gresc.2021.03.004
+2025-05-13 18:57:52,191 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.gresc.2021.03.004
+2025-05-13 18:57:52,192 - INFO - Found <embed id='pdf'> with src: /downloads/2021-05-13//2a/petroselli2021.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:52,193 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-05-13//2a/petroselli2021.pdf
+2025-05-13 18:57:52,193 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-05-13//2a/petroselli2021.pdf
+2025-05-13 18:57:54,631 - INFO - Successfully downloaded PDF: 10.1016_j.gresc.2021.03.004.pdf for DOI: 10.1016/j.gresc.2021.03.004
+2025-05-13 18:57:54,633 - INFO - Skipping DOI: 10.1016/j.tet.2018.01.049 (Row 63) due to 'normal' importance.
+2025-05-13 18:57:54,633 - INFO - Processing DOI: 10.1021/ja0727058 (Row 65, Importance: bold)
+2025-05-13 18:57:54,634 - INFO - Attempting to fetch initial page for DOI: 10.1021/ja0727058 from https://www.sci-hub.ru//10.1021/ja0727058
+2025-05-13 18:57:55,900 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/ja0727058
+2025-05-13 18:57:55,901 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/9397c52886e54acf1639808564981a7b/hooley2007.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:55,901 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/9397c52886e54acf1639808564981a7b/hooley2007.pdf
+2025-05-13 18:57:55,901 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/9397c52886e54acf1639808564981a7b/hooley2007.pdf
+2025-05-13 18:57:58,389 - INFO - Successfully downloaded PDF: 10.1021_ja0727058.pdf for DOI: 10.1021/ja0727058
+2025-05-13 18:57:58,391 - INFO - Processing DOI: 10.1073/pnas.1515233112 (Row 66, Importance: bold)
+2025-05-13 18:57:58,392 - INFO - Attempting to fetch initial page for DOI: 10.1073/pnas.1515233112 from https://www.sci-hub.ru//10.1073/pnas.1515233112
+2025-05-13 18:57:59,646 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1073/pnas.1515233112
+2025-05-13 18:57:59,647 - INFO - Found <embed id='pdf'> with src: //moscow.sci-hub.ru/4474/773becfe143597bba88605db2287456c/mosca2015.pdf#navpanes=0&view=FitH
+2025-05-13 18:57:59,647 - INFO - Derived PDF direct URL from <embed>: https://moscow.sci-hub.ru/4474/773becfe143597bba88605db2287456c/mosca2015.pdf
+2025-05-13 18:57:59,647 - INFO - Attempting to download actual PDF from: https://moscow.sci-hub.ru/4474/773becfe143597bba88605db2287456c/mosca2015.pdf
+2025-05-13 18:58:03,255 - INFO - Successfully downloaded PDF: 10.1073_pnas.1515233112.pdf for DOI: 10.1073/pnas.1515233112
+2025-05-13 18:58:03,257 - INFO - Processing DOI: 10.1002/agt2.3 (Row 68, Importance: red)
+2025-05-13 18:58:03,257 - INFO - Attempting to fetch initial page for DOI: 10.1002/agt2.3 from https://www.sci-hub.ru//10.1002/agt2.3
+2025-05-13 18:58:04,550 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/agt2.3
+2025-05-13 18:58:04,551 - INFO - Found <embed id='pdf'> with src: /downloads/2021-05-13//84/liu2020.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:04,551 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-05-13//84/liu2020.pdf
+2025-05-13 18:58:04,551 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-05-13//84/liu2020.pdf
+2025-05-13 18:58:07,272 - INFO - Successfully downloaded PDF: 10.1002_agt2.3.pdf for DOI: 10.1002/agt2.3
+2025-05-13 18:58:07,274 - INFO - Processing DOI: 10.1021/acs.inorgchem.7b02541 (Row 70, Importance: bold)
+2025-05-13 18:58:07,274 - INFO - Attempting to fetch initial page for DOI: 10.1021/acs.inorgchem.7b02541 from https://www.sci-hub.ru//10.1021/acs.inorgchem.7b02541
+2025-05-13 18:58:09,062 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acs.inorgchem.7b02541
+2025-05-13 18:58:09,063 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6628/c2633cff2da066c4c410a9668962fa38/inthasot2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:09,064 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6628/c2633cff2da066c4c410a9668962fa38/inthasot2018.pdf
+2025-05-13 18:58:09,064 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6628/c2633cff2da066c4c410a9668962fa38/inthasot2018.pdf
+2025-05-13 18:58:11,791 - INFO - Successfully downloaded PDF: 10.1021_acs.inorgchem.7b02541.pdf for DOI: 10.1021/acs.inorgchem.7b02541
+2025-05-13 18:58:11,793 - INFO - Processing DOI: 10.1007/s10847-018-0786-0 (Row 71, Importance: red)
+2025-05-13 18:58:11,793 - INFO - Attempting to fetch initial page for DOI: 10.1007/s10847-018-0786-0 from https://www.sci-hub.ru//10.1007/s10847-018-0786-0
+2025-05-13 18:58:13,052 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1007/s10847-018-0786-0
+2025-05-13 18:58:13,054 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6662/9399f20e2487ce69ae5ad048947f8285/bayrakci2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:13,054 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6662/9399f20e2487ce69ae5ad048947f8285/bayrakci2018.pdf
+2025-05-13 18:58:13,054 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6662/9399f20e2487ce69ae5ad048947f8285/bayrakci2018.pdf
+2025-05-13 18:58:15,622 - INFO - Successfully downloaded PDF: 10.1007_s10847-018-0786-0.pdf for DOI: 10.1007/s10847-018-0786-0
+2025-05-13 18:58:15,625 - INFO - Processing DOI: 10.1007/s00706-021-02736-4 (Row 72, Importance: bold)
+2025-05-13 18:58:15,625 - INFO - Attempting to fetch initial page for DOI: 10.1007/s00706-021-02736-4 from https://www.sci-hub.ru//10.1007/s00706-021-02736-4
+2025-05-13 18:58:16,890 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1007/s00706-021-02736-4
+2025-05-13 18:58:16,891 - INFO - Found <embed id='pdf'> with src: /downloads/2021-05-15//dd/yuksel2021.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:16,892 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-05-15//dd/yuksel2021.pdf
+2025-05-13 18:58:16,892 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-05-15//dd/yuksel2021.pdf
+2025-05-13 18:58:19,817 - INFO - Successfully downloaded PDF: 10.1007_s00706-021-02736-4.pdf for DOI: 10.1007/s00706-021-02736-4
+2025-05-13 18:58:19,820 - INFO - Processing DOI: 10.1038/s41467-024-50980-z (Row 73, Importance: red)
+2025-05-13 18:58:19,820 - INFO - Attempting to fetch initial page for DOI: 10.1038/s41467-024-50980-z from https://www.sci-hub.ru//10.1038/s41467-024-50980-z
+2025-05-13 18:58:21,079 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1038/s41467-024-50980-z
+2025-05-13 18:58:21,080 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1038/s41467-024-50980-z. Trying button strategy.
+2025-05-13 18:58:21,081 - WARNING - div#buttons not found for DOI: 10.1038/s41467-024-50980-z.
+2025-05-13 18:58:21,081 - INFO - Button in div#buttons strategy failed for DOI: 10.1038/s41467-024-50980-z. Trying general button search.
+2025-05-13 18:58:21,081 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1038/s41467-024-50980-z.
+2025-05-13 18:58:21,081 - INFO - General button search failed for DOI: 10.1038/s41467-024-50980-z. Checking for PDF in iframes.
+2025-05-13 18:58:21,081 - WARNING - No suitable iframe found for PDF for DOI: 10.1038/s41467-024-50980-z.
+2025-05-13 18:58:21,081 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1038/s41467-024-50980-z. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:58:21,082 - INFO - Processing DOI: 10.1021/jo502825z (Row 74, Importance: bold)
+2025-05-13 18:58:21,082 - INFO - Attempting to fetch initial page for DOI: 10.1021/jo502825z from https://www.sci-hub.ru//10.1021/jo502825z
+2025-05-13 18:58:22,588 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/jo502825z
+2025-05-13 18:58:22,590 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/3562/5fb12a0933b992d45c00f0f6d6980805/hong2015.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:22,590 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/3562/5fb12a0933b992d45c00f0f6d6980805/hong2015.pdf
+2025-05-13 18:58:22,590 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/3562/5fb12a0933b992d45c00f0f6d6980805/hong2015.pdf
+2025-05-13 18:58:25,132 - INFO - Successfully downloaded PDF: 10.1021_jo502825z.pdf for DOI: 10.1021/jo502825z
+2025-05-13 18:58:25,134 - INFO - Processing DOI: 10.1007/s10847-015-0546-3 (Row 75, Importance: bold)
+2025-05-13 18:58:25,134 - INFO - Attempting to fetch initial page for DOI: 10.1007/s10847-015-0546-3 from https://www.sci-hub.ru//10.1007/s10847-015-0546-3
+2025-05-13 18:58:26,414 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1007/s10847-015-0546-3
+2025-05-13 18:58:26,416 - INFO - Found <embed id='pdf'> with src: //moscow.sci-hub.ru/4533/ef6278027193f50ff6f8f9a19f60c61a/hayashida2015.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:26,416 - INFO - Derived PDF direct URL from <embed>: https://moscow.sci-hub.ru/4533/ef6278027193f50ff6f8f9a19f60c61a/hayashida2015.pdf
+2025-05-13 18:58:26,416 - INFO - Attempting to download actual PDF from: https://moscow.sci-hub.ru/4533/ef6278027193f50ff6f8f9a19f60c61a/hayashida2015.pdf
+2025-05-13 18:58:29,192 - INFO - Successfully downloaded PDF: 10.1007_s10847-015-0546-3.pdf for DOI: 10.1007/s10847-015-0546-3
+2025-05-13 18:58:29,194 - INFO - Skipping DOI: 10.3762/bjoc.15.131 (Row 76) due to 'normal' importance.
+2025-05-13 18:58:29,194 - INFO - Processing DOI: 10.1002/ejoc.201601663 (Row 79, Importance: bold)
+2025-05-13 18:58:29,194 - INFO - Attempting to fetch initial page for DOI: 10.1002/ejoc.201601663 from https://www.sci-hub.ru//10.1002/ejoc.201601663
+2025-05-13 18:58:30,531 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/ejoc.201601663
+2025-05-13 18:58:30,532 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/01a6860c92c89fb5f55246ad3134cb7d/kusano2017.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:30,533 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/01a6860c92c89fb5f55246ad3134cb7d/kusano2017.pdf
+2025-05-13 18:58:30,533 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/01a6860c92c89fb5f55246ad3134cb7d/kusano2017.pdf
+2025-05-13 18:58:45,998 - INFO - Successfully downloaded PDF: 10.1002_ejoc.201601663.pdf for DOI: 10.1002/ejoc.201601663
+2025-05-13 18:58:46,000 - INFO - Processing DOI: 10.1002/anie.202012315 (Row 80, Importance: red)
+2025-05-13 18:58:46,000 - INFO - Attempting to fetch initial page for DOI: 10.1002/anie.202012315 from https://www.sci-hub.ru//10.1002/anie.202012315
+2025-05-13 18:58:47,981 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/anie.202012315
+2025-05-13 18:58:47,982 - INFO - Found <embed id='pdf'> with src: /downloads/2020-10-20//77/10.1002@anie.202012315.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:47,982 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2020-10-20//77/10.1002@anie.202012315.pdf
+2025-05-13 18:58:47,983 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2020-10-20//77/10.1002@anie.202012315.pdf
+2025-05-13 18:58:50,591 - INFO - Successfully downloaded PDF: 10.1002_anie.202012315.pdf for DOI: 10.1002/anie.202012315
+2025-05-13 18:58:50,594 - INFO - Processing DOI: 10.1002/chem.202300524 (Row 81, Importance: red)
+2025-05-13 18:58:50,594 - INFO - Attempting to fetch initial page for DOI: 10.1002/chem.202300524 from https://www.sci-hub.ru//10.1002/chem.202300524
+2025-05-13 18:58:51,929 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/chem.202300524
+2025-05-13 18:58:51,931 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1002/chem.202300524. Trying button strategy.
+2025-05-13 18:58:51,931 - WARNING - div#buttons not found for DOI: 10.1002/chem.202300524.
+2025-05-13 18:58:51,931 - INFO - Button in div#buttons strategy failed for DOI: 10.1002/chem.202300524. Trying general button search.
+2025-05-13 18:58:51,931 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1002/chem.202300524.
+2025-05-13 18:58:51,931 - INFO - General button search failed for DOI: 10.1002/chem.202300524. Checking for PDF in iframes.
+2025-05-13 18:58:51,931 - WARNING - No suitable iframe found for PDF for DOI: 10.1002/chem.202300524.
+2025-05-13 18:58:51,931 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1002/chem.202300524. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:58:51,932 - INFO - Skipping DOI: 10.1016/j.dyepig.2022.110335 (Row 82) due to 'normal' importance.
+2025-05-13 18:58:51,932 - INFO - Processing DOI: 10.1002/chem.201800587 (Row 83, Importance: bold)
+2025-05-13 18:58:51,932 - INFO - Attempting to fetch initial page for DOI: 10.1002/chem.201800587 from https://www.sci-hub.ru//10.1002/chem.201800587
+2025-05-13 18:58:54,827 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/chem.201800587
+2025-05-13 18:58:54,829 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6746/95051751e4a799ab5fc2a36e07fa715e/stricker2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:54,829 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6746/95051751e4a799ab5fc2a36e07fa715e/stricker2018.pdf
+2025-05-13 18:58:54,829 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6746/95051751e4a799ab5fc2a36e07fa715e/stricker2018.pdf
+2025-05-13 18:58:57,289 - INFO - Successfully downloaded PDF: 10.1002_chem.201800587.pdf for DOI: 10.1002/chem.201800587
+2025-05-13 18:58:57,291 - INFO - Processing DOI: 10.1039/c8ob02180e (Row 84, Importance: bold)
+2025-05-13 18:58:57,291 - INFO - Attempting to fetch initial page for DOI: 10.1039/c8ob02180e from https://www.sci-hub.ru//10.1039/c8ob02180e
+2025-05-13 18:58:58,559 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1039/c8ob02180e
+2025-05-13 18:58:58,560 - INFO - Found <embed id='pdf'> with src: /downloads/2019-01-23//c6/aryal2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:58:58,560 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2019-01-23//c6/aryal2018.pdf
+2025-05-13 18:58:58,560 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2019-01-23//c6/aryal2018.pdf
+2025-05-13 18:59:01,206 - INFO - Successfully downloaded PDF: 10.1039_c8ob02180e.pdf for DOI: 10.1039/c8ob02180e
+2025-05-13 18:59:01,208 - INFO - Processing DOI: 10.1039/d0qo00649a (Row 85, Importance: bold)
+2025-05-13 18:59:01,208 - INFO - Attempting to fetch initial page for DOI: 10.1039/d0qo00649a from https://www.sci-hub.ru//10.1039/d0qo00649a
+2025-05-13 18:59:03,910 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1039/d0qo00649a
+2025-05-13 18:59:03,912 - INFO - Found <embed id='pdf'> with src: /downloads/2020-06-09/cb/10.1039@D0QO00649A.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:03,912 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2020-06-09/cb/10.1039@D0QO00649A.pdf
+2025-05-13 18:59:03,913 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2020-06-09/cb/10.1039@D0QO00649A.pdf
+2025-05-13 18:59:07,078 - INFO - Successfully downloaded PDF: 10.1039_d0qo00649a.pdf for DOI: 10.1039/d0qo00649a
+2025-05-13 18:59:07,080 - INFO - Processing DOI: 10.1016/j.dyepig.2019.107919 (Row 87, Importance: bold)
+2025-05-13 18:59:07,080 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.dyepig.2019.107919 from https://www.sci-hub.ru//10.1016/j.dyepig.2019.107919
+2025-05-13 18:59:08,361 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.dyepig.2019.107919
+2025-05-13 18:59:08,363 - INFO - Found <embed id='pdf'> with src: /downloads/2019-10-16/7f/si2020.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:08,363 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2019-10-16/7f/si2020.pdf
+2025-05-13 18:59:08,363 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2019-10-16/7f/si2020.pdf
+2025-05-13 18:59:10,848 - INFO - Successfully downloaded PDF: 10.1016_j.dyepig.2019.107919.pdf for DOI: 10.1016/j.dyepig.2019.107919
+2025-05-13 18:59:10,851 - INFO - Processing DOI: 10.1002/chem.201704098 (Row 88, Importance: red)
+2025-05-13 18:59:10,851 - INFO - Attempting to fetch initial page for DOI: 10.1002/chem.201704098 from https://www.sci-hub.ru//10.1002/chem.201704098
+2025-05-13 18:59:12,289 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/chem.201704098
+2025-05-13 18:59:12,290 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/d99259c0ff5729e489dab5d2e58ec011/shumilova2017.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:12,290 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/d99259c0ff5729e489dab5d2e58ec011/shumilova2017.pdf
+2025-05-13 18:59:12,290 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/d99259c0ff5729e489dab5d2e58ec011/shumilova2017.pdf
+2025-05-13 18:59:15,030 - INFO - Successfully downloaded PDF: 10.1002_chem.201704098.pdf for DOI: 10.1002/chem.201704098
+2025-05-13 18:59:15,032 - INFO - Processing DOI: 10.1002/chem.202000739 (Row 89, Importance: bold)
+2025-05-13 18:59:15,032 - INFO - Attempting to fetch initial page for DOI: 10.1002/chem.202000739 from https://www.sci-hub.ru//10.1002/chem.202000739
+2025-05-13 18:59:16,373 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/chem.202000739
+2025-05-13 18:59:16,375 - INFO - Found <embed id='pdf'> with src: /downloads/2020-03-18/10/10.1002@chem.202000739.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:16,375 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2020-03-18/10/10.1002@chem.202000739.pdf
+2025-05-13 18:59:16,375 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2020-03-18/10/10.1002@chem.202000739.pdf
+2025-05-13 18:59:18,860 - INFO - Successfully downloaded PDF: 10.1002_chem.202000739.pdf for DOI: 10.1002/chem.202000739
+2025-05-13 18:59:18,861 - INFO - Processing DOI: 10.1016/j.molliq.2018.05.081 (Row 90, Importance: bold)
+2025-05-13 18:59:18,861 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.molliq.2018.05.081 from https://www.sci-hub.ru//10.1016/j.molliq.2018.05.081
+2025-05-13 18:59:20,134 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.molliq.2018.05.081
+2025-05-13 18:59:20,135 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/fe2da3b12bc6c439290b9460385ee5bf/ahmed2018.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:20,136 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/fe2da3b12bc6c439290b9460385ee5bf/ahmed2018.pdf
+2025-05-13 18:59:20,136 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/fe2da3b12bc6c439290b9460385ee5bf/ahmed2018.pdf
+2025-05-13 18:59:26,456 - INFO - Successfully downloaded PDF: 10.1016_j.molliq.2018.05.081.pdf for DOI: 10.1016/j.molliq.2018.05.081
+2025-05-13 18:59:26,458 - INFO - Processing DOI: 10.1002/chem.202200185 (Row 91, Importance: bold)
+2025-05-13 18:59:26,458 - INFO - Attempting to fetch initial page for DOI: 10.1002/chem.202200185 from https://www.sci-hub.ru//10.1002/chem.202200185
+2025-05-13 18:59:27,734 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/chem.202200185
+2025-05-13 18:59:27,736 - INFO - Found <embed id='pdf'> with src: /downloads/2022-11-03/60/soavi2022.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:27,736 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2022-11-03/60/soavi2022.pdf
+2025-05-13 18:59:27,736 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2022-11-03/60/soavi2022.pdf
+2025-05-13 18:59:29,156 - ERROR - HTTP error during processing for DOI: 10.1002/chem.202200185. URL: https://www.sci-hub.ru//10.1002/chem.202200185. Error: 404 Client Error: Not Found for url: https://www.sci-hub.ru/downloads/2022-11-03/60/soavi2022.pdf
+2025-05-13 18:59:29,158 - INFO - Processing DOI: 10.1016/j.inoche.2022.109536 (Row 92, Importance: bold)
+2025-05-13 18:59:29,158 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.inoche.2022.109536 from https://www.sci-hub.ru//10.1016/j.inoche.2022.109536
+2025-05-13 18:59:31,116 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.inoche.2022.109536
+2025-05-13 18:59:31,117 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1016/j.inoche.2022.109536. Trying button strategy.
+2025-05-13 18:59:31,117 - WARNING - div#buttons not found for DOI: 10.1016/j.inoche.2022.109536.
+2025-05-13 18:59:31,117 - INFO - Button in div#buttons strategy failed for DOI: 10.1016/j.inoche.2022.109536. Trying general button search.
+2025-05-13 18:59:31,117 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1016/j.inoche.2022.109536.
+2025-05-13 18:59:31,117 - INFO - General button search failed for DOI: 10.1016/j.inoche.2022.109536. Checking for PDF in iframes.
+2025-05-13 18:59:31,118 - WARNING - No suitable iframe found for PDF for DOI: 10.1016/j.inoche.2022.109536.
+2025-05-13 18:59:31,118 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1016/j.inoche.2022.109536. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:59:31,119 - INFO - Processing DOI: 10.1016/j.jphotobiol.2016.05.009 (Row 93, Importance: bold)
+2025-05-13 18:59:31,119 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.jphotobiol.2016.05.009 from https://www.sci-hub.ru//10.1016/j.jphotobiol.2016.05.009
+2025-05-13 18:59:32,381 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.jphotobiol.2016.05.009
+2025-05-13 18:59:32,383 - INFO - Found <embed id='pdf'> with src: //moscow.sci-hub.ru/5293/9bb79a4e75207619eddfd538ea33c85e/ahmed2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:32,383 - INFO - Derived PDF direct URL from <embed>: https://moscow.sci-hub.ru/5293/9bb79a4e75207619eddfd538ea33c85e/ahmed2016.pdf
+2025-05-13 18:59:32,383 - INFO - Attempting to download actual PDF from: https://moscow.sci-hub.ru/5293/9bb79a4e75207619eddfd538ea33c85e/ahmed2016.pdf
+2025-05-13 18:59:35,892 - INFO - Successfully downloaded PDF: 10.1016_j.jphotobiol.2016.05.009.pdf for DOI: 10.1016/j.jphotobiol.2016.05.009
+2025-05-13 18:59:35,894 - INFO - Skipping DOI: 10.1021/acsami.3c12827 (Row 94) due to 'normal' importance.
+2025-05-13 18:59:35,894 - INFO - Processing DOI: 10.1016/j.tetlet.2017.05.095 (Row 95, Importance: red)
+2025-05-13 18:59:35,894 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.tetlet.2017.05.095 from https://www.sci-hub.ru//10.1016/j.tetlet.2017.05.095
+2025-05-13 18:59:37,177 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.tetlet.2017.05.095
+2025-05-13 18:59:37,179 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/6390/ea2202a9de6e15b42e4b1aec791b3d0e/zhang2017.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:37,179 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/6390/ea2202a9de6e15b42e4b1aec791b3d0e/zhang2017.pdf
+2025-05-13 18:59:37,179 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/6390/ea2202a9de6e15b42e4b1aec791b3d0e/zhang2017.pdf
+2025-05-13 18:59:39,454 - INFO - Successfully downloaded PDF: 10.1016_j.tetlet.2017.05.095.pdf for DOI: 10.1016/j.tetlet.2017.05.095
+2025-05-13 18:59:39,456 - INFO - Processing DOI: 10.1016/j.saa.2024.125540 (Row 96, Importance: red)
+2025-05-13 18:59:39,456 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.saa.2024.125540 from https://www.sci-hub.ru//10.1016/j.saa.2024.125540
+2025-05-13 18:59:40,723 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.saa.2024.125540
+2025-05-13 18:59:40,724 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1016/j.saa.2024.125540. Trying button strategy.
+2025-05-13 18:59:40,724 - WARNING - div#buttons not found for DOI: 10.1016/j.saa.2024.125540.
+2025-05-13 18:59:40,724 - INFO - Button in div#buttons strategy failed for DOI: 10.1016/j.saa.2024.125540. Trying general button search.
+2025-05-13 18:59:40,724 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1016/j.saa.2024.125540.
+2025-05-13 18:59:40,724 - INFO - General button search failed for DOI: 10.1016/j.saa.2024.125540. Checking for PDF in iframes.
+2025-05-13 18:59:40,725 - WARNING - No suitable iframe found for PDF for DOI: 10.1016/j.saa.2024.125540.
+2025-05-13 18:59:40,725 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1016/j.saa.2024.125540. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:59:40,725 - INFO - Processing DOI: 10.1016/j.dyepig.2016.04.013 (Row 97, Importance: bold)
+2025-05-13 18:59:40,726 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.dyepig.2016.04.013 from https://www.sci-hub.ru//10.1016/j.dyepig.2016.04.013
+2025-05-13 18:59:42,051 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.dyepig.2016.04.013
+2025-05-13 18:59:42,053 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/00cbf8e38c65ac5f4ec1360f2f79c7f3/chernikova2016.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:42,053 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/00cbf8e38c65ac5f4ec1360f2f79c7f3/chernikova2016.pdf
+2025-05-13 18:59:42,053 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/00cbf8e38c65ac5f4ec1360f2f79c7f3/chernikova2016.pdf
+2025-05-13 18:59:45,204 - INFO - Successfully downloaded PDF: 10.1016_j.dyepig.2016.04.013.pdf for DOI: 10.1016/j.dyepig.2016.04.013
+2025-05-13 18:59:45,206 - INFO - Skipping DOI: 10.1002/anie.201800175 (Row 98) due to 'normal' importance.
+2025-05-13 18:59:45,206 - INFO - Processing DOI: 10.1002/anie.202214705 (Row 99, Importance: red)
+2025-05-13 18:59:45,206 - INFO - Attempting to fetch initial page for DOI: 10.1002/anie.202214705 from https://www.sci-hub.ru//10.1002/anie.202214705
+2025-05-13 18:59:46,479 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/anie.202214705
+2025-05-13 18:59:46,481 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1002/anie.202214705. Trying button strategy.
+2025-05-13 18:59:46,481 - WARNING - div#buttons not found for DOI: 10.1002/anie.202214705.
+2025-05-13 18:59:46,481 - INFO - Button in div#buttons strategy failed for DOI: 10.1002/anie.202214705. Trying general button search.
+2025-05-13 18:59:46,481 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1002/anie.202214705.
+2025-05-13 18:59:46,481 - INFO - General button search failed for DOI: 10.1002/anie.202214705. Checking for PDF in iframes.
+2025-05-13 18:59:46,481 - WARNING - No suitable iframe found for PDF for DOI: 10.1002/anie.202214705.
+2025-05-13 18:59:46,481 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1002/anie.202214705. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:59:46,482 - INFO - Processing DOI: 10.1002/open.202200028 (Row 100, Importance: red)
+2025-05-13 18:59:46,482 - INFO - Attempting to fetch initial page for DOI: 10.1002/open.202200028 from https://www.sci-hub.ru//10.1002/open.202200028
+2025-05-13 18:59:47,721 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/open.202200028
+2025-05-13 18:59:47,723 - INFO - Found <embed id='pdf'> with src: /downloads/2022-11-04/3e/kubik2022.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:47,723 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2022-11-04/3e/kubik2022.pdf
+2025-05-13 18:59:47,723 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2022-11-04/3e/kubik2022.pdf
+2025-05-13 18:59:49,010 - ERROR - HTTP error during processing for DOI: 10.1002/open.202200028. URL: https://www.sci-hub.ru//10.1002/open.202200028. Error: 404 Client Error: Not Found for url: https://www.sci-hub.ru/downloads/2022-11-04/3e/kubik2022.pdf
+2025-05-13 18:59:49,013 - INFO - Skipping DOI: 10.1002/poc.4066 (Row 101) due to 'normal' importance.
+2025-05-13 18:59:49,013 - INFO - Processing DOI: 10.1016/j.molliq.2024.125473 (Row 102, Importance: bold)
+2025-05-13 18:59:49,013 - INFO - Attempting to fetch initial page for DOI: 10.1016/j.molliq.2024.125473 from https://www.sci-hub.ru//10.1016/j.molliq.2024.125473
+2025-05-13 18:59:55,363 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1016/j.molliq.2024.125473
+2025-05-13 18:59:55,364 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1016/j.molliq.2024.125473. Trying button strategy.
+2025-05-13 18:59:55,364 - WARNING - div#buttons not found for DOI: 10.1016/j.molliq.2024.125473.
+2025-05-13 18:59:55,364 - INFO - Button in div#buttons strategy failed for DOI: 10.1016/j.molliq.2024.125473. Trying general button search.
+2025-05-13 18:59:55,365 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1016/j.molliq.2024.125473.
+2025-05-13 18:59:55,365 - INFO - General button search failed for DOI: 10.1016/j.molliq.2024.125473. Checking for PDF in iframes.
+2025-05-13 18:59:55,365 - WARNING - No suitable iframe found for PDF for DOI: 10.1016/j.molliq.2024.125473.
+2025-05-13 18:59:55,365 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1016/j.molliq.2024.125473. Page source might have changed or PDF not available through these methods.
+2025-05-13 18:59:55,366 - INFO - Processing DOI: 10.1002/chem.201605394 (Row 103, Importance: bold)
+2025-05-13 18:59:55,366 - INFO - Attempting to fetch initial page for DOI: 10.1002/chem.201605394 from https://www.sci-hub.ru//10.1002/chem.201605394
+2025-05-13 18:59:56,619 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/chem.201605394
+2025-05-13 18:59:56,620 - INFO - Found <embed id='pdf'> with src: //dacemirror.sci-hub.ru/journal-article/a818d7d527d712b3c4064b0ba89d290e/chen2017.pdf#navpanes=0&view=FitH
+2025-05-13 18:59:56,620 - INFO - Derived PDF direct URL from <embed>: https://dacemirror.sci-hub.ru/journal-article/a818d7d527d712b3c4064b0ba89d290e/chen2017.pdf
+2025-05-13 18:59:56,620 - INFO - Attempting to download actual PDF from: https://dacemirror.sci-hub.ru/journal-article/a818d7d527d712b3c4064b0ba89d290e/chen2017.pdf
+2025-05-13 18:59:59,682 - INFO - Successfully downloaded PDF: 10.1002_chem.201605394.pdf for DOI: 10.1002/chem.201605394
+2025-05-13 18:59:59,685 - INFO - Processing DOI: 10.1021/acs.langmuir.6b01709 (Row 104, Importance: bold)
+2025-05-13 18:59:59,685 - INFO - Attempting to fetch initial page for DOI: 10.1021/acs.langmuir.6b01709 from https://www.sci-hub.ru//10.1021/acs.langmuir.6b01709
+2025-05-13 19:00:00,956 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1021/acs.langmuir.6b01709
+2025-05-13 19:00:00,958 - INFO - Found <embed id='pdf'> with src: //2024.sci-hub.ru/5688/60ccc8b1bfaee9e1b3e095836e32c90d/huang2016.pdf#navpanes=0&view=FitH
+2025-05-13 19:00:00,958 - INFO - Derived PDF direct URL from <embed>: https://2024.sci-hub.ru/5688/60ccc8b1bfaee9e1b3e095836e32c90d/huang2016.pdf
+2025-05-13 19:00:00,958 - INFO - Attempting to download actual PDF from: https://2024.sci-hub.ru/5688/60ccc8b1bfaee9e1b3e095836e32c90d/huang2016.pdf
+2025-05-13 19:00:03,390 - INFO - Successfully downloaded PDF: 10.1021_acs.langmuir.6b01709.pdf for DOI: 10.1021/acs.langmuir.6b01709
+2025-05-13 19:00:03,393 - INFO - Processing DOI: 10.3390/molecules26040980 (Row 105, Importance: bold)
+2025-05-13 19:00:03,393 - INFO - Attempting to fetch initial page for DOI: 10.3390/molecules26040980 from https://www.sci-hub.ru//10.3390/molecules26040980
+2025-05-13 19:00:04,653 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.3390/molecules26040980
+2025-05-13 19:00:04,655 - INFO - Found <embed id='pdf'> with src: /downloads/2021-08-11/b7/agafontsev2021.pdf#navpanes=0&view=FitH
+2025-05-13 19:00:04,655 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-08-11/b7/agafontsev2021.pdf
+2025-05-13 19:00:04,655 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-08-11/b7/agafontsev2021.pdf
+2025-05-13 19:00:07,250 - INFO - Successfully downloaded PDF: 10.3390_molecules26040980.pdf for DOI: 10.3390/molecules26040980
+2025-05-13 19:00:07,252 - INFO - Processing DOI: 10.3390/chemosensors9050093 (Row 106, Importance: bold)
+2025-05-13 19:00:07,252 - INFO - Attempting to fetch initial page for DOI: 10.3390/chemosensors9050093 from https://www.sci-hub.ru//10.3390/chemosensors9050093
+2025-05-13 19:00:08,498 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.3390/chemosensors9050093
+2025-05-13 19:00:08,499 - INFO - Found <embed id='pdf'> with src: /downloads/2021-08-11/82/morozov2021.pdf#navpanes=0&view=FitH
+2025-05-13 19:00:08,499 - INFO - Derived PDF direct URL from <embed>: https://www.sci-hub.ru/downloads/2021-08-11/82/morozov2021.pdf
+2025-05-13 19:00:08,500 - INFO - Attempting to download actual PDF from: https://www.sci-hub.ru/downloads/2021-08-11/82/morozov2021.pdf
+2025-05-13 19:00:11,015 - INFO - Successfully downloaded PDF: 10.3390_chemosensors9050093.pdf for DOI: 10.3390/chemosensors9050093
+2025-05-13 19:00:11,017 - INFO - Processing DOI: 10.1002/adfm.202300309 (Row 107, Importance: red)
+2025-05-13 19:00:11,017 - INFO - Attempting to fetch initial page for DOI: 10.1002/adfm.202300309 from https://www.sci-hub.ru//10.1002/adfm.202300309
+2025-05-13 19:00:12,285 - INFO - Successfully fetched initial page. Final URL: https://www.sci-hub.ru//10.1002/adfm.202300309
+2025-05-13 19:00:12,286 - INFO - <embed id='pdf'> strategy failed or not found for DOI: 10.1002/adfm.202300309. Trying button strategy.
+2025-05-13 19:00:12,287 - WARNING - div#buttons not found for DOI: 10.1002/adfm.202300309.
+2025-05-13 19:00:12,287 - INFO - Button in div#buttons strategy failed for DOI: 10.1002/adfm.202300309. Trying general button search.
+2025-05-13 19:00:12,287 - WARNING - No general buttons matching onclick pattern found for DOI: 10.1002/adfm.202300309.
+2025-05-13 19:00:12,287 - INFO - General button search failed for DOI: 10.1002/adfm.202300309. Checking for PDF in iframes.
+2025-05-13 19:00:12,287 - WARNING - No suitable iframe found for PDF for DOI: 10.1002/adfm.202300309.
+2025-05-13 19:00:12,287 - ERROR - All strategies failed to find a PDF download link for DOI: 10.1002/adfm.202300309. Page source might have changed or PDF not available through these methods.
+2025-05-13 19:00:12,288 - INFO - Script finished. Total entries processed: 84.
+2025-05-13 19:00:12,288 - INFO - Successfully downloaded: 46 PDFs.
+2025-05-13 19:00:12,289 - INFO - Skipped (normal importance): 15.
+2025-05-13 19:00:12,289 - INFO - Skipped (invalid DOI format): 2.

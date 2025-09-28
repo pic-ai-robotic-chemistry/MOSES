@@ -1,0 +1,5 @@
+Query 1 - Formatted Results
+==================================================
+Time: 2025-08-19 19:19:48.575814
+
+{'summary': 'There is no evidence from the provided data that electrochemical sensors utilizing Indicator Displacement Assay (IDA) are currently used for Quinine detection.', 'key_points': ['Electrochemical sensors have been employed for detecting various analytes, such as tryptophan and 5-fluorouracil (5-FU), often using host-guest interactions or nanocomposite materials.', 'No specific information or examples were found indicating the use of IDA in electrochemical sensors for Quinine detection.', "The class 'IDA' was not found in the database, suggesting limited or no documented use of IDA in this context.", 'Existing data on IDA indicates its application in fluorescence-based assays, but not explicitly in electrochemical sensors for Quinine.'], 'relationships': ['While electrochemical sensors are versatile and used for various analytes, the absence of IDA-related information for Quinine suggests that IDA-based electrochemical detection methods for Quinine are either not established or not documented in the sources reviewed.']}

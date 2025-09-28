@@ -1,0 +1,1384 @@
+{
+  "analysis_type": "no_lc",
+  "aggregation_level": "llm_only",
+  "data_source": "real",
+  "repetitions": 1,
+  "trueskill_parameters": {
+    "mu": 25.0,
+    "sigma": 8.333,
+    "beta": 4.166666666666667,
+    "tau": 0.08333,
+    "draw_probability": 0.05,
+    "beta_estimation_method": "TrueSkill package default: β=4.167"
+  },
+  "match_statistics": {
+    "base_matches_per_repetition": 283500,
+    "total_matches_all_repetitions": 283500,
+    "unique_models": 15,
+    "judges_count": 1,
+    "dimensions_count": 4,
+    "matches_by_dimension": {
+      "theoretical_depth": 70875,
+      "completeness": 70875,
+      "correctness": 70875,
+      "rigor_and_information_density": 70875
+    },
+    "match_type": "Real question-dimension matches (aggregation: llm_only)"
+  },
+  "dimension_ratings": {
+    "Doubao-Seed-1.6-combined": {
+      "theoretical_depth": {
+        "lightrag-4.1": {
+          "name": "lightrag-4.1",
+          "dimension": "theoretical_depth",
+          "mu": 30.89617241698455,
+          "sigma": 1.0423509293422926,
+          "rating": 27.76899454184267,
+          "games_played": 9450,
+          "wins": 6995.0,
+          "losses": 2455.0,
+          "win_rate": 0.7402116402116402
+        },
+        "gpt-4.1": {
+          "name": "gpt-4.1",
+          "dimension": "theoretical_depth",
+          "mu": 32.82361759217457,
+          "sigma": 0.9979593386136147,
+          "rating": 29.829619816422696,
+          "games_played": 9450,
+          "wins": 5226.0,
+          "losses": 4224.0,
+          "win_rate": 0.553015873015873
+        },
+        "spark-chem13b-nothink": {
+          "name": "spark-chem13b-nothink",
+          "dimension": "theoretical_depth",
+          "mu": 23.85753233438692,
+          "sigma": 0.9694889544453607,
+          "rating": 20.94894912772257,
+          "games_played": 9450,
+          "wins": 4116.5,
+          "losses": 5333.5,
+          "win_rate": 0.4356084656084656
+        },
+        "darwin": {
+          "name": "darwin",
+          "dimension": "theoretical_depth",
+          "mu": 9.294938816715222,
+          "sigma": 1.1776946672488928,
+          "rating": 5.761713485955313,
+          "games_played": 9450,
+          "wins": 697.5,
+          "losses": 8752.5,
+          "win_rate": 0.07380952380952381
+        },
+        "MOSES": {
+          "name": "MOSES",
+          "dimension": "theoretical_depth",
+          "mu": 49.987038086634904,
+          "sigma": 1.4471544441088333,
+          "rating": 45.64540108882849,
+          "games_played": 9450,
+          "wins": 9070.5,
+          "losses": 379.5,
+          "win_rate": 0.9598412698412698
+        },
+        "o3": {
+          "name": "o3",
+          "dimension": "theoretical_depth",
+          "mu": 40.75192623966563,
+          "sigma": 1.2589671212363314,
+          "rating": 36.974873793858805,
+          "games_played": 9450,
+          "wins": 6950.0,
+          "losses": 2500.0,
+          "win_rate": 0.7354497354497355
+        },
+        "MOSES-nano": {
+          "name": "MOSES-nano",
+          "dimension": "theoretical_depth",
+          "mu": 35.278779349694915,
+          "sigma": 1.0952138851149489,
+          "rating": 31.99300626342662,
+          "games_played": 9450,
+          "wins": 6840.5,
+          "losses": 2609.5,
+          "win_rate": 0.7238624338624339
+        },
+        "llasmol-top5": {
+          "name": "llasmol-top5",
+          "dimension": "theoretical_depth",
+          "mu": 8.47676285571485,
+          "sigma": 0.931655208481178,
+          "rating": 5.681685427174175,
+          "games_played": 9450,
+          "wins": 776.0,
+          "losses": 8674.0,
+          "win_rate": 0.08211640211640212
+        },
+        "o1": {
+          "name": "o1",
+          "dimension": "theoretical_depth",
+          "mu": 27.526912663335956,
+          "sigma": 1.0178470619169873,
+          "rating": 24.473249331051704,
+          "games_played": 9450,
+          "wins": 6120.0,
+          "losses": 3330.0,
+          "win_rate": 0.6476190476190476
+        },
+        "gpt-4.1-nano": {
+          "name": "gpt-4.1-nano",
+          "dimension": "theoretical_depth",
+          "mu": 31.241410289788547,
+          "sigma": 1.002032741567957,
+          "rating": 28.23519181634574,
+          "games_played": 9450,
+          "wins": 4946.0,
+          "losses": 4504.0,
+          "win_rate": 0.5233862433862434
+        },
+        "lightrag-4.1-nano": {
+          "name": "lightrag-4.1-nano",
+          "dimension": "theoretical_depth",
+          "mu": 34.574103489162255,
+          "sigma": 1.1132628532059772,
+          "rating": 31.234181332658064,
+          "games_played": 9450,
+          "wins": 6951.5,
+          "losses": 2498.5,
+          "win_rate": 0.7356084656084656
+        },
+        "gpt-4o-mini": {
+          "name": "gpt-4o-mini",
+          "dimension": "theoretical_depth",
+          "mu": 26.432850438674002,
+          "sigma": 0.9616807308858493,
+          "rating": 23.547692839712496,
+          "games_played": 9450,
+          "wins": 3205.0,
+          "losses": 6245.0,
+          "win_rate": 0.33915343915343915
+        },
+        "spark-chem13b-think": {
+          "name": "spark-chem13b-think",
+          "dimension": "theoretical_depth",
+          "mu": 20.8530362760378,
+          "sigma": 1.0233587974943166,
+          "rating": 17.78283707558683,
+          "games_played": 9450,
+          "wins": 4365.0,
+          "losses": 5085.0,
+          "win_rate": 0.46190476190476193
+        },
+        "llasmol-top1": {
+          "name": "llasmol-top1",
+          "dimension": "theoretical_depth",
+          "mu": 8.449331414067517,
+          "sigma": 0.933742669592421,
+          "rating": 5.647991351687759,
+          "games_played": 9450,
+          "wins": 780.0,
+          "losses": 8670.0,
+          "win_rate": 0.08253968253968254
+        },
+        "gpt-4o": {
+          "name": "gpt-4o",
+          "dimension": "theoretical_depth",
+          "mu": 28.17544938758338,
+          "sigma": 0.9724727143665246,
+          "rating": 25.257914543090028,
+          "games_played": 9450,
+          "wins": 3835.5,
+          "losses": 5614.5,
+          "win_rate": 0.4058730158730159
+        }
+      },
+      "completeness": {
+        "lightrag-4.1": {
+          "name": "lightrag-4.1",
+          "dimension": "completeness",
+          "mu": 17.776693656433974,
+          "sigma": 0.9875673784969767,
+          "rating": 14.81387300811711,
+          "games_played": 9450,
+          "wins": 5540.0,
+          "losses": 3910.0,
+          "win_rate": 0.5862433862433862
+        },
+        "gpt-4.1": {
+          "name": "gpt-4.1",
+          "dimension": "completeness",
+          "mu": 21.093227471813968,
+          "sigma": 0.9141186468302094,
+          "rating": 18.350761832697774,
+          "games_played": 9450,
+          "wins": 6708.5,
+          "losses": 2741.5,
+          "win_rate": 0.7098941798941799
+        },
+        "spark-chem13b-nothink": {
+          "name": "spark-chem13b-nothink",
+          "dimension": "completeness",
+          "mu": 26.506794852086617,
+          "sigma": 0.9052782768055346,
+          "rating": 23.790851383931287,
+          "games_played": 9450,
+          "wins": 4551.5,
+          "losses": 4898.5,
+          "win_rate": 0.48164021164021165
+        },
+        "darwin": {
+          "name": "darwin",
+          "dimension": "completeness",
+          "mu": 0.582157662751926,
+          "sigma": 1.289689588562226,
+          "rating": -3.2870658718761367,
+          "games_played": 9450,
+          "wins": 802.5,
+          "losses": 8647.5,
+          "win_rate": 0.08492063492063492
+        },
+        "MOSES": {
+          "name": "MOSES",
+          "dimension": "completeness",
+          "mu": 29.723307785071764,
+          "sigma": 0.9273655373650024,
+          "rating": 26.94109988466074,
+          "games_played": 9450,
+          "wins": 8532.5,
+          "losses": 917.5,
+          "win_rate": 0.9029100529100529
+        },
+        "o3": {
+          "name": "o3",
+          "dimension": "completeness",
+          "mu": 22.467624515660752,
+          "sigma": 0.9522676991893201,
+          "rating": 19.61070714139782,
+          "games_played": 9450,
+          "wins": 7922.5,
+          "losses": 1527.5,
+          "win_rate": 0.8383597883597883
+        },
+        "MOSES-nano": {
+          "name": "MOSES-nano",
+          "dimension": "completeness",
+          "mu": 25.42456579515049,
+          "sigma": 0.9024423474918644,
+          "rating": 22.7171304552613,
+          "games_played": 9450,
+          "wins": 5351.5,
+          "losses": 4098.5,
+          "win_rate": 0.5662962962962963
+        },
+        "llasmol-top5": {
+          "name": "llasmol-top5",
+          "dimension": "completeness",
+          "mu": 0.7259603183271747,
+          "sigma": 0.9395826961392493,
+          "rating": -2.0929005245242873,
+          "games_played": 9450,
+          "wins": 880.0,
+          "losses": 8570.0,
+          "win_rate": 0.09312169312169312
+        },
+        "o1": {
+          "name": "o1",
+          "dimension": "completeness",
+          "mu": 14.439290944106128,
+          "sigma": 1.117134355660814,
+          "rating": 11.087753815638546,
+          "games_played": 9450,
+          "wins": 5448.5,
+          "losses": 4001.5,
+          "win_rate": 0.5765608465608466
+        },
+        "gpt-4.1-nano": {
+          "name": "gpt-4.1-nano",
+          "dimension": "completeness",
+          "mu": 21.95119891404433,
+          "sigma": 0.9145045328560788,
+          "rating": 19.207575570542353,
+          "games_played": 9450,
+          "wins": 5175.5,
+          "losses": 4274.5,
+          "win_rate": 0.5476719576719576
+        },
+        "lightrag-4.1-nano": {
+          "name": "lightrag-4.1-nano",
+          "dimension": "completeness",
+          "mu": 20.236709634357105,
+          "sigma": 0.9451094431737772,
+          "rating": 17.401267887165886,
+          "games_played": 9450,
+          "wins": 5906.5,
+          "losses": 3543.5,
+          "win_rate": 0.625026455026455
+        },
+        "gpt-4o-mini": {
+          "name": "gpt-4o-mini",
+          "dimension": "completeness",
+          "mu": 21.262803445457767,
+          "sigma": 0.9293928980413908,
+          "rating": 18.474513219724564,
+          "games_played": 9450,
+          "wins": 3923.0,
+          "losses": 5527.0,
+          "win_rate": 0.41513227513227513
+        },
+        "spark-chem13b-think": {
+          "name": "spark-chem13b-think",
+          "dimension": "completeness",
+          "mu": 26.048891481239405,
+          "sigma": 0.9179010122385495,
+          "rating": 23.295078291996187,
+          "games_played": 9450,
+          "wins": 4425.5,
+          "losses": 5024.5,
+          "win_rate": 0.4683068783068783
+        },
+        "llasmol-top1": {
+          "name": "llasmol-top1",
+          "dimension": "completeness",
+          "mu": 0.7508786757147984,
+          "sigma": 0.9435339627008278,
+          "rating": -2.079836440992353,
+          "games_played": 9450,
+          "wins": 967.5,
+          "losses": 8482.5,
+          "win_rate": 0.10238095238095238
+        },
+        "gpt-4o": {
+          "name": "gpt-4o",
+          "dimension": "completeness",
+          "mu": 17.22740129053201,
+          "sigma": 0.9929569504123527,
+          "rating": 14.248411279694519,
+          "games_played": 9450,
+          "wins": 4739.5,
+          "losses": 4710.5,
+          "win_rate": 0.5015343915343915
+        }
+      },
+      "correctness": {
+        "lightrag-4.1": {
+          "name": "lightrag-4.1",
+          "dimension": "correctness",
+          "mu": 17.35350879196624,
+          "sigma": 0.9597537183716593,
+          "rating": 14.474132461798057,
+          "games_played": 9450,
+          "wins": 5039.0,
+          "losses": 4411.0,
+          "win_rate": 0.5332275132275133
+        },
+        "gpt-4.1": {
+          "name": "gpt-4.1",
+          "dimension": "correctness",
+          "mu": 19.73136329154726,
+          "sigma": 0.8916152043032086,
+          "rating": 17.056410680533194,
+          "games_played": 9450,
+          "wins": 6503.0,
+          "losses": 2947.0,
+          "win_rate": 0.6881481481481482
+        },
+        "spark-chem13b-nothink": {
+          "name": "spark-chem13b-nothink",
+          "dimension": "correctness",
+          "mu": 28.873817263986293,
+          "sigma": 0.9318241900024293,
+          "rating": 26.07823287060327,
+          "games_played": 9450,
+          "wins": 4605.0,
+          "losses": 4845.0,
+          "win_rate": 0.4873015873015873
+        },
+        "darwin": {
+          "name": "darwin",
+          "dimension": "correctness",
+          "mu": 0.40666411904462474,
+          "sigma": 1.3289658859532278,
+          "rating": -3.580393021100665,
+          "games_played": 9450,
+          "wins": 750.5,
+          "losses": 8699.5,
+          "win_rate": 0.07941798941798942
+        },
+        "MOSES": {
+          "name": "MOSES",
+          "dimension": "correctness",
+          "mu": 29.971296958951864,
+          "sigma": 0.9207151479499924,
+          "rating": 27.209041024864522,
+          "games_played": 9450,
+          "wins": 8224.0,
+          "losses": 1226.0,
+          "win_rate": 0.8702645502645503
+        },
+        "o3": {
+          "name": "o3",
+          "dimension": "correctness",
+          "mu": 23.2735789495897,
+          "sigma": 0.9276275498052434,
+          "rating": 20.490584980415203,
+          "games_played": 9450,
+          "wins": 7901.5,
+          "losses": 1548.5,
+          "win_rate": 0.8361375661375662
+        },
+        "MOSES-nano": {
+          "name": "MOSES-nano",
+          "dimension": "correctness",
+          "mu": 27.8552151559604,
+          "sigma": 0.895028278846371,
+          "rating": 25.170022911731518,
+          "games_played": 9450,
+          "wins": 5481.5,
+          "losses": 3968.5,
+          "win_rate": 0.58005291005291
+        },
+        "llasmol-top5": {
+          "name": "llasmol-top5",
+          "dimension": "correctness",
+          "mu": 0.554646254646052,
+          "sigma": 0.9933803648385781,
+          "rating": -2.4256140502818795,
+          "games_played": 9450,
+          "wins": 1429.5,
+          "losses": 8020.5,
+          "win_rate": 0.15126984126984128
+        },
+        "o1": {
+          "name": "o1",
+          "dimension": "correctness",
+          "mu": 19.34467799792611,
+          "sigma": 0.9754323875864055,
+          "rating": 16.418263778598117,
+          "games_played": 9450,
+          "wins": 6334.5,
+          "losses": 3115.5,
+          "win_rate": 0.6703174603174603
+        },
+        "gpt-4.1-nano": {
+          "name": "gpt-4.1-nano",
+          "dimension": "correctness",
+          "mu": 23.010581205719802,
+          "sigma": 0.8845904654386072,
+          "rating": 20.356703654301924,
+          "games_played": 9450,
+          "wins": 5474.5,
+          "losses": 3975.5,
+          "win_rate": 0.5793121693121693
+        },
+        "lightrag-4.1-nano": {
+          "name": "lightrag-4.1-nano",
+          "dimension": "correctness",
+          "mu": 19.99176865305082,
+          "sigma": 0.9257290636641812,
+          "rating": 17.21447037012696,
+          "games_played": 9450,
+          "wins": 5389.5,
+          "losses": 4060.5,
+          "win_rate": 0.5703174603174603
+        },
+        "gpt-4o-mini": {
+          "name": "gpt-4o-mini",
+          "dimension": "correctness",
+          "mu": 16.45073761030002,
+          "sigma": 0.9699076326497121,
+          "rating": 13.540898318779224,
+          "games_played": 9450,
+          "wins": 3522.5,
+          "losses": 5927.5,
+          "win_rate": 0.3727513227513228
+        },
+        "spark-chem13b-think": {
+          "name": "spark-chem13b-think",
+          "dimension": "correctness",
+          "mu": 24.41757113922927,
+          "sigma": 0.9047282096742462,
+          "rating": 21.7032779384785,
+          "games_played": 9450,
+          "wins": 4479.5,
+          "losses": 4970.5,
+          "win_rate": 0.474021164021164
+        },
+        "llasmol-top1": {
+          "name": "llasmol-top1",
+          "dimension": "correctness",
+          "mu": -0.45046801300311845,
+          "sigma": 0.9817591723887238,
+          "rating": -3.395863345982609,
+          "games_played": 9450,
+          "wins": 1202.5,
+          "losses": 8247.5,
+          "win_rate": 0.12724867724867725
+        },
+        "gpt-4o": {
+          "name": "gpt-4o",
+          "dimension": "correctness",
+          "mu": 13.966553194537282,
+          "sigma": 1.0264633641400405,
+          "rating": 10.887039921586242,
+          "games_played": 9450,
+          "wins": 4538.0,
+          "losses": 4912.0,
+          "win_rate": 0.4802116402116402
+        }
+      },
+      "rigor_and_information_density": {
+        "lightrag-4.1": {
+          "name": "lightrag-4.1",
+          "dimension": "rigor_and_information_density",
+          "mu": 24.549392711508023,
+          "sigma": 0.9424138435050936,
+          "rating": 21.722038086807753,
+          "games_played": 9450,
+          "wins": 5700.0,
+          "losses": 3750.0,
+          "win_rate": 0.6031746031746031
+        },
+        "gpt-4.1": {
+          "name": "gpt-4.1",
+          "dimension": "rigor_and_information_density",
+          "mu": 29.476228207972635,
+          "sigma": 0.9360481364795367,
+          "rating": 26.667971468264437,
+          "games_played": 9450,
+          "wins": 6792.0,
+          "losses": 2658.0,
+          "win_rate": 0.7187301587301588
+        },
+        "spark-chem13b-nothink": {
+          "name": "spark-chem13b-nothink",
+          "dimension": "rigor_and_information_density",
+          "mu": 21.903798255851886,
+          "sigma": 0.984140263176615,
+          "rating": 18.951259364766397,
+          "games_played": 9450,
+          "wins": 3847.0,
+          "losses": 5603.0,
+          "win_rate": 0.4070899470899471
+        },
+        "darwin": {
+          "name": "darwin",
+          "dimension": "rigor_and_information_density",
+          "mu": 1.7692333540993188,
+          "sigma": 1.3404374008762556,
+          "rating": -2.2522397074519107,
+          "games_played": 9450,
+          "wins": 727.0,
+          "losses": 8723.0,
+          "win_rate": 0.07693121693121693
+        },
+        "MOSES": {
+          "name": "MOSES",
+          "dimension": "rigor_and_information_density",
+          "mu": 40.49989360362404,
+          "sigma": 1.2041593241031385,
+          "rating": 36.887271126415534,
+          "games_played": 9450,
+          "wins": 8557.0,
+          "losses": 893.0,
+          "win_rate": 0.9055026455026455
+        },
+        "o3": {
+          "name": "o3",
+          "dimension": "rigor_and_information_density",
+          "mu": 35.720444596859345,
+          "sigma": 1.2013958993910143,
+          "rating": 32.11611272541144,
+          "games_played": 9450,
+          "wins": 8960.5,
+          "losses": 489.5,
+          "win_rate": 0.9482010582010582
+        },
+        "MOSES-nano": {
+          "name": "MOSES-nano",
+          "dimension": "rigor_and_information_density",
+          "mu": 32.443759409991,
+          "sigma": 1.064160805830927,
+          "rating": 29.251149288093345,
+          "games_played": 9450,
+          "wins": 5343.5,
+          "losses": 4106.5,
+          "win_rate": 0.5654497354497354
+        },
+        "llasmol-top5": {
+          "name": "llasmol-top5",
+          "dimension": "rigor_and_information_density",
+          "mu": 0.1410142620399787,
+          "sigma": 1.0163632572565124,
+          "rating": -2.908197478199168,
+          "games_played": 9450,
+          "wins": 773.5,
+          "losses": 8676.5,
+          "win_rate": 0.08185185185185186
+        },
+        "o1": {
+          "name": "o1",
+          "dimension": "rigor_and_information_density",
+          "mu": 22.805657710271706,
+          "sigma": 0.9599549248291592,
+          "rating": 19.925677736585282,
+          "games_played": 9450,
+          "wins": 7452.5,
+          "losses": 1997.5,
+          "win_rate": 0.7886243386243387
+        },
+        "gpt-4.1-nano": {
+          "name": "gpt-4.1-nano",
+          "dimension": "rigor_and_information_density",
+          "mu": 26.232310960404035,
+          "sigma": 0.933268240537755,
+          "rating": 23.43239424212204,
+          "games_played": 9450,
+          "wins": 5197.5,
+          "losses": 4252.5,
+          "win_rate": 0.55
+        },
+        "lightrag-4.1-nano": {
+          "name": "lightrag-4.1-nano",
+          "dimension": "rigor_and_information_density",
+          "mu": 27.948047152662323,
+          "sigma": 0.9696342352786077,
+          "rating": 25.039028086063837,
+          "games_played": 9450,
+          "wins": 6092.0,
+          "losses": 3358.0,
+          "win_rate": 0.6446560846560847
+        },
+        "gpt-4o-mini": {
+          "name": "gpt-4o-mini",
+          "dimension": "rigor_and_information_density",
+          "mu": 16.898786795088295,
+          "sigma": 1.050106634764888,
+          "rating": 13.748340872956746,
+          "games_played": 9450,
+          "wins": 2951.0,
+          "losses": 6499.0,
+          "win_rate": 0.31227513227513226
+        },
+        "spark-chem13b-think": {
+          "name": "spark-chem13b-think",
+          "dimension": "rigor_and_information_density",
+          "mu": 20.07136101617802,
+          "sigma": 0.9967594007073175,
+          "rating": 17.080963198143348,
+          "games_played": 9450,
+          "wins": 3950.0,
+          "losses": 5500.0,
+          "win_rate": 0.41798941798941797
+        },
+        "llasmol-top1": {
+          "name": "llasmol-top1",
+          "dimension": "rigor_and_information_density",
+          "mu": -0.5828058314761393,
+          "sigma": 1.0150099048535426,
+          "rating": -3.6279573520975923,
+          "games_played": 9450,
+          "wins": 674.5,
+          "losses": 8775.5,
+          "win_rate": 0.07137566137566137
+        },
+        "gpt-4o": {
+          "name": "gpt-4o",
+          "dimension": "rigor_and_information_density",
+          "mu": 17.78889415753799,
+          "sigma": 1.0239736302770914,
+          "rating": 14.716850384955812,
+          "games_played": 9450,
+          "wins": 3857.0,
+          "losses": 5593.0,
+          "win_rate": 0.40814814814814815
+        }
+      }
+    }
+  },
+  "overall_ratings": {
+    "Doubao-Seed-1.6-combined": {
+      "lightrag-4.1": {
+        "name": "lightrag-4.1",
+        "overall_rating": 19.6947595246414,
+        "overall_mu": 22.643941894223197,
+        "overall_sigma": 0.9830214674290055,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 30.89617241698455,
+            "sigma": 1.0423509293422926,
+            "rating": 27.76899454184267,
+            "games_played": 9450,
+            "wins": 6995.0,
+            "losses": 2455.0,
+            "win_rate": 0.7402116402116402
+          },
+          "completeness": {
+            "mu": 17.776693656433974,
+            "sigma": 0.9875673784969767,
+            "rating": 14.81387300811711,
+            "games_played": 9450,
+            "wins": 5540.0,
+            "losses": 3910.0,
+            "win_rate": 0.5862433862433862
+          },
+          "correctness": {
+            "mu": 17.35350879196624,
+            "sigma": 0.9597537183716593,
+            "rating": 14.474132461798057,
+            "games_played": 9450,
+            "wins": 5039.0,
+            "losses": 4411.0,
+            "win_rate": 0.5332275132275133
+          },
+          "rigor_and_information_density": {
+            "mu": 24.549392711508023,
+            "sigma": 0.9424138435050936,
+            "rating": 21.722038086807753,
+            "games_played": 9450,
+            "wins": 5700.0,
+            "losses": 3750.0,
+            "win_rate": 0.6031746031746031
+          }
+        }
+      },
+      "gpt-4.1": {
+        "name": "gpt-4.1",
+        "overall_rating": 22.976190949479523,
+        "overall_mu": 25.78110914087711,
+        "overall_sigma": 0.9349353315566423,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 32.82361759217457,
+            "sigma": 0.9979593386136147,
+            "rating": 29.829619816422696,
+            "games_played": 9450,
+            "wins": 5226.0,
+            "losses": 4224.0,
+            "win_rate": 0.553015873015873
+          },
+          "completeness": {
+            "mu": 21.093227471813968,
+            "sigma": 0.9141186468302094,
+            "rating": 18.350761832697774,
+            "games_played": 9450,
+            "wins": 6708.5,
+            "losses": 2741.5,
+            "win_rate": 0.7098941798941799
+          },
+          "correctness": {
+            "mu": 19.73136329154726,
+            "sigma": 0.8916152043032086,
+            "rating": 17.056410680533194,
+            "games_played": 9450,
+            "wins": 6503.0,
+            "losses": 2947.0,
+            "win_rate": 0.6881481481481482
+          },
+          "rigor_and_information_density": {
+            "mu": 29.476228207972635,
+            "sigma": 0.9360481364795367,
+            "rating": 26.667971468264437,
+            "games_played": 9450,
+            "wins": 6792.0,
+            "losses": 2658.0,
+            "win_rate": 0.7187301587301588
+          }
+        }
+      },
+      "spark-chem13b-nothink": {
+        "name": "spark-chem13b-nothink",
+        "overall_rating": 22.442323186755882,
+        "overall_mu": 25.285485676577927,
+        "overall_sigma": 0.9476829211074849,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 23.85753233438692,
+            "sigma": 0.9694889544453607,
+            "rating": 20.94894912772257,
+            "games_played": 9450,
+            "wins": 4116.5,
+            "losses": 5333.5,
+            "win_rate": 0.4356084656084656
+          },
+          "completeness": {
+            "mu": 26.506794852086617,
+            "sigma": 0.9052782768055346,
+            "rating": 23.790851383931287,
+            "games_played": 9450,
+            "wins": 4551.5,
+            "losses": 4898.5,
+            "win_rate": 0.48164021164021165
+          },
+          "correctness": {
+            "mu": 28.873817263986293,
+            "sigma": 0.9318241900024293,
+            "rating": 26.07823287060327,
+            "games_played": 9450,
+            "wins": 4605.0,
+            "losses": 4845.0,
+            "win_rate": 0.4873015873015873
+          },
+          "rigor_and_information_density": {
+            "mu": 21.903798255851886,
+            "sigma": 0.984140263176615,
+            "rating": 18.951259364766397,
+            "games_played": 9450,
+            "wins": 3847.0,
+            "losses": 5603.0,
+            "win_rate": 0.4070899470899471
+          }
+        }
+      },
+      "darwin": {
+        "name": "darwin",
+        "overall_rating": -0.83949627861835,
+        "overall_mu": 3.013248488152773,
+        "overall_sigma": 1.2841968856601507,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 9.294938816715222,
+            "sigma": 1.1776946672488928,
+            "rating": 5.761713485955313,
+            "games_played": 9450,
+            "wins": 697.5,
+            "losses": 8752.5,
+            "win_rate": 0.07380952380952381
+          },
+          "completeness": {
+            "mu": 0.582157662751926,
+            "sigma": 1.289689588562226,
+            "rating": -3.2870658718761367,
+            "games_played": 9450,
+            "wins": 802.5,
+            "losses": 8647.5,
+            "win_rate": 0.08492063492063492
+          },
+          "correctness": {
+            "mu": 0.40666411904462474,
+            "sigma": 1.3289658859532278,
+            "rating": -3.580393021100665,
+            "games_played": 9450,
+            "wins": 750.5,
+            "losses": 8699.5,
+            "win_rate": 0.07941798941798942
+          },
+          "rigor_and_information_density": {
+            "mu": 1.7692333540993188,
+            "sigma": 1.3404374008762556,
+            "rating": -2.2522397074519107,
+            "games_played": 9450,
+            "wins": 727.0,
+            "losses": 8723.0,
+            "win_rate": 0.07693121693121693
+          }
+        }
+      },
+      "MOSES": {
+        "name": "MOSES",
+        "overall_rating": 34.170703281192324,
+        "overall_mu": 37.545384108570644,
+        "overall_sigma": 1.1248486133817417,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 49.987038086634904,
+            "sigma": 1.4471544441088333,
+            "rating": 45.64540108882849,
+            "games_played": 9450,
+            "wins": 9070.5,
+            "losses": 379.5,
+            "win_rate": 0.9598412698412698
+          },
+          "completeness": {
+            "mu": 29.723307785071764,
+            "sigma": 0.9273655373650024,
+            "rating": 26.94109988466074,
+            "games_played": 9450,
+            "wins": 8532.5,
+            "losses": 917.5,
+            "win_rate": 0.9029100529100529
+          },
+          "correctness": {
+            "mu": 29.971296958951864,
+            "sigma": 0.9207151479499924,
+            "rating": 27.209041024864522,
+            "games_played": 9450,
+            "wins": 8224.0,
+            "losses": 1226.0,
+            "win_rate": 0.8702645502645503
+          },
+          "rigor_and_information_density": {
+            "mu": 40.49989360362404,
+            "sigma": 1.2041593241031385,
+            "rating": 36.887271126415534,
+            "games_played": 9450,
+            "wins": 8557.0,
+            "losses": 893.0,
+            "win_rate": 0.9055026455026455
+          }
+        }
+      },
+      "o3": {
+        "name": "o3",
+        "overall_rating": 27.29806966027082,
+        "overall_mu": 30.553393575443856,
+        "overall_sigma": 1.0850645674054773,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 40.75192623966563,
+            "sigma": 1.2589671212363314,
+            "rating": 36.974873793858805,
+            "games_played": 9450,
+            "wins": 6950.0,
+            "losses": 2500.0,
+            "win_rate": 0.7354497354497355
+          },
+          "completeness": {
+            "mu": 22.467624515660752,
+            "sigma": 0.9522676991893201,
+            "rating": 19.61070714139782,
+            "games_played": 9450,
+            "wins": 7922.5,
+            "losses": 1527.5,
+            "win_rate": 0.8383597883597883
+          },
+          "correctness": {
+            "mu": 23.2735789495897,
+            "sigma": 0.9276275498052434,
+            "rating": 20.490584980415203,
+            "games_played": 9450,
+            "wins": 7901.5,
+            "losses": 1548.5,
+            "win_rate": 0.8361375661375662
+          },
+          "rigor_and_information_density": {
+            "mu": 35.720444596859345,
+            "sigma": 1.2013958993910143,
+            "rating": 32.11611272541144,
+            "games_played": 9450,
+            "wins": 8960.5,
+            "losses": 489.5,
+            "win_rate": 0.9482010582010582
+          }
+        }
+      },
+      "MOSES-nano": {
+        "name": "MOSES-nano",
+        "overall_rating": 27.282827229628197,
+        "overall_mu": 30.250579927699203,
+        "overall_sigma": 0.9892113293210278,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 35.278779349694915,
+            "sigma": 1.0952138851149489,
+            "rating": 31.99300626342662,
+            "games_played": 9450,
+            "wins": 6840.5,
+            "losses": 2609.5,
+            "win_rate": 0.7238624338624339
+          },
+          "completeness": {
+            "mu": 25.42456579515049,
+            "sigma": 0.9024423474918644,
+            "rating": 22.7171304552613,
+            "games_played": 9450,
+            "wins": 5351.5,
+            "losses": 4098.5,
+            "win_rate": 0.5662962962962963
+          },
+          "correctness": {
+            "mu": 27.8552151559604,
+            "sigma": 0.895028278846371,
+            "rating": 25.170022911731518,
+            "games_played": 9450,
+            "wins": 5481.5,
+            "losses": 3968.5,
+            "win_rate": 0.58005291005291
+          },
+          "rigor_and_information_density": {
+            "mu": 32.443759409991,
+            "sigma": 1.064160805830927,
+            "rating": 29.251149288093345,
+            "games_played": 9450,
+            "wins": 5343.5,
+            "losses": 4106.5,
+            "win_rate": 0.5654497354497354
+          }
+        }
+      },
+      "llasmol-top5": {
+        "name": "llasmol-top5",
+        "overall_rating": -0.43625665645779,
+        "overall_mu": 2.4745959226820142,
+        "overall_sigma": 0.9702453816788794,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 8.47676285571485,
+            "sigma": 0.931655208481178,
+            "rating": 5.681685427174175,
+            "games_played": 9450,
+            "wins": 776.0,
+            "losses": 8674.0,
+            "win_rate": 0.08211640211640212
+          },
+          "completeness": {
+            "mu": 0.7259603183271747,
+            "sigma": 0.9395826961392493,
+            "rating": -2.0929005245242873,
+            "games_played": 9450,
+            "wins": 880.0,
+            "losses": 8570.0,
+            "win_rate": 0.09312169312169312
+          },
+          "correctness": {
+            "mu": 0.554646254646052,
+            "sigma": 0.9933803648385781,
+            "rating": -2.4256140502818795,
+            "games_played": 9450,
+            "wins": 1429.5,
+            "losses": 8020.5,
+            "win_rate": 0.15126984126984128
+          },
+          "rigor_and_information_density": {
+            "mu": 0.1410142620399787,
+            "sigma": 1.0163632572565124,
+            "rating": -2.908197478199168,
+            "games_played": 9450,
+            "wins": 773.5,
+            "losses": 8676.5,
+            "win_rate": 0.08185185185185186
+          }
+        }
+      },
+      "o1": {
+        "name": "o1",
+        "overall_rating": 17.976236165468414,
+        "overall_mu": 21.029134828909974,
+        "overall_sigma": 1.0175921824983414,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 27.526912663335956,
+            "sigma": 1.0178470619169873,
+            "rating": 24.473249331051704,
+            "games_played": 9450,
+            "wins": 6120.0,
+            "losses": 3330.0,
+            "win_rate": 0.6476190476190476
+          },
+          "completeness": {
+            "mu": 14.439290944106128,
+            "sigma": 1.117134355660814,
+            "rating": 11.087753815638546,
+            "games_played": 9450,
+            "wins": 5448.5,
+            "losses": 4001.5,
+            "win_rate": 0.5765608465608466
+          },
+          "correctness": {
+            "mu": 19.34467799792611,
+            "sigma": 0.9754323875864055,
+            "rating": 16.418263778598117,
+            "games_played": 9450,
+            "wins": 6334.5,
+            "losses": 3115.5,
+            "win_rate": 0.6703174603174603
+          },
+          "rigor_and_information_density": {
+            "mu": 22.805657710271706,
+            "sigma": 0.9599549248291592,
+            "rating": 19.925677736585282,
+            "games_played": 9450,
+            "wins": 7452.5,
+            "losses": 1997.5,
+            "win_rate": 0.7886243386243387
+          }
+        }
+      },
+      "gpt-4.1-nano": {
+        "name": "gpt-4.1-nano",
+        "overall_rating": 22.807966320828015,
+        "overall_mu": 25.608875342489178,
+        "overall_sigma": 0.9335989951000996,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 31.241410289788547,
+            "sigma": 1.002032741567957,
+            "rating": 28.23519181634574,
+            "games_played": 9450,
+            "wins": 4946.0,
+            "losses": 4504.0,
+            "win_rate": 0.5233862433862434
+          },
+          "completeness": {
+            "mu": 21.95119891404433,
+            "sigma": 0.9145045328560788,
+            "rating": 19.207575570542353,
+            "games_played": 9450,
+            "wins": 5175.5,
+            "losses": 4274.5,
+            "win_rate": 0.5476719576719576
+          },
+          "correctness": {
+            "mu": 23.010581205719802,
+            "sigma": 0.8845904654386072,
+            "rating": 20.356703654301924,
+            "games_played": 9450,
+            "wins": 5474.5,
+            "losses": 3975.5,
+            "win_rate": 0.5793121693121693
+          },
+          "rigor_and_information_density": {
+            "mu": 26.232310960404035,
+            "sigma": 0.933268240537755,
+            "rating": 23.43239424212204,
+            "games_played": 9450,
+            "wins": 5197.5,
+            "losses": 4252.5,
+            "win_rate": 0.55
+          }
+        }
+      },
+      "lightrag-4.1-nano": {
+        "name": "lightrag-4.1-nano",
+        "overall_rating": 22.722236919003688,
+        "overall_mu": 25.687657232308126,
+        "overall_sigma": 0.9884338988306358,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 34.574103489162255,
+            "sigma": 1.1132628532059772,
+            "rating": 31.234181332658064,
+            "games_played": 9450,
+            "wins": 6951.5,
+            "losses": 2498.5,
+            "win_rate": 0.7356084656084656
+          },
+          "completeness": {
+            "mu": 20.236709634357105,
+            "sigma": 0.9451094431737772,
+            "rating": 17.401267887165886,
+            "games_played": 9450,
+            "wins": 5906.5,
+            "losses": 3543.5,
+            "win_rate": 0.625026455026455
+          },
+          "correctness": {
+            "mu": 19.99176865305082,
+            "sigma": 0.9257290636641812,
+            "rating": 17.21447037012696,
+            "games_played": 9450,
+            "wins": 5389.5,
+            "losses": 4060.5,
+            "win_rate": 0.5703174603174603
+          },
+          "rigor_and_information_density": {
+            "mu": 27.948047152662323,
+            "sigma": 0.9696342352786077,
+            "rating": 25.039028086063837,
+            "games_played": 9450,
+            "wins": 6092.0,
+            "losses": 3358.0,
+            "win_rate": 0.6446560846560847
+          }
+        }
+      },
+      "gpt-4o-mini": {
+        "name": "gpt-4o-mini",
+        "overall_rating": 17.327861312793257,
+        "overall_mu": 20.26129457238002,
+        "overall_sigma": 0.97777197408546,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 26.432850438674002,
+            "sigma": 0.9616807308858493,
+            "rating": 23.547692839712496,
+            "games_played": 9450,
+            "wins": 3205.0,
+            "losses": 6245.0,
+            "win_rate": 0.33915343915343915
+          },
+          "completeness": {
+            "mu": 21.262803445457767,
+            "sigma": 0.9293928980413908,
+            "rating": 18.474513219724564,
+            "games_played": 9450,
+            "wins": 3923.0,
+            "losses": 5527.0,
+            "win_rate": 0.41513227513227513
+          },
+          "correctness": {
+            "mu": 16.45073761030002,
+            "sigma": 0.9699076326497121,
+            "rating": 13.540898318779224,
+            "games_played": 9450,
+            "wins": 3522.5,
+            "losses": 5927.5,
+            "win_rate": 0.3727513227513228
+          },
+          "rigor_and_information_density": {
+            "mu": 16.898786795088295,
+            "sigma": 1.050106634764888,
+            "rating": 13.748340872956746,
+            "games_played": 9450,
+            "wins": 2951.0,
+            "losses": 6499.0,
+            "win_rate": 0.31227513227513226
+          }
+        }
+      },
+      "spark-chem13b-think": {
+        "name": "spark-chem13b-think",
+        "overall_rating": 19.965539126051215,
+        "overall_mu": 22.847714978171123,
+        "overall_sigma": 0.9606868550286074,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 20.8530362760378,
+            "sigma": 1.0233587974943166,
+            "rating": 17.78283707558683,
+            "games_played": 9450,
+            "wins": 4365.0,
+            "losses": 5085.0,
+            "win_rate": 0.46190476190476193
+          },
+          "completeness": {
+            "mu": 26.048891481239405,
+            "sigma": 0.9179010122385495,
+            "rating": 23.295078291996187,
+            "games_played": 9450,
+            "wins": 4425.5,
+            "losses": 5024.5,
+            "win_rate": 0.4683068783068783
+          },
+          "correctness": {
+            "mu": 24.41757113922927,
+            "sigma": 0.9047282096742462,
+            "rating": 21.7032779384785,
+            "games_played": 9450,
+            "wins": 4479.5,
+            "losses": 4970.5,
+            "win_rate": 0.474021164021164
+          },
+          "rigor_and_information_density": {
+            "mu": 20.07136101617802,
+            "sigma": 0.9967594007073175,
+            "rating": 17.080963198143348,
+            "games_played": 9450,
+            "wins": 3950.0,
+            "losses": 5500.0,
+            "win_rate": 0.41798941798941797
+          }
+        }
+      },
+      "llasmol-top1": {
+        "name": "llasmol-top1",
+        "overall_rating": -0.8639164468461988,
+        "overall_mu": 2.0417340613257644,
+        "overall_sigma": 0.9685114273838789,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 8.449331414067517,
+            "sigma": 0.933742669592421,
+            "rating": 5.647991351687759,
+            "games_played": 9450,
+            "wins": 780.0,
+            "losses": 8670.0,
+            "win_rate": 0.08253968253968254
+          },
+          "completeness": {
+            "mu": 0.7508786757147984,
+            "sigma": 0.9435339627008278,
+            "rating": -2.079836440992353,
+            "games_played": 9450,
+            "wins": 967.5,
+            "losses": 8482.5,
+            "win_rate": 0.10238095238095238
+          },
+          "correctness": {
+            "mu": -0.45046801300311845,
+            "sigma": 0.9817591723887238,
+            "rating": -3.395863345982609,
+            "games_played": 9450,
+            "wins": 1202.5,
+            "losses": 8247.5,
+            "win_rate": 0.12724867724867725
+          },
+          "rigor_and_information_density": {
+            "mu": -0.5828058314761393,
+            "sigma": 1.0150099048535426,
+            "rating": -3.6279573520975923,
+            "games_played": 9450,
+            "wins": 674.5,
+            "losses": 8775.5,
+            "win_rate": 0.07137566137566137
+          }
+        }
+      },
+      "gpt-4o": {
+        "name": "gpt-4o",
+        "overall_rating": 16.27755403233165,
+        "overall_mu": 19.289574507547666,
+        "overall_sigma": 1.0039666647990022,
+        "aggregation_method": "mean",
+        "dimension_ratings": {
+          "theoretical_depth": {
+            "mu": 28.17544938758338,
+            "sigma": 0.9724727143665246,
+            "rating": 25.257914543090028,
+            "games_played": 9450,
+            "wins": 3835.5,
+            "losses": 5614.5,
+            "win_rate": 0.4058730158730159
+          },
+          "completeness": {
+            "mu": 17.22740129053201,
+            "sigma": 0.9929569504123527,
+            "rating": 14.248411279694519,
+            "games_played": 9450,
+            "wins": 4739.5,
+            "losses": 4710.5,
+            "win_rate": 0.5015343915343915
+          },
+          "correctness": {
+            "mu": 13.966553194537282,
+            "sigma": 1.0264633641400405,
+            "rating": 10.887039921586242,
+            "games_played": 9450,
+            "wins": 4538.0,
+            "losses": 4912.0,
+            "win_rate": 0.4802116402116402
+          },
+          "rigor_and_information_density": {
+            "mu": 17.78889415753799,
+            "sigma": 1.0239736302770914,
+            "rating": 14.716850384955812,
+            "games_played": 9450,
+            "wins": 3857.0,
+            "losses": 5593.0,
+            "win_rate": 0.40814814814814815
+          }
+        }
+      }
+    }
+  },
+  "repetition_details": [],
+  "timing": {
+    "analysis_duration_seconds": 33.0331654548645,
+    "analysis_duration_formatted": "33.0s"
+  }
+}

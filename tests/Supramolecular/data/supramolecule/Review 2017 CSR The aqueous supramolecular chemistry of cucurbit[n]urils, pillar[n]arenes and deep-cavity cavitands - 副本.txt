@@ -1,0 +1,1438 @@
+Registered charity number: 207890
+rsc.li/chem-soc-rev
+Featuring work from the research laboratories of Professor 
+Kimoon Kim, Institute for Basic Science, Pohang, Korea, 
+Professor Tomoki Ogoshi, Kanazawa University, Japan, 
+and Professor Bruce Gibb, Tulane University, USA. 
+The aqueous supramolecular chemistry of cucurbit[n]urils, 
+pillar[n]arenes and deep-cavity cavitands
+A trinity of water-soluble hosts: cavitands, pillarenes and 
+cucurbiturils engender a diverse range of applications 
+controlled both by their individual functionality, and their 
+collective use of the hydrophobic effect.
+As featured in:
+See Kimoon Kim, Tomoki Ogoshi, 
+Bruce C. Gibb et al.,
+Chem. Soc. Rev., 2017, 46, 2479.
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2479
+Cite this: Chem. Soc. Rev., 2017,
+46, 2479
+The aqueous supramolecular chemistry of
+cucurbit[n]urils, pillar[n]arenes and deep-cavity
+cavitands
+James Murray,a Kimoon Kim,
+*a Tomoki Ogoshi,
+*bc Wei Yaod and
+Bruce C. Gibb
+*d
+This tutorial review summarizes the continuing exploration of three prominent water-soluble hosts:
+cucurbiturils, pillar[n]arenes and deep-cavity cavitands. As we describe, these hosts are revealing how
+orchestrating the hydrophobic eﬀect can lead to a broad range of properties and applications, from:
+nano-reactors, supramolecular polymers, stimuli-responsive biointerfaces, switches, and novel purification
+devices. We also describe how their study is also revealing more details about the properties of water and
+aqueous solutions.
+Introduction
+Aqueous supramolecular chemistry is dominated by two inter-
+related topics: the hydrophobic eﬀect and the Hofmeister eﬀect.
+The first of these pertains to how non-polar molecules dissolve
+(or do not dissolve) in water,1 whilst the second pertains to how
+salts modulate the properties of water and aqueous solutions; one
+prominent example of which is how salts modulate the hydro-
+phobic eﬀect.2 Though we do not have a full understanding of
+these phenomena, especially at the molecular level,3 we do know
+that the hydrophobic eﬀect is dependent on both size4 and shape5
+of a solute. It also seems to be the case that contrary to previous
+thoughts, the Hofmeister eﬀect does not control the hydrophobic
+eﬀect by changing the properties of water itself. Rather, recent
+evidence suggests that instead of indirectly influencing a solute, the
+cation and anion of a salt directly interact with a solute. There is
+still much to learn about these phenomena, but in the mean time
+supramolecular chemists, having recently identified some fasci-
+nating new kinds of water-soluble hosts, have forged ahead with
+attempting to learn how the hydrophobic eﬀect can be harnessed.
+This tutorial review takes three prominent hosts, cucurbiturils,
+pillar[n]arenes, and deep-cavity cavitands, and summarizes how
+their distinctive structures engender properties intimately tied to
+their form. We hope that in doing so we inspire others to delve into
+the murky waters of aqueous supramolecular chemistry.
+a Center for Self-assembly and Complexity (CSC), Institute for Basic Science (IBS),
+Pohang 37673, Republic of Korea. E-mail: kkim@postech.ac.kr
+b Graduate School of Natural Science and Technology, Kanazawa University,
+Kakuma-machi, Kanazawa, 920-1192, Japan. E-mail: ogoshi@se.kanazawa-u.ac.jp
+c JST, PRESTO, 4-1-8 Honcho, Kawaguchi, Saitama, 332-0012, Japan
+d Department of Chemistry, Tulane University, New Orleans, Louisiana 70118, USA.
+E-mail: bgibb@tulane.edu
+James Murray
+James Murray studied medicinal
+chemistry at the University of
+Leeds (MChem, 2010) and received
+a PhD from the same institution,
+working on self-assembled mono-
+layers (2014). After one year as a
+research associate in chemical
+proteomics at Newcastle University
+(UK) he joined the Center for Self-
+assembly of Complexity in 2016,
+where his research interests are in
+the applications of supramolecular
+chemistry to chemical biology.
+Kimoon Kim
+Kimoon Kim studied chemistry at
+SNU (BS, 1976), Korea Advanced
+Institute of Science and Technology
+(MS, 1978), and Stanford University
+(PhD, 1986). After two-years of
+postdoctoral work at Northwestern
+University, he joined POSTECH
+where he is now a Distinguished
+University Professor. Recently, he
+has been appointed as director
+of CSC, IBS. His current research
+focuses on developing novel func-
+tional materials and systems based
+on supramolecular chemistry.
+Received 6th February 2017
+DOI: 10.1039/c7cs00095b
+rsc.li/chem-soc-rev
+Chem Soc Rev
+REVIEW ARTICLE
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+View Journal  | View Issue
+2480 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+Cucurbit[n]urils
+Preamble
+Cucurbit[n]urils (CB[n] = 5–8, 10, 13–15) are a family of macro-
+cyclic molecules with remarkable aqueous host–guest chemistry.
+They are composed of n glycoluril units bridged by 2n methylene
+units to form a macrocycle with a hydrophobic cavity that is
+accessible by two identical portals (Fig. 1). CB[6] was the first of
+these to be synthesized in 1905 by Berhend, but the structure
+was not known until it was solved by Mock in the 1980s. CB[6]
+was studied as a molecular container with interesting properties,
+including the rate acceleration of regiospecific reactions. The
+CB[n] family6 was introduced by Kim7 and Day8 in the early
+2000s. By heating glycoluril and formaldehyde under acidic
+conditions at high temperature (110 1C) the thermodynamic
+product, CB[6], is formed almost exclusively; however, at lower
+temperatures (75–100 1C) the kinetic products of the reaction
+(mainly CB[5], CB[7], and CB[8]) along with CB[6] can be pro-
+duced and isolated, along with a small amount of the larger
+homologues. In 2016, two more members of the CB family were
+isolated, CB[13] and CB[15].9 Like CB[14], they adopt a twisted
+structure. Much of the early work on CB[n] including Mock’s
+structural characterisation of CB[6] and early investigations
+into the host–guest chemistry in the 1980s, the characterisation
+of the properties of CB[n] (n = 5–8, 10) and the emerging host–
+guest chemistry of the newly discovered homologues was reviewed
+thoroughly by Isaacs in 2005.10 The remarkably inert environment
+inside the cavity of CB[n] is more like the gas phase than any
+other form of matter because there is very little electron density
+in the cavity itself; there are no functional groups or lone pairs
+of electrons pointing inward. Consequently, CB[n] show a pre-
+ference for guests that are hydrophobic and have good size
+complementarity with the cavity. Each portal is made from
+n ureido carbonyls; the proximity of these carbonyls leads to a
+Fig. 1
+The chemical structures of the known CB[n] and a stick represen-
+tation of CB[7].
+Wei Yao
+Wei Yao was born and raised in
+Xi’an, China. He obtained his BS
+in Pharmacy and MS in Medicinal
+Chemistry from China Pharma-
+ceutical
+University.
+In
+2014,
+he moved to Tulane University
+(New Orleans, USA) to pursue his
+PhD degree in organic chemistry
+in professor Gibb’s research group.
+Currently, his research focuses on
+two topics: Hofmeister ion binding
+to synthetic hosts, and proteins,
+and the designing and synthesis
+of
+functionalized
+water-soluble
+cavitands
+for
+supramolecular
+polymers.
+Bruce C. Gibb
+Bruce C. Gibb received both his
+BSc (1987) and PhD (1992) degrees
+from Robert Gordon’s University,
+where his director of studies for
+his doctoral degree was Philip
+J. Cox. He then carried out post-
+doctoral research at the University
+of British Columbia with John C.
+Sherman
+and
+subsequently
+at
+New York University with James
+W. Canary. In 1996 he joined the
+University of New Orleans, where
+he was promoted to associate
+professor in 2002, full professor
+in 2005, and ultimately University Research Professor in 2007. In
+2012 he moved to Tulane University. His research interests focus on
+the many aspects of aqueous supramolecular chemistry.
+Tomoki Ogoshi
+Tomoki Ogoshi received his BS
+(2000),
+MS
+(2002),
+and
+PhD
+degrees (2005) from Kyoto Univer-
+sity
+under
+the
+supervision
+of
+Prof. Yoshiki Chujo. He was a
+JSPS postdoctoral research fellow
+(2005–2006)
+in
+the
+Graduate
+School of Science at Osaka Uni-
+versity in the group of Prof. Akira
+Harada. In 2006, he moved to the
+Graduate School of Natural Science
+and Technology at Kanazawa Uni-
+versity as an assistant professor
+(2006–2010). He was an associate
+professor (2010–2015) and was promoted to a professor at the same
+university at 2015. He works also as JST-PRESTO Researcher: PRESTO
+program ‘‘Hyper-nano-space design toward innovative functionality’’
+from Oct. 2013 under the research supervisor of Prof. Kazuyuki Kuroda
+(Waseda University). He has received HGCS Japan Award Excellence
+2010 (2011), The Chemical Society of Japan Award for Young Chemists
+(2012), The Cram Lehn Pedersen Prize in Supramolecular Chemistry;
+Royal Society of Chemistry (2013), The Commendation for Science and
+Technology by the Minister of Education, Culture, Sports, Science and
+Technology (2014), Nozoe Memorial Award for Young Organic
+Chemists (2016), Banyu Chemist Award 2016 (2016) and Lectureship
+Award MBLA 2016 (2017). His research interests include organic
+synthesis, and supramolecular and hybrid materials.
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2481
+ring that is very electronegative (Fig. 2). The effect of the electro-
+static potential is manifested in the host–guest chemistry: all
+CB[n] show a distinct preference to interact with cationic species
+over neutral species and even more so over anionic species. The
+portal diameter is generally smaller than that of the cavity,
+which results in host–guest complexes with low dissociation
+rates. Generally, CB[n] prefer amphiphilic guests that combine
+a cationic group with a hydrophobic core. The aqueous solubi-
+lity of the CB[n] family varies by member. CB[5] and CB[7] show
+moderate water solubility (20–30 mM) whereas CB[6] and CB[8]
+are much less soluble in water. Their solubility increases in acidic
+solutions, since the carbonyl portals interact with hydronium
+ions facilitating the dissolution. Under neutral conditions, the
+addition of alkali metal salts is also an efficient solubilizing
+method. Furthermore, the solubility of the CB[n] tends to increase
+upon incorporating a guest molecule; especially a positively
+charged one. Despite their relatively low solubility, there are
+therefore several ways that the host–guest chemistry of CB[n]
+can be translated into aqueous chemistry applications. The
+combination of these properties has allowed the realisation
+of many aqueous chemistry applications. CB[n] applications
+include acting as reaction containers, as a tool to functionalize
+planar and particulate surfaces, and in sensing. There have
+been several reviews published recently which outline these
+applications as well as the fundamental studies on CB[n] host–
+guest chemistry.11–14 In this review, two unique features of CB
+chemistry are highlighted. First, the ability of CB[8] to form
+ternary complexes and how this can be utilized to build supra-
+molecular assemblies and functionalize aqueous interfaces.
+Second, the remarkably high-affinity binding of CB[7] towards
+ferrocene, adamantane and other ammonium-derived guests
+in water.
+The curious case of CB[8]
+The standout feature of CB[8] is its ability to form ternary com-
+plexes with either 1:2 (host:guest) or 1:1:1 (host:guest 1:guest 2)
+stoichiometry with a variety of guest molecules. Among these,
+charge-transfer (CT) complexes, where one guest is a p–donor
+and the other is a p–acceptor, form particularly stable ternary
+complexes. CT complexes can form supramolecular assemblies,
+such as rotaxanes and catenanes, spontaneously; they can
+be further stabilized when encapsulated in CB[8]. The first
+example reported by Kim and co-workers15 consisted of methyl
+viologen (MV2+, p–acceptor) and 2,6-hydroxynaphthalene (HN,
+p–donor), which forms a stable charge transfer complex inside
+CB[8] spontaneously. The host markedly enhances the CT inter-
+action to give a stable ternary complex. Complexes of this
+type form spontaneously when the components are mixed in
+a 1 : 1 : 1 ratio. The complexes also form in a step-wise manner;
+the electron-deficient guest binds first to CB[8] and the electron
+rich component is incorporated second (a process that is
+often very exothermic). The electron-rich guest does not bind
+to CB[8] in the absence of an electron poor guest. This well-
+defined donor–acceptor behaviour provides a unique opportunity
+to construct, stable supramolecular assemblies in water and at
+aqueous interfaces. The donor–acceptor moieties can be incor-
+porated into the same molecule (D–A), which can then interact
+with CB[8] to give a range of assemblies that varies in complexity.
+For example, a D–A molecule can form a looped 1 : 1 complex or
+a linear 2 : 2 stacked complex, which can also be extended into a
+supramolecular polymer or into a cyclic ‘molecular necklace’.
+The earlier work on the construction of supramolecular assem-
+blies based on the host-stabilised CT complex formation was
+reviewed by Kim.16 Scherman has used CB[8] extensively in the
+preparation of supramolecular block copolymers, which can also
+be extended into 3D-networks; this important contribution to
+the field is discussed in Scherman’s recent review and the
+references therein.12 More recently, Scherman has integrated
+microfluidics and host–guest chemistry to construct CB[8]-based
+microcapsules inside droplets.17 The use of CB[8] to construct
+these microcapsules bestows stimuli responsiveness to the
+formed materials and may have applications as responsive
+cargo delivery vehicles. Another of CB[8]’s interesting features is
+that it has intrinsic affinity with specific peptide sequences that
+allows the formation of peptide-based charge-transfer complexes.
+Aromatic amino acids can act as electron-poor components of a
+charge transfer complex; therefore, they can form host-stabilized
+complexes with CB[8] and MV2+. Urbach and co-workers have
+been the pioneers in this area; they found that tripeptides
+containing one tryptophan and two glycine residues (WGG,
+GWG, GGW) form CT-complexes with CB[8] and MV2+, and that
+the closer the aromatic residue is to the N-terminus the stronger
+the interaction. Scherman and co-workers have exploited this by
+using CB[8] and MV2+ as an electrochemically responsive system
+to capture N-terminal-tryptophan-containing peptides. N-terminal
+tryptophan is an electron rich species which forms a CB[8]-
+stabilized CT-complexes with MV2+. Thiol labelled MV2+ was
+immobilized onto a gold surface; these viologens were then
+threaded with CB[8]. The surface was then primed to selectively
+capture N-terminal-tryptophan-containing peptides. From a
+mixture of peptides, only N-terminal tryptophan peptides were
+immobilized. Furthermore, the MV2+ can be reduced to MV+
+causing the complex to dissociate and release the peptides. Not
+only can a CB[8]–MV2+ surface be used to capture simple bio-
+molecules it can also be used to control cell adhesion to a
+surface. Jonkheijm and Huskens have used a similar CB[8]–MV2+
+surface; however, they employed a simple peptide with an
+N-terminal tryptophan (a p–donor) possessing an RGD group
+(a peptide sequence that is known to adhere to cells) as the
+third component in the ternary complex. When the ternary
+complex was formed the RGD group was available for binding,
+Fig. 2
+The surface electrostatic potential for CB[7] (left) and b-cyclodextrin
+(right). The blue colour represents positive charge, and the red represents
+negative. Taken from ref. 11. Copyright, 2015 Royal Society of Chemistry.
+Chem Soc Rev
+Review Article
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+2482 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+which allowed cells to adhere to the surface. When the MV2+
+was electro-chemically reduced, the complex dissociated and
+the tryptophan-containing RGD peptide was released, causing
+the cells to detach from the surface. The peptide array can be
+regenerated by re-oxidising MV+ back to MV2+. Scherman and
+coworkers have extended this principle to prepare a surface
+with two orthogonal switching mechanisms (Fig. 3). As well as
+using redox chemistry, they also use a light responsive CB[8]
+guest, azobenzene. The surface was functionalized with azo-
+benzene and the methyl viologen and CB[8] were added from
+solution. This allowed the preparation of a tristable system that
+may be useful for preparing responsive surfaces at biointerfaces
+or for memory applications. The reader is directed to a recent
+review (and the references therein) by Zhang and Scherman on
+the use of supramolecular chemistry to functionalize aqueous
+interfaces for the original work.18
+Ultra-high aﬃnity CB-guest pairs
+CB[n]s shows very high aﬃnities for specific guests and discri-
+minates based on charge and shape. For example, CB[n] aﬃnity
+has been reported to be as high as 1017 M1, and they show
+selectivity for cationic species, moderate aﬃnity for neutral
+guests and little aﬃnity for anionic species. The charge selectivity
+can be easily rationalized by considering the highly polarized
+ureidyl portal that can make ion–dipole interactions with cationic
+guests. While most macrocycles exhibit an enthalpy dominated
+hydrophobic effect, it does not usually manifest as high binding
+affinity. In the case of CB[n] (CB[7], in particular) the enthalpic
+contributions and resultant binding affinities are exceptionally
+high because of the unfavourable interactions water molecules
+experience in the CB[n] cavity. In this section, we shall discuss the
+design and binding affinities of high-affinity guests for CB[7] and
+describe the thermodynamic basis of this high affinity. Finally,
+we will showcase some of the notable applications of these
+high-affinity host–guest pairs. The first high guest affinities for
+CB[7] were measured in 2005 by Isaacs19 (NMR) and in a parallel
+study by the groups of Kim, Inoue, and Kaifer (ITC).20 The latter
+study showed that the neutral ferrocene derivative F1 (Fig. 4)
+binds CB[7] with Ka = 109 M1, since it is hydrophobic and has
+very good size complementarity with CB[7], thereby filling the
+cavity effectively. Higher affinity guests can be achieved by addi-
+tion of a cationic group, di(or tri)alkylmethylammonium, onto
+the ferrocene core (Fig. 4). The cationic ferrocene derivatives F2
+and F3 have affinities of Ka = 1012 M1. At the time these were
+the highest affinity, monovalent binding pairs known. The high
+affinity of neutral ferrocene and 1000-fold affinity increase upon
+the addition of the cationic group suggests that the ferrocene is
+well-positioned in the CB[7] cavity and the cationic group is in an
+ideal position to make an ion–dipole interaction with the portal.
+In 2007, the groups of Inoue, Kim, Isaacs, Kaifer, and Gilson21
+wondered whether a higher affinity guest could be realized by
+the addition of a second cationic group. Indeed, this is the case,
+bis-trimethylammoium ferrocene (F4) has a binding affinity for
+CB[7] of 1015 M1, measured by ITC. This was a significant
+milestone because it was the first synthetic host–guest pair to
+surpass that of biotin–(strept)avidin (Bt–SA), which is the bench-
+mark high-affinity binding pair in nature. The X-ray structure of
+this complex shows that it is symmetrical and both trimethyl-
+ammoniums protrude from the cavity, the ferrocene unit is
+slightly tilted to make ion–dipole interactions with the portal.
+The complex is exceptionally tight, as shown by a very short
+T1 relaxation time for the ferrocenyl protons in the 1H NMR.
+Another family of molecules that can form high-affinity com-
+plexes with CB[7] are aminoadamantane derivatives. Isaacs and
+co-worker19 were the first to measure the affinity aminoadamantane
+and found that its binding constant for CB[7] is 1012 M1. Unlike
+ferrocene derivatives, further alkylation of the ammonium groups
+does not significantly affect the binding affinity. In 2014, Isaacs,
+Fig. 3
+(a) Orthogonal stimuli-responsive biointerfaces on the base of CB[8]-mediated ternary host–guest complex; (b) fluorescence microscopy images
+and (c) water contact angle measurement of the corresponding states. Reprinted with permission from Nat. Commun., 2012, 3, 1207. Copyright 2012
+Nature Publishing Group.
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2483
+Glaser and Mlinaric-Majerski22 synthesized a new, related dia-
+mantane
+guest
+(D3).
+The
+diamantane
+is
+a
+symmetrical
+aminoadamantane with a cationic group (trimethyl-ammonium)
+on both sides, both cationic groups are ideally placed to make
+the ion–dipole interactions with both portals. Furthermore, the
+diamantane group effectively fills the cavity, these two factors
+should make for an exceptionally high-affinity guest. The affinity
+measured by NMR was so high to have an attomolar (1018 M)
+dissociation constant.22 This is currently the highest synthetic
+binding pair known. The binding constants for these guests are
+shown in Fig. 4. There are two common features that these
+guests share: first, the hydrophobic cores are rigid and com-
+plement the CB[7] cavity; second, the ammonium groups of the
+guest are ideally positioned to make ion–dipole interactions
+with one or both portals. Generally, complexation events exhibit
+enthalpy–entropy compensation, whereby a favourable enthalpic
+contribution caused by the newly introduced functional group is
+offset by an unfavourable entropic penalty. One of the many
+potential bases for this phenomenon is that the newly intro-
+duced non-covalent interaction that increases the enthalpy of
+association also leads to an associated increase in configura-
+tional restriction of the guest.23 Cyclodextrins exhibit this effect
+very well as shown in the plot (Fig. 5), but when high-affinity
+cucurbituril guests are added to this plot, it is clear that they
+do not follow the same trend. When the binding affinities are
+deconstructed into their enthalpic and entropic contributions
+the reasons for the high binding affinities becomes clearer
+(Fig. 4). When the neutral hydroxymethyl of the neutral ferrocene
+F1 is replaced with methylammonium derivatives the enthalpy is
+unperturbed (DH1 = 21 kcal mol1), but the entropy penalty
+decreases (3.8–4.3 kcal mol1) and this is responsible for the
+1000-fold enhancement in binding affinity; the pattern repeats
+on the addition of a second methylammonium group. There are
+several remarkable things here: first, F1 binds to CB[n] mainly
+by hydrophobic interactions and the enthalpy contribution to
+this interaction is remarkably large compared to other host–
+guest systems. Secondly, there is no additional enthalpy gain by
+addition of an ammonium to the guest (F2–F4), which makes
+Fig. 4
+High aﬃnity CB[7] guests and their thermodynamic parameters.
+(A) Ferrocene derivatives; (B) adamantane derivatives; and (C) the record-
+breaking diamante high aﬃnity guests. All of the binding aﬃnities were
+measured in water, with the exception of D1–D3, which were measured in
+NaO2CCD3, pH = 4.74. Adapted from ref. 11.
+Fig. 5
+The thermodynamic data for the complexation of ferrocene (
+) and
+adamantane (
+) derivatives to CB[7] compared with cyclodextrin–guest
+complexation (’). The data points for the high affinity CB[7] guests are
+significantly deviated from those of the cyclodextrin guests. Modified from
+ref. 11. Copyright, 2015 Royal Society of Chemistry.
+Chem Soc Rev
+Review Article
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+2484 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+an ion–dipole interaction. Instead, the 1000-fold increase in binding
+affinity per cation is driven, entropically, by the desolvation of
+the portals and the guest’s cation(s).
+The enthalpy-driven hydrophobic eﬀect exemplified by
+cucurbiturils has been investigated in detail by the group of
+Nau and has been summarized recently,24 so it will only be
+discussed briefly here. The structural features of CB[n] maxi-
+mize this enthalpy-dominated hydrophobic eﬀect because the
+cavity is very apolar and the rigid structure means no reconfi-
+guration is possible to alleviate the energetic frustration of the
+cavity water molecules. The extreme enthalpically-driven hydro-
+phobic eﬀect is most evident in the case of the neutral ferro-
+cene derivative F1, which has a binding of 109 M1, and DH1
+21 kcal mol1 which is remarkably high for a hydrophobic
+interaction. For comparison, b-cyclodextrin (which has a similar
+size cavity to CB[7]) binding aﬃnities rarely exceed 106 M1.
+Simulations have suggested that the water molecules in the
+CB[7] cavity have a lower hydrogen bond count than those in
+the bulk solution. Therefore, the cavity may possess a drying
+transition and host–guest complexation would therefore not have
+to compete with pocket desolvation. This enthalpy-dominated
+hydrophobic effect is maximal for CB[7], since CB[6] has a
+smaller cavity with less potential for dewetting, and CB[8] is
+larger and the simulated water molecules are closer to that of the
+bulk solution; experimentally, it has been shown the DH value is
+lower for CB[6] and CB[8] than it is for CB[7]. Another case where
+desolvation of the cavity is enthalpically dominated is when
+CB[8] forms a ternary complex. Upon complexation of the first
+guest, the remaining cavity volume is much smaller and possess
+a similar dewetting potential to CB[7]. As expected, the addition
+of the second guest is strongly exothermic, especially when the
+guest completely desolvates the cavity such as the CT-complexes
+described above. Nau and co-workers have shown the lower
+hydrogen bond count of the cavity water molecules is important
+in these systems by demonstrating a solvent and solvent isotope
+effect on binding affinity. In acetonitrile, the binding affinity is
+1000-fold less, and the second guest binding is more exothermic
+in water than in deuterium oxide because the hydrogen bonds
+are stronger than deuterium bonds. Overall, multiple studies
+have demonstrated the importance of the enthalpy-dominated
+hydrophobic effect in the high-affinity binding of cucurbiturils.
+The reader is directed to the reviews by Nau24 and Kim11 and
+the references therein for the original studies. Furthermore, the
+ion–dipole interaction seems to be almost entirely entropy-
+dominated caused by the desolvation of the cation and portal
+upon guest binding, which is shown by the deconstructed thermo-
+dynamic data with various ferrocene derivatives.
+Since the high-aﬃnity CB[7] host–guest pairs now approach –
+and even surpass – the biotin streptavidin (Bt–SA) interaction,
+this raises the question: can these pairs be applied as widely as
+the natural pair? Soon after the high-affinity host–guest pairs
+were discovered they were used as replacements for Bt–SA, and
+in some cases, may eventually supplant the natural binding pair.
+The advantages of the CB[7] system include that it is resistant to
+enzymatic degradation and the binding may be modulated or
+reversed by a competitor guest or by changing the redox state
+of the guest molecule. The applications of the CB[7] system
+include biomolecule immobilization, protein enrichment, adhe-
+sive materials, high-affinity FRET-pairs, therapeutic activation of
+nanoparticles, and regulation of biological catalysis. These appli-
+cations have been reviewed recently, along with methods to
+functionalize CB[7] to better harness its properties in materials
+applications. We will highlight a few of these applications here;
+the reader is directed to the review by Kim and the references
+therein for the original works.11 The first example of such an
+application was the immobilization of a protein onto a self-
+assembled monolayer (SAM). An allyl-functionalized CB[7] was
+attached to an allyl-terminated SAM by employing a metathesis
+reaction. This CB[7] functionalized surface was able to anchor
+ferrocene-labelled (‘‘ferrocenylated’’) glucose oxidase (Fc-GOx)
+to the surface. Since GOx is redox active, this surface was used
+as a biosensing platform for glucose. In a similar vein, Kim and
+co-workers prepared a CB[7]-bead analogous to a streptavidin
+(SA) functionalized bead. In the life sciences, SA-beads are often
+used to capture biotinylated proteins to enrich a protein of interest.
+However, SA-beads can also capture endogenously biotinylated
+proteins, and release of the biotinylated proteins from the
+beads, post-enrichment, requires very harsh conditions. The
+CB[7] bead is able to selectively capture ferrocenylated proteins
+(in this case membrane proteins) and after enrichment, the
+ferrocenylated proteins are released simply by incubation with a
+higher affinity guest, F4 (Fig. 6). Another interesting application
+is the development of an underwater adhesion system. Velcos
+works by fastening hooks into loops, and Kim and co-workers
+wondered if this kind of attachment could be replicated at the
+molecular level using a CB[7]-functionalized surface (the loop)
+and a complimentary cationic ferrocene-functionalized surface
+(the hook). When the surfaces are wet, they adhere to each
+other; these can either be separated by mechanical force or by
+oxidation of the ferrocene with hypochlorite solution. This work
+represents the transformation of a molecular recognition event
+into a macroscopic property (Fig. 7). CB[7] can also be function-
+alized for solution-based applications, for example, Kim and
+co-workers have prepared a Cy3-functionalized CB[7] and used
+this to form a high-affinity FRET-pair with a Cy5-functionlized
+adamantane. This pair was used in a vesicle mixing assay,
+whereby each component was reconstituted into an individual
+vesicle, and when these vesicles were mixed, a FRET-signal was
+observed. The most interesting finding from this work was direct
+observation of flickering-fusion events caused by transient opening
+and closing of the pore formed between the vesicles. This work
+emphasizes the power of using a simple synthetic system for
+examining a complex process.
+Moving to therapeutic applications Rotello and Isaacs have
+used a CB[7]-based system to pacify and then activate cytotoxic
+nanoparticles in response to a chemical stimulus (Fig. 8). The
+cytotoxic nanoparticles were prepared by functionalizing a gold-
+nanoparticle terminated with diamino-hexane. When these
+nanoparticles were treated with CB[7], the CB[7] moiety caps
+the amines and renders the particle non-cytotoxic, by virtue of it
+becoming trapped in the endosome after uptake. Upon addi-
+tion of a high-aﬃnity guest, A2, the CB[7] cap is removed since
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2485
+CB[7] forms a more favourable complex with A2. This triggers
+endosomal escape of the nanoparticles into the cytosol, thereby
+activating the cytotoxicity. This work is significant in that it
+shows that CB[7] system is robust and selective enough to be
+activated in in vivo conditions and may have important applica-
+tions in drug delivery. Isaacs and co-workers have demonstrated
+control of biological catalysis using CB[7]. By preparing a bifunc-
+tional molecule that is able to bind both CB[7] and bovine
+carbonic anhydrase (BCA), a supramolecular switch was pre-
+pared. The molecule binds to BCA, thereby inhibiting its catalytic
+activity, but upon addition of CB[7] the extra steric bulk causes
+the inhibitor to dissociate and reactivates the catalytic activity.
+The process can be reversed by addition of trimethylsilyl-
+methylammonium, a moderate-to-high aﬃnity guest for CB[7]
+(Ka B 109 M1) that causes the release of the two-faced molecule,
+which in turn re-inhibits the BCA.
+The signature high-aﬃnity binding of the CB[n] family is in
+large part a result of CB[n]’s poor interactions with water. The
+narrower portal of CBs relative to cyclodextrins may make their
+pockets more inhospitable to water because each water molecule
+encapsulated must accept a lower H-bond count than it would in
+the bulk solution; the filling of the cavity with a hydrophobic guest
+is therefore very exothermic. The polar portals are well solvated in
+water and desolvation of the portal (and a cationic guest) by
+making an ion–dipole interaction between host and guest is very
+entropically favourable, leading to a 1000-fold increase in binding
+in some cases.
+These unusual thermodynamic eﬀects are particularly apparent
+in CB[7], but similar high-aﬃnity binding is also apparent in
+CB[8] systems. The addition of a second guest in the formation
+of a CB[8] stabilized-CT-complex is also subject to an enthalpy-
+dominated hydrophobic eﬀect. Not only does CB[8] form stable
+assemblies but they can also be switchable, for example by redox
+chemistry, and this has been exploited as a tool to prepare
+stimuli-responsive (bio)interfaces. The exceptional stability, bio-
+compatibility, and ease of handling means that the CB[7] system
+may compliment – or even supplant – Bt–SA for some applications.
+Fig. 6
+The isolation of plasma membrane protein by use of CB[7] immobilized onto a support bead. The captured proteins are released by exchange
+with a higher aﬃnity guest, BAF (F4). Reprinted with permission from Nat. Chem., 2011, 3, 154–159. Copyright 2011, Nature Publishing Group.
+Fig. 7
+Supramolecular Velcros for underwater adhesion between CB[7]
+and Fc functionalized surfaces. Reprinted with permission from Angew.
+Chem., Int. Ed., 2013, 52, 3140–3144. Copyright 2013, Wiley-VCH Verlag
+GmbH & Co. KGaA.
+Fig. 8
+Schematic illustration of the activation of gold nanoparticle (AuNP–NH2)
+cytotoxicity by use of an ultrastable host–guest pair. Reprinted with permission
+from Nat. Chem., 2010, 2, 962–966. Copyright 2010, Nature Publishing Group.
+Chem Soc Rev
+Review Article
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+2486 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+Recent progress in the field suggests that high-affinity binding
+pairs are making the transition from basic research into impor-
+tant applications.
+Pillar[n]arenes
+Preamble
+Pillar[n]arenes are a family of pillar-shaped or cylindrical cyclic
+hosts possessing aromatic walls (Fig. 9).25–30
+Similar to the calix[n]arenes, the repeating units of pillar[n]-
+arenes are phenolic moieties; however, in pillar[n]arenes, the
+repeating units are connected by methylene bridges at their
+2- and 5-positions (i.e., in the para-positions), whereas the repeating
+units in calix[n]arenes are linked by methylene bridges at their
+2- and 6-positions (meta-positions). It is this diﬀerence that leads
+to pillar[n]arenes possessing pockets that are open at both
+ends, i.e., they are of cylindrical form in contrast to the conical
+calixarenes. Inspired by the highly symmetrical pillars that
+constitute the Parthenon in Athens (Fig. 9b), in 2008 Ogoshi
+named these new macrocyclic hosts ‘‘pillar[n]arenes’’.25 The
+pillar-shaped structure has a large influence on the physical
+properties of pillar[n]arenes. One important feature is their host–
+guest properties; pillar[n]arene units are constructed from electron-
+rich (donating) 1,4-dialkoxy-benzenes, which gives the cavity an
+affinity for electron-deficient guests. Furthermore, the cylindrical
+structure very efficiently enhances the p-electron density in the
+cavity (Fig. 9c). In contrast, the p-electron density enhancement is
+not efficient in the cavity of calix[n]arenes because the calix-shaped
+structures are not the ideal platform for this enhancement. The
+electron-rich cavity of pillar[n]arenes means that they prefer to bind
+molecules with cationic moieties, such as pyridinium, viologen and
+ammonium moieties. However, Li and co-workers discovered very
+strong complexation between simple alkylated pillar[5]arenes and
+neutral linear molecules with electron-withdrawing groups at
+the termini. The association constants for these systems were in
+the vicinity of 104 M1, which indicates a surprisingly efficient
+host–guest interaction, particularly in organic media. Among
+various hosts, the cucurbit[n]urils form some of the strongest
+complexes, but these complexes are formed not in organic, but
+in aqueous media.
+Pillar[n]arenes consist of hydrophobic cores of aromatic
+and methylene bridges and have substituents on both rims.
+An important advantage of pillar[n]arene chemistry is that the
+core pillar[n]arene macrocyclic structure is easy to construct.
+Numerous synthetic pathways have been investigated for the
+preparation of pillar[n]arenes, and a simple and easy pathway is
+the reaction of 1,4-dialkoxybenzene with paraformaldehyde and
+an appropriate acid. The solvents used for the reaction play a
+major role in determining the number of repeating units (Fig. 9a).
+Cyclic pentamers pillar[5]arenes are prepared in high yields when
+1,2-dichloroethane is used as the solvent. 1,2-Dichloroethane is a
+linear molecule with electron-with-drawing chlorine moieties at
+both ends, and thus acts as a template solvent in the formation
+of pillar[5]arenes. In contrast, mixtures of larger pillar[n]arene
+homologues and linear oligomers are obtained when chloro-
+form is used as the solvent. Unlike 1,2-dichloroethane, chloro-
+form does not act as a template for pillar[5]arenes because it
+has three chlorine moieties, which does not fit to this particular
+pillar[n]arene homologues. The bulky solvent chlorocyclohexane
+is one of several good template solvents for the synthesis of
+pillar[6]arenes because the cavity size of pillar[6]arenes (ca. 6.7 Å)
+is larger than that of pillar[5]arenes (ca. 4.7 Å), and fits to the
+bulky solvent chlorocyclohexane. An important advantage of
+pillar[n]arenes compared with other host molecules is their
+versatile functionality.28 The alkoxy substituents on both rims
+of pillar[n]arenes can be readily converted to reactive moieties
+such as phenol, bromide, azide and alkyne moieties (Fig. 9a).
+Substrates with reactive phenolic moieties can be synthesised by
+deprotection of the alkoxy substituents of pre-formed pillar[n]arenes.
+Pillar[n]arenes bearing bromide and alkyne moieties are acces-
+sible by cyclisation of the corresponding 1,4-dialkoxybenzenes
+with two bromide and two alkyne moieties. Pillar[n]arenes with
+azido moieties can be readily prepared by reaction of pre-formed
+bromide derivatives and sodium azide. These three types of
+pillar[n]arenes are useful key compounds for the preparation of
+further functionalised pillar[n]arenes. Etherification is a straight-
+forward pathway to functionalise pillar[n]arenes from phenol
+derivatives. Cationisation and etherification can be used to
+functionalise bromide-substituted pillar[n]arenes. Copper(I)-
+catalysed alkyne–azide cyclisation (CuAAC) reactions between
+alkyne-bearing pillar[n]arenes and monoazides or azido-
+functionalised pillar[n]arenes and monoalkynes are facile and
+useful methods for producing various functionalised pillar[n]arenes.
+The substituents on both rims also determine the physical proper-
+ties of the pillar[n]arenes, such as their solubility, and conforma-
+tional and host–guest properties, because the pillar[n]arene cores
+are surrounded by these functional substituents. It is therefore
+possible to design various highly functionalised pillar[n]arenes
+based on this versatile functionality.
+Synthesis and properties of water-soluble pillar[n]arenes
+Pillar[n]arenes with hydrophobic chains, such as those with simple
+alkyl and phenolic substituents, are not water-soluble. Therefore,
+host–guest complexation using these pillar[n]arenes is mainly
+investigated in organic solvents. However, per-functionalisation is a
+convenient way of altering the solubility properties of pillar[n]arenes
+because their solubility depends on the substituents that surround
+the pillar[n]arene core. Introducing hydrophilic moieties, such as
+Fig. 9
+(a) Synthesis of pillar[n]arenes with functional groups, (b) X-ray crystal
+structures of pillar[5]arene and (c) calculated electron potential profile (DFT,
+B3LYP/6-31G(d,p)) of a pillar[5]arene bearing 10 methyl substituents.
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2487
+cationic or anionic groups onto both rims of pillar[n]arenes can
+afford water-soluble pillar[n]arenes (Fig. 10). Ogoshi and coworkers
+first synthesised a water-soluble pillar[5]arene by modification
+with carboxylate anions on the pillar[5]arene rims (Fig. 10a).31
+First, ethoxycarbonylmethoxy-substituted pillar[5]arene was syn-
+thesised by etherification. Subsequent hydrolysis of the ethoxy
+moieties under basic conditions afforded pillar[5]arene H1,
+containing 10 carboxylate centers. The presence of 10 negative
+charges makes it possible for this pillar[5]arene to act as a
+cation receptor in water. For example, when H1 was mixed with
+cationic viologen salt G1, namely paraquat, a 1 : 1 host–guest
+complex was formed. The association constant of the complex
+determined by fluorescence measurements was (8.2  1.7) 
+104 M1, which is almost 70 times higher than that of the
+complex formed between paraquat and a pillar[5]arene contain-
+ing 10 phenolic moieties in methanol; in aqueous media, the
+hydrophobic effect, electrostatic interactions between cationic
+paraquat G1 and the carboxylate anions on the rims of H1,
+and the charge-transfer interaction between host and guest all
+combine to promote binding. Li, Jia, and co-workers investigated
+the complexation behaviour of 20 amino acids with H1.32 H1
+showed highly selective binding (K = ca. 103 M1) towards amino
+acids such as L-arginine G2, L-lysine G3 and L-histidine G4 compared
+with that towards other a-amino acids (K = ca. 20 M1). The basic
+structure of amino acids contains one amino group; however,
+L-lysine,
+L-arginine, and
+L-histidine have additional amino
+groups on their side chains. Thus, the electrostatic interactions
+between the negative carboxylate groups on both rims of the
+pillar[5]arene and the multiple cationic ammonium groups in
+these amino acids work cooperatively to selectively bind these
+three amino acids.
+Huang and co-workers synthesised a water-soluble cyclic
+hexamer, pillar[6]arene H2, containing 12 carboxylates, using
+the same approach used to synthesise host H1.33 Water-soluble
+pillar[6]arene H2 formed highly stable 1 : 1 host–guest com-
+plexes with paraquat G1 [K = (1.02  0.10)  108 M1]. The
+binding constant of this complex is almost 1300 times higher
+than the corresponding K value for the complexation between
+the analogous water-soluble pillar[5]arene (H1) and G1. The high
+binding affinity results from the size-matching between water-
+soluble pillar[6]arene H2 and paraquat G1; the width of the
+4,40-bipyridinium groups is 6.3 Å, which does not fit into the
+cavity of pillar[5]arenes (ca. 4.7 Å) without deforming the host
+but does fit into that of pillar[6]arenes (ca. 6.7 Å). The same
+group also synthesised water-soluble pillar[n]arenes with differ-
+ent cavity sizes [n = 7 (H3), 9 (H4) and 10 (H5)], and investigated
+their host–guest ability towards paraquat G1. Water-soluble
+pillar[7]arene H3 formed the most stable host–guest complex
+with G1 [K = (2.96  0.31)  109 M1] among the water-soluble
+pillar[n]arene homologues (H1–H5). The water-soluble pillar-
+[n]arenes with large cavities can also form host–guest com-
+plexes with large guests such as naphthalene diimide G5 and
+1,10-phenanthrolinediium G6 cations.
+Introduction of cationic moieties onto the pillar[n]arene rim
+is another useful way of producing water-soluble pillar[n]arenes.
+Huang and co-workers were the first to introduce cationic moieties
+and synthesise a water-soluble pillar[5]arene (Fig. 10).34 Cyclisation
+of 1,4-dialkoxybenzene containing two bromide moieties in 1,2-
+dichloroethane, which is a good template solvent for the synthesis
+of pillar[5]arenes, gave a pillar[5]arene containing 10 bromide
+moieties. Pillar[5]arene H6, containing 10 trimethyl ammonium
+groups on the upper and lower rims, was prepared by treatment
+of the brominated pillar[5]arene with excess trimethylamine.
+Because of the 10 ammonium cations on the pillar[5]arene rim,
+cationic pillar[5]arene H6 is a good anion receptor and showed a
+high aﬃnity for sodium alkyl sulfonates in water. For example,
+cationic pillar[5]arene H6 formed a stable 1:1 host–guest complex
+with 1-octanesulfonate G7 in water [K = (1.33  0.94)  104 M1].
+Water-soluble pillar[n]arenes can also be synthesised by
+modifying pillar[n]arenes with non-ionic oligo(ethylene oxide)
+chains (H7 and H8, Fig. 10b). Modification of a pillar[5]arene
+with long tri(ethylene oxide) chains made it fully soluble in water
+at 25 1C whereas a pillar[5]arene modified with shorter ethylene
+oxide chains was insoluble.
+Stimuli-responsive water-soluble pillar[n]arenes
+Aqueous solutions containing tri(ethylene oxide)-substituted
+pillar[5]arene H7 and pillar[6]arenes H8 are homogeneous at room
+temperature, became opaque on heating, and then homogeneous
+Fig. 10
+Synthesis of pillar[n]arenes with (a) carboxylate anions, (b) non-ionic
+tri(ethylene oxide) chains and (c) trimethyl ammonium cations. (d) Guest
+molecules for pillar[n]arenes in aqueous media.
+Chem Soc Rev
+Review Article
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+2488 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+again upon cooling. This indicates that tri(ethylene oxide)-
+substituted pillar[5]arene and pillar[6]arene exhibit lower critical
+solution temperature (LCST) behaviour,35 which can be attributed to
+the combination of the hydrophilic tri(ethylene oxide) moieties and
+hydrophobic pillar[5]arene core. Heat-induced de-solvation of water
+molecules from the tri(ethylene oxide) chains triggers the aggrega-
+tion of the hydrophobic pillar[n]arene cores. The cloud points of
+tri(ethylene oxide)-substituted pillar[5]arene H7 and pillar[6]arene
+H8 were 41 and 42 1C respectively; indicating that the diﬀerences
+between the cyclic pentamer and hexamer structures did not aﬀect
+the clouding points. As with the anionic pillar[5]arenes, tri(ethylene
+oxide)-substituted pillar[5]arene H7 formed a 1 : 1 host–guest
+complex with paraquat G8 [K = (4.3  0.5)  103 M1]. As the
+amount of G8 was increased in this system, the clouding points of
+pillar[5]arene H7 increased from 42 to 60 1C (Fig. 11a). Repulsive
+forces between the complexed cations are one of the main reasons
+why this increase in the clouding point occurred. Cucurbit[7]uril
+CB[7] forms a very stable host–guest complex with paraquat G8
+in aqueous media (K 4 105 M1); thus, CB[7] can be used as a
+competitive host to dissociate the H7*G8 complex. Addition of
+CB[7] to the H7*G8 complex induced the dissociation of the
+complex, and this led to a decrease in the clouding points of
+pillar[5]arene H7 from 60 to 47 1C. As a result, it was possible to
+tune the clouding points of pillar[5]arene H7 by addition of
+guest paraquat G8 and competitive host CB[7].
+Azobenzene derivatives are widely used as photo-responsive
+compounds. Pillar[6]arenes form stable host–guest complexes
+with trans-azobenzene derivatives, but not with the cis isomers; the
+latter is ill-fitting. Consequently, the photo-responsive host–guest
+system composed of pillar[6]arenes and azobenzene derivatives
+can be used as a photo-switch. Thus tri(ethylene oxide)-substituted
+pillar[6]arene H8 formed a host–guest complex with trans-
+azobenzene G9, containing two 1,4-diazabicyclo[2,2,2]octane
+(DABCO) cations in aqueous media [Fig. 11b, K = (4.3  0.5) 
+103 M1]. Complexation between azobenzene guest G9 in the
+trans-form and pillar[6]arene H8 induced an increase in the
+cloud points from 42 to 57 1C. The reason for this increase is
+the same as that that described above for the pillar[5]arene
+H7*G7 complex: electronic repulsion between the complexed
+cations prevents the aggregation of pillar[6]arenes H8. The
+cloud points of the complex decreased from 57 to 52 1C upon
+UV irradiation; a change in the conformation of azobenzene
+guest G9 from the trans- to the cis-state was induced by UV
+irradiation, which triggered the dissociation of the host–guest
+complex. Hence the dissociation of the complex functioned as a
+switch to change the clouding point of the mixture. The cloud
+point of the mixture returned to 57 1C on visible light irradia-
+tion with the conversion of the cis-form of azobenzene guest G9
+back to the trans-form.
+Pei and co-workers synthesised pillar[5]arene H9 function-
+alised with 10 ferrocene moieties using the CuAAC reaction of
+an azido-functionalised pillar[5]arene and a ferrocene bearing
+one alkyne group (Fig. 11c).36 This host was not soluble in
+aqueous media. However, oxidation of the ferrocenyl groups
+resulted in the formation of the ferrocenium cation derivative
+which formed spherical vesicles in aqueous media because the
+core of the pillar[5]arene and the ferrocenium cation substituents
+are hydrophobic and hydrophilic respectively. Reduction of the
+ferrocenium cations with glutathione (GSH) acted as a trigger
+for the release of a drug encapsulated in the vesicles. This GSH-
+responsive system would be an ideal drug/siRNA co-delivery
+system for drug release and gene transfection in cancer cells
+because the GSH concentration in cancer cells is typically higher
+than that in normal cells.
+Applications of water-soluble pillar[n]arenes
+Pillar[n]arenes have a cylindrical structure, and can thus be used
+as artificial channels for molecular transportation. Hou and
+co-workers reported artificial single-molecular transmembrane
+water channels using pillar[5]arenes bearing hydrazide moieties
+on their side chains (Fig. 12a, H10 and H11).37 The hydrazide
+units participated in intramolecular hydrogen bonding to pro-
+duce the tubular structure. These tubular molecules acted as
+channels for transporting water across a liquid membrane when
+they were inserted into the membranes. The water transport from
+outside to inside the vesicles was driven by the osmotic pressure
+diﬀerence between the outside and inside of the vesicles. Thus,
+the transport of water molecules caused swelling and fusion of
+the vesicles. The pillar-shaped structure of pillar[n]arenes is
+also useful for constructing multi-layer structures using layer-
+by-layer (LbL) assembly. In most cases, polymer systems are used
+in LbL assembly because multiple interaction points, which are
+observed in polymer systems, are necessary for construction of
+Fig. 11
+(a) Chemically responsive lower critical solution temperature (LCST)
+changes using pillar[5]arene H7, viologen guest G8, and competitive host
+CB[7]. (b) Photoresponsive LCST changes using pillar[6]arene H8 and photo-
+responsive azobenzene guest G9. Reproduced with permission from ref. 35.
+Copyright 2012 American Chemical Society. (c) Redox-responsive supra-
+molecular changes between cationic vesicles and precipitates for the release
+of drug/siRNA materials. Reproduced with permission from ref. 36. Copyright
+2014 Wiley-VCH Verlag GmbH & Co. KGaA.
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2489
+thin films using this technique. LbL assembly of molecules with
+low molecular weights is generally diﬃcult and comparatively
+rare because of the lack of multiple interaction points. However,
+the presence of functional groups at both rims of water-soluble
+cationic and anionic pillar[n]arenes allow these hosts to eﬃciently
+form multilayers using LbL assembly (Fig. 13).38 First, an
+inorganic substrate with anionic surface charges was immersed
+in an aqueous solution of cationic pillar[5]arene H6 to intro-
+duce cationic pillar[5]arenes onto the substrate by means of
+anion–cation interactions. Then, the substrate was immersed
+in an aqueous solution of anionic pillar[5]arene H1 to introduce
+anionic pillar[5]arenes onto the cationic surface. Wang and
+co-workers reported dramatic swelling of hydrogels promoted by
+the complexation between anionic pillar[6]arene H2 and ferrocene
+groups in a hydrogel (Fig. 14).39 When a hydrogel covalently func-
+tionalised with ferrocene groups was immersed in an aqueous
+solution of anionic pillar[6]arene H2, the hydrogel swelled
+dramatically, with an approximately 11-fold increase in weight
+compared with that in pure water constructed from the cationic
+pillar[5]arenes. Multilayer films were obtained by repeating these
+alternating immersion steps. This swelling was due to the forma-
+tion of inclusion complexes between anionic pillar[6]arene H2
+and the ferrocene groups in the hydrogel. Because anionic
+pillar[6]arene H2 contains 12 carboxylate anions, this complexa-
+tion generated strong electrostatic repulsion between the polymer
+chains, and thus resulted in the swelling of the hydrogel.
+Guest molecules can access both portals of pillar[n]arenes,
+and pillar[n]arenes can thus be used as the ring component
+in pseudo[2]rotaxane structures. Huang and co-workers have
+reported various supramolecular assemblies, including micelles,
+vesicles, and tubes, constructed from [2]pseudorotaxanes con-
+sisting of water-soluble pillar[n]arenes and amphiphilic guests.40
+Tubular aggregates were formed by self-assembly of amphiphilic
+guest G10, which consists of a hydrophilic pyridinium salt and
+hydrophobic alkyl and pyrene groups (Fig. 15). In contrast, the
+water-soluble pillar[6]arene H2*G10 complex self-assembled
+to form vesicles. Typically, a high membrane curvature tends to
+result in nano-tubular assemblies, whereas a membrane with
+a low curvature favours vesicular assemblies. In the absence
+of water-soluble pillar[6]arene H2, amphiphilic guest G10 self-
+assembles to form a highly ordered bilayer of pyrenyl groups
+through p–p interactions, which leads to a high curvature and
+the formation of tubular assemblies. In contrast, the formation
+Fig. 12
+(a) Chemical and X-ray crystal structures of hydrazide-modified
+pillar[5]arenes (H10 and H11). (b) Schematic representation of the increase
+in vesicle size caused by H11-mediated outside-to-inside water transport.
+Reproduced with permission from ref. 37. Copyright 2012 American Chemical
+Society.
+Fig. 13
+Layer-by-layer assembly through consecutive adsorption of cationic
+and anionic pillar[5]arenes. Reproduced with permission from ref. 38. Copyright
+2015 American Chemical Society.
+Fig. 14
+Chemical structures of polymer networks and water-soluble pillar-
+[6]arene H2; illustration of the dramatic swelling of the hydrogel promoted
+by H2*ferrocene host–guest interactions. Reproduced with permission
+from ref. 39. Copyright 2016 American Chemical Society.
+Chem Soc Rev
+Review Article
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+2490 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+of a [2]pseudorotaxane between water-soluble pillar[6]arene H2
+and amphiphilic guest G10 disturbs the straight array of guest
+molecules because of the steric hindrance and electrostatic
+repulsion of anionic pillar[6]arene H2, and this then results in
+the formation of vesicles with a low curvature; the reversible
+transformation between nanotubes and vesicles was readily
+controlled by changing pH. The same authors also reported
+photo-responsive self-assembly switching between vesicles and
+solid nanoparticles using supramolecular amphiphiles consist-
+ing of water-soluble pillar[6]arene H2 and an amphiphilic guest
+containing hydrophilic ammonium cations and hydrophobic
+azobenzene parts.
+Nierengarten
+and
+co-workers
+synthesised
+water-soluble
+glycoclusters containing 10 sugar residues and a pillar[5]arene
+core (Fig. 16a).41 The synthesis of these pillar[5]arene-based
+glycoclusters was readily achieved by a CuAAC reaction between
+an alkyne-functionalised pillar[5]arene and acetylated sugar
+residues bearing one azide moiety. Deprotection of the acetylate
+ester moieties gave the water-soluble glycoclusters. The authors
+then investigated multivalent binding of the glycoclusters to
+pathogenic bacterial lectins. Compared with a reference mono-
+valent sugar residue, the glycoclusters showed superior binding
+to lectins due to the multivalent bonding. With an appropriate
+length spacer between the sugar residues and the pillar[5]arene
+core, the glycoclusters showed higher aﬃnity to lectins. The
+same group also synthesised hetero-glycoclusters containing
+two diﬀerent sugar residues (e.g., galactoses and fucoses) based
+on a [2]rotaxane scaﬀold.42 To achieve this, one sugar residue
+was used as a stopper and a [2]rotaxane was produced using a
+CuAAC reaction. Then, another CuAAC reaction between the azide-
+functionalised pillar[5]arene ring in the [2]rotaxane and the other
+sugar residue aﬀorded the hetero-glycoclusters. Because these
+[2]rotaxanes contained two diﬀerent sugars, they showed multi-
+valent binding to two diﬀerent bacterial lectins.
+Water-soluble deep-cavity cavitands
+Preamble
+The definition of deep-cavity cavitands used here are resorcin-
+[4]arene-based hosts where an additional second row of (normally
+aromatic) rings has been added to the resorcinarene. The second
+row – added either as a bridge between adjacent resorcinol
+hydroxyl groups or to the 2-position of the resorcinol rings
+themselves – deepens the binding pocket significantly. Examples
+of the latter were first to appear in the literature, but extending
+the cavity of these hosts using suitable bridging moieties has
+proven to be the most popular.
+The gross structural diﬀerence between deep-cavity cavitands
+and cucurbiturils or pillarenes is that cavitands are bowl-shaped
+rather than toroidal; they are closed at one end. This has
+manifold implications. For example, solvation of the pocket is
+harder, and hence the pocket can be viewed as more hydro-
+phobic. Relatedly, replacing water in a pocket with a guest via
+an associative (SN2-like) mechanism is diﬃcult with only one
+portal in or out; dissociative (SN1-like) mechanisms dominate.
+Moreover, the Cnv symmetry and more encompassing struc-
+tures of cavitands lead to considerable control of guest orienta-
+tion and conformation (binding motif). As we will discuss, this
+control has considerable ramifications regarding the applications
+of cavitands. Finally, on the topic of general shape, it is also
+important to note that by careful design, cavitands have also proven
+adept at undergoing self-assembly to form all-encapsulating
+Fig. 15
+Schematic representations of (top) the reversible trans-formations
+between G10 nanotubes and H2*G10 vesicles and (bottom) the molecular
+structures of H2 and G10. Reproduced with permission from ref. 40.
+Copyright 2016 American Chemical Society.
+Fig. 16
+(a) Synthesis of pillar[5]arene-based glycoclusters from a deca-alkyne
+pillar[5]arene. (b) Synthesis of [2]rotaxanes containing diﬀerent sugars on the
+pillar[5]arene rings and the axle. Reproduced with permission from ref. 42.
+Copyright 2016 Wiley-VCH Verlag GmbH & Co. KGaA.
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2491
+containers; containers that take all of the aforementioned
+points to the extreme.
+Two examples of the first water soluble deep-cavity cavitands
+are 1 and 2 (Fig. 17) that are described in more detail in these
+reviews.43,44 Cavitand 1 reported by the Reinhoudt group possesses
+four pyridinium groups at the upper rim. Cavitands with longer
+pendent R groups proved to be more water-soluble because of
+eﬃcient aggregation. The non-aggregating cavitand with methyl
+pendent groups (or feet) was shown to form weak, fast exchanging
+1:1 complexes with small aromatic guests. A similar strategy was
+used to give the ethylene-bridged host 2 reported by Diederich.
+With a more preorganized cavity this host formed 1:2 host–guest
+complexes in pure water and 1:1 host–guest complexes in buffer.
+Guests such as adenosine triphosphate that associated via electro-
+static interactions and the hydrophobic effect were found to bind
+strongly to 2.
+Deep-cavity cavitands via bridging strategies
+Extending the cavity walls of resorcinarenes using the bridges
+between resorcinol moieties has to date proven to be more
+popular. Within this approach two general classes of cavitands
+have emerged: velcrands and benzal-bridged cavitands.43,45,46
+The two most studied water-soluble velcrands are those with
+benzimidazoles (3) and benzimidazolones (4) bridges. A key
+structure feature of velcrands is that they exist as an equili-
+brium mixture of two conformations: a flattened (C2v) kite form
+that has a strong predisposition to dimerize in solution, and
+a deeper concave (C4v) vase form capable of binding guests.
+This equilibrium between the vase and kite forms is largely
+controlled by the precise nature of the host and solvent, and
+if present, the nature of the guest. In many of the studies in water
+these velcrands exist as a kite-form complex containing one
+strongly binding tetrahydrofuran molecule; a residual solvent
+molecule from the synthesis of the host.
+In 2004, the Gibb group reported the first water-soluble benzal
+bridged type cavitand 5a (Fig. 17).45 The so-called ‘‘octa-acid’’
+(OA) 5a, is sparingly soluble at neutral aqueous solution, but
+highly soluble and monomeric at pH 4 7. This host possesses a
+B0.8 nm wide  B0.8 nm deep hydrophobic pocket that, like a
+velcrand is closed oﬀat the base, but is more preorganized. The
+evenly spread charges on the surface of this host bestow it with
+excellent behaviour in aqueous solution. Other variations on this
+general structure have subsequently been reported. For example,
+tetra-endo-methyl octa acid (TEMOA) 5b possesses a slightly
+diﬀerently shaped hydrophobic pocket. Moreover, cationic
+water-soluble cavitands such as 5c and 5d have also been
+reported, as have neutral hosts that utilize dendritic or polymeric
+coats to attain water-solubility.45 To date these types of cavitands
+have been shown to form 1 : 1 complexes, as well as undergo self-
+assembly to form a range of complexes: 2 : 1, 2 : 2, 4 : 2 and 6 : 3.
+1 : 1 host–guest complexes: controlling guest reactivity
+The Cnv symmetry of cavitands can lead to specific bound guest
+orientations. Using 1H-NMR the Gibb group observed this in the
+1 : 1 complexes between aliphatic carboxylates and OA 5a; the
+guests buried their hydrophobic tails in the pocket of 5a, and
+placed their polar carboxylate head group exposed to the aqueous
+medium.45 This additional charged group on the surface of the
+complex suppresses any host assembly (vide infra). Isothermal
+Titration Calorimetry (ITC) showed that the aﬃnity between OA
+and these guests were generally stronger than the corresponding
+aﬃnities with similarly sized b-cyclodextrin. For example, the
+respective aﬃnities between OA and b-cyclodextrin with adamantane
+carboxylate are Ka = 1.14  106 and 1.05  105 M1.45 This is
+tentatively ascribed to a combination of the more encapsulating
+pocket of OA 5a being relatively poorly hydrated, and it being
+able to form more non-covalent contacts with the guest. These
+types of complexes with amphiphiles have proven useful in
+predictive blind challenges for computational chemist testing
+their modelling strategies.47
+Even hydrated anions such as I or ClO4
+ have an aﬃnity
+with OA 5a, and such complexation events have been shown to
+attenuate the binding of non-polar guests by a simple competi-
+tion mechanism. Moreover, this competition has been shown to
+replicate the salting-in phenomenon of the Hofmeister eﬀect.48
+This relatively strong anion aﬃnity can again be ascribed to the
+true concavity of 5a.
+Interestingly, although a guest dissociative (SN1-like) mecha-
+nism is assumed to operate with these 1 : 1 complexes, a diﬀerent
+mechanism seems to be in operation when the guest being
+replaced is water. Thus, in silico studies have demonstrated that
+if a hydrophobic guest approaches within 3–4 Å of the pocket
+portal of 5a it disrupts stabilizing hydrogen bonds between
+bound and bulk water.49 At a longer distance this initially leads
+to fluctuations in the water density in the pocket, but as the guest
+approaches to B3 Å it ultimately leads to complete dehydration
+of the binding site. Thus water displacement by a guest follows a
+triggered dissociation mechanism.
+Velcrand 3 has been shown to form 1 : 1 complexes with
+tetraalkylammonium salts.46 In this case the guest is again
+Fig. 17
+Structures of water-soluble deep-cavity cavitands.
+Chem Soc Rev
+Review Article
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+2492 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+aligned in one specific orientation; with the larger alkyl group
+buried and the ammonium group at the portal of the host where
+it can interact with water and the carboxylates of the host.
+The driving force of the hydrophobic eﬀect, combined with
+the fact that these hosts only have one portal, means that it
+is possible to compress flexible guests into unnaturally small
+spaces.43,46 Consider for example how host 3 binds two surfac-
+tants, sodium dodecylsulfate and dodecyl phosphatidylcholine,
+in a 1 : 1 manner. Free in non-aqueous media, alkyl chains favor
+extended (anti) conformations to minimize steric interactions
+and maximize surface area. Such an extended conformation is
+energetically unfavorable in water, and consequently when
+presented with the cavity of 3 the alkyl groups of these guests
+compact themselves so as to minimize their exposure to bulk
+water and maximize their contacts with the host. In short, they
+coil into helices inside the cavity (Fig. 18).
+The truly concave nature of deep-cavity cavitands can also
+induce guests to preferentially adopt U- or J-shaped conforma-
+tions or motifs. In a recent example, N-methylated benzimid-
+azolones bridged cavitand 4b was shown to bind amphiphilic
+guests such as n-alcohols in a folded confirmation, where the
+hydroxyl group is located at the rim or portal and the hydro-
+phobic chains are deeply buried into the pocket. For guest such as
+C8 and C9, the chain is extended, but with longer guests (greater
+than C10) the chain forms a reverse turn (Fig. 19). Consequently,
+the longest guests adopt J-shaped motifs anchored as such by
+the preference of the polar head group to remain solvated.46
+In contrast, all examples of a,o-diol guest examined were shown
+to bind in folded, U-shaped motifs.
+The observation that guests can be folded into conforma-
+tions whereby the termini are pushed closely together raises the
+prospect of being able to bring about controlled macrocyclization
+processes. Two examples with host 4a include the enhanced
+cyclization of o-amino acids to form lactams, and the forma-
+tion of di-lactams.50 In the latter example, long-chain diamines
+were first complexed to 4a before the addition of the di-N-
+hydroxysuccinimide ester of succinic acid resulted in the rapid
+formation of the corresponding 17- to 25-membered dilactams
+(Fig. 20).
+Very recently, host 4b was also shown to engender unusual
+reactions of bound guests. For example, bound diesters were
+shown to form 1 : 1 complexes in which the guest rapidly
+alternatives between two identical J-shaped conformations via
+a ‘‘yo-yo’’ motion (Fig. 21).51 Under acidic conditions, one ester
+group of the guest is hydrolyzed B10 times faster than in bulk
+solution, i.e., the host catalyzes hydrolysis, and this results in
+the guest adopting a fixed motif with the carboxylic acid group
+at the head of the J-motif and the remaining ester at the short
+Fig. 18
+Representation of the sodium dodecylsulfate–cavitand 3 complex
+in D2O showing eight carbons of the chain in a helical conformation.
+(Adapted from ref. 43 with permission from The Royal Society of Chemistry.)
+Fig. 19
+Cartoons of the complexes of n-alcohols and host 4b. The relative
+positions of the C atoms in the cavitands correspond to the NMR spectra and
+Nucleus Independent Chemical Shift (NICS) calculations. (Reprinted with
+permission from J. Am. Chem. Soc., 2014, 136(14), 5264–5266. Copyright
+(2014) American Chemical Society.)
+Fig. 20
+Proposed reaction sequence for the cyclization of diamines
+within 4a.
+Fig. 21
+Cartoons of folded bola-amphiphiles in cavitand 4b with (top) the
+diester and (bottom) the monoester–monoacid.
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2493
+tail of the motif buried in the binding pocket. As a result, the
+hydrolysis of the second ester is attenuated 2–4 times. Hydrolysis
+under basic conditions (saponification) gave much better yields
+of monoester. Evidently, the anchoring of the carboxylate at
+the head of the J-motif and exposed to bulk solution is much
+stronger than the anchoring properties of the carboxylate formed
+under acidic conditions. Other recent examples of controlling guest
+reactivity with 4b include biasing Staudinger reduction of a,o-
+diazides, and converting a,o-diisocyanates to aminoisocyanates.51
+Encapsulation and self-assembly
+The unusual guest encompassing properties of bowl-shaped
+hosts can be taken one step further by self-assembly. Thus,
+dimerization of these hosts leads to a completely integral inner
+space for total guest encapsulation. As we describe, the dry, yocto-
+liter inner spaces of such containers – or put another way the
+compartmentalization brought about by such supramolecular
+hosts – have considerable potential to control unique reactions
+or engender novel separation protocols.
+Host OA (5a) and its tetra-endo-methyl derivative TEMOA (5b)
+assemble via the hydrophobic eﬀect. As a result, even though the
+encapsulation complexes are held together by relatively weak
+interactions (aromatic stacking between the hosts and C–H  p
+interactions between the hosts and guest or guests) binding is
+strong. For example, of the steroids first investigated binding
+to the dimer of 5a, (+)-dehydroisoandrosterone was shown by
+1H-NMR to have a minimum association constant 1  108 M1.45
+This indirect driving of assembly rooted in the cohesive forces
+between water molecules means that even small alkanes form very
+stable 2 :2 host–guest complexes with 5a.52 With larger alkanes
+(C11–C14) helical motifs are observed for the bond guest, whilst
+for even still larger guests (C18–C23) U-shape motifs have been
+identified by 1H-NMR (Fig. 22). For this dimer host the limit for
+n-alkane guest binding is approximately C24–C26, at which point
+the center of the guest begins to separate the two hemispheres of
+the capsule.
+With four endo-methyl groups on the top of the cavitand,
+TMEOA 5b has a slightly deeper cavity but a narrower portal
+compared to OA 5a. This leads to very diﬀerent assembly and
+complexation profiles. For example, the complexes between 5b
+and the series of n-alkane guests C1 through C14 are: 1 : 1 for C1,
+C2, C7 and C8, 2 : 2 for C5, and 2 : 1 for C9–C14. Guests C3, C4
+and C6 form mixtures of 1 : 1 and 2 : 2 complexes. These host–
+guest systems therefore function as a nine-input, one-output
+logic gate.53 Interestingly, this non-monotonic assembly profile
+is reflected in the predisposition of TEMOA 5b to form hetero-
+host guest encapsulation complexes with OA 5a (5a5bguest).45
+Octa-acid host 5a has only been observed to form a dimeric
+container. However, this is not the case with TEMOA 5b. The
+aforementioned complex assembly profile of 5b is in fact a
+reflection of its reduced propensity to dimerize; the methyl
+groups (R0 in Fig. 17) sterically interfere in the dimerization
+interface between the two hosts. However, they do not interfere
+in the assembly of larger assemblies. Thus, with n-alkane chains
+C17–C20 5b forms mono-dispersed, pseudo Td (D2d) 4 : 2 host–
+guest complexes, whilst for C24–C26 guests nonary 6 : 3 host–
+guest complexes with overall Oh symmetry are formed (Fig. 23).45
+Although 1H-NMR did not reveal the precise binding motifs of
+the bound guests in these complexes, these are the most capacious
+hosts assembled in water, respectively defining 1400–1500 and
+3200–3700 Å3.
+Recently, the Rebek group has extended their study of capsular
+complexes to the aqueous phase. For example, host 4a has been
+shown to undergo self-assembly in water around a range of
+stilbenes, paraquats, and related derivatives.46
+Separations with capsules
+Capsule 5a2 has been used to bring about both physical separa-
+tions and kinetic resolutions. An example of the former is shown
+in Fig. 24.54 Briefly, the addition of a mixture of hydrocarbon
+gases to the head-space above a solution of the host leads to the
+selective sequestration of the strongest binding alkane. The well-
+defined structure of the supramolecular host leads to selectivity
+at the methylene group level. Thus, with a mixture of propane
+and butane only two molecules of the later are sequestered
+within the host leaving an enriched or pure sample of propane
+in the head-space.
+Fig. 22
+Selected packing motifs of alkanes with the dimer of host 5a.
+Fig. 23
+Cartoons of the tetramer (left) and hexamer (right) assembles of
+TEMOA. Select surfaces are cut away to reveal the two and three guests in
+each respective assembly.
+Fig. 24
+Physical separation of hydrocarbon gases using host 5a.
+Chem Soc Rev
+Review Article
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+2494 | Chem. Soc. Rev., 2017, 46, 2479--2496
+This journal is ©The Royal Society of Chemistry 2017
+Capsule 5a2 can also be used to bring about the kinetic
+resolution of constitutional isomeric of esters by selective protec-
+tion (Fig. 25).55 In the absence of the host, the selected C11H22O2
+guests undergo saponification at rates commensurate with the
+size of their alkoxy group. However, in the presence of 5a2 these
+intrinsic hydrolyses were strongly modulated by the relative
+aﬃnity each ester has for the capsule. As shown in Fig. 25,
+when methyl decanoate and ethyl nonanoate are saponified in
+the presence of 5a only 18% of the former is hydrolyzed in the
+time it takes to hydrolyze all of the latter. A detailed analysis
+involving Ka and rate determinations allowed a Michaelis–Menton
+type model to be built that fitted the observed resolutions. Briefly,
+the more strongly bound ester was protected within the capsule
+which greatly retarded its hydrolysis relative to the weaker binding
+competitor.
+Reactions in capsules
+Many examples of how the capsule formed by 5a controls the
+photochemistry and photophysics of encapsulated guests have
+been reported.56 One interesting study involved the comparison
+of a series of a-(n-alkyl)-dibenzyl ketones (DBKs). All DBK guests
+formed 2:1 host/guest complexes with the dimer of OA 5a, but
+within the series three diﬀerent packing motifs were formed
+depending on the length of the side chain. For the small R groups
+(R = Me, Et, n-propyl), each phenyl ring of the guest occupied the
+polar regions of the host while the R group filled the equatorial
+region (Fig. 26 illustrates this with the methyl guest). For mid-sized
+R groups (R = n-butyl, n-pentyl and n-hexyl) it was found that one
+phenyl ring and the R group occupied the polar regions of the host
+and the proximal phenyl ring (red in Fig. 26) filled the equatorial
+region. Finally, in the case of the largest R groups (R = n-heptyl and
+n-octyl), the guest packed the cavity such that the distal phenyl ring
+(blue in Fig. 26) occupies the equatorial region of the capsule. Each
+of these motifs led to diﬀerent photochemical outcomes, with the
+smaller or mid-sized alkyl chains lead to Norrish type I products
+and the long alkyl chains lead to Norrish type II products. Many of
+the rearrangement products, e.g. the benzyl-phenylketones, are not
+seen in solution. Instead they arose through exceedingly strong
+cage eﬀects and the non-covalent interactions between the host
+and the intermediate radicals. Another example is the photo-
+chemical selective oxidation of olefins by singlet oxygen within the
+5a2 capsule.56 Normally, the addition of singlet oxygen to the double
+bond of alkenes possessing multiple allylic positions leads to a
+mixture of allylic hydro-peroxides. However, 1-methyl cyclohexenes
+formed a 2:2 host–guest complex in which the guests adopt specific
+orientations with the methyl group of each anchored into one pole
+of the capsule. This leaves only the C-3 position accessible via partial
+opening of the capsule. With singlet oxygen generated from the
+irradiation of dimethyl benzyl (DMB) encapsulated in the same
+type of capsule, and ‘‘communication’’ between the two cap-
+sular complexes, allylic substrates were selectively oxidized in
+up to 95% yield (Fig. 27).
+Conclusions
+This tutorial review has highlighted select, preeminent examples
+from the growing fields of cucurbiturils, pillarenes and cavitands.
+Studies with these hosts are revealing new and unusual properties
+arising from their ability to eﬃciently sequester guest molecules
+from the surrounding aqueous solution. At the same time, these
+studies are revealing details about the links between solvation of
+small spaces and the hydrophobic eﬀect, and how anion aﬃnity
+for non-polar surfaces is implicated in the Hofmeister eﬀect. On
+both fronts, there is evidently much to explore and much to do;
+further studies can be expected to demonstrate a further broaden-
+ing of the range of properties demonstrated by these hosts, and
+more details concerning the dissolution of solutes in water.
+Fig. 25
+An example of the kinetic resolution of methyl ester and ethyl
+ester within dimer 5a2.
+Fig. 26
+Summary of how the supramolecular capsule 5a2 templates the
+packing motifs of a-(n-alkyl) dibenzyl ketones and consequently control
+their excited-state chemistry.
+Fig. 27
+Proposed mechanism of the selective oxidation in capsule 5a2:
+(1) generation of triplet encapsulated DMB; (2) capsule opening to allow
+contact between oxygen and triplet DMB, and subsequent energy transfer;
+(3) escape of singlet oxygen from the capsule into bulk solution; and (4) entry
+of singlet oxygen into the alkene-containing capsule and regioselective
+oxidation.
+Review Article
+Chem Soc Rev
+Published on 24 March 2017. Downloaded by University of California - Riverside on 2/5/2022 5:57:06 AM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2017
+Chem. Soc. Rev., 2017, 46, 2479--2496 | 2495
+Acknowledgements
+K. K. and J. M. gratefully appreciate the financial support from
+the Institute for Basic Science (IBS) [IBS-R007-D1] of the Republic of
+Korea. T. O. gratefully appreciates the financial support from JSPS
+KAKENHI Grant Numbers 15H00990, 16H04130 and Kanazawa
+University CHOZEN Project. B. C. G. and W. Y. thank the National
+Institutions of Health for financial support (GM 098141).

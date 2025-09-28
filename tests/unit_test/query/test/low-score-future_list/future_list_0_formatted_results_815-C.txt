@@ -1,0 +1,10 @@
+{   'key_points': [   'No existing class information or specific examples of electrochemical sensors using IDA for '
+                      'Quinine detection were found.',
+                      'The search results did not identify any published sensors or methods targeting Quinine with '
+                      'IDA-based electrochemical techniques.',
+                      'The absence of class data suggests that such sensors may not be well-established or widely '
+                      'reported in current literature.'],
+    'relationships': [   'The lack of identified sensors indicates a potential research gap or limited development in '
+                         'applying IDA-based electrochemical detection for Quinine.'],
+    'summary': 'There is no publicly available or documented evidence of electrochemical sensors utilizing Indicator '
+               'Displacement Assay (IDA) specifically for the detection of Quinine.'}

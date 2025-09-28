@@ -1,0 +1,2978 @@
+https://doi.org/10.1021/acs.chemrev.5b00341
+1. INTRODUCTION
+The product of the condensation reaction between glycoluril
+and formaldehyde was first reported in a thesis by Eberhard
+Meyer in 19041 and then published by Behrend and co-workers
+in 1905;2 however, it was not until 1981 that a product was
+successfully crystallized from the reaction: a macrocycle
+consisting of 6 glycoluril units bound together by 12 methylene
+bridges (see Figure 1).3 The macrocycle was named
+cucurbituril, given its resemblance to a pumpkin (which
+belongs to the cucurbitaceae family), yet often abbreviated as
+CB[6], highlighting the 6 glycoluril building blocks that
+constitute the macrocycle.
+During the 1980s and 1990s, interest in crystal engineering
+and noncovalent interactions saw the popularity of cucurbituril
+increase due to its ability to facilitate noncovalent binding. This
+is made possible via the formation of complexes with cations
+through interactions with the carbonyl-lined portals of CB[6],
+along with its ability to internalize alkyl chains within its
+hydrophobic cavity. Between 2000 and 2002, Kim4 and Day5,6
+modified the initial reaction conditions of Meyer and Behrend
+to synthesize a variety of glycoluril-based cucurbituril macrocycles. The new additions to the cucurbituril family were
+named cucurbit[5]uril, cucurbit[7]uril, cucurbit[8]uril, and
+cucurbit[10]uril in light of them containing 5, 7, 8, or 10
+glycoluril units, respectively. These discoveries enhanced the
+applicability of cucurbiturils, as the bigger cavity size of the
+larger CBs enables them to form 1:1 binary complexes (CB[7])
+and even 1:1:1 heteroternary complexes (CB[8], see Figure 2)
+with aromatic compounds. A variety of CB[n] homologues
+have been discovered since the work of Kim and Day, including
+functionalized CB[n],7−9 nor-seco-CB[10],10 inverted CB[n],11
+and many others.
+CB[5]−CB[8] have found a variety of uses given their ability
+to form binary and ternary host−guest complexes and therefore
+impacted a wide variety of scientific research areas. Several
+previous reviews have specifically highlighted the synthesis,
+functionalization, and host−guest binding properties of CB-
+[n]12−17 and their applications in drug delivery,18 fluorescence
+spectroscopy,19 catalysis,20 and nanotechnology.21,22 More
+recently, the contribution of CB[n] in self-assembly and
+engineering of nanomaterials has also received attention,23
+where the role of CB[n] as a capping agent to stabilize metallic
+nanoparticles has been emphasized. The diversity of these
+reviews are evidence of the far-reaching impact cucurbit[n]urils
+have had in just the past three decades.
+With the vast majority of applications of CB relying on its
+versatility in forming dynamic complexes with a variety of
+chemical species, research efforts by the cucurbit[n]uril
+community continue to be directed toward identifying and
+characterizing suitable guest molecules. Indeed, designing
+functional systems containing CB[n] would not be possible
+without the knowledge of binding strengths and the kinetics of
+complexation and decomplexation of the host molecule with
+the guests of interest. While the interactions of the macrocyclic
+host family have been reported widely, the characterization
+techniques and conditions under which these are reported have
+not been comprehensively reviewed. Moreover, the plethora of
+CB[n] guest species and their binding constants have not been
+tabulated and made available in one place. The present review
+highlights the latest developments in the understanding and
+applications of the molecular recognition properties of CB[n],
+with particular emphasis on materials design.
+In this review, we cover the vast areas of scientific research
+upon which CB[n]s have impacted, with a focus on the guest
+recognition properties of CB[n], largely but not wholly
+concerning of their utilization in solution phase where most
+applications have arisen. To understand the binding properties
+of CB[n], a general overview of the thermodynamics of CB[n] binding is first discussed, followed by an individual analysis of
+the specific binding properties of CB[5]−CB[8]. Looking
+toward the application of CB[n] complexation, the areas of gas
+encapsulation, CB[n]s on surfaces, CB[n]-mediated supramolecular polymers, molecular recognition in 3D supramolecular networks, CB[n] catalysis and reaction templating,
+and CB[n] recognition in biological systems will each be
+discussed in turn.
+Additionally, this review provides the reader with a
+comprehensive guide to the guest molecules that have been
+studied with CB[5,6,7,8]. The tables cover first guests that have
+been demonstrated to bind with cucurbiturils and include the
+binding constants (log K) for each interaction, along with the
+conditions in which the binding parameters have been reported.
+For the case of CB[8], tables covering the binding constants for
+1:1, 1:2, and 1:1:1 complexes have been included (see Figure
+2). The binding constants, as well as the conditions under
+which the binding constants are measured, have been
+emphasized with the hope that this will encourage the
+development of new applications for known guest molecules
+as well as lead to the realization of new guest species for CB[n]
+host−guest complexes.
+
+
+2. THERMODYNAMICS OF CB[n]−GUEST BINDING
+Cucurbit[n]urils consist of n glycoluril molecules that are
+bound in a ring-like arrangement via methylene bridges. This
+arrangement of the glycoluril subunits is key to understanding
+the binding and encapsulation properties of CBs, as the number
+of repeat units defines the portal size and cavity volume and the
+alignment of the glycoluril units results in a hydrophobic cavity
+with carbonyl-lined portals. Understanding these aspects of
+CB[n] macrocycles can enable researchers to design guest
+species for high-affinity binding, tailored toward specific
+applications. Each of these aspects will now be considered.
+The dipolar nature of the carbonyl-fringed portals of CB[n]s
+make the portals highly attractive for cation binding through
+the ion−dipole effect. Figure 3 shows the electrostatic potential
+for CB[5]−CB[8], which highlights the strength of the
+negative charge associated with the portals of CB. Indeed, the
+first reports of CB[n] binding involved metal cations acting as
+“lids” bound to the portals of CB.24 Alkali metals,24,25 alkaline
+earth metals,26−28 transition metals,28−30 lanthanides and
+actinides,28,31−33 as well as ammonium and imidazolium
+ions34 have been shown to bind to CB portals and are often
+required to enhance the solubility of the less water-soluble CBs.
+The portals have also been suggested to provide a constrictive
+steric barrier toward binding, enhancing the persistence of
+CB[n] complexes.35 The coordination chemistry of CB[n]s has
+been recently reviewed36 and thus will not be discussed any
+further here.
+While the portals of CB[n]s are highly electronegative, the
+cavities of the macrocycle are encompassed by the fused rings
+of the glycoluril subunits, which leave no functional groups or
+electron pairs accessible to the inner cavity. Thus, the inner
+cavity of CB[n]s are remarkably hydrophobic and show a
+preference toward the encapsulation of hydrophobic compounds. Hence, alkylated ammonium and imidazolium ions
+bind to CB[n]s such that the cation remains at the portal
+region, while the alkyl chains become encapsulated within the
+CB cavity given its inherent hydrophobicity.37,38 It should not
+be surprising then to discover that compounds with high
+binding constants toward CB[n]s tend to be dicationic species
+where the cations are separated by an organic/hydrophobic
+region. Examples of such strong binders for CB[6], CB[7], and
+CB[8] include cadaverine, methylviologen, and aminoadamantane, respectively, with the size of the hydrophobic
+region being tailored for the specific volume of each CB cavity.
+Another facet to the binding of guest species within CB[n]
+cavities is how well a guest physically fits within the cavity. A
+good predictor of CB[n] complex binding comes from the
+assessment of whether the inner cavity of the host and the
+shape of the guest display good complementarity. The cavity
+volumes of CB[5]−CB[8] are shown in Table 1 and range
+from 82 Å3 for CB[5] to 479 Å3 for CB[8].24 As a result of its
+small size, CB[5] is mostly suitable for the encapsulation of
+gases (discussed in section 7), whereas CB[6] can bind alkyl
+chains, CB[7] can accommodate small aromatic compounds,
+and CB[8] can simultaneously complex with two molecules, suggesting that guest size is an important factor when
+considering CB[n]:guest complexes. This steric aspect of
+molecular host−guest recognition has been quantified by
+Mecozzi and co-workers40 and termed the packing coefficient.
+Packing coefficients are defined as the ratio of guest volume to
+the volume of the host cavity, and this principle has been
+successfully applied to predict complexation between CB[5]
+and CB[8] with appropriate guest compounds.41
+The distinct advantage of employing CB[n]s in host−guest
+molecular recognition is that complexes involving CB[n] can be
+formed in water with high binding affinity. Typically, aqueous
+environments cause a drop in host−guest affinity, compared to
+organic solvents, as water can compete strongly for hydrogen
+bonds and efficiently solvate charged species. CB[n]s overcome
+this issue via the presence of high-energy water, which is
+present in the CB[n] cavity and supplies a driving force for
+guest complexation.42−44 The release of high-energy water and
+its role in macrocycle complex formation has been
+comprehensively reviewed (Figure 4).45
+All cavities larger than a critical size contain water molecules,
+for entropic reasons, even if the breaking of hydrogen bonds is
+necessary. Such water molecules experience a reduced number
+of hydrogen bonds compared to bulk water and are thus of high
+energy. For the case of CB[n]s, the binding of a guest molecule
+releases the energetically frustrated water molecules, which
+lowers the energy of the system, providing an enthalphic and
+entropic gain in favor of complex formation. This hydrophobic
+effect has been studied using molecular dynamics simulations,43
+where it was determined that host−guest affinity is higher for
+cases where all water molecules are removed from the cavity
+(related to the packing coefficient) and where the encapsulated
+water is of high energy. CB[7] was shown to result in the
+largest energy gain from water expulsion of the whole CB[n]
+family, as it contains more water molecules than CB[5] and
+CB[6], and has higher energy water molecules encapsulated
+than CB[8], as the cavity size of CB[8] allows for encapsulated
+water to be structurally organized in a manner more closely
+resembling bulk water.
+Ion−dipole binding, host−guest packing coefficients, and
+hydrophobic effects all need to be taken into account when
+considering guest molecules for CB[n] complexing with high
+binding affinity. The tables in this review provide an extensive
+list of the guest species for CB[5]−CB[8] along with their
+binding constants (log K). This material should provide the
+reader with an understanding of the principles behind CB[n]
+complex formation in addition to a comparative list of CB[n]
+guests.
+
+
+3. SPECIFIC BINDING PROPERTIES OF CB[5]
+CB[5] is the smallest macrocycle in the cucurbit[n]uril family.
+With its synthesis and isolation first reported by Kim and coworkers in 2000, it has a portal diameter of 2.4 Å and a cavity
+volume of 82 Å3 (which is under one-half the volume of
+CB[6]).4 As a result of its small cavity size, CB[5] has found
+limited use in the encapsulation of guest molecules compared
+to the larger homologues; however, the carbonyl groups of the
+glycoluril subunits allow for the binding of cationic species to
+the portals of CB[5].29,34,46 It has been shown that protons can
+bind to the portals of CB[n]s, and indeed, this is the
+mechanism by which the more insoluble CBs can be dissolved
+through the use of aqueous acidic media.34 CB[5] and
+decamethyl−CB[5] have also been shown to form portal
+complexes with alkali, alkaline earth, and ammonium cations,46
+in addition to hexamethylenetetramine, which can act as a lid
+on the carbonyl portals of CB[5].47 CB[5] and decamethyl−
+CB[5] form very weak complexes with α, β, and γ forms of
+cyclodextrin, with binding constants ranging between log K =
+0.74 and 1.34.48 CB[5] also exhibits binding with multicharged
+cations including Co2+, Ni2+, Cu2+, Pb2+, Zn2+, Cd2+, Cr2+, and
+Fe2+.29
+CB[5] shares similar portal binding properties with larger
+members of the cucurbituril family; however, its small internal
+cavity limits its ability to support host−guest complex
+formation. Even though CB[5] is not big enough to incorporate
+large molecules into its cavity, its small size gives rise to its
+niche: the encapsulation of gaseous molecules. Decamethyl−
+CB[5] has been demonstrated to encapsulate small gaseous
+species in both aqueous environments and in solid form. Gases
+such as N2, O2, Ar, N2O, CO, and CO2 have been shown to be
+encapsulated in both powdered and aqueous decamethyl−
+CB[5], while He, Ne, H2, Kr, Xe, and CH4 could only be
+encapsulated in an aqueous environment, with Kr, Xe, and CH4
+requiring heating of the sample to assist encapsulation.49 A full
+discussion of the gas sorption properties of cucurbit[n]urils is
+offered in section 7.
+
+
+4. SPECIFIC BINDING PROPERTIES OF CB[6]
+CB[6] is the most abundant homologue, and with a portal
+diameter of 3.9 Å, it is commonly known to form stable
+complexes with aliphatic amines. The insolubility of CB[6] in
+organic solvents and sparing solubility in water has, however,
+had a limiting impact on its applications in its unmodified form.
+This is evident in the different solvent conditions in which the
+binding of CB[6] complexes are often reported. For example,
+Mock and co-workers first studied the complexation of a variety
+of alkyl- and aryl-substituted alkylammonium and alkyldiammonium ions in aqueous formic acid.50 The results highlighted
+the size and shape complementarity exhibited by CB[6]
+contributing to its selective binding properties. It is well
+established that the stability of these complexes is a result of
+strong interactions between the positively charged protonated
+amines and the six electronegative carbonyl moieties at the
+portals. The hydrophobic nature of the methylene groups
+favors their positioning inside the cavity of the CB[6] where
+the solvent water molecules are excluded, adding to further
+stabilization of the complexes. Therefore, the most stable
+complex is formed for an optimal length of the aliphatic chain
+such that the amine groups are positioned in close proximity to
+the portal groups. As a result, CB[6] shows strongest binding to
+pentano- and hexano-bridged α,ω-diammonium functionalities. The binding properties of CB[6] with imidazolium-based
+guests have also been investigated widely37,38,51 and used in the
+synthesis of monofunctionalized CB[6]8 as well as in the
+isolation of CB[n] homologues, Tables 2−4.52
+The importance of the surroundings of the complex,
+however, has a major impact on the strength of the resulting
+complex as demonstrated by Lee and co-workers.53 In this
+correlation study of the binding behavior of diammonium
+guests between the solution phase (50% HCOOH, ITC) and
+the gas phase (ESI-MS) it is shown that while a correlation
+exists between the two phases, the stabilities of the complexes
+are different. They suggest that this contrast is a result of an
+additional role played by the H bonding with water molecules
+in the solution phase, while only ion−dipole interactions
+predominantly exist in the gas phase. In the gas phase, the guest
+has to undergo a structural distortion in order to maximize
+ion−dipole interactions with the portal. The distortion is not
+needed in water because it is compensated in solution through
+hydrogen bonding with water.
+The high binding affinities of CB[6] toward aliphatic amines
+compared to aromatic groups have led to various rotaxane and
+pseudorotaxane constructs, where the alkylamines act as an axle
+and the CB[6] the wheel such as with 1,8-diaminooctane.54 A
+1:1:1 system with CB[6] and cyclodextrin using a dihexylammonium guest has also been reported.55 Threads
+containing pyridinium and imidazolium moieties have also
+been widely reported in contructing pseudorotaxanes and
+rotaxanes with CB[6]. For example, a [2]pseudorotaxane
+system was reported using structure A1, where the host is
+located over the hexamethyl chain of the guest. In a dynamic
+rotaxane derived from a CB[6] complex with a bispyridinium
+guest (A2), CB[6] is able to shuttle between the two
+pyridinium groups.56 Self-assembly of pseudorotaxanes constructed with A3·CB[6]57 and A4·CB[6]58 has been reported
+to form infinite hydrogen-bonded one-dimensional and twodimensional networks. Other high-order rotaxane-based structural frameworks have also been reported,59 including
+polypseudorotaxanes.60,61 He and co-workers reported the
+formation of pseudorotaxanes with a series of bis-pyridinium
+compounds (see A5 in Figure 5), where the binding site of
+CB[6] could be tailored by increasing length of the chains at
+the two ends of the guest.62
+Several [3]rotaxanes have been reported based on
+imidazolium-containing structures (A664 and A765). Recently,
+photoresponsive dithienylethene-based rotaxanes (A8) were
+constructed with CB[6].66 CB[6] has also been used to form
+water-soluble [5]rotaxane and [5]pseudorotaxane using a mesotetraphenyl porphyrin (see A9 in Figure 6) with pH-driven
+switchable properties.63 These selective recognition properties of CB[6] were first
+ultilized by Kim and co-workers in order to construct a
+fluorescent molecular switch based on a pseudorotaxane
+structure.67 Various fluorescent sensors have been reported
+using the indicator-displacement strategy with dye molecules
+derivatized with diaminoalkyl derivatives (see A10−A13 in
+Figure 7), whereby the alkyl moiety anchors strongly inside the
+CB[6] cavity.68−70 Recently, the fluorescence emission of
+pyrene was reported to get enhanced in the presence of CB[6]
+as a result of external supramolecular interactions between
+pyrene and CB[6].71 CB[6] has also been used for the
+detection of 3,4-methylenedioxymethamphetamine, the active
+constituent in ecstasy samples, using cyclic voltammetry.72
+Catecholamines such as adrenaline73 and isoprenaline74 show
+distinct binding behavior between CB[6]. In particular, a
+striking transformation of the crystals of the complex from
+needle-like to prismatic structures can be observed over a
+period of a few days (Figure 8 a−c).73 This is attributed to the
+formation of a 1:1 CB[6]·adrenaline complex as a kinetic
+product, which slowly evolves to form a 2:1 thermodynamically
+favored complex (Figure 8 d and 8e). Furthermore, in the same
+study, binding between dimerized adrenaline and CB[6] in
+acidic media was also reported (Figure 8f).
+
+
+Characterization of the binding parameters for CB[6] and its
+guests is usually challenging in water owing to the poor
+aqueous solubility of CB[6]. A remarkable number of crystal
+structures, however, have been reported for CB[6]·guest
+complexes, which provide important structural insights into
+the complexed adduct formation. While the binding of CB[6]
+with aromatic compounds is surprising because of its smaller
+cavity diameter, it is noteworthy that arylamines with suitable
+substituents are known to become encapsulated within the
+CB[6] cavity.50 This remarkable observation is particularly clear
+in the crystallographic structures reported for CB[6]·pxylylenediammonium-ion adducts, whereby an ellipsoidal
+distortion of the host molecule upon guest encapsulation is
+clearly observed;75,76 however differences may exist between
+solid and aqueous forms of this complex. Although CB[6] is typically unable to accommodate six-membered aromatic rings,
+five-membered aromatic rings such as thiophenes50 and
+furans77 are able to bind to CB[6].
+CB[6] is widely applied in separation science. For example,
+in a recent study, monolithic poly(glycidyl methacrylate-coethylene dimethacrylate) capillary columns were incorporated
+with CB[6] monorotaxanes for application in polymer
+monolith microextraction to separate and preconcentrate
+nitroaromatics. These monoliths were used for trace analysis
+of nitroaromatic compounds in blood and water with 83−107%
+recovery.
+78 In another study, a new type of stationary phase was
+constructed using CB[6] in combination with a guanidiniumbased ionic liquid.79
+The ability of CB[n] to modulate chemical reactions has
+been known since the first report of the acceleration of 1,3-
+dipolar cycloaddition reaction under the catalytic influence of
+CB[6] reported by Mock and co-workers.3 Moreover, using the
+inclusion of bromine and iodine as was previously reported by
+Nau and co-workers,80 Reddy and co-workers have shown the
+application of these halogen inclusion complexes such as I2−
+CB[6] for catalytic reactions and Br2−CB[6] to achieve
+electrophilic bromination of benzene and formation of
+bromohydrin.81
+Recently, the role of CB[6] in the protection of selenocystamine was demonstrated against redox stimuli (Figure 9). The
+Se−Se bonds were shown to be stable in the presence of CB[6]
+when exposed to H2O2, a strong oxidizing agent, and tris(2-
+carboxyethyl)phosphine, a strong reductant. CB[6] is able to
+modulate the reaction of the selenocystamine by encapsulating
+the Se−Se bonds inside its cavity. Selenocystamine forms a
+strong host−guest complex with CB[6] under acidic conditions
+(pH 5.8) with a log K value of 6.7 at 25 °C as measured by
+ITC. The protection behavior was shown to be applicable over
+a wide range of pH values (up to 11.8). Furthermore, the
+reactivity of selenocystamine guest was fully recovered through
+dissociation with CB[6] upon addition of BaCl2.82 The ability
+of CB[6] to catalyze and template reactions will be discussed in
+greater detail in section 11.
+Several CB[6]-ion adducts have been examined recently.83−90 Cd(II)−CB[6] complexes have been investigated
+comprehensively in an electrochemical study through competitive binding with acetic acid, isobutylamine, and 1,5-
+diaminopentane.86 The use of CB[6]-ion complexes is also
+emerging in materials chemistry, for example, as Sr(II)−CB[6]-
+based polymers87 and hexachloroplatinate(IV) anion·CB[6]-
+based porous materials have been reported.88 Theury and coworkers reported the formation of La+ ammoniocarboxylate
+complexes with CB[6].83 Later, the luminescent properties of
+CB[6] coordination compounds with La+ (Eu, Sm, Tb, and
+Tm) were also investigated in acidic aqueous media.89 In
+another study, a new mononuclear dysprosium(III)−
+cucurbit[6]uril complex was synthesized and characterized
+structurally and magnetically.90 Chen and co-workers also
+reported the CB[6]-based capture of Cs+ cations.91
+The binding of ions such as alkali metals at the portals of the
+CB[6] have been well known. In a previous study investigating
+the properties of CB[6] as a sorptive material for (textile) dyes,
+the presence of cations such as Ca2+ or Sr2+ enhanced the
+binding of the dyes to CB[6].92 On the contrary, in a study
+with methyl viologen and CB[6], where methyl viologen is only
+able to interact with CB[6] externally, even the presence of salt
+hindered these weak interactions between them.93 Molecular
+dynamic simulations also show evidence of the preferential
+formation of CB[6]·Na+ complexes in the presence of
+hexamethylene diammonium cations in saline solutions.94
+Therefore, while the introduction of ions is often necessary
+in order to enhance the solubility of CB[6] in water, their role
+as an interferent between CB[6] and binding with other
+organic guests cannot be ignored.
+
+
+5. SPECIFIC BINDING PROPERTIES OF CB[7]
+CB[7], the third member of the macrocyclic family, is large
+enough to form inclusion complexes with guest molecules that
+are typically bulkier than simple aliphatic chains and gas
+molecules that are usually encapsulated by the smaller
+homologues, CB[5] and CB[6].15 On account of it is larger
+cavity size relative to CB[6], a much wider range of guests can
+be recognized by CB[7] and encapsulated within, often
+exhibiting highly favorable binding parameters, see Table 5.
+Specifically, CB[7] has a portal diameter of 5.4 Å and cavity
+diameter of 7.3 Å, see Table 1.95 This affords CB[7] an inner
+cavity volume of 279 Å3, large enough for the inclusion of
+simple three-dimensional molecules such as ferrocene and
+adamantylamine derivatives (see Figure 10 for examples),
+accompanied by high binding constants (log K > 12). This
+occurs through excellent cavity-filling effects, expelling all “highenergy” water molecules from the macrocycle core.41 These
+particularly impressive binding constants are undoubtedly one
+reason for the large number of reports in the recent literature,
+with over 90 individual publications in 2014 alone.
+Not only does CB[7] have a cavity size amenable to the
+encapsulation of sizable guest molecules but also it has a much
+greater aqueous solubility relative to other members of the
+CB[n] family, exhibiting a water solubility of 30 mM compared
+to 0.01 mM for CB[8] (also large enough to encapsulate 3D
+guest molecules).15 This greater solubility coupled with the
+larger cavity volume has resulted in a variety of aqueous specific
+applications of CB[7], particularly in drug encapsulation as
+described in a recent review.18 Drug encapsulation is not the
+only biomedical area where CB[7] has been utilized; numerous
+reports from Urbach and others have highlighted binding of
+CB[7] to peptides, proteins, biomolecules (i.e., neurotransmitters), and dyes, demonstrating applicability to highly accurate
+biosensing applications at subnanomolar concentrations.96−98
+CB[7]’s solubility at usual drug therapeutic levels has also leant
+the macrocycle toward a wide range of toxicity assessing
+studies, from in vitro studies to mouse and zebrafish
+models.99−102 Although CB[7] is not the perfect representation
+of biocompatibility for all other members of the CB[n] family,
+the good degree of tolerability demonstrated in these studies is
+promising.
+As a result of these highly favorable binding equilibria, CB[7]
+has found other unique uses, ranging from the assembly of
+supramolecular energy-transfer motifs, stimuli-responsive
+underwater adhesives, to catalysis.17,103,104 The CB[7] literature
+has dramatically expanded over the past decade, and potential
+applications of the macrocycle are continuously emerging. We
+expect to see vast progress and efforts in the area of controlled
+functionalization and attachment of CB[7] receptors to a
+variety of materials, whereby the CB[7] can be isolated within a
+material still allowing for high-affinity binding.105
+
+
+6. SPECIFIC BINDING PROPERTIES OF CB[8]
+The cavity volume of CB[8] is 479 Å3, which is similar to γ-CD
+and 1.7 times larger than that of CB[7], and its binding
+properties parallel in many ways those of CB[5]−CB[7].15
+CB[8] displays relatively strong binding affinities toward bulky
+amphiphilic positively charged guests including adamantane
+and ferrocene derivatives C1−C5 (binding constants were
+determined by competition with melamine-derived guest C6
+for a limiting quantity of CB[8], see Figure 11 and Tables 6 and
+7).106 It can also encapsulate larger macrocyclic guests
+including cyclen(1,4,7,10-tetra/-aza/-cyclo/-do/-decane) and
+cyclam(1,4,8,11-tetra/-aza/-cyclo/-tetra/-decane) (C7 and C8
+in Figure 11), thus allowing formation of a “macrocycle within
+macrocycle” complex.13 Kim and co-workers were able to
+metalate the bound tetraaza macrocycles with Cu(II) and
+Zn(II), thus yielding Russian doll-type metal-ion complexes.107,108 This strategy has been further exploited to
+prepare a large number of inclusion compounds of transition
+metal complexes including nickel(II).109−111 The inclusion of
+the dimethylated cyclen C9 (Figure 11) has also been
+reported.112 CB[8] has even shown the ability to bind larger
+guests such as fullerene, forming complexes with two fullerene
+guests bound externally to the CB[8] portals, one being bound
+to each portal.113 In the presence of CB[8], alkylammonium
+salts equipped with long aliphatic chains, C10−C15 (Figure
+11), bend and are incorporated inside the cavity of the host by
+adopting a U-shaped conformation.114,115 When the same
+guests are in the presence of the smaller CB[7], only the signals
+corresponding to the methylene protons near the charged
+group shift in the 1H NMR of the complex while the signals of
+the protons at the terminal end of the guest chain, far away
+from the charged group, remain unchanged. This suggests that
+the CB[7] sits nearby the ammonium group with the other end
+of the guest protruding from the macrocycle cavity. On the contrary, all methylene proton signals are shifted when in the
+presence of CB[8], suggesting that the larger width of the
+CB[8] cavity allows the aliphatic chain to form a U-shape so
+that the entire guest can be encapsulated. The U-shaped
+conformation of the guest inside the cavity of CB[8] was
+supported by X-ray crystal structures and ROESY NMR. The
+authors suggested that van der Waals contact between the
+hydrophobic chain and the cavity can be the main cause of the
+significantly large enthalpic gain overcompensating the entropic
+penalty associated with the conformational restriction of the Ushaped aliphatic chain. It has been nevertheless suggested that
+dispersion interactions inside the CB[n] cavity do not present a
+significant enthalpic driving force for guest inclusion.35 Other
+doubly charged alkylammonium salts including 1,4-butylidene
+and 1,10-decylidenedipyridinium (C16 and C17 in Figure 11)
+and 1,12-dodecane diammonium (C18 in Figure 11), in the
+presence of 1 equiv of CB[8], also exhibit the previously
+described U-shaped folding of C10−C15.116,117 In the case of
+C18, both charged groups bind to the same CB[8] portal with
+one water molecule bridging the two ammonium groups.
+The encapsulation of nitroxide derivatives inside CB[8] has
+recently been described on several occasions by Kaifer,
+Lucarini, Tordo, Ouari, Turro, Ramamurthy, and
+others.118−127 Lucarini and co-workers reported in 2009 the
+encapsulation of an amino-TEMPO nitroxide derivative, C19,
+inside CB[8] and observed changes in the nitrogen hyperfine
+splitting by electron paramagneting resonance (EPR), which
+were attributed to the formation of a host−guest complex.118
+Furthermore, cooling of an aqueous solution of CB[8]·C19
+from room temperature to 5 °C led to the formation of a
+macroscopic fibrous network, which exhibited the characteristic
+EPR spectrum of a polyradical (solid fibers). The authors
+suggested the formation of the supramolecular ternary radical
+CB[8]3·C193 to explain the EPR spectrum of the fibers
+dissolved in a NaCl (1 mM) aqueous solution at room
+temperature. The existence of a supramolecular ternary radical
+was demonstrated by Tordo, Ouari, and co-workers, who used
+nitroxide C20 as a probe to investigate the binding properties
+of CB[8].119 These authors established the concentrationdependent aggregation behavior of CB[7]·C20 and CB[8]·C20
+and the formation of a CB[8]3·C203 trinitroxide supraradical
+both in solution and in the solid state. Similar conclusions were
+obtained by Turro, Ramamurthy, and co-workers after
+investigating the interactions between CB[8] and nitroxides
+C21−C23.120 Kaifer and co-workers investigated the interaction between CB[n] and a series of cobaltocenium and
+ferrocene derivatives incorporating nitroxide units into their
+structures (see C24−C28 in Figure 11).121−123 Nitroxide
+derivative C24 exhibits a bimodal binding interaction with
+CB[7] and CB[8]. While CB[7] prefers to bind to the
+cobaltocenium group, CB[8] interacts with the nitroxide group,
+forming a highly stable host−guest complex (see Table 6). On
+the other hand, C25 contains two nitroxide radicals, thus
+allowing the quantitative formation of a ternary CB[8]2·C25
+host−guest complex at micromolar concentrations. The
+binding of CB[8] imparts rigidity to the final supramolecular
+structure and effectively hinders any spin exchange coupling,
+which results in a simple three-line EPR spectrum of the
+complex. The ternary complex was even characterized by solid
+state by X-ray diffraction. Tordo and co-workers recently
+reported the reversible modulation of the spin exchange
+interaction in tetranitroxide C29 controlled by the allosteric
+complexation of CB[8].124 Addition of CB[8] to an aqueous
+solution of C29 transforms the nine-line spectrum of the
+tetranitroxide into a three-line spectrum characteristic of a
+mononitroxide. The noncovalent interaction between CB[8]
+and C29 involves a highly cooperative asymmetric complexation (log K1 = 3.60 M; log K2 = 5.30; α = 201) whereby two
+CB[8] molecules bind tightly to a single C29 guest, leading to a
+rigid complex with remote nitroxide moieties. The authors
+attribute the high allosteric interaction energy (ΔΔGallos·C29 ≈
+13 kJ·mol−1) to a combination of different factors including the
+preorganized skeleton of the multivalent guest which is multiply H-bond donating, a potential CB[8]-induced shift of the pKa of
+the internal amines, and the intrinsic conformational properties
+of C29. 
+
+
+The binding of the first CB[8] molecule in this instance
+induces a large conformational change in the guest, which
+favors the binding of the second CB[8] molecule.
+Although the smaller homologues of the CB[n] family can
+bind only one guest inside the cavity, CB[8] is unique in its
+ability to bind two guests, as has been shown by Kim and
+others.128−132 This rather unique binding property has been
+exploited in a wide variety of applications including novel
+supramolecular polymeric materials,133−135 catalysis,20,136−138
+and sensing.98,139−141 CB[8] promotes (hetero)dimerization of
+two π systems in aqueous solution, and Kim and co-workers
+have shown that CB[8]·C30 can bind to a variety of other
+aromatic guests including 2,6-dihydroxynaphthalene, 1,4-
+dihydroxybenzene, tyrosine, dopamine and thymine, phenylalanine, tryptophan, tryptophan derivatives, and tryptophancontaining peptides.128,129,142 On the basis of this concept, a
+CB[8] heteroternary complexation strategy to the reversible
+PEGylation of bovine serum albumin and protein−protein
+dimer formation was developed by Scherman and co-workers.
+143 Brunsveld and co-workers also exploited this concept in
+protein−protein binding and protein-to-surface attachment by
+using methylviologen and naphthalene-functionalized fluorescent proteins and CB[8].144,145
+Scherman and co-workers studied in detail the equilibria of a
+series of ternary complexes based on CB[8]·C30 and a wide
+variety of aromatic second guest molecules by ITC and ESI-MS
+(see Table 8 and Figure 12). The binding constants were found
+to be between log K = 2.00 and 6.00. An excellent agreement
+between solution-based titrations (ITC) and gas-phase studies
+was found when free energies of solvation are taken into
+consideration.146 Kaifer and co-workers reported the formation
+of CB[8] ternary complexes between 2,7-dimethyldiazapyrenium, as first guest, and catechol and dopamine as second
+guests.147 In an analogous fashion, 2,7-dimethyldiazaphenanthrenium can also form ternary complexes in the presence of
+CB[8] with tryptophan and serotonin.132 Scherman and coworkers also identified a group of doubly charged molecules as
+potential alternatives that increase the repertoire of first guests
+for CB[8]. These include t etramethylbenzobis-
+(imidazolium),148 aryl-bisimidazolium salts,149 aryl viologen
+derivatives,42 and water-soluble perylene bis(diimides).150 The
+binding of dicationic dyes such as 2,7-dimethyldiazapyrenium,
+as first guest to CB[8], has been cleverly used by Biedermann,
+Nau, and co-workers to construct a chirality sensor and
+peptide-sequence recognition system at micromolar analyte
+concentrations.45,151
+Alternatively to the previously mentioned heteroternary
+complexes, a number of guests have been shown to undergo
+double encapsulation into CB[8] including napththyl derivatives,4 coumarin,152 N-phenylpiperazine,153 9-aminoacridinium,154 neutral red,155 1-[2-methylnaphthyl]-3-methylimidazolium,156 berberine,157 p-dimethylaminobenzonitrile,158 phenylpyridinium derivatives,159,160 bipyridinium salts,161 anthracene derivatives,162,163 and some specific peptide sequences
+containing tryptophan or phenylalanine residues164,165
+Some selected radical cations can also dimerize inside CB[8]
+in an analogous fashion to homodimer complexes. Kim and coworkers described that a high-affinity CB[8] homoternary
+complex can be produced when methyl viologen is reduced to
+its radical cation species.142 Kaifer and co-workers have shown
+that CB[8] can be used to exert redox control over the
+dimerization of dendrons. For instance, dendrons containing a
+dicationic viologen group at their focal point can form stable
+1:1 inclusion complexes with CB[8].166 Upon one-electron
+reduction, the radical cation group of the dendron−viologen
+species forms a dimer inside the CB[8] cavity, in analogy to
+simple viologen. This idea has been further exploited to control
+the structure of dimeric dendritic assemblies from viologen−
+and dialkoxybenzene−dendrons.131 Another interesting example of a redox CB[8]-mediated switch consists of an equimolar
+mixture of methylviologen, TTF derivative C60, and CB[8].
+This ternary mixture results in the formation of a heteroternary
+complex CB[8]·MV2+·C60 potentially stabilized by electronrich−electron-poor π−π stacking interactions.167 Upon treatment with Na2S2O4, viologen is reduced to MV+•, which results
+in complex disproportionation, yielding CB[8]·(MV+•)2.
+Exposure to O2 returns the system to the parent heteroternary
+complex state. On the contrary, treatment of CB[8]·MV2+·C60
+with Fe(ClO4) oxidizes C60 to C60b+•, thus resulting in a disproportionation to yield CB[8]·(C60b+•)2, as evidenced by
+UV/vis spectroscopy. This last transformation can be reverted
+upon addition of ascorbic acid. The ternary complex CB[8]·
+MV2+·C60 can therefore be defined as a reversible molecular
+switch that exists in three different states in a stimulusdependent manner.
+
+
+7. ENCAPSULATION OF GASEOUS SPECIES IN CB[n]
+Cucurbiturils have shown great promise in applications that
+include polymer and nanoparticle constructs because of their
+ability to sequester specific molecules within their unique inner
+cavities. This, in addition to cucurbiturils’ high chemical and
+thermal stability, has driven researchers to utilize cucurbiturils
+in the area of gas encapsulation and storage. Sorption of gases
+such as CO2, CO, and CH4 could lead to effective greenhouse
+gas capture technologies, in addition to being incorporated into
+nanoparticle structures for advanced sensing and photochemical applications.
+In the area of gas sorption research, metal organic
+frameworks (MOFs) have garnered interest. Along with porous
+coordination polymers (PCPs), MOFs have very high surface
+areas and have demonstrated selectivity and capacity for
+adsorbing gases like CO2, making them competitive candidates
+for gas encapsulation.168 The issues that MOFs and PCPs face
+is that they can be sensitive to water, which minimizes their
+utility in cleaning flue gases. Cucurbiturils, on the other hand,
+are stable in the presence of water and are easily made from
+cheap organic molecules, paving the way toward stable and
+effective alternatives in gas sorption. They have demonstrated
+gas uptake capacities comparable to some MOFs and
+PCPs.169,170
+On account of the small nature of gaseous molecules, gas
+absorption tends to be favored by the smaller cucurbiturils.
+This is because the smaller inner cavities of CB[5] and CB[6]
+favor encapsulation of small guests as compared to the larger
+internal cavities of CB[7] and CB[8]. Furthermore, the
+solubilities of CB[5] and CB[6] have allowed their application
+in sorption of gases in different ways, with the water-soluble
+CB[5] finding use in aqueous-phase gas sorption and the less
+soluble CB[6] being favored for use in powdered form geared
+toward the cleaning of flue gases. However, CB[6] is not
+limited in its use in aqueous phase gas sorption by its low
+aqueous solubility because its solubility can be enhanced in
+water through the use of alkali metal ions and water-soluble
+guest molecules. Also, it is readily soluble in strongly acidic
+solutions.25,69
+7.1. CB[5] Gas Sorption
+A permethylated form of CB[5] (decamethylcucurbit[5]uril)
+has been shown by Miyahara and co-workers to encapsulate a
+variety of gases in both solid form and aqueous media.171 It was
+found that gases of intermediate size could be encapsulated
+within the cavity of solid decamethylcucurbit[5]uril, such as N2,
+O2, Ar, N2O, CO, and CO2, and readily released upon heating,
+with N2O and CO2 being the most readily absorbed of the
+gases (crystal structures shown in Figure 14). Smaller gases
+(He, Ne, and H2) move too freely in and out of the portals to
+be absorbed, and larger gases (Kr, Xe, and CH4) could also not
+be encapsulated. In the aqueous phase, however, all of the
+aforementioned gases could be absorbed, with the larger gases
+requiring heating to 80 °C to be incorporated. This suggests
+that the solvent molecules play a role in encouraging the
+encapsulation of the larger gases, as it is unlikely that the portal
+size of the CB[5] would increase significantly upon heating as a
+result of the rigidity of the macrocycle.171
+
+
+
+7.2. CB[6] Gas Sorption
+Solid CB[6] has been shown to have an affinity for CO2
+encapsulation, with a sorption capacity that is comparable to
+that of MOFs, including HKUST-1 and [Pd(2-pymo)2]n.170 In
+2010, Kim and co-workers studied the CO2 sorption properties
+of solid CB[6], precipitated from HCl with a honeycomb-like
+crystal structure. Gas absorption isotherms for CO2, CH4, and
+CO showed a high capacity for CO2 storage and selectivity for
+CO2 over both CO and CH4, with 45 cm3 g−1 absorbed at 298
+K (1 bar). This could be increased to 97 cm3 g−1 at 196 K (1
+bar). X-ray analysis of CB[6] after CO2 sorption demonstrated
+that CO2 was bound not only to the inner cavity of the
+cucurbiturils but also externally to the CB molecules via
+hydrogen-bonding and dipole−quadrupole interactions with
+the carbonyl portals (Figure 15a). This demonstrated that the
+selectivity of solid CB[6] toward CO2 could be useful in
+removing CO2 from flue gases.
+Continuing on from the work of Kim and co-workers, Tian
+and co-workers successfully synthesized three alternate
+crystalline forms of CB[6], termed forms I, II, and III, via the
+mixing of ethanol into a solution of CB[6] in 6 M HCl.172
+Form I crystals were shown to be in the monoclinic point
+group, with the CB[6] molecules stacking into a double bilayer
+structure (Figure 15b). Form III crystals were shown to be
+rhombohedral in nature, with the molecules stacking in a
+bilayer structure (Figure 15c), while form II crystals were
+unable to be characterized by X-ray crystallography owing to
+difficulties in growing suitable crystals for diffraction. Despite
+this, form II exhibited the best thermal stability, with forms I
+and III losing crystallinity upon heating, as well as the highest
+surface area, with BET isotherms yielding values of 276 m2 g−1.
+The high surface area and thermal stability of form II gives the
+material promise in gas storage applications, with 76 cm3 g−1 of
+CO2 uptake at 298 K (1 bar). Although more focused on
+catalytic applications, Reddy and co-workers demonstrated that
+solid CB[6] has a propensity to absorb I2 and Br2 vapor, leading
+to distinctly colored CB[6]−halogen powders.81 The catalytic
+properties of these materials shall be discussed in section 11.
+While pure CB[6] is generally not suitable for gas
+encapsulation in aqueous environments because of its
+inherently low solubility, it can be made soluble through the
+use of metal ions, aliphatic or aromatic ammonium ions, or
+neutral saline aqueous solutions. In such environments, CB[6]
+has been demonstrated to encapsulate Xe,173,174 SF6,175,176 as
+well as gaseous alkanes and alkenes.69
+El Haouaj and co-workers demonstrated the encapsulation of
+Xe by CB[6] in a 0.2 M solution of Na2SO4, with binding
+constants ranging from 2.1 × 102 M−1 (although 3.4 × 102 M−1
+has been reported for an alkylated CB[6] with higher water
+solubility177). The reversible binding was confirmed through
+1H and 129Xe NMR, and it was shown that pH played little role
+in the sorption of the noble gas. SF6 has also been shown to be
+encapsulated in aqueous CB[6], however binding constants
+vary.
+175,176 The first report of SF6 binding, confirmed via 19F
+NMR, yielded a binding of 3.1 × 104 M−1 in 0.2 M Na2SO4;
+however, binding in pure water yields a binding constant of 6.6
+× 105 M−1.176 The higher binding constant in pure water could
+be attributed to the absence of cations in the solution, which
+would potentially block the carbonyl portals of the CB[6] and
+perturb gas encapsulation.
+The difficulty of determining binding constants for gases in
+aqueous CB[6] systems arises from the low solubility of CB[6]
+in water. To overcome this, Florea and co-workers adopted a
+dye displacement titration method for measuring the binding
+constants of hydrocarbon gases (see Figure 16 for schematic).69
+A compound with a putrescine moiety for binding to CB[6]
+tethered to a 1-naphthylamine-5-sulfonic acid chromophore
+was used as the displacement dye owing to the enhancement in its fluorescence upon binding to CB[6] and its ability to
+dramatically increase the solubility of CB[6] in water. The
+fluorescence of the dye was monitored as gases were introduced
+into the aqueous system, and binding constants were calculated
+from the final fluorescence intensity, assuming 1:1 stoichiometric binding. Binding constants ranged from <2 M−1 for
+methane and neopentane up to 1300 ± 300 M−1 for
+cyclopentane (binding constants from the cited work can be
+found in Table 3).
+7.3. Gas Sorption in Higher CB[n] Homologues
+To date there has only been one report on gas sorption in
+CB[7], which has shown a high sorption capacity for various
+gases, including CO2, SO2, and H2S.169 Of the three gases, SO2
+showed the highest capacity for being absorbed, with uptake as
+high as 105 cm3 g−1, followed by H2S (62.5 cm3 g−1) and CO2
+(50 cm3 g−1). Although CH4 and N2 were tested, low uptakes
+of 5.5−6 cm3 g−1 were observed. Reports of gas absorption in
+CB[8] and CB[10] have not yet appeared.
+
+
+8. CUCURBIT[n]URILS ON SURFACES
+The influence of the overall electrostatic potential map of
+CB[n] on its molecular encapsulation properties is evident. The
+high electron density at its carbonyl portals, however, governs
+the external interactions of CB[n] with materials such as cations
+and metallic surfaces (Figure 17a). The latter property is
+increasingly drawing attention for applications ranging from
+nanoparticle synthesis, assembly, catalysis, and plasmon-assisted
+molecular sensing. In addition, CB[n] can also be localized at
+interfaces through interactions with immobilized guests on
+surfaces (Figure 17b) as well as by covalently linking
+functionalized homologues of CB[n] directly to a surface
+(Figure 17c). Although electrostatic interactions of CB[n] are
+mainly limited to metallic substrates, the other two types of
+binding strategies are applicable to other substrates such as
+silica and quantum dots. These interactions have been applied
+successfully to design novel sensors and reversible architectures.
+Progress in these fields will be discussed in this section.
+8.1. Electrostatic Interactions
+The direct supramolecular interaction of CB[n] with gold was
+first successfully characterized by An and co-workers in 2008,178
+where the interaction between gold nanoparticle colloids and
+CB[n] was established using TEM and UV/vis characterization.
+CB[n] acted as a “glue” between adjacent nanoparticles,
+resulting in the formation of coagulates (Figure 18a and
+18b). In a further step, the formation of CB[7] self-assembled
+monolayers was achieved simply by dipping a planar gold
+substrate into a saturated aqueous solution of CB[7]. The
+CB[7] molecules physisorb on the gold surface. Surface
+characterization techniques, including Fourier transform IR
+reflection absorption spectroscopy and XPS, indicated that the
+interactions between CB[7] and gold occurred through the
+electronegative carbonyl portals of CB[7], where the CB[7]
+portals were oriented in a perpendicular fashion with respect to the gold surface (Figure 18c). In the same study, the surface
+packing of CB[7] was estimated to be >48% using an indirect
+electrochemical method; nevertheless, the true density of
+CB[n] molecules on flat metallic surfaces remains unascertained.
+
+
+
+8.1.1. Modification and Assembly of Nanoparticles
+with CB[n]. Despite the limited fundamental knowledge about
+CB[n] interactions with metallic surfaces, particularly in
+colloidal systems, CB[n] has been shown to be useful in the
+synthesis of nanoparticles, mainly as a “capping agent” or
+“stabilizing ligand”. The first synthesis of CB[n]-assisted
+nanoparticles was reported by Geckeler and co-workers,
+where CuO nanoparticles (diameter ≈ 5 nm) were formed
+using precursor-encapsulated CB[7].179 The same group later
+reported a one-pot synthesis of silver180 and gold nanoparticles181 by the reaction of aqueous CB[7] solutions
+containing the respective precursor salts and NaOH at room
+temperature. In both cases, CB[7] acted as a stabilizing ligand
+and generated well-dispersed nanoparticles. Since no additional
+reducing agents were used, the role of CB[7] as a reducing
+agent, in addition to stabilizing ligand, in nanoparticle synthesis
+was also established. However, it should be noted that the
+oxidized organic species resulting from salt reduction remains
+unidentified. The same applies to the reaction mechanism.
+In the same year, Scherman and co-workers reported the
+formation of dynamic aggregates of gold nanoparticles using
+CB[5].182 In this case, the nanoparticles were prepared in the
+presence of a reducing agent as well as CB[5], where
+concurrent with other reports180,181 CB[5] was once again
+shown to act as a capping agent. The sizes of these aggregates
+could be controlled by varying the ratio between CB[5] and the
+gold precursor and was based on the interactions of one or both
+carbonyl portals of the CB[5] molecules. The symmetric
+structure of the CB[n] is of particular importance to allow the
+CB[5] molecules to bridge two nanoparticles. The aggregation
+process was monitored by measuring the changes in the surface
+plasmon resonance of the colloidal solution. Typically,
+monodisperse gold nanoparticles absorb in the green region
+of the visible spectrum and appear as red solutions. Upon
+aggregation, the absorbance signal undergoes a red shift and the
+solutions appear purple or blue instead. The kinetic evolution
+of these plasmonic modes was reported later in greater
+detail.183
+This was followed by another study, where CB[5], CB[7], as
+well as the less water-soluble homologues, CB[6] and CB[8],
+were also investigated as capping agents using metastable gold
+nanoparticles.184 Importantly, the interparticle spacing between
+neighboring nanoparticles was confirmed by TEM to be
+approximately 1 nm, which is consistent with the height of CB[n] molecules. This further indicates the portal−metal
+interactions between CB[n] and gold. The longer stability (∼3
+months) of the resulting nanoparticles was further attributed to
+the presence of sodium atoms bound to the carbonyl portals of
+the CB[5] ligands. Once again, the aggregates exhibited
+reversible control as before.
+More recently, CB[7]-stabilized gold nanoparticles were
+synthesized in order to demonstrate the increase in catalytic
+efficiency of nanoparticles free from organic ligands and metal
+cations.185 The stabilization of silver nanoparticles with CB[n]
+homologues has also been further investigated,186 whereby
+computational studies supported the assumption that the
+stabilizing effect of CB[7] is a result of lateral interactions
+between the oxygen atoms at the CB[7] carbonylated rim and
+the metal surface.
+It is noteworthy, however, that the role of CB[n]-capped
+gold nanoparticles is not restricted to stabilization of nanoparticles. Plasmonic coupling between aggregated nanoparticles
+affects their optical response and leads to strongly enhanced
+electric fields in the gaps between them.187,188The magnitude of
+those fields increases near-exponentially as the distance
+between the particles is reduced and is limited only by electron
+tunneling for gaps below ∼0.5 nm.189−193 Owing to the
+symmetrical geometry of CB[n], the presence of CB[n] in
+between nanoparticles ensures that they are held precisely 0.9
+nm apart from each other (Figure 18b).183 This provides both
+extremely high and reproducible local field enhancements in
+the gap junctions194,195 while maintaining an accessible gap for
+small molecules.139,141 Since such precision at these scales is
+not easily achievable, physicists have to predominantly rely on
+theoretical simulations in order to understand the optics at such
+nanoscale regimes. Therefore, CB[n] provides a support handle
+to experimentally investigate the plasmon modes and near-field
+properties of nanoparticle clusters with well-defined separations.196
+The precise gap distances between adjacent nanoparticles
+produced by CB[n] has further useful implications. For
+example, these CB[n]−gold nanoparticle hybrids have been
+utilized to create near-identical, continuous strings of nanoparticles joined by a conducting gold thread.197 In this study,
+precise control over the formation of the nanomaterial was
+achieved on a large scale by irradiating the CB[n]-mediated
+nanoparticle assemblies with a suitable femtosecond pulsed
+laser. As a result of high field intensities in the gap junctions
+between the nanoparticles, the surface atoms are drawn into the
+gap through optical forces and nonthermal melting and form
+solid metal threads between the particles. The extreme
+enhanced fields in the crevices of the resulting threads open
+up prospects for applications of these metamaterials in
+photovoltaics and sensing probe construction.
+In consideration of the interesting plasmonic and electronic
+properties afforded by CB[n]-mediated gold nanoparticle
+assemblies, sophisticated strategies have been developed in
+order to control the morphologies of these clusters. One such
+strategy allows the well-defined growth of one-dimensional
+chains of gold nanospheres, spaced by CB[n] molecules.198
+This is achieved in a chamber consisting of gold nanoparticles
+and CB[n] solution separated by a nanoporous polycarbonate
+membrane. The one-dimensional chains are then formed at the
+membrane interface by the electrophoretic flow of the
+nanoparticles under an applied voltage and the electroosmotic
+flow of the CB[n] (Figure 19).
+End-to-end gold nanorod alignments can also be formed
+through CB[n] linkers.199 Centrifugation of CTAB-coated gold
+nanorod solutions preferentially destabilizes the CTAB bilayer
+at the curved {111} end facets of the nanorods. Therefore,
+upon subsequent addition, CB[5] is only able to interact with
+the nanorod ends, consequently forming nanorod chain-like
+topologies. The surface plasmon resonance bands of gold
+nanorods can be tuned over a wider range than those of
+nonanisotropic analogues, making them interesting candidates
+for plasmonic applications.
+
+
+8.1.2. SERS Sensing. An important property of CB[n]
+interactions with metallic surfaces is its ability to retain its
+molecular recognition properties. In other words, CB[n] can
+facilitate guest molecules from the bulk solution to approach
+the metal−liquid interface by acting as a “receptor” on the
+surface. Surface-dependent phenomena, such as catalysis and
+surface-enhanced spectroscopic (SERS) techniques, generally
+require molecules to be localized near the surfaces and often
+rely on the innate affinity of the molecules toward these
+surfaces. Since not all molecules of interest interact with
+surfaces spontaneously, covalent functionalization strategies are
+often used to immobilize them on surfaces. However, such
+strategies usually reduce the direct interactions of the molecules
+with the surface, thereby interfering with the efficiency of the
+surface processes. Therefore, it is evident that the ability of
+CB[n] to confine molecules of interest near the surface has
+dramatic significance in surface-dependent mechanisms.
+The molecular recognition the properties of CB[n] can be
+harnessed for sensing with SERS.98,139−141,183,200 In brief,
+Raman spectroscopy is a vibrational technique, which probes
+the inelastic scattering of photons with molecules and is able to
+provide a unique fingerprint for each analyte. While this
+method is comparable to infrared spectroscopy, the lack of
+interference from water molecules (in the fingerprint region)
+makes this method desirable for probing chemical structures,
+particularly in aqueous environments. However, the inherent
+weakness of Raman signals requires the use of enhancement
+mechanisms, such as the use of plasmonic surfaces, to improve
+sensitivity. One particularly popular approach is surfaceenhanced Raman spectroscopy, and the reader is referred to
+the literature on this topic for further details.201−204
+Although Raman spectroscopy was used as an analytical
+method to characterize encapsulation of a polymer in multiple
+CB[n] units,205 the first report of a detailed study of the Raman
+and SERS signature of CB[n] appeared in the literature in
+2010.206 Clearly identifiable peaks for CB[n] are observed in
+the fingerprint region (400−2000 cm−1) of the Raman spectra
+(Figure 20). Two characteristic intense signals at approximately
+450 and 830 cm−1 are attributed to complex ring breathing
+modes of the CB[n] molecules. Interestingly, these signals
+show slight red and blue shifts, respectively, with an increase in
+the ring sizes of the different CB[n] homologues. The same
+signals and a similar trend in peak shifts is observed in the
+corresponding SERS spectra. A SERS enhancement factor of
+107−109 is achieved with CB[n]:gold nanoparticle aggregates.183,200
+SERS-based sensing of a dye molecule, Rhodamine 6G
+(Rh6G), with the aforementioned CB[7]:gold nanoparticle
+constructs was first demonstrated by Scherman and co-workers
+in 2011.183 CB[7] binds to Rh6G in a 1:1 stoichiometric ratio
+(Ka > 5 × 104 M−1).207 Besides acting as an aggregating agent
+to glue together adjacent gold nanoparticles, CB[n] positions
+the guest molecules precisely at the point of closest approach between nanoparticles, which is where the highest field
+enhancement occurs, also known as a “hot spot”. By bringing
+the analyte into the hot spot, tremendous enhancement of the
+Raman signal can be seen, even for molecules with a low
+Raman cross-section. Thus the role of CB[n] is particularly
+significant. For example, another SERS study used neutral
+ferrocene with CB[7] (Figure 21).200 In addition, ferrocene
+does not have an affinity for gold surfaces but can be localized
+in the hot spot using CB[7]. In this case, a three-step approach
+was used to prepare the SERS substrates, in which gold
+nanoparticles were first assembled on amino-functionalized
+glass. Ferrocene-encapsulated CB[7] was subsequently physisorbed on the substrate, followed by another layer of Au
+nanoparticles. As a result, gold nanoparticle clusters, predominantly dimers and trimers, were obtained on the glass surface
+with ferrocene-encapsulated CB[7] in the hot-spot regions.
+The utility of this SERS-based sensor has been extended to
+studying CB[n] host−guest chemistry. Computational studies
+had shown that CB[n], particularly CB[7], is expected to
+undergo a subtle structural distortion on encapsulation of a
+guest.208 These structural changes can be seen in the SERS
+specta of CB[n] complexes as slightly shifted peaks.139 These
+structural changes are not as apparent in the solid-state Raman
+spectra of the complexes. These changes, however, are more
+pronounced in the Raman signals of the guest molecules.209
+Not only did these results present experimental evidence to
+support the outcomes of the theoretical predictions, the shifted
+and unshifted signals also provided a tool to be able to
+distinguish the amounts of complexed and uncomplexed
+CB[n]s. Therefore, the system could be used for characterizing
+CB[n] host−guest binding parameters as well as absolute
+quantification of guest analytes, such as polyaromatic hydrocarbons.139 Roldan and co-workers reported the use of this ́
+strategy through the incorporation of silver nanoparticles for
+the detection of pH-dependent changes in the complexation
+behavior of diquat with CB[8].140 The system has also been
+used to monitor the real-time photodimerzation of diaminostilbene inside the CB[n] cavity in situ.141
+One of the advantages of the SERS technique is its ability to
+resolve analytes in a mixture, which is particularly advantageous
+for structurally similar molecules. CB[n] compliments this
+property of SERS by acting as a receptor for several molecular
+analogues. A recent report used this property to test the
+multiplexing abilities of CB[n] in sensing structurally similar
+metabolites in urine.
+
+
+8.1.3. Localization of Ligands. CB[n] adsorbed to gold
+surfaces have also been used as a platform for immobilizing
+biomolecules.210 In this case, methyl ferrocene was functionalized with a glycol spacer and a cysteine end group for ligation
+with a yellow fluorescent protein thioester (YFP) (Figure 22).
+The protein could then be immobilized on SAMs of CB[7] on
+gold surfaces through the strong interactions with the ferrocene
+moiety. The proteins from the surfaces could be displaced by
+using a competitive guest, such as (ferrocenylmethyl)-
+trimethylammonium iodide (K = 1011 M−1). This strategy
+gave access to a strong, reversible, and uniform protein
+immobilization on surfaces. Similarly, SNAP-fusion cyan
+fluorescent protein functionalized with ferrocene was immobilized on SAMs of CB[7], generating fluorescent patterns on the
+surfaces.211 This method was then developed further to
+immobilize cells on CB[7]-coated surfaces using cyclic RGD
+peptide−ferrocene conjugates.212 The RGD peptide allows
+enhanced cell adhesion and wound healing. The studies showed
+that the cells remained viable on the surfaces when linked via
+RGD. In addition, a wound assay also showed successful cell
+recovery within 8 h.
+CB[7] has also been used to physisorb unsubstituted
+methylviologens onto the surface of TiO2 semiconductor
+nanoparticle films. The redox-active properties of the viologen
+guests were further used to prepare electrochromic windows
+that exhibited reversible color switching under applied
+potential.
+
+
+
+8.2. Guest-Mediated Interactions
+Direct supramolecular interactions of surfaces with CB[n] has
+undoubtedly opened up avenues for various promising
+applications, but controlling these spontaneous interactions
+remains challenging. One strategy, which is widely being
+reported to gain precise control over the behavior of CB[n]
+near surfaces, is to covalently functionalize the surfaces with
+molecular structures containing guest moieties. The guestmediated interaction of CB[n] with the surfaces also provides
+additional handles for stimuli-responsive and reversible
+architectures and is particularly attractive for designing colloidal
+systems.
+The earliest example of such a system was illustrated through
+the construction of a pseudorotaxane self-assembled monolayer
+on a planar gold surface using CB[6]. The molecular thread
+was anchored on a gold surface through a 1,2-dithiolane
+functionality, whereas its diaminobutane unit allowed binding
+to CB[6] (Figure 23). The threading of CB[6] could then be
+controlled by changing the pH of the system. Furthermore, the
+pseudorotaxane acted as a gate to control the access of an
+electroactive species, [Fe(CN)6]3−, to the gold surface.214
+Similarly, gold nanorods decorated with a hydrophilic CB[7]-
+based pseudorotaxane have also been prepared.215
+In another example, this method was used to disrupt
+aggregation of dye molecules on surfaces where high-density
+Rhodamine B-functionalized glass slides showed a higher
+degree of heterogeneity and fluorescence quenching. The
+addition of CB[7] reduced the heterogeneity and increased the
+emission significantly to match that of monomeric Rhodamine
+B species.216 More recently, glassy carbon electrodes were
+modified with CB[7] in order to construct a glucose sensor
+using glucose oxidase as a catalyst.217 In this case, however, a
+graphene oxide layer on the electrode was used to enhance the
+stability of the CB[7] on the surface. Ferrocenemonocarboxylic
+acid, the electron-transfer mediator, can then be captured
+through molecular recognition by CB[7]. The applicability of
+this sensor was demonstrated in human serum samples.
+8.2.1. Ligand Immobilization. On the basis of the finding
+that CB[8] is able to induce aggregation in proteins in aqueous
+solutions, a layer-by-layer construction of homo- and
+heteroprotein stacks on surfaces has been reported (Figure
+24).218 In this study, a quartz glass substrate was first modified
+with amino groups using 3-aminopropyltriethoxysilane. The
+formation of multiple layers of hemoglobin was then achieved
+by alternately immersing the substrate in solutions of CB[8]
+and protein. The CB[8] acted as a “glue” within the proteins stacks. The lack of need to pretreat or modify the proteins was
+particularly highlighted in this work by verification of this
+strategy with several unmodified proteins such as catalase,
+glutathione-S-transferase agents, and insulin. Recently, Rotello
+and co-workers were able to regulate the interactions between
+green fluorescent protein and monolayer-coated gold nanoparticles using CB[7].219 The threading of CB[7] on the
+surfaces of the nanoparticles led to an increased affinity for the
+proteins. The authors consider this to be an outcome of the
+increased cationic charge on the nanoparticle surface based on
+the slightly positive charge on the outer surface of the
+equatorial region of CB[7]. However, potential repulsion
+from the negatively charged carbonyl portals was not accounted
+for in this proposed mechanism.
+Scherman and co-workers reported the utility of viologenfunctionalized gold substrates using CB[8] as a supramolecular
+“handcuff” for patterning surfaces with polymeric colloids. Both
+1D and 2D patterns were attained.220 The same group also
+described a system in which orthogonal switching was achieved
+controllably and reversibly by using redox- and photoresponsive
+guest molecules and CB[8].221 In this system, a SAM of thiolcontaining azobenzene derivatives was immobilized on a gold
+substrate by microcontact printing. Methyl viologen conjugated
+with fluorescein dye could be assembled on the surface from
+solution via CB[8] “handcuffs” to afford spontaneously formed
+2D fluorescent patterns. UV irradiation of the surface converted
+the azobenzenes to their cis configuration, which in turn
+dissociated the second guest from the CB[8] to turn off the
+fluorescence. This process could be reversed by irradiation with
+visible light to covert the azobenzene moieties back to their
+trans state. Redox-controlled reversibility of the ternary
+complex formation provided orthogonal control over the
+system. In a more recent study, a facile method was reported
+for the preparation of rotaxanes on gold based on CB[8]
+threaded onto a viologen axle, Figure 25.222 These surfacebound rotaxanes yielded an interlocked structure, which
+prevented the dissociation of the binary complex MV2+·
+CB[8]. The stability of the functional surface was thus
+maintained for binding with electron-rich second guests for
+CB[8] such as small molecules like dopamine and prefunctionalized colloidal particles.
+
+
+8.2.2. Self-Assembled Architechtures. The ternary
+complex formation ability of CB[8] has been used to form
+and control end-to-end assemblies of gold nanorods.223 This
+was accomplished by first preparing viologen end-functionalized gold nanorods. Then telechelic linker molecules carrying
+second guest moieties were added to these gold nanorods in
+the presence of CB[8] to form aligned chains. The rigidity of
+the resulting chains could be controlled by changing the length
+of the linker molecules. Another example of reproducible SERS
+with colloids was demonstrated using gold nanoparticles
+precoated with cystamine using CB[6] as linkers to generate
+gold nanoparticle dimers.224
+A colorimetric assay for protein detection was reported based
+on CB[8]-induced formation of bulky aggregates of functionalized gold nanoparticles.225 This was achieved by modifying
+the gold nanoparticles with peptides containing N-terminal
+aromatic residues, which can be accommodated inside the
+CB[8] cavity. CB[8] is only able to bind to the peptide in the
+absence of the target protein, inducing a visible color change in
+the gold nanoparticle solution. The feasibility of this system has
+been shown in spiked serum samples with a detection limit of
+0.2 nM.
+CB[8] has also been used to link methyl viologenfunctionalized polymeric nanoparticles onto silica cores
+decorated with 4-hydroxyazobenzene moieties to yield hybrid
+“raspberry” colloidal structures in water (Figure 26).226 The
+presence of azobenzene groups allows reversible assembly and
+disassembly of the constructs with photoirradiation.
+8.2.3. Nanovalves. Pioneered by Stoddart and co-workers,
+CB[n]-based pseudorotaxane systems on mesoporous silica
+have made substantial contributions in the field of gated
+nanochemistry.227−230 The release of molecular cargo from
+mesoporous silica nanoparticles (MNPs) is achieved by
+blocking and unblocking the silica pores by using CB[n] as a
+gating moiety. Early reports were based on pH-dependent
+actuation of the MNPs.231 Increasing levels of sophistication were steadily introduced to these systems by addition of
+features such as tuning of the pH at which the MNPs
+responded,232 dual-stimuli constructs capable of exhibiting
+logic,233 and magnetic activation.234 Later, CB[7]-based gating
+behavior235,236 and alternative approaches to activate the
+nanovalves were also published. These include competitive
+binding,235 enzyme-triggered systems,236 reductive chemistry
+(cleavage of disulfide bonds),237 and light response.238
+
+
+8.3. Covalent Immobilization
+Reversibility in the binding of CB[n] to surfaces may not always
+be desirable in order to achieve better stability and recovery of
+functionality of the surfaces. Evidently, among the various
+strategies that have been explored to link CB[n] and surfaces,
+the ability to functionalize CB[n] has been pivotal in addressing
+these requirements.
+Covalently anchored CB[7] on gold surfaces was first
+reported for the production of a glucose sensor.239 The system
+was constructed by attachment of allyloxy−CB[7] on vinylterminated alkanethiolate SAMs using olefin cross-metathesis.
+Ferrocenylated glucose oxidaze (GOx) was subsequently
+immobilized on the surface by means of strong Fc·CB[7]
+host−guest interactions. Glucose concentrations could then be
+monitored electrochemically using this system. The modification of quantum dots with functionalized CB[6] using thiol
+linker groups has been reported to significantly improve their
+stability. In another example, the utility of functionalized CB[n] on
+surfaces was elegantly demonstrated by Kim and co-workers in
+the development of synthetic adhesives, which are functional
+even under water.104 Their velcro-type system is based on a
+“hook-and-loop” approach where a silicon surface functionalized with CB[7] was used to loop around the guest “hooks”
+immobilized on a second silicon surface. In order to immobilize
+the CB[7], alkene-functionalized monoallyloxy−CB[7] was
+attached to thiol-decorated Si surfaces in a thiol−ene reaction.
+The guests 1,1′-bis(trimethylammoniomethyl)ferrocene (BFc)
+and aminomethylferrocene (Fc) were chosen on account of
+their particularly high binding affinities for CB[7] in water at
+1012 and 1015 M−1, respectively. Tunability of adhesiveness was
+achieved through varying the densities of “hooks” and “loops”
+on the surfaces to control the number of multivalent
+interactions between the two silicon surfaces. A reasonable
+level of reversibility was also shown with this adhesive through
+both chemical and mechanical means. It is noteworthy that
+water molecules often act as a contaminating agent in
+conventional synthetic adhesives for use under water. On the
+contrary, this particular CB[n]-based approach relies on the
+expulsion of water molecules in the formation of the CB[7]−
+guest complexes to fabricate the desired synthetic adhesives.
+8.3.1. CB[n]-Anchored Silica. The use of CB[n]-anchored
+silica has been widely reported in separation science. The
+production of CB[n]-based stationary phase materials and their
+use in chromatography was disclosed in patents by Kim and coworkers.241 The separation of several organic compounds,
+including alkaloids, alkanes, aromatic hydrocarbons, alcohols,
+esters, ketones, and amines, using silica gel grafted with
+perhydroxy−CB[6] has been described in the literature.242,243
+However, this method suffers from the presence of excess
+potassium sulfate, which hinders immobilization. In order to
+address this drawback, another method to fabricate functionalized silica using perallyloxy−CB[6] has also been developed.244 Additionally, silica−CB[n] hybrids prepared using a
+sol−gel approach also yields stationary phases for efficient
+chromatographic separations.245−247
+As an alternative to using covalently modified CB[n], another
+method to functionalize CB[7] on surfaces has been reported
+using a photochemical reaction with azido groups (Figure
+27).248 In this strategy, silica substrates were first modified with
+3-amino-propyl-triethoxy-silane to introduce amino groups on
+the surface. The primary amine was then reacted with 4-
+azidobenzoic acid in the presence of 1-(3-(dimethylamino)-
+propyl)-3-ethylcarbodiimide hydrochloride at basic pH. The
+azido groups were then exposed to CB[7] and reacted under
+UV irradiation for 10 min to form covalent linkages. While the
+mechanism of the functionalization could not be elucidated, the
+authors propose the formation of the highly reactive singlet
+nitrenes from the azido groups upon UV irradiation. This is
+followed by their subsequent insertion into the equatorial C−H
+bonds of CB[7].
+Lastly, functionalization of electrodes for enhanced analytical
+performance has been demonstrated using CB[n]. One such
+study particularly exploits the molecular recognition properties
+of CB[8] to enhance the selectivity and sensitivity of the
+electrochemical determination of tryptophan.249 In brief, the
+glassy carbon electrode was modified by exposing it to a
+suspension of Nafion and CB[8]. The nature of interaction
+with CB[8] in the construction of this system, however, has not
+been studied and remains unclear. Investigations with common
+interferents such as acetylcholine (ACh), ascorbic acid (Asc),
+and different amino acids, namely, D-phenylalanine (Phe), Ltyrosine (L-Tyr) or L-cysteine (L-Cys), arginine (Arg), and
+lysine (Lys), showed that Phe, Arg, and Lys exhibited a
+decrease in the electrochemical signal when present at a
+minimum of 5-fold concentrations to that of Trp, while L-Tyr
+could be determined simultaneously with the concentration of
+Trp. The system was also shown to work in human serum, but
+there remains room for improvement in the reproducibility for
+real-life applications.
+
+
+8.4. Characterization of CB[n] Host−Guest Binding on
+Surfaces
+In the systems involving CB[n] and surfaces, the binding
+properties of the CB[n] is usually studied in solution and it is
+assumed that CB[n] retains its molecular recognition behavior
+on surfaces. However, with the availability of sophisticated tools
+such as force spectroscopy, these interactions can now be
+quantified down to the single-molecule level even on surfaces.
+For example, atomic force microscopy (AFM) has been used to
+measure the rupture force between individual host−guest
+complexes of CB[6] covalently tethered on gold substrates and
+a spermine-functionalized AFM tip.250 A rupture force value of
+120 pN was obtained for this system. In another study, the
+interactions between self-assembled monolayers of CB[7] and
+neutral adamantyl guests have been resolved at the singlemolecule level using dynamic force spectroscopy.251 It is noted
+from such studies that the close proximity of a surface does not
+appear to significantly alter CB[n] molecular recognition
+properties. Furthermore, the spontaneous adsorption of
+CB[6] and CB[7] on gold has been compared by AFM.252
+8.5. Outlook
+Direct interactions between CB[n] and gold continues to show
+progress in self-assembly of colloidal nanoparticles and sensing
+applications, particularly in SERS-based applications. The
+tunability of these systems is one of their major advantages,
+where the probe can be adapted to the sample. Nonetheless,
+there remains a need to further explore and elucidate the
+interactions of CB[n] with gold on planar surfaces, which may
+be possible with advances in techniques like AFM and STM. It
+should also be noted that nanoparticles that have been
+synthesized using CB[n] as the capping ligand are limited in
+their size to below ∼10 nm in diameter. While nanoparticles
+with small diameters might be exceptionally suited for catalysis,
+larger nanoparticles are much more applicable in plasmonics.
+As it is evident from the wide variety of systems being
+reported, formation of covalent links between CB[n] and the
+surfaces is moving fast toward interesting applications.
+However, these strategies still often require time-consuming
+prefunctionalized CB[n]. Therefore, the use of host−guest
+interactions to immobilize CB[6] and CB[8] on surfaces
+continues to be a promising strategy where irreversibility is
+desirable.
+
+
+9. SUPRAMOLECULAR POLYMERS
+CB[n] supramolecular polymers can be divided into two areas:
+(a) small-molecule-based supramolecular polymers and (b)
+CB-mediated bridging of polymer chains and other macromolecular structures. There are a number of excellent reviews
+in the area of CB[n] supramolecular polymers and the more
+general host−guest driven polymerization.253−258 In this
+section, we focus on summarizing the current status of research
+and development toward CB[n]-supramolecular polymers and
+highlight some relevant examples in the field, largely dominatedby CB[8] complexes, which has attracted increasing interest in
+recent years.
+9.1. Small-Molecule-Based Supramolecular Polymers
+The construction of CB[n] noncovalent polymers based on low
+molecular weight monomers is analogous to a polycondensation reaction259−261 and involves the binding of small-molecule
+guest molecules through CB[n] host−guest interactions where
+CB[n] acts mainly as a “molecular handcuff” holding together
+the repeating units of the supramolecular polymer. There exist
+several design parameters that must be considered in order to
+produce systems that take full advantage of the properties of
+CB[n] and generate dynamic polymeric constructs with
+controlled molecular weight and structure.
+The degree of association of supramolecular moieties is
+strongly affected by both their concentration in solution and
+their equilibrium constant and is approximately proportional to
+(Keq·C)1/2.262 Therefore, both the concentration and the
+binding strength between the repeating units have to be high
+in order to achieve a high degree of polymerization. The
+solubility of CB[n] and their complexes varies largely across
+this family of host moleculesCB[5] and CB[7] are much
+more water soluble than CB[6] and CB[8]15−and depends on
+a number of parameters including solvent, temperature, ionic
+strength, and guest. The majority of investigations on CB[n]
+supramolecular polymers involve CB[8] complexes, which
+typically exhibit a limited solubility in water. The advantages
+afforded by the high binding constants of CB[n] complexes,
+however, supersede the potential drawbacks from low water
+solubility.
+Another key consideration associated with such dynamic
+systems is the formation of macrocycles and the presence of
+ring−chain or ring−ring equilibria, which will impact the size of
+the polymeric aggregates that can be obtained.263−265 As with
+all equilibrium polymerization, a percentage of the chains will
+be cyclized and the distribution of rings vs linear chains will
+depend on a number of factors including monomer shape,
+length, flexibility, strength of the binding motif, concentration,
+and temperature.
+The third consideration is related to the binding mode
+between repeating units. There is a myriad of “complementary”
+or “self-complementary” binding motifs that have been utilized
+for the preparation of supramolecular polymers.262 Complementary motifs can be either two-component or threecomponent, whereby a third moiety is required for association.
+Some metal−ligand systems including 2,6-di(2-pyridyl)pyridine
+and 1,10-phenanthroline constitute a three-component binding
+whereby two moieties of the same type are complexed by a
+single metal ion. Indeed, metal−ligand interactions have been
+widely exploited and afforded a facile synthesis of linear and
+branched supramolecular polymers.266 CB[8] is a relatively
+large member of the CB[n] family and can bind two organic
+guests simultaneously. Kim and co-workers have shown that a
+stable ternary charge-transfer complex between MV, as a first
+guest, and 2,6-dihydroxynaphthalene, as a second guest, readily
+forms inside the cavity of CB[8].128 Furthermore, the ternary
+complex is known to form in a stepwise manner with two subsequent equilibria. This three-component binding motif is
+rather unique and reflects molecular recognition of complementary moieties in the presence of a macrocyclic host
+molecule. In addition, CB[8] can also accommodate two
+molecules of the same kind including coumarin,152 anthracenyl,136 and naphthyl156 derivatives. CB[10] and nor-seco-CB[10],
+similarly to CB[8], can bind two organic guests simultaneously
+inside their cavities, and their application in the area of aqueous
+supramolecular polymerization, although with limited success,
+has also been explored.267,268 Nevertheless, it is without a doubt
+that progress in creating novel CB[n]-mediated polymers has
+been so far strongly tied to the discovery of new CB[8]
+complexes and novel guest design. A facile route to smallmolecule CB[8] guest polymerization involves the covalent
+attachment of a first guest to a second guest moiety.
+Alternatively, a monomer equipped with two moieties that
+can be dimerized inside CB[8] can also yield linear polymeric
+structures. A third option is based on an equimolar mixture of
+two complementary divalent monomersfirst and second
+guest dimers. We next summarize recent research efforts in the
+area of CB[8] supramolecular polymers.
+
+
+
+Kim and co-workers were the first to investigate the host−
+guest complex formation between CB[8] and a guest molecule
+having both a first and a second guest moiety connected by an
+organic linker. Several types of supramolecular assemblies were
+obtained by this process depending on the length and flexibility
+of the linker between the binding moieties. It was reported that
+the long and flexible trimethylene linker of D1 favors 1:1
+complexation with CB[8] (Figure 28).269 A similar result was
+obtained for the apparently more rigid but-2-enyloxy linker of
+D2 (Figure 28). The introduction of an even more rigid pxylylene linker D3 in Figure 28 effectively prevented 1:1
+complexation inside CB[8] but failed in promoting chain
+extension as only a 2:2 complex was produced.270 When CB[8]
+and monomer D4 were mixed in equimolar amounts (2 mM,
+aqueous solution) a mixture of a 2:2 complex and oligomeric
+species (3:2 ratio) was produced.271 The hydrodynamic volume
+of the oligomeric, likely cyclic, species was estimated by
+diffusion-ordered NMR spectroscopy, and a degree of polymerization of ca. 4 was proposed. Linear supramolecular polymers
+were successfully grown from a gold surface functionalized with
+dipyridyliumylethylene units. A surface-anchored poly-
+(pseudorotaxane) was grown by soaking the functional gold
+surface in an aqueous solution of CB[8] and monomer D4 (1
+mM, water). After a 1 day incubation period, the poly-
+(pseudorotaxane) reached a degree of polymerization of 4. The
+surface-anchored poly(pseudorotaxane) was characterized by
+surface plasmon resonance and atomic force microscopy
+images. Monomer D5 contains a naphthalene and a
+dipyridyliumylethylene unit connected by a methylene bridge.
+Although the short linker prevents intramolecular complexation, the structural design again promotes cyclization rather
+than linear polymer formation. An equimolar mixture of CB[8]
+and D5 resulted in a stable cyclic pentamer comprising five
+CB[8] molecules and five guest molecules.272
+In order to circumvent cyclization, Zhang and co-workers
+designed a monomer containing up to four CB[8] binding sites
+in a single monomeric structure. The structure of such a
+monomer contains two central viologen moieties and two
+terminal anthracene groups, providing what was called a
+“double handcuff” to hold repeating units together (D6 in
+Figure 28).273 The short methylene linker between the
+anthracene and the viologen moieties avoids intramolecular
+complexation, while the pair of central viologens effectively
+prevents the formation of 2:2 complexesthe positively
+charged viologens will sit too close to each other in a cyclic
+2:2 complex. When CB[8] was mixed with D6 in a 1:1 ratio the
+appearance of a charge-transfer band evidenced heteroternary
+complex formation. The 1:1 stoichiometry of the complex was
+corroborated by Job’s plot analysis. AFM-based single-molecule
+force spectroscopy analysis showed the formation of extended
+polymer chains. The force curves of the supramolecular
+polymer were similar to traditional macromolecules, and a
+Kuhn and chain length of ca. 2.2 and 60.0 nm, respectively,
+were determined [comparatively, the Kuhn length for DNA in
+water274 and poly(tert-butyl methacrylate)275 in toluene are
+approximately 100 and 2 nm, respectively]. Dynamic light
+scattering experiments provided further evidence of polymer
+formation, with the Rh of the chains determined to be on the
+order of 30 nm.
+Inspired by the previous monomer design proposed,
+Scherman and co-workers investigated an analogous guest
+structure equipped with azobenzene instead of anthracene
+moieties (D7 in Figure 28). The formation of supramolecular
+polymers was charaterized both in solution and in the solid
+state through a combination of dynamic and static light
+scattering and synchrotron SAXS and SANS, see Figure 29.276
+Interestingly, the shorter monomer D8 can also form relatively
+long linear structures in solution, which coexist with the more
+stable 2:2 complex. These polymers can be readily depolymerized by UV light irradiation as the E-azobenzene moieties
+isomerize into the Z-isomer that fully occupies the CB[8] cavity
+with a high binding constant. The formation of a 1:1 complex
+between CB[8] and Z-azobenzene was investigated in solution
+by ITC and NMR. Additionally, single crystals of the polymeric
+structure were obtained and analyzed by X-ray crystallography.
+This light-controlled formation of CB[8] complexes is
+substantially different to other light-actuated host−guest
+systems and may find applications in biological and materials
+sciences.
+
+
+Zhang and co-workers investigated the formation of
+supramolecular polymers based on a wide variety of homotopic
+divalent monomers containing self-complementary CB[8]
+binding moieties including naphthalene, anthracene, phenylalanine, and quaternized azastilbene groups (see D9−D13 in
+Figure 28).277−280 These moieties readily dimerized inside the
+cavity of CB[8], thus promoting polymerization. Monomers
+D9 and D10 contain two naphthalene moieties in close
+proximity to positively charged quaternary amines.278 The flat
+aromatic groups can form host−guest enhanced π−π
+complexes in the presence of CB[8], and the positive charges
+ensure the water solubility of the final polymer and further
+stabilization through ion−dipole interactions with the ureidyl
+carbonyl portals. While D9 only formed cyclic oligomeric
+species in the presence of CB[8], D10 resulted in long, linear
+polymeric structures. This was attributed to the rigid, shapepersistent 1,4-diazabicyclo[2.2.2]octane-1,4-diium linker, which
+can effectively inhibit cyclization. The degrees of polymerization estimated by DOSY NMR spectroscopy were on the
+order of 64 for the polymer based on D10 and 7 for the
+oligomeric species derived from D9 (1 mM, water), thus
+highlighting the crucial role of the monomer spacer. The same
+group nevertheless showed that other monomers D12 and D13
+(Figure 28) with much longer and flexible linkers than D10 can
+also polymerize. One interesting example is provided by the
+comparison of monomers D13 and D14. Zhang and coworkers investigated the supramolecular polymerization of D13
+in the presence of CB[8] based on MALDI-TOF mass
+spectrometry and AFM-based single-molecule force spectroscopy. Both techniques evidenced the formation of polymers
+with a degree of polymerization on the order of 20−60.
+Dankers and co-workers recently investigated the binding
+properties of D14 through a combination of ITC, DOSY NMR
+spectroscopy, and QTOF and MALDI-TOF mass spectrometry
+and found no evidence of polymer formation.281 Data suggests
+that ring−chain equilibrium is in fact fully directed to ring
+formation (1:1 complex). The formation of this complex can by
+described by an overall binding constant Kring = 9.0 × 106 M−1
+and an effective concentration of 750 μM. The well-defined
+ring structure of the cyclic dimer D14·CB[8], with a high
+equilibrium constant, provided a very efficient inhibition
+mechanism for CB[8] protein dimerization processes as it
+can readily displace phenylalanine-containing peptide sequences from different proteins.282 MALDI-TOF analysis of CB[8]
+polymers from both D13 and D14 revealed peaks at high
+molecular weight, which were attributed to supramolecular
+polymer formation by Zhang and co-workers, whereas Dankers
+and co-workers ascribed them to CB[8] aggregates artifacts.
+The concept of CB[8] homoternary complexation has also
+been expanded toward the preparation of hyperbranched
+polymer structures, networks, and 2D polymer networks from
+monomers equipped with at least 3 binding sites (D15, D16,
+and D18 in Figure 28).283−287 It is noteworthy that, again, the
+flexibility of the monomer will determine the final structure of
+the polymers; monomers with flexible linkers (D15 and D16)
+will result in hyperbranched polymers, whereas 2D networks
+are produced from the more rigid monomer D18.
+
+
+Another interesting concept consists of exploiting CB[8]-
+enhanced radical dimerization as a driving force in supramolecular polymerization. Kim and co-workers reported in
+2002 that methyl viologen binds to CB[8] in 1:1 stoichiometry
+with a binding constant on the order of 105 M−1.142 When
+methyl viologen is reduced to the radical cation, a 1:2 complex
+is formed exclusively. The apparent binding constant for the
+dimerization process is on the order of 107 M−1. This
+homoternary complex is extraordinarily stable on account of
+extensive ion−dipole interactions between the ureidyl carbonyl
+portals of CB[8] and MV•+. In addition, the host provides the
+dimer with a hydrophobic cavity of the right size to host the
+couple of radical cations. Thus, the presence of CB[8] affords a
+convenient, simple, and reversible mechanism to drive selfassembly of a variety of organic moieties. Kaifer and co-workers
+reported in 2004 that the complexation-enhanced dimerization
+of viologen radical cations can be utilized to self-assemble
+Newkome-type dendrons equipped with a MV moiety at their
+focal point.288 Zhan-Ting Li, Yi Liu, and co-workers recently
+described the formation of 2D supramolecular organic
+frameworks from shape-persistent viologen-containing trimers
+(monomers D19 and D20).286 The viologen moieties of the
+trimers can be easily reduced in the presence of sodium
+dithionite, thus inducing self-association in water. The reduced
+trimer D19 stacks strongly in a face-to-face fashion, forming discrete 2 + 3 complexes with CB[8]. However, the presence of
+the bulky bis(2-hydroxyethyl) carbamoyl groups of D20 avoids
+face-to-face stacking, thus leading, after reduction, to the
+formation of a single-layer 2D supramolecular organic framework, which is stabilized by the strong complexation of CB[8].
+The new supramolecular networks were characterized by UV/
+vis absorption, EPR, DLS, as well as solution and solid-phase
+small-angle X-ray diffraction experiments. The single-layer
+feature of the network was confirmed by AFM imaging as the
+average thickness of the supramolecular framework was
+consistent with the diameter of CB[8]. Analogous monomeric
+trimers derived from 4,4-bipyridin-1-ium (monomers D17 and
+D18) also self-assemble in the presence of CB[8] in a similar
+fashion to the previously described reduced trimers, Figure
+30.287
+In 2004, Kim and co-workers described the first stable π
+dimer of a tetrathiafulvalene radical cation encapsulated inside
+the cavity of CB[8].289 This was demonstrated through a
+combination of NMR, UV/vis, and EPR spectroscopies. TTF
+binds to CB[8] and is simultaneously oxidized to the radical
+cation species forming a stable three-component complex as a
+red precipitate. Although no quantitative binding study was
+performed, this work demonstrated the effectiveness of CB[8]
+in stabilizing unstable species through molecular encapsulation.
+TTF radical dimerization has been shown to be extremely
+useful in exerting redox control over a wide variety of polymeric
+structures and mechanically interlocked constructs.290−294
+However, supramolecular polymer formation driven by
+encapsulation of the TTF radical cation inside the cavity of
+CB[8] has not been realized yet.
+
+
+Supramolecular polymers constructed by orthogonal selfassembly based on host−guest, including CB[n]s, and other
+dynamic covalent/noncovalent interactions are attracting
+increasing attention.295,296 Kim and co-workers pioneered the
+area CB[n] orthogonal self-assembly by designing a wide
+variety of metal−organic CB[n] polyrotaxanes.297 One of these
+structures consists of a pseudorotaxaneprepared by a simple
+mixture of D21 and CB[6]that yields a linear polymer in the
+presence of Cu2+ through pyridine−metal-ion coordination.298
+A polycatenated 2D polyrotaxane net is formed, however, if Ag+
+is used instead of Cu2+.299 The same strategy combined with a
+more complex ligand D22 produces double-chained and zigzagshaped 1D polyrotaxanes in the presence of Cd2+ and Co2+.300
+The repeating units of these metal−organic structures are held
+together by metal−ligand, not host−guest, interactions;
+however, the CB[n] complex plays a crucial role as it imparts
+rigidity to the organic linker. More recently, Zhang and coworkers investigated the preparation of CB[8] supramolecular
+polymers through a combination of host−guest and terpyridine−Fe2+ interactions.301 Monomer D23 is a heteroditopic
+molecule consisting of a naphthalene and terpyridine moiety
+which can be dimerized in the presence of Fe2+, forming a
+monomer with two terminal naphthalene moieties, [Fe·
+D232]2+. This new metal-containing monomer can undergo
+polymerization when mixed with an equimolar amount of
+CB[8] in a similar fashion to monomer D10. It was claimed
+that the cationic metallic center enhances the water solubility of
+the complex while serving as a rigid spacer between the CB[8]
+binding sites. Masson and co-workers further explored this
+concept and demonstrated that Coulombic interactions
+between metal centers and CB[n] can actually be mediated
+by an organic ligand and showed that, even in the second
+coordination sphere, CB[n] form strong CH···O hydrogen
+bonds with the ligand surrounding the metallic core.302 This
+recognition process is driven by a combination of favorable
+enthalpies (up to 20.2 kcal·mol−1) and very unfavorable
+entropic contributions (as low as −10.2 kcal·mol−1). The
+recognition properties of the metal−ligand complexes were
+extended to CB[8], and dynamic supramolecular oligomers
+were prepared by mixing equimolar amounts of ligand D24 and
+CB[8] in the presence of Fe2+ and Ir3+. The approximate
+degrees of polymerization of the oligomers, based on DOSY
+NMR spectroscopy, were 11 and 54 for the Fe2+ and Ir3+
+polymers (1 mM, water). CB[8] can also encapsulate 2,3,5,6-
+tetrafluorophenyl units, and supramolecular oligomers were
+also produced when mixing [Fe·D252]2+ and [Ir·D252]3+ with
+CB[8] in equimolar amounts (Figure 28). Degrees of
+polymerization of 27 and 15 were estimated for the Fe2+ and
+Ir3+ polymers, respectively. Also, social self-sorting was
+observed for an equimolar mixture of ([Fe·D242]2+·CB[8])n
+and ([Ir·D252]3+·CB[8])n, thus generating well-defined
+oligomers with alternating Fe2+ and Ir3+ cationic centers,
+Figure 31. The preference for naphthyl−tetrafluorophenyl
+pairing was attributed to favorable quadrupole−quadrupole
+interactions in a similar fashion to those present in benzene−
+perfluorobenzene pairs.303,304 In addition to metal−organic
+interactions, other types of dynamic covalent chemistries have
+been combined with CB[8] host−guest interactions to produce
+linear supramolecular polymers. These include thiol−disulfide,
+diselenides, and cyclodextrin host−guest interactions (monomers D26−D28 in Figure 28).305−307 D28, as an example,
+comprises an azobenzene moiety covalently attached to a
+phenylalanine residue. The monomer can dimerize in the
+presence of CB[8] to form a 2:1 D282·CB[8] complex, which
+can undergo subsequent polymerization when mixed with an
+equimolar amount of a β-cyclodextrin dimer.
+
+
+The concept of CB[8]-mediated phenylalanine dimerization
+was also exploited by Liu and co-workers in the design and
+synthesis of protein polymers.308 In this case, a homodimer
+glutathione S-transferase was selected as the building block for genetic fusion with phenylalanine-glycine-glycine oligopeptides
+at each side of its N-termini. The homodimer protein
+polymerizes via homoternary complex formation between two
+phenylalanine residues and CB[8] as demonstrated by the
+increase of the molecular weight of the aggregate. The proteinbased polymer had a wire-shaped structure with an average
+length of 128 nm (degree of polymerization around 25) and a
+height of about 4.8 nm. This protein assembly was highly stable
+and could even undergo separation by gel permeation
+chromatography and further functionalization with glutathione
+peroxidase.
+Finally, Zhang and co-workers recently reported a novel
+polymerization methodology controlled by CB[8] and CB[7]
+self-sorting.309 The supramolecular polymerization of a
+tetracationic monomer composed of p-phenylene and naphthalene moieties was promoted by the selective recognition of
+the central p-phenylene ring by CB[7] followed by a CB[8]
+naphthalene double encapsulation. A degree of polymerization
+of ca. 28 was obtained by asymmetric flow field flow
+fractionation (that conveniently bypasses the use of GPC
+stationary phases) coupled to multiangle light scattering.
+
+
+9.2. CB[8]-Mediated Supramolecular Block
+Copolymerization
+Not only is supramolecular polymerization possible by CB[8]
+complexation of small molecules, higher molecular weight
+molecules such as polymers can also be complexed at their
+termini or via side chains to other polymers, small molecules,
+biomolecules, etc. As the following section will demonstrate,
+this process can lead to large and facile increases in molecular
+weight, not only affording chain-extended polymers. However,
+by relying on the specific heteroternary 1:1:1 CB[8]-stabilized
+charge-transfer complex, self-sorted amphiphilic supramolecular
+block copolymers can be produced allowing formation of
+micelles and vesicles that can be assembled, disassembled, and
+reassembled using various stimuli-responsive triggers.
+9.2.1. Supramolecular Assembly of Macromolecules.
+Kaifer and co-workers first demonstrated macromolecular
+assembly with CB[8] by centrally and noncovalently complexing two distinct dendrimers, one functionalized with MV
+(electron acceptor) and a second with p-dialkoxybenzene
+(electron donor).131 In this study, dendrimers were selectively
+assembled on account of the guest covalently attached, and the
+efficiency of this process was shown to be dependent on the
+size of the corresponding dendritic units. Electrochemical oneelectron reduction of viologen resulted in homodimerization of
+dendrimer units on account of 2:1 complexation of the MV
+radical cations to CB[8], and therefore, redox switching
+between discrete molecular weight dynamic dendrimer dimers
+was possible.
+A facile methodology of block copolymerization by supramolecular complexation is that of the dimerization of MVterminated polymers to Np-terminated polymers by CB[8]
+addition, Figure 32.310 This leads to the formation of linear
+dynamic elongated homopolymers and AB-diblock copolymers,
+as demonstrated by Scherman and co-workers. Dynamic
+amphiphilic polymers of PEG and cis-1,4-poly(isoprene) or
+octadecane were prepared, and these were also able to form
+larger vesicular structures in a highly versatile manner.
+Ji and co-workers reported similar aqueous structures of a
+linear hyperbranched polyphosphate with a terminal MV unit
+that complexed to CB[8] and poly(D,L-lactide) with terminal
+indole units.311 This formed an amphiphilic block copolymer
+structure that would assemble into a biocompatible micellar
+structure. Disassembly of these micelles was possible by
+reduction of the MV units with sodium dithionite, breaking
+the heteroternary complex.
+Actual polymeric chain extension by CB[8] complexation at
+polymer termini was investigated by Jiang and co-workers,
+Figure 33a.312 Low molecular weight poly(N,N-dimethylacrylamide) and poly(N-isopropylacrylamide) with naphthyl
+moieties at both termini were synthesized via reversible
+addition−fragmentation chain transfer (RAFT). These polymers were then combined in solution with a viologen dimer
+and CB[8] to form host-stabilized charge-transfer complexes
+and higher molecular weight supramolecular polymers from the
+lower molecular weight building blocks. The existence of these
+higher molecular weight supramolecular polymers was observed
+using viscometry techniques. The resultant supramolecular
+pNIPAm also expressed interesting LCST behavior, which was
+strongly dependent on concentration (higher concentrations are associated with lower LCSTs), unlike covalent pNIPAm,
+which exhibits very limited concentration dependence on its
+critical temperature.
+
+
+Not only is supramolecular complexation possible at the
+polymer terminus, indeed Scherman and co-workers also
+demonstrated the reversible and stimuli-responsive loading of
+side chains onto hydrophilic polymer chains by utilizing CB[8]
+ternary complexation motifs.313 A copolymer of oligoethylene
+glycol acrylate and a naphthol-bound monomer was synthesized via RAFT polymerization. MV derivatives were then
+reversibly complexed to the naphthol residues. In particular,
+MV-bound hydrophobic residues such as C18 chains could be
+“pulled” into aqueous solution using this complexation method.
+Upon addition of sodium dithionite, the MV moieties were
+reduced from dicationic species to radical cations, breaking the
+1:1:1 heteroternary complexes. This process was in turn
+reversible by bubbling air through the solution, oxidizing the
+MV and regenerating the charge-transfer complexes. This work
+holds design features amenable to controlled or triggered
+release delivery devices. Monosaccharides and multivalent
+ligand−lectins have similarly been noncovalently attached to
+such copolymers to add biorecognition modalities.314 A
+supramolecular glycopolymer was produced, which could
+bind lectins and then be released from the copolymer backbone
+using redox methods. Such polymer designs could be further
+used to probe cellular activity and biomarkers. Development of
+this area has led to the development of drug delivery
+applications with both Scherman and Ji reporting the delivery
+of doxorubicin, a commonly used chemotherapeutic, from
+supramolecular micellar structures. In both cases, CB[8]
+heteroternary complexation was employed to form supramolecular amphiphilic block copolymers, which would in turn
+form micelles through hydrophobic interactions, Figure
+33b.315,316 Scherman and co-workers constructed triply
+stimuli-responsive micelles from temperature- and chemoresponsive CB[8], pH-responsive naphthalene-terminated poly-
+(dimethylaminoethyl methacrylate) (PDMAEMA-Np), and
+temperature-responsive MV-terminated poly(N-isopropylacrylamide) (PNIPAAm-MV). Mixing these components in
+aqueous solution in an equimolar ratio resulted in micelle
+formation in which doxorubicin was encapsulated. Changes in
+pH and temperature or addition of the competitive guest,
+adamantylamine, resulted in disassembly of the micelles and
+release of doxorubicin, which was shown to have a direct effect
+on cell viability. Moreover, exposed cell lines exhibited good
+tolerance of the doxorubicin-loaded micelles, only exhibiting
+detrimental effects upon triggered release. Ji and co-workers
+reported a similar assembly of micelles utilizing a different
+heteroternary supramolecular motif. In this example, the
+hydrophobic block consisted of an indole-terminated poly-
+(lactic acid) whereby indole is an electron-rich moiety utilized
+in the charge-transfer handcuff motif. The hydrophilic block
+consisted of MV-terminated PEO. Furthermore, both poly-
+(ethylene oxide) and poly(lactic acid) have been FDA
+approved for medical use, and the latter also has an excellent
+biodegradability profile. Again, doxorubicin encapsulation was
+possible within the hydrophobic core of the micelle, and release
+could be triggered by addition of sodium dithionite, reducing
+the MV and causing disassembly.
+Indeed, supramolecular assembly of higher order structures is
+not limited to micelles, and the aqueous construction of
+double-layer vesicles was also reported by Scherman and coworkers in 2012.317 Assembly of a pyrene-GGGKKK peptide
+with a MV−lipid through host−guest ternary complexation
+with CB[8] afforded 200 nm spherical double-layered vesicles,
+observed by DLS and TEM. Furthermore, these vesicles were
+readily absorbed by cells, and fluorescence imaging of the cells
+could be achieved by uptake of either 1,6-dihydroxynaphthalene
+or adamantylamine to break the ternary complex, releasing the
+fluorescent pyrene−peptide. Supramolecular polymeric analogues of these vesicles (Figure 33b) are pertinent for use as
+delivery devices of large biomolecules, in particular, basic
+fibroblast growth factor (bFGF).318 These vesicles protected
+bFGF against several freeze−thaw cycles and were effective
+delivery devices to cells, therefore showing good promise as an
+injectable therapy. Das and co-workers expanded work in this area to form mixed micelles of viologen amphiphiles and
+tetralkylammonium salts in water. These micelles could then be
+transformed into vesicles through host−guest complexation
+with CB[8].319 Furthermore, the rearrangement of these mixed
+micelles into vesicles was mechanistically studied, appearing to
+progress through a stable mixed-micelle stage; upon addition of
+CB[8], a dynamic mixture of nonspherical mixed micelles is
+formed, and then on addition of naphthalene-derived guests,
+the micelles structurally promoted into self-sorted vesicles.320
+9.2.2. Conclusion and Outlook. Supramolecular block
+copolymerization is an exciting area with ongoing development
+of facile routes toward producing multiply responsive materials.
+From mechanistic studies of formation to advancement into
+bioapplicable delivery of growth factors, this area is undergoing
+new and extensive investigation. Supramolecular block
+copolymer materials are now poised for use in real-life
+applications, and we hope to see in vivo progression in the
+near future.
+
+
+10. MOLECULAR RECOGNITION IN 3D
+SUPRAMOLECULAR NETWORKS
+Hydrogels are becoming an important class of material on
+account of their high water content, tunable properties, and
+biocompatibility. In the example of polymeric hydrogels, water
+is encapsulated within a chemically or physically cross-linked
+macroscopic network by capillary forces and their stiffness and
+elasticity defined by polymer loading and cross-link density.
+Hydrogels formed via molecular recognition of CB[n] for
+specific chemical motifs pendant from polymer chains have
+become increasingly widely studied since 2010. The fabrication
+of such soft materials has been reviewed specifically in recent
+years, perhaps however prematurely, as the field of CB[n]
+cross-linked hydrogels is still developing.133−135 In the
+following examples, exploiting the host−guest complexes of
+CB[6], CB[7], and CB[8] to form physical polymer−polymer
+cross-links will be discussed and how the dynamics and control
+over such cross-linking has been investigated and utilized.
+10.1. CB[8] Complexes Cross-Link Guest Functional
+Polymers
+Scherman and co-workers extensively explored the formation of
+CB[8]-stabilized charge-transfer complexes between electronpoor and electron-rich species that are covalently bound to
+polymers. The random attachment of first and second guests,
+methyl viologen (MV) and naphthoxy (Np), respectively, to a
+variety of independent synthetic polymers was first achieved
+through the copolymerization of guest-bound monomers with
+either neutral, cationic, or anionic monomers in a ratio of
+1:10.321 Upon addition of CB[8] to a mixture of MV−polymer
+and Np−polymer (5 wt %) in water, viscoelastic materials were
+formed that expressed a responsiveness to stress and shear on
+account of the formation of multiple noncovalent ternary
+complexes between polymers, Figure 34. Moreover, this work
+also demonstrates a wide tolerance of charge on the formation
+of hydrogels through the CB[8] recognition motif through the
+utility of a variety of anionic and cationic polymers, as well as
+the appearance of viscoelastically tunable supramolecular
+networks through controlled CB[8] concentration.
+Scherman and co-workers continued their exploration of
+these materials, focusing on the ability to form a predominantly
+elastic material with minimal polymer content (0.5 wt %).322
+To achieve this a high molecular weight polysaccharide,
+hydroxyethyl cellulose (HEC, MW = 1.3 MDa) was functionalized with Np moieties to a degree of 5 mol %. The resulting
+material was then combined in solution with CB[8] and a high
+molecular weight commodity polymer poly(vinyl alcohol)
+(PVA, Mn = 1.5 MDa) functionalized with MV. It was found
+that a range of soft material properties could be achieved and
+were accessible simply by modifying polymer loading.
+Impressively, a broad spectrum of storage moduli spanning 2
+orders of magnitude (10 > G′ > 1000) could be readily
+attained. Moreover, these materials were also shown to have
+excellent shear-thinning properties (resulting from the very low
+polymer loadings and noncovalent cross-linking) and also
+exhibited rapid self-healing behavior. The authors exemplified
+this by performing step-shear rheology experiments and
+demonstrated the viscosity of the material returned within seconds upon release of the high shear rates and that the
+process was also recyclable. Rapid recognition of Np-HEC by
+CB[8]⊂MV-PVA complexes upon relaxation of the material
+facilitates healing, whereby the dissociated complexes are
+quickly reassociated under mechanical stimuli rather than the
+actual breaking and making of any covalent bonds, and so the
+properties are always 100% restored.
+
+
+Furthermore, the release of small (lysozyme) and large
+(BSA) proteins from the HEC hydrogels has also been
+demonstrated.323 In this example, polymer concentration was
+altered in order to modulate the mesh size of the supramolecular network. By raising the polymer content, the mesh
+size was decreased and the proteins could be released at slower
+rates. Specifically, in the case of a 1.5 wt % HEC gel, BSA
+release was sustained for 160 days, showing excellent utility for
+these materials as biomedical delivery devices.
+Modification of the system to use the polysaccharride chitin
+afforded hydrogel materials that were antimicrobial; however,
+they have found utility as a consolidant for archeological wood
+conservation, specifically on the Mary Rose, a 16th Century
+warship.324 By adding extra CB[8] binding moieties onto the
+chitin backbone, such as naphthalene and dopamine derivatives,
+a system was produced that could not only gelate and express
+all previous properties of such supramolecular hydrogels but
+also complex Fe3+ ions that persist in the water-logged artifacts.
+This system is therefore pulled into the porous wooden
+artifacts, strengthening them and “locking” the iron in place,
+preventing its transport and therefore further degradation as
+well as providing biocidal protection.
+Focusing on further improving CB[8] hydrogel utility in the
+biomedical field, harnessing 2:1 binding of amino acids to
+CB[8] was also investigated as a route to hydrogel
+formation.325 Scherman and co-workers demonstrated hydrogel
+formation with synthetic cationic styrenic polymers bearing
+either phenylalanine or tryptophan derivatives, Figure 35a. It
+was shown that phenylalanine 2:1 complexation to CB[8]
+afforded much stronger hydrogels than the tryptophan-derived
+polymers and that the material properties could be tuned by
+controlling CB[8] content and therefore cross-link density.
+This system is inherently simpler than the previous hydrogels as
+the network is only comprised of two components, a
+multivalent amino acid bearing polymer and CB[8], opposed
+to two different polymers (one bearing the first guest and the
+other the second guest) and CB[8]. However, the authors
+found that rigid polymers were required to form hydrogels as
+this prevented intrachain complexation of CB[8], as previously
+observed when polymers containing both first and second guest
+formed soft nanoparticles on addition of CB[8].326 In the
+future, the authors look to apply these amino acid recognition
+motifs to larger and more biomedically relevant polymers to
+improve water content and biocompatibility further.
+A second example of 2:1 guest to CB[8] binding facilitating
+hydrogel formation was reported by Lin and co-workers in
+2013, Figure 35b.327 Here, N-(4-dimethylaminobenzyl)chitosan
+(EBCS) was shown to form hydrogels of a variety of strengths
+upon addition of CB[8] under various pH conditions, allowing
+for control of release rates of the model drug cargo 5-
+fluorouracil. In this case, hydrogelation likely occurs through
+recognition and affinity of the protonated aminobenzyl groups
+by the ureido−carbonyl portals of CB[8]. Due to protonation
+of the aminobenzyl groups being a necessity, weak hydrogels
+were formed at pH 6.8 and strengthened at lower pH levels.
+Therefore, the facility to use this material in biomedical
+applications is quite restricted; however, pH control over
+specific recognition of aminobenzyl-derived moieties has been
+clearly demonstrated.
+A further photoresponsive hydrogel construct from the
+Scherman group was reported in 2014. In this study, CB[8]-
+catalyzed photodimerization of anthracene in water was
+exploited in hydrogel formation, Figure 35c.45 In this system, the anthracene-derived moieties form 2:1 inclusion complexes
+with CB[8] and were conjugated to an HEC backbone via a
+copper-accelerated cycloaddition to azide-derived HEC. The
+2:1 anthracene:CB[8] complexation alone afforded elastic soft
+materials. Upon photoirradiation at 350 nm for 15 min the
+material experienced a hardening effect and the moduli roughly
+tripled in magnitude, accounted for by the covalent
+dimerization of the two anthracene moieties within the
+CB[8], resulting in the HEC network becoming covalently
+cross-linked. The presence of CB[8] within the system was
+shown to rapidly catalyze the formation of the anthracene
+dimers as irradiation of the same material in the absence of
+CB[8] did not yield materials of the same strength.
+Unfortunately, the dimerization of anthracene in this system
+was not shown to be reversible, so the hydrogelation via this
+photochemical CB[8]-catalyzed cross-linking process is a
+seemingly permanent conversion.
+
+
+10.2. Dynamics of Cross-Linking Influences Material
+Properties
+The nature of microscopic thermodynamic properties of
+physical cross-links within a supramolecular network can have
+a large impact on the material. Recognition of different smallmolecule motifs by CB[8] in hydrogel formation thus has a
+great effect on the resulting hydrogel. In 2014, Scherman and
+co-workers explored the nature of the CB[8] ternary complex
+cross-linking motif and how the dynamic complexation of such
+motifs contributes toward defining hydrogel viscoelastic
+behavior.328 Investigation of different second guests beyond
+Np that have slightly different energetic binding properties to
+CB[8]⊂MV was undertaken, Figure 34. The other second
+guests studied alongside Np were dibenzylfuran (DBF) and
+pyrene (Pyr), which have very similar overall equilibrium
+constants in the formation of the heteroternary complexes with
+CB[8]·MV (1.5, 1.4, and 1.3 × 104 M−1, respectively),
+determined by stopped-flow fluorescence experiments. Despite
+these seemingly similar equilibrium constants, the activation
+energies of dissociation (Ead) of the second guest were found to
+be vastly different (Np 30 kJ mol−1, DBF 54 kJ mol−1, Pyr 89 kJ
+mol−1). Physically cross-linked materials were prepared from
+multivalent poly(dimethylacrylamide) bearing one of the
+second guests, polystyrene-MV and CB[8]. Remarkably, all
+materials were found to have virtually identical X-ray scattering
+profiles; however, frequency-dependent oscillatory rheology
+showed that the Pyr gels were the “most elastic” and the Np
+gels the least. This was attributed to the dissociative rates of the
+second guest. The authors showed that when scaling the
+rheology data with the value of Ead for each second guest, the
+measured frequency-dependent rheology profiles overlaid
+almost exactly. Therefore, the strength and viscoelastic property
+of the hydrogels is not only dependent on conventional
+polymer physics and polymer interactions but also dependent
+on the dynamics of cross-linking, in particular, the choice of
+second guest used in the CB[8] ternary complex cross-linking
+motif, and specifically dependent on the Ead of the second
+guest. In simpler terms, higher dissociative barriers of the
+second guest affords longer cross-link lifetimes and therefore
+stronger materials.
+In a subsequent study, Scherman and co-workers investigated
+how the dynamics of physical cross-linking in these systems
+affect release of rhodamine from the supramolecular network.329 Higher release constants were observed for materials
+bearing second guests with lower Ead values. This was
+accounted for through faster cross-link dynamics, allowing
+faster diffusive rates of solvent and cargo in and out of the gel
+network. Faster cross-link dynamics also led to faster erosion
+rates of the hydrogels as water is able to diffuse into the
+hydrogel easier, facilitating erosion through swelling mechanisms. By studying these phenomena, erosive and diffusive
+mechanistic contributions to rhodamine release could be
+understood, and material lifetimes are now potentially
+predictable. This study demonstrates that cross-link dynamics
+play a subtle yet important role in release of cargo from
+hydrogels and that the ability to robustly fine tune release and
+erosive rates is possible.
+
+
+10.3. Composite Soft Materials Utilizing CB[8] Host−Guest
+Interactions
+Collaboration between the Scherman and Ikkala groups
+resulted in the development of soft domain−hard domain
+composite hydrogels whereby homogeneous dispersions of
+cellulose nanocrystals (hard domains, CNCs) were cross-linked
+with soft polymeric domains via host−guest interactions
+between MV, Np, and CB[8], Figure 36a.330 This was achieved by using CNCs decorated with surface ATRP initiator moieties
+to graft methacrylate polymers bearing multiple Np units.
+Mixing the functionalized CNCs with PVA−MV polymers and
+CB[8] produced supramolecular materials that were 85% water,
+extremely well structured as exemplified by frequency-dependent rheology, highly elastic (G′ ≫ G″), and rapidly self-healing
+(healing time < 6 s). These are combined and desirable
+properties of both hard and soft materials which would usually
+be seen to be conflicting or unable to operate together in the
+same material. Moreover, materials that were cut in half and
+kept separate for 4 months were pushed back together and their
+viscoelastic property completely restored after just a few
+seconds. This property is remarkable in that the material was
+not passivated even after months and did not require any
+activation, something that had not been previously demonstrated in other supramolecular systems.
+A follow-up study between the two groups led to the
+development of a composite hydrogel of nanofibrillar cellulose
+(NFC) and HEC, again supramolecularly cross-linked with
+CB[8] host−guest interactions.331 More specifically, a supramolecular HEC network, cross-linked by heteroternary
+complexation to CB[8], was adsorbed onto NFC colloidal
+domains as a sacrificial yet self-healing network, connecting
+stiffer NFC domains that would usually form stiff hydrogels
+alone through crystalline fibril−fibril entanglements, Figure
+36b. These crystalline domains however have little ability to
+dissipate stress and as the materials are stiff allow for very little
+yielding. By adsorbing a supramolecular network to bridge the
+length scales between NFC colloidal domains, a soft material
+was produced whereby the yield strain could be offset
+dependent on the supramolecular content of such formulations,
+and materials were also self-healing.
+Scherman, Liu, and co-workers later reported a purely
+supramolecular double-network hydrogel comprised of one
+DNA-hybridized system and one CB[8] host−guest system,
+Figure 36c.332 This work is particularly interesting because of
+the multiple levels of stimuli responsiveness arising from the
+two present networks including temperature, chemical,
+mechanical, and enzymatic responses. By mixing carboxymethyl
+cellulose-phe (CMC-phe), CB[8], and DNA motifs, interpenetrating networks were afforded that did not appear to have
+any interaction as imaged by confocal microscopy; however, the
+brittleness of the DNA gel was offset by the presence of the
+interpenetrating CMC-phe/CB[8] dynamic system, which can
+rapidly reorganize and heal on distortion. Ultimately, a system
+was recognized that exhibited a higher than predicted
+mechanical strength of the combined gels and also the selfhealing and rapid reorganization of CB[8] gels. The material
+was also shown to be responsive to excess free phenylalanine,
+which could compete for the CB[8] cavities, as well as having
+full biodegradability profiles on account of enzyme addition
+such as nuclease and cellulase. This material offers an
+interesting opportunity to consider new 3D cell culture
+scaffolds as well as injectable delivery devices for triggered
+release of DNA motifs in novel therapies.
+
+
+10.4. From Monohydroxylated-CB[n] to Functional
+Materials
+Kim and co-workers reported preparation of CB[6]-grafted
+hyaluronic acid (HA) via reaction of thiol-modified HA (HASH) with (allyloxy)12CB[6].333 Hydrogels were formed when
+HA functionalized with diaminohexane (DAH) was mixed with
+HA−CB[6] as a result of the specific inclusion complexation of
+the DAH to the CB[6] cavity. These hydrogels could be
+returned to their sol state upon addition of spermine to the
+material, which displaces the DAH moieties from the CB[6]
+cavities based on having a 100-fold higher binding constant,
+destroying the interchain cross-links, suggesting gelation is
+promoted by CB[6]·DAH complexation. At 2 wt % polymer
+loading, these hydrogels exhibited exceptionally high storage
+moduli (∼2 kPa) and also reasonable biocompatibility. Any
+remaining HA-DAH moieties were able to be capped with
+further CB[6] derivatives that were tagged with biorelevant
+molecules such as adhesion peptides and fluorescent markers
+demonstrating utility in 3D cell culture and tissue engineering.
+These hydrogels were later implicated in controlling
+chondrogenesis of human mesenchymal stem cells
+(HMSCs).334 Here, spatial control of the HMSCs was achieved
+by modulating cross-link density of the hydrogel by controlling
+the amount of functionalization of HA with monoallyloxy−
+CB[6] and differentiation of the cells controlled by release
+profiles of transforming growth factors and dexamethasonebound CB[6] (Dexa-CB[6]). Dexa-CB[6] was shown to have
+slower release rates from the gels in comparison to free dexamethasone (in the order of days compared to hours) on its
+complexation to free DAH residues conjugated to the polymer
+network.
+Similarly to Kim’s work, promise of useful materials with
+multiple anchored CB[7] molecules has also recently been
+reported by Tan and co-workers.105 In this work, the synthesis
+of a 4-vinylbenzyloxy−CB[7] monomer is reported followed by
+the copolymerization with N-isopropylacrylamide (NiPAAm).
+The authors found that they could copolymerize 0.86 mol % of
+4-vinylbenzyloxy−CB[7] into NiPAAm using redox-initiated
+polymerization in water with Mn = 2.10 × 105 Da and PDI of
+1.69 while retaining thermoresponsive properties. Although no
+specific materials were produced from this copolymer, a wide
+variety of guest molecules were still able to bind to a proportion
+of the CB[7] residues, even in their anchored form, and thus,
+these materials could become useful in the construction of
+higher order supramolecular materials or in surface attachment
+applications.
+
+
+
+10.5. Microcapsule Formation Through CB[8] Ternary
+Complexation
+CB[8] recognition motifs have also found utility in the
+formation of synthetic microcapsules whereby complete control
+of the composition of the shell and also the content is
+paramount. Work by Scherman and co-workers saw development of multistimuli-responsive polymer−gold nanoparticle
+composite materials held together by CB[8] heteroternary
+complexes.335 The later developed, through collaboration
+between Scherman, Abell, and co-workers, into composite
+gold nanoparticle−polymer microcapsules produced by microfluidic methods, Figure 38a.336 Similarly to the formation of
+supramolecular polymers and hydrogels, heteroternary complexation was achieved by encapsulation of an electron-deficient
+first guest followed by complexation of an electron-rich second
+guest. To control structure formation, separate aqueous
+solutions of MV-functional gold nanoparticles, Np−copolymer,
+and CB[8] were simultaneously injected into a microfluidic
+device with a fluorous-oil carrier phase perpendicular to the
+aqueous flow. As the oil and water phases meet, shear forces at
+the interface initiate formation of monodisperse droplets whereby the Np−copolymer and MV−nanoparticles were
+cross-linked at the oil−water interface by CB[8] (having
+been drawn to the interface to stabilize the water/oil surface
+energy), forming spherical capsules upon dehydration;
+subsequent rehydration was carried out with minimal rupturing
+of the 3D structures. The size of the microcapsules could also
+be controlled by moderating the difference in flow rate between
+the oil carrier phase and the aqueous phases. These capsules
+were resistant to high temperatures and low pressures, and no
+capsules were formed on replacing CB[8] with CB[7] as only
+binary complexes can be formed, and therefore, no crosslinking is achieved. Sustained encapsulation of FITC-labeled
+dextran (500 kDa) was also demonstrated, the integrity of the
+capsule shell was not compromised, and the cargo was
+distributed evenly throughout. Release of the cargo could
+even be triggered by reduction of the MV moieties with sodium
+dithionite, which breaks the CB[8] complexation, causing
+dissolution of the capsule walls. Extra utility of the capsules
+arose from the presence of gold nanopaticles in the shell, and
+this allowed for the analysis and/or detection of materials
+encapsulated within by surface-enhanced Raman spectroscopy
+(SERS) as well as mapping of the microcapsule surface.
+In a follow-up communication, Abell and co-workers
+demonstrated the fabrication of colloidosomes via analogous
+microfluidic methods, Figure 38b.337 Passive diffusive release of
+cargo from colloidosomes is highly dependent on pore sizes,
+which is determined by the spacing between colloids.
+Therefore, the ability to control distances between colloids in
+microcapsule walls as well as anchoring the colloids in place is
+extremely desirable. Similarly to the production of the
+aforementioned gold nanoparticle−polymer composite capsules, polystyrene colloids were functionalized with MV and then
+mixed with CB[8] and a copolymer bearing Np moieties,
+forming capsules, which were stable upon dehydration.
+Encapsulation and passive release of various molecular weight
+FITC−dextran was explored, and the authors demonstrated
+that 150 kDa FITC−Dextran could be encapsulated for a
+prolonged time period as a result of the small gap distance
+between colloids. Release could also be triggered by addition of
+a competitive guest (adamantyl amine, ADA) by disassembly of
+the cross-links and therefore the capsule. The authors
+hypothesize that the release rates could be altered by
+controlling the intercolloid distance, and this could be achieved
+by changing polymer concentrations, cross-link density, or
+parameters of the microfluidic device.
+The latest example of microcapsule formation facilitated by
+the efficient recognition of molecular moieties by CB[8] under
+microfluidic conditions was shown by Scherman and coworkers in 2014.338 Assembly of multiple polymer layers and
+cross-linking with CB[8] was achieved at a water/chloroform
+interface, allowing for microcapsule formation. In this system
+there is no requirement for nanoparticles to undergo direct
+assembly at the interface as guest-bearing copolymers were
+applied to both the aqueous (MV−-polymer) and the oil (Np−
+polymer) phases to template capsule formation along the oil/
+water interface, and layered assembly was demonstrated by
+confocal microscopy of rhodamine- and fluorescein-labeled
+components, Figure 38c.
+Adding extra functionality to the microcapsules, the hydrophobic polymer could be replaced with a branched dendritic
+polymer bearing azobenzene moieties. Incorporation of the
+branched dendritic polymer system allowed small molecules to
+be encapsulated within the microcapsules and the skin
+formation facilitated through 1:1:1 complexation of CB[8],
+MV, and azobenzene. Disassembly could be triggered by UV
+irradiation, switching the azobenzene configuration from E to
+Z, thereby breaking the heteroternary complexes, facilitating
+cargo release. These systems have demonstrated robust
+assembly techniques and excellent tuning capabilities and
+therefore have many potential applications in future delivery
+devices.
+
+
+10.6. CB[n] Cross-Linked Polymer Networks Outlook
+CB[n], specifically CB[8], have shown excellent utility in the
+development and formation of novel materials. Robust and
+efficient recognition motifs allow for rapid assembly of
+macroscopic polymer networks of which the dynamics of
+such ternary complexes have been shown to have an impact on
+material properties. In the example of supramolecular hydrogels, the mere fact that polymer concentration can be retained
+and yet a series of different material properties can be accessed
+by simply modulating CB[8] concentration, and therefore,
+cross-link density allows for a wide applicability of these
+hydrogels to future technologies, e.g., 3D cell culture. This is of
+particular importance in biomedical applications whereby fasthealing materials are required as injectables; CB[8] cross-linked
+hydrogels would be highly impactful on modern medicines.
+Manipulation of polymeric materials by microfluidic devices has
+led to novel microcapsule structures with excellent control over
+assembly processes and potentially excellent utility in future
+molecular manipulation and delivery systems.
+However, the science of covalently attaching CB[8] to
+polymers has yet to be reported but is envisaged to lead to the
+development of extremely responsive multicomponent materials with fantastic tuning properties. Therefore, in the future we
+hope and expect to see many efforts in reproducible and
+scalable methods to monofunctionalize CB[8] with reactive
+groups and covalently attach such a molecule to polymer
+architectures.
+
+
+
+11. CATALYSIS WITHIN CUCURBIT[n]URIL CAVITIES
+The ability of CB[n]s to encapsulate various guest molecules
+has led to them being used to catalyze and template various
+chemical reactions. The first report detailed the catalysis of [3 +
+2] cycloadditions339 in the presence of CB[6], which paved the
+way for the development of click-chemistry reactions. Since
+then, CB[n]s have been used to catalyze solvolysis reactions,340
+oxidation reactions,341 and metal-ion-assisted reactions.342
+Furthermore, CB[n]s have been utilized in photocatalysis and
+templating photochemical reactions343 and, in contrast, have
+been employed in reaction inhibition through the protection of
+reactive functional species by encapsulation.344 The following
+section will focus on key research outcomes in the area of
+catalysis and reaction modulation through interactions with
+CB[n] macrocycles.
+11.1. [3 + 2]-Cycloadditions Catalyzed by CB[6]
+The first instance of CB catalysis was reported by Mock and coworkers in the late 1980s, whereby a [3 + 2] cycloaddition of an
+alkyene (E1) and an azide (E2) was shown to occur within the
+cavity of CB[6] molecules.339 In an aqueous formic acid
+solution at 40°C, the cycloaddition occurs slowly with the
+formation of substituted triazoles; however, the addition of
+catalytic amounts of CB[6] led to a 6 × 105 increase in reaction
+rate with triazole (E3) being the only isomer formed as a result
+of the orientation of E1 and E2 within the 1:1:1 complex
+formed with CB[6]339 (see Figure 39). The catalytic rate increase of the reaction was attributed to an overcoming of
+entropic constraints through optimal orientation, in addition to
+strain-induced compression of the reactants within the CB[6]
+cavity. This pioneering work inspired the development of
+azide−alkyene cycloadditions toward “click chemistry” reactions, with rotaxanes, polyrotaxanes, and pseudorotaxanes being
+successfully synthesized from CB[6] catalyzed [3 + 2]
+cycloadditions.345−349
+11.2. CB[n]-Catalyzed Solvolysis Reactions
+In 2009, Nau and co-workers reported the catalysis of amides,
+carbamates, and oximes by CB[6] and CB[7] through an acid
+hydrolysis reaction.340 In the presence of CB[6] or CB[7], the
+rate of hydrolysis of an amide with a cadaverine moiety (E4)
+rose by a factor of 5 (kcat/kuncat) at pD 0.9, while at pD 1.4 the
+reaction rate increased by a factor of 11.6. For carbamate (E5),
+the reaction rate increased by a factor of approximately 30 in
+the presence of CB[6]. For oxime (E6) in the presence of
+CB[7], the reaction rate increased by factors of between 50 and
+285 dependent on the pD value, which was varied between 4
+and 5.8. The catalytic effect of CBs was proposed to be through
+the coloumbic stabilization of the protonated nitrogen
+intermediate that occurs during the hydrolysis, in addition to
+increasing their apparent pKa values.
+Garcia-Rio and co-workers investigated the hydrolysis of
+substituted benzoyl chlorides (E7) in the presence of either
+CB[7] or methylated-β-cyclodextrin, with each macrocycle
+displaying contrasting effects on the reaction.350 For the case of
+benzoyl chlorides substituted with electron-donating groups,
+CB[7] showed a catalytic effect toward the formation of
+benzoic acid (E8), whereas methylated-β-cyclodextrin inhibited
+the reaction. Conversely, electron-withdrawing substituted
+benzoyl chlorides were inhibited by CB[7] and catalyzed by
+methylated-β-cyclodextrin. The opposing effects are explained
+through differences in the cavities and portals of these two
+macrocycles. For electron-donating substituted benzoyl chlorides, CB[7] catalyzes the reaction through stabilization of the
+acylium cation intermediate by its carbonyl-lined portals,
+lowering the energy barrier for the reaction. For the electronwithdrawing substituted benzoyl chlorides, methylated-β-cyclodextrin shows a catalytic effect as a result of the hydroxyl groups
+of the portals participating in the reaction. This work
+demonstrated the role that macrocycle portals can play
+influencing reaction rates.
+11.3. CB[n]-Catalyzed Oxidation Reactions
+In 2009, Zhu and co-workers demonstrated the ability of CB[8]
+to catalyze the oxidation of veratryl alchohol to veratraldehyde
+by o-iodoxybenzoic acid341 and then extended the approach to
+the oxidation of aryl, allyl, and alkyl alcohol compounds.351 The
+catalysis was found to be highly dependent on temperature and
+moderately dependent on pH, with neutrality favored over
+more extreme pH levels. Although the role of CB[8] in the
+catalysis was not clear, an increase in the oxidative conversion
+of 16.3% was observed at 95 °C in the presence of CB[8].
+Reddy and co-workers investigated the catalysis of a series of
+reactions involving halogen inclusion complexes with CB[6].81
+Fine CB[6] powders were exposed to either I2 or Br2 vapor to
+form I2−CB[6]·4H2O and Br2−CB[6]·10H2O, respectively.
+Reactions were then performed in the presence of the halogen
+complex or its complex with CB[6], with resulting yields being ompared. The greatest increase in yield was seen for that of
+the iodine-catalyzed Prins cyclization, where the yield was 7%
+higher than that reported in the literature. The remaining
+reactions tested all showed yields comparable to what had been
+demonstrated in the literature for the uncomplexed halogens.
+Nevertheless, this represents a novel use of CB[6] complexes in
+halogen-catalyzed reactions.
+
+
+
+11.4. Photocatalysis
+The efficiency of photochemical reactions can suffer when
+performed in solvated environments and where specific
+molecular orientations and alignments of reactants are required.
+In order to proceed effectively, such barriers need to be
+overcome. Molecules that have been excited with photons can
+relax either radiatively or nonradiatively (via solvent collisions
+etc.), which can drastically reduce reaction efficiency. In
+addition, the lack of control over molecule orientation can
+lead to many products arising from a single photochemical
+reaction or indeed a reaction may not proceed at all if a
+particular molecular orientation of the reactants is not met. The
+use of CB[n] macrocycles in photochemical reactions may help
+to overcome these obstacles. CB[n]s create a reaction
+environment that can be solvent free, preventing nonradiative
+relaxation. Also, CB[n]s allow for precise orientation of guest
+molecules, allowing for specific stereoselectivity of the reaction
+product. Lastly, CB[n]s are transparent in the near UV and
+visible regions of the electromagnetic spectrum, promoting
+photochemical processes within the CB[n] internal cavity.
+Kim and co-workers demonstrated the first use of CB in the
+catalysis of a photochemical reaction involving (E)-diaminostilbene (E9).343 The 2:1 complexes of stilbene:CB[8] were shown to form in an aqueous environment as confirmed by 1H
+NMR. The ternary complex then underwent a cycloaddition
+after UV irradiation (300 nm, 0.5 h) to form a [2 + 2] syn
+adduct (E10) within the CB[8] cavity with high selectivity over
+the anti adduct (E11). The same experiment performed in the
+absence of CB[8] yielded the (Z)-isomer (E12) as the major
+product, a product that was not evident at all when CB[8] was
+present. It was also demonstrated that the addition of base
+(NaOH) to the postphotoreaction complex saw the ejection of
+the cyclyzed compound from the CB[8] cavity, regenerating
+the cucurbituril catalyst as a result. This work highlighted the
+use of CB[8] as a template nanoreactor that can influence
+regio- and stereoselectivity in photochemical reactions.
+Continuing on from the work of Kim and co-workers,
+Ramamurthy and co-workers explored the use of CB[8] in
+controlling the photoreactivity of a range of olefin molecules
+(some of which include E13, E14, and E15).352,353 The olefins
+were irradiated with UV light for 1 h both in the presence and
+in the absence of CB[6] and CB[8]. In the presence of CB[7],
+compounds E13, E14, and E15 formed their own structural
+variations on the (Z)-isomer (E18) and the bridged (Z)-isomer
+(E19) with compound E5 also yielding the hydrolysis
+compound (E20). With CB[8] present, photodimerization
+was favored, with the product distribution favoring the syn
+adduct (E16), with minor amounts of the anti adduct (E17)
+and the bridged and nonbridged (Z)-isomers also present. This
+reaction scheme was then extended to the formation of
+symmetric and asymmetric cyclized dimers by localizing
+asymmetric olefins within the CB[8] cavity.353
+In an effort to expand the versatility of CB[8] in enhanced
+photoreactions, Pemberton and co-workers reported the
+photodimerization of neutral and cationic coumarin species.20,354 Irradiation of an aqueous solution of a coumarin
+and CB[8] in a 2:1 complex led to the formation of the headto-tail adduct as the major product, a result that was
+independent of the functional group substitution of the
+coumarin derivatives used. The type of head-to-tail adduct
+(whether syn or anti) could be controlled by varying the
+substituents on the coumarin moiety, with polar substituents
+favoring the anti adduct and nonpolar substituents favoring the
+syn adduct.
+Kim and Inoue and co-workers moved away from [2 + 2]
+cycloadditions to concentrate on [4 + 4] cycloadditions in the
+presence of both CB[8] and γ-cyclodextrin (CD).136 Both
+anthracene and anthracene tethered to α-CD via an ester
+linkage (E21) were investigated as photoactive compounds to demonstrate that the stereoselectivity of the [4 + 4]
+cycloaddition can be manipulated via conditions outside the
+host cavity. Photoexcitation in the absence of CB[8] or γ-CD
+led to a mixture of syn-head-to-head (HH, (E22)), anti-HH
+(E23), syn-head-to-tail (HT, (E24)), and anti-HT (E25)
+isomers forming in roughly the same ratios (with the HT
+isomers being favored) for both anthracene and anthracene-α-
+CD. The presence of CB[8] or γ-CD during photodimerization
+of anthracene led to a minor shift toward the formation of HT
+isomers. Photodimerization of anthracene-α-CD in the
+presence of γ-CD showed a larger shift toward the HT
+isomers, with a ratio as high as 98:2 HT:HH at −20°C and 210
+MPa. The introduction of CB[8] into the anthracene-α-CD
+system gave rise to a HT:HH ratio of 2:98; an extreme
+inversion compared to that of the γ-CD system, showing that
+the α-CD attached to the anthracene, which is too large to be
+incorporated into the cavities of either γ-CD or CB[8], can
+drastically effect the stereochemistry of the products formed by
+photocycloaddition. More recently, the photodimerization of
+anthracene in CB[8] has been utilized by Biedermann and coworkers in the ligation and cross-linking of polymer networks.162
+While CB[8] has also been applied to the stereocontrol of
+photochemical reactions involving styryl dyes,138 cinnamic
+acids,355 2-naphthalenecarbonitrile, and naphthoate compounds
+toward the formation of cubane-like photodimers137,356 as well
+as the photothydrolysis of benzoimidazole,357 CB[7] has been
+shown to accommodate smaller yet similarly designed guests
+for photodimerization. Macartney and co-workers investigated
+the [4 + 4] photodimerization of 2-aminopyridine (E26) when
+encapsulated in CB[7] in a 1:2 host−guest complex.131 In the
+absence of CB[7], a mixture of the syn-trans (E27) and antitrans (E28) photodimers formed in a 1:4 ratio. In the presence
+of 50 mol % CB[7], the anti-trans dimer was formed
+exclusively. It was also found that CB[7] stabilized the dimer
+at room temperature, preventing it from reverting back to the
+monomeric 2-aminopyridine.
+
+
+11.5. Metal Cation-Assisted CB[n] Catalysis
+Given their negatively charged carbonyl fringed portals,
+cucurbiturils are highly efficient at binding to metal cations, a
+property that makes them useful at promoting catalysis
+reactions that utilize ionic metal species. Despite cation binding
+to CB[n]s being a well-established area of research,36 the idea
+of using such complexes for catalysis is relatively new and hence
+fairly unexplored. Demets and co-workers investigated the
+catalytic properties of an oxovanadium(IV)−CB[6] complex
+toward the oxidation of various organic compounds.358 It was
+demonstrated that pentane (E29), a linear alkane, could be
+oxidized to compounds E30, E31, and E32; however, larger
+organic molecules such as styrene (E33) and cyclohexane
+(E34) could not. This was explained through the nature of the
+VO2+ binding, whereby the vanadium atom bound to the
+carbonyl portal of the CB[6], with the oxygen atom pointing
+away from the CB[6] cavity, in a distorted square-pyramidal
+configuration. This meant that only small molecules that can
+enter the CB[6] cavity could be oxidized as the oxygen atom in
+the VO2+ species blocked direct access to the vanadium atom
+from the other side of the complex. In this way, Demets and coworkers demonstrated a size-selective heterogeneous catalyst
+based on CB[6] through metal-ion interactions.
+Masson and Lu reported a multistep catalytic cycle for the
+desilylation of trimethylsilylalkynl-containing compounds via a
+heteroternary complex formed with Ag+ ions and CB[7].342
+The desilylation of E35 in the presence of CB[7] and Ag+,
+which led to the formation of an alkyl−silver organometallic
+complex, was monitored through the 1H NMR response of the
+trimethylsilanol byproduct E37 complexed with the CB[7]
+cavity. The mechanism proposed for the reaction begins with
+E35 forming a complex with CB[7] whereby the trimethylsilane group binds to the CB[7] cavity. A silver cation then forms
+a π complex with the triple bond of E35 and the carbonyl portal
+of the CB[7]. Molecule E35 then undergoes a nucleophilic
+substitution with water, cleaving the trimethylsilyl group,
+yielding the trimethylsilanol byproduct (E37) and a alkynyl−
+silver complex, which is subsequently hydrolyzed to form the
+desilyated alkyne (E36) and the regenerated silver cation.
+Nau and co-workers extended the concept of metal−CB[n]
+catalysis by utilizing such complexes to effect product formation
+from photoreactions involving azoalkanes in a two-phase
+system.359 First, the formation of complexes between CB[7]
+and metal ions, including Fe3+, Co2+, Cu2+, Zn2+, Ag+, and Ti+,
+was confirmed by noting hypsochromic shifts and fluorescence
+intensity changes in optical titrations. The complexes were then
+tested for their activity toward the photoreactivity of 2,3-
+diazabicylo[2.2.2]oct-2-ene (E38) and diazabicylo[2.2.1]hept-
+2-ene (E41) in a two solvent system, consisting of water and
+pentane. Analysis of the organic reaction mixture from a
+reaction of E38 by gas chromatography showed a product ratio
+of 65:35 for E39/E40 in both the presence and the absence of
+CB[7] and a ratio of 70:30 with just metal ions present. This
+ratio shifted to 87:13 in the presence of CB[7] and metal ions
+(Ti+, Fe3+, Co2+, Ni2+, Cu2+, and Ag+). The preferential
+formation of the diene (E40) was theorized to have arisen from
+a triplet excited state caused by heavy-atom-doped intersystem
+crossing. The photoreaction of E41 resulted in a 100%
+preferential conversion to housane (E43), over the secondary
+product cyclopentene (E42), in the presence and absence of
+CB[7], metal ions, and most metal−CB[7] complexes. A
+distinct change in reactivity occurred in the presence of the
+CB[7]−Ag+ complex, where a product ratio of 59:41 for E43/
+E42 was observed. It was postulated that a photoinduced
+electron transfer was likely due to the new mechanism that led
+to the formation of cyclopentene, a mechanism that must be
+supported by the CB[7]−Ag+ complex, as no cyclopentene
+formed in the presence of Ag+ alone, even at concentrations as
+high as 1 M. This work demonstrated the potential of CB[n]−
+cation complexes in promoting otherwise unobtainable reaction
+products via photochemistry.
+
+
+11.6. Reaction Inhibition by Cucurbit[n]urils
+Cucurbiturils show a strong capacity to encapsulate guests
+within their hydrophobic cavities. While we have seen that this
+can lead to the catalysis of reactions through efficient
+orientation of guests and carbonyl portal interactions, in
+addition to effecting reaction products through templating, the
+encapsulation of guests can also lead to the inhibition of
+reactions. In this way, CB[n]s can act in much the same manner
+as a protecting group in organic synthesis, shielding specific
+molecules and functional moieties from chemical attack.
+The redox chemistry of thiol groups and disulfide bridges has
+been manipulated through CB[6] binding.344 Kaifer and coworkers first highlighted that compounds such as cysteamine
+(E44) and cystamine (E45) and derivatives based on these
+compounds can be encapsulated within CB[6] in an orientation
+such that the sulfur-containing groups remain inside the hydrophobic cavity. They then investigated the oxidation and
+reduction of these compounds in the presence and absence of
+CB[6]. When reacted with an excess of dithiothreitol (DTT),
+cystamine was shown to be reduced to the thiolated form,
+cysteamine, with the reaction coming to completion after
+approximately 1 h. In the presence of CB[6], no formation of
+cysteamine was observed after 50 h of reaction time. Similar
+results were obtained for the oxidation of cysteamine, with no
+formation of cystamine in the presence of CB[6], while in its
+absence, FeCl3 was able to oxidize cystamine to cysteamine to
+completion after approximately 6−7 h. This reduction in
+reactivity was also seen when different oxidants were used,
+including dissolved oxygen and chloropicrin. This work
+highlighted the impressive ability of CBs to not only protect
+a species from chemical attack but also kinetically hinder both
+forward and reverse reactions as a result of host−guest complex
+formation.
+Masson and co-workers demonstrated the use of CB[7] in
+modulating the chemiluminescence of Lucigenin (E46).360
+Lucigenin undergoes chemiluminescent degradation upon the
+addition of sodium peroxide, which leads to the formation of
+dioxetane (E47). Dioxetane then undergoes homolytic cleavage
+to produce singlet excited acridone (E48), which relaxes to the
+ground state (E49) via photon emission. CB[7] was shown to
+modulate this reaction by binding to various R group
+substituents of Lucigenin that are present on either side of
+the biacridine unit. The binding decreased dioxetane formation
+and dimmed the chemiluminescent reaction. Chemiluminescence could be restored through the addition of a competitive
+CB[7] guest. In this way, CB[7] can be utilized in regulating
+the rate of chemiluminescent reactions.
+Cong and co-workers reported the use of CB[6] and CB[7]
+in the prevention of acylation of the antituberculosis drug,
+isoniazid.362 For all acylating agents tested, stoichiometric additions of either CB[6] or CB[7] rendered isoniazid
+completely unreactive to acylation, with the initial rate of
+acylation decreasing between 10 and 100 fold in the presence of
+0.8:1 CB to isoniazid. The mechanism for the protection was
+concluded to arise because of an increase in the pKa value of the
+isoniazid, as a result of the amino protons binding to the
+carbonyl portals of CB. This work demonstrates the potential
+for CB[n]s to be used as drug carriers for isoniazid, increasing
+its bioavailability in the presence of acetylators.
+CB[7] has also been shown to stabilize biologically active
+molecules from various chemical degradation pathways. Biczok
+and co-workers utilized inclusion complexes with CB[7] and
+sanguinarine, a natural biologically active benzophenanthridine
+alkaloid, to stave off photo-oxidation and nucleophilic attack.361
+The iminium form (E50) of sanguinarine formed both 1:1 and
+2:1 host−guest complexes with CB[7], with binding constants
+of 106 and 103 M−1, respectively. The iminium form of
+sanguinarine is susceptible to nucleophilic attack by hydroxide
+ions at the 6 position, leading to the uncharged alkanolamine
+form (E51), a reaction that was prevented when complexed
+with CB[7]. The hydroxylated form of sanguinarine can also
+form a complex with CB[7], with a binding constant of 2.45 ×
+102 M−1. The alkanolamine form can undergo an irreversible
+photo-oxidation reaction to produce 6-oxysanguinarine. This
+reaction was hindered by the presence of CB[7], likely through
+preventing oxygen from reaching the sanguinarine while
+encapsulated within the CB cavity.
+In addition to modulating the rate of chemical reactions,
+CB[7] has been exploited to regulate the activity of enzymes.
+Ghosh and co-workers designed bifunctional inhibitor molecules with affinities for both CB[7] and either bovine carbonic
+anhydrase (BCA) or acetylcholinesterase (AChE).363 The
+addition of inhibitor molecules in stoichiometric ratios to
+BCA saw a decrease in its catalytic activity as a result of the
+blocking of its active site. The addition of CB[7] to the enzyme·
+inhibitor complex saw the formation of enzyme·inhibitor·CB[7]
+complexes that underwent prompt dissociation, releasing
+inhibitor·CB[7] and reforming the active enzyme. The
+inhibition could then be cycled by adding a competitive guest
+for CB[7], releasing the inhibitor molecule. While BCA was
+shown to follow the inhibition cycle mentioned, AChE did not
+give the formation of stable complexes with both inhibition
+molecules and CB[7] simultaneously. This meant that CB[7]
+was unable to actively dissociate the inhibitor molecule from
+AChE. By using tailored inhibitor molecules with affinities for
+both enzymes and CB[7] macrocycles, cucurbiturils could play
+an important role in allowing for dynamic manipulation over
+the activity of enzymes.
+
+
+12. RECOGNITION BY CB[n] IN BIOLOGICAL SYSTEMS
+Molecular recognition and detection of biomolecules in
+aqueous solution, particularly peptides and proteins, is an
+important target within biomedical sectors, especially those
+focused on sensing and separation. Research from the
+Brunsveld, Buschmann, Kim, Li, Nau, Scherman, and Urbach
+groups has brought the art of amino acid complexation and
+recognition by CB[n] receptors forward to protein−protein
+conjugation and solution-phase structure elucidation. This area
+has seen a large expansion in the number of publications on the
+binding of amino acids, peptides, and proteins in the past 10
+years, and a wealth of knowledge of binding constants and
+conformations has been developed through utilization of a
+variety of spectroscopic and modeling techniques.
+12.1. Amino Acid and Short Peptide Recognition by CB[n]
+An early example of short polypeptide recognition by CB[n]
+was reported by Buschmann and co-workers in 2005.364 This
+research determined binding constants for a small library of dior tripeptides through ion−dipole interactions between the
+protonated N-terminus of the peptides and the portals of
+CB[6]. The authors found that there was no significant
+dependence on peptide size to CB[6] binding, inferring that
+only an exclusion complex is formed (unlike alkylamino
+cations), likely resulting from the polarity of the peptide
+bonds. Nevertheless, the portal interaction is entropically
+favorable as two molecules of water are released from CB[6]
+upon peptide complexation.
+Concurrently, Urbach and co-workers essentially pioneered
+the art of amino acid sensing when they reported the ability of
+CB[8]·MV to recognize and complex with tripeptides of
+glycine and a single tryptophan residue (WGG, GWG, GGW)
+forming charge-transfer complexes. This was monitored by UV
+absorption spectroscopy, fluorescence, and NMR spectroscopies as well as ITC.130 The authors found WGG had the
+overall highest Ka of the three peptides (1.3 × 105 M−1, 6-fold
+higher than GWG and 40-fold higher than GGW) to CB[8]·
+MV and that electrostatic interactions of the C-terminus played a large part in the binding affinity on account of repulsion
+between the carbonyl portals of CB[8] and the carboxylate of
+the peptides. Binding of the tryptophan residue to the CB[8]
+cavity was accompanied by charge-transfer complexation with
+MV and consequent fluorescence quenching of the indole
+group as well as broadening of signals in 1H NMR. This work
+was later extended into recognition of multivalent peptides by
+self-assembled receptors.365 Here peptide scaffolds were
+functionalized with multiple MV units (1−3) that each recruit
+one CB[8] host. This self-assembled receptor was then able to
+bind in a 1:1 fashion with identical peptides bearing
+complementary tryptophan residues in place of the MV of
+the receptors, Figure 44a.
+Urbach and co-workers also observed 2:1 binding of aromatic
+amino acids to CB[8].165 Consistent with the previous study,
+tripeptides consisting of 2 glycine residues and a single
+tryptophan or phenylalanine were investigated, and it was
+again found that the distance of the aromatic residue from the
+C-terminus had a large effect on binding affinity. Sequential
+binding modeling of ITC data demonstrated, in the case of
+WGG, the second binding constant is a magnitude lower than
+the first; however, this could not be determined for FGG due to
+cooperativity in binding. WGG was found to bind to CB[8] in a
+2:1 fashion in a noncooperative manner unlike FGG, whereby
+ITC data suggests positive cooperativity. The authors also
+managed to isolate a crystal structure of FGG bound in a 2:1
+fashion to CB[8], with the aromatic residues encapsulated in a
+stacking geometry within the cavity, Figure 44b. Hydrogenbonding interactions between the peptide N−H’s and the
+CB[8] carbonyl portals were also apparent. Other aromatic
+amino acid residues were investigated (tyrosine, histidine);
+however, binding to CB[8] was not observed for these
+derivatives.
+
+
+
+The study of 2:1 binding of middle-chain phenylalanine
+residues in pentapeptides to CB[8] has also been investigated
+by Scherman and co-workers.164 This is the first example of
+strong 2:1 binding in a longer peptide chain where the Phe
+residue is not located at the N-terminus. The pentapeptides
+selected were based on the aggregation-promoting region of
+wild-type human amyloid β (Aβ), a peptide that has been
+linked to the development of Alzheimer’s disease. The Aβ
+fragments explored were AEFRH, LVFIA, and VIFAE, of which
+the latter two were overlapping regions of the Aβ sequence but
+with one of the F residues exchanged for I (isoleucine). In wildtype Aβ this region actually contains two neighboring Phe
+units, and the authors chose to replace one of these residues in
+each sequence with isoleucine to ease synthesis and analysis of
+results when combined with CB[8]. The 2:1 binding modes
+were confirmed by fluorescence and NMR spectroscopies and
+ITC analyses, and despite differing charges, hydrophobicity,
+and steric hindrance, all sequences formed strong homoternary
+complexes on the order of 109−1013 M−2, Figure 44c. This
+study demonstrates CB[8] is able to access potentially hindered
+Phe residues in non-N-terminal sites of peptides and may also
+hold advantages to the future of understanding Aβ fibrillation
+mechanisms in Alzheimer’s disease.
+The 1:1 binding of phenylalanine derivatives to CB[7] has
+also been investigated by Urbach and co-workers. Remarkably,
+one derivative, 4-aminomethyl−phenylalanine, was reported to
+have a Kd of 0.95 nM (500 times stronger affinity than
+phenylalanine).366 However, biomolecule detection often has to
+be performed at much lower concentrations. Other chemical
+modifications of phenylalanine were investigated such as tertbutyl and hydroxyl groups at the 4-phenyl position, but none of
+these modifications provided such a stark increase in binding
+affinity as the amino-methyl group. A later report by Urbach
+and co-workers detailed nanomolar detection of peptides
+harnessing CB[8] complexes of tetramethylbenzobisimidazolium (MBBI).97MBBI·CB[8] was shown to have an intriguing
+response to tripeptides Tyr-Leu-Ala and Tyr-Ala-Leu within
+nanomicromolar detection limits. In the former case, a
+fluorescence enhancement was observed upon combination,
+elucidating displacement of MBBI from CB[8], and this result
+was confirmed by NMR studies. In the latter example,
+fluorescence was seemingly quenched by the formation of a
+1:1:1 charge-transfer inclusion complex of CB[8], Tyr-Ala-Leu,
+and MBBI. Therefore, MBBI·CB[8] is able to act as both a
+nanomolar “fluorescence-off” receptor for Tyr-Ala-Leu and a
+“fluorescence on” receptor of Tyr-Leu-Ala, simultaneously. This
+is the first example of highly specific recognition of N-terminal
+Tyr tripeptides by CB[8], whereby in certain cases the peptide
+chain can fold and be mostly included within the CB[8] cavity
+(as modeled) at the expense of dissociation of MBBI. The
+authors suggest that given the minimal structure of this TyrLeu-Ala peptide, it could easily be engineered into recombinant
+proteins as an affinity tag.
+Urbach and co-workers also demonstrated inhibition of a
+nonspecific exopeptidase porcine amino peptidase N (APN)
+with CB[7] via binding of phenylalanine units present within
+the peptide.367 N-Exopeptidases degrade peptides by sequential
+cleavage of amino acids from the N-terminus. With CB[7]
+bound to a Phe residue within a peptide sequence (Thr-GlyAla-Phe-Met), cleavage of the amide bond was completely
+inhibited upon reaching the CB7·Phe complex, and therefore,
+Phe-Met was stable to APN degradation. The authors elude to
+the applicability of this system in the protection of longer
+peptides from APNs, which could prolong peptide lifetimes in
+vitro and in vivo.
+Collaboration between the Urbach and the Nau groups led
+to the development of a tandem assay whereby discrimination
+of CB[7] affinity for fluorescent dyes and peptides allowed for
+determination of protease substrate selectivity and inhibitor
+activities.368 In this study, mixtures of acridine orange
+(fluorescent dye), CB[7], peptides (with Phe residues), and
+proteases were formulated. Initially acridine orange is
+encapsulated by CB[7] on account of a stronger binding
+constant than the midchain Phe residue of the peptide and
+fluoresces. Upon cleavage of the peptide by proteases, the Phe
+unit was revealed in the new N-terminus position, the acridine
+orange was displaced from the CB[7] by the peptide, and
+fluorescence of the dye was quenched. This system was utilized
+to quantify the activity of several proteases but also was able to
+determine the activity of protease inhibitors. This method
+proved to be a robust way to determine both enzyme and
+inhibitor activity at nanomolar levels in a label-free manner.
+However, it is limited to peptides that yield products with Nterminal aromatic amino acids upon enzymatic degradation.
+This area has seen excellent progression over the past decade
+from recognition of amino acids by CB[8]·MV toward the
+development of sensitive detection assays and dimerization of
+larger peptides by CB[8].
+
+
+12.2. Noncovalent Protein Conjugation
+In more recent literature, the groups of Scherman, Brunsveld,
+and various others have developed methods to conjugate
+macromolecules to larger proteins via CB[8] recognition. An early example of noncovalent conjugation was of PEG to BSA
+through CB[8] ternary complex formation, as reported by
+Scherman and co-workers in 2011, Figure 45a.143 PEGylated
+proteins have distinct physicochemical properties (resistance to
+biodegradation, etc.), and therefore, bioconjugation of polymers in a site-specific and dynamic manner is applicable to
+many biological sectors, especially therapeutic protein delivery.
+In this example, a BSA fraction was functionalized with a single
+naphthoxy moiety at its only free thiol cystine residue.
+Combining this in solution with PEG-MV and CB[8] led to
+ternary complex formation, and a PEG−BSA bioconjugate was
+observed by DOSY NMR, DLS, UV/vis, and fluorescence
+spectroscopies and ITC. This work, as described in the authors
+conclusions, demonstrated controlled supramolecular formation of PEG−protein bioconjugates, which is a proof of concept
+for further translation or potentially protein−protein supramolecular conjugation.
+Protein−protein heterodimerization of MV- and Np-bearing
+proteins with CB[8] was reported by Brunsveld and co-workers
+several months later.144 This study demonstrated the selective
+dimerization of two different proteins, one bearing MV to a
+second protein bearing Np, following on from previous work by
+Brunsveld, which was limited to dimerization of identical
+proteins through 2:1 complexation of FGG−protein sequences
+with CB[8], Figure 45b.282 In both cases protein FRET pairs
+could be dimerized, and therefore, the assembly process was
+studied by fluorescence spectroscopy. A follow-up SAXS study
+eluded to the compact nature of packing of such dimers when
+complexed in solution.369Collaboration between the Brunsveld
+and the Dankers groups saw the production of (FGGG)2penta-
+(ethylene glycol), which could form ring structures on the
+binding of its 2 FGGG units to CB[8] and modulate protein
+dimerization with more control than simple competitive FGG
+molecules, Figure 45c.281 CB[8]-mediated homotetramerization of fluorescent proteins was later reported by Brunsveld and
+co-workers.370 This was achieved by combining the 2:1
+complexation motif of FGG (encoded at the N-terminus of
+many proteins) to CB[8] with intrinsic affinities between
+proteins, essentially producing supramolecular dimers of
+dimers.
+Brunsveld and co-workers later reported a further study on
+the dimerization of inactive enzyme monomers with CB[8] to
+form an active enzyme supramolecular dimer.371 Here Caspase-
+9, which is only active in its dimeric form, was complexed
+together via recognition of FGG moieties by CB[8]. Perhaps
+most importantly, the activity of the enzyme was not
+compromized by the supramolecular elements that induce
+dimerization, and a great deal of molecular control over the
+system was achieved, i.e., CB[8] concentration controlled the
+degree of dimerization and therefore activity of the Caspase
+solution.
+In summary, significant progress has been made in the
+understanding of protein conjugation facilitated by CB[8]
+recognition motifs, and this insight is starting to be translated
+toward modulation in protein activity showing great promise
+for the future applicability of this field.
+
+
+12.3. Further Application to Biochemistry
+Urbach and co-workers reported a 1:1 binding stoichiometry
+between CB[7] and insulin at the N-terminal phenylalanine of
+the insulin B chain.96 This is a particularly interesting result as
+there are three Phe residues in the insulin sequence; however,
+replacement experiments of these other residues confirmed that
+it is solely the N-terminal Phe that binds to CB[7]. This is
+starkly different to other methods of recognizing proteins as no
+modifications to the peptide sequence in terms of histidine
+tagging have been performed. Recognition has simply been
+achieved through mixing the native protein with CB[7], and
+large binding constants upward of 106 M−1 were reported. Kim and co-workers showed that CB[7] binding to Phe
+residues of insulin and amyloid β prevented aggregation of such
+proteins.372 This is very important for both insulin storage and
+understanding development of Alzheimer’s disease through
+amyloid aggregation. These studies show that by masking the
+hydrophobic residues of Aβ or insulin with CB[7] or at least
+increasing steric hindrance around these regions via complex
+formation significant inhibition of the aggregation process can
+be achieved. Through a variety of biological assays and binding
+studies the authors demonstrate that CB[7]−Phe complexation
+is much faster than protein−protein dimerization, and the Phespecific binding of CB[7] successfully modulates intermolecular
+interactions, preventing fibrillation processes, and is therefore a
+pathway for new potential treatments for amyloid linked
+diseases.
+A 2011 report by Kim and co-workers demonstrated the gasphase host guest chemistry of CB[6] and Lys-containing
+peptides.373 Through collisional activation, CB[6] was found to
+efficiently complex to Lys residues of model peptides in the gas
+phase, often resulting in common fragmentation products. This
+was used to elucidate protein structure, specifically in the case
+of ubiquitin, by employing tandem mass spectrometry
+techniques on CB[6]−protein complexes formed in aqueous
+conditions to determine solution-phase conformations. A
+follow-up study investigated the conformational changes of
+ubiquitin proteins upon CB[6] complexation in the gas phase
+at a variety of different charge states of which specific Lys
+residues complexed with CB[6] were able to be determined.
+CB[6] complexes inhibited salt bridge formations and therefore
+triggered conformation changes. This could be reversed and the
+protein refolded upon CB[6] detachment.374 In the future this
+research will hopefully be translated to other protein structures
+and improve mass spectrometry techniques for determining
+protein structure as well as determining protein sequences that
+in turn determine higher order conformations.
+Inhibition of DNA restriction enzymes by CB[6] and CB[7]
+was reported by Pischel and collaborators.375 In this example
+binding of CB[6] and CB[7] to DNA restriction enzymes is
+hypothesized to be the cause of inhibition of DNA hydrolysis;
+however, the authors were unable to determine exactly which
+residues of the restriction enzyme were bound by the CBs. It
+was shown that DNA hydrolysis could be reactivated by simple
+addition of spermine, which competes for the macrocycle
+cavity, likely releasing the restriction enzymes and allowing
+continuation of DNA hydrolysis.
+
+
+12.4. Profiling Toxicity of Cucurbit[n]uril
+The year 2010 saw two reports showing CB[n]-type containers
+exhibiting good biocompatibility profiles. Isaacs, Briken, and coworkers examined the viability of HepG2 (liver derived) and
+RAW264.7 (macrophage) cells after 24 h exposure to CB[5]
+and CB[7].100 Both cell lines showed good tolerance to CB[5]
+and CB[7] up to 1 mM with cell viabilities exceeding 90%.
+Moreover, the internalization of CBs with encapsulated FITC
+by macrophages was proven to be very efficient, and treatment
+of mycobacteria with CB[7]-bound drug molecules did not see
+any significant decrease in efficacy of the therapeutic
+compound. Furthermore, acyclic analogues of CB[n] were
+also studied, and the cells also expressed high tolerance for such
+compounds beyond usual therapeutic levels.
+Day, Nau, and co-workers also explored the in vitro activity
+of CB[7] and CB[8], specifically against CHO-K1 cells
+(ovarian cell line from hamsters).99 An IC50 value of 0.53 ±
+0.02 mM was determined, which roughly corresponds to 620
+mg kg−1 of cell material. The authors also tested CB[8] toxicity
+and found that the macrocycle expressed no significant toxicity
+within its solubility limits. Further to these results, live cell
+imaging of cells exposed to nonlethal CB[7] concentrations
+demonstrated that there were no detrimental or adverse effect
+on the cellular integrity.
+Progressing toward in vivo studies on mice, intravenous
+injections determined a maximum tolerable dose of CB[7] to
+be 250 mg kg−1 with the mice initially losing some superficial
+weight but recovering within 5−8 days. For oral administration,
+a 600 mg kg−1 one-off dose of 1:1 CB[7]:CB[8] mixture did
+not give rise to any significant toxicity.
+The Wheate group studied the ex vivo toxicology of CB[6]
+and CB[7] under more specific circumstances, analyzing the
+neuro-, myo-, and cardiotoxic activity of the compounds.101 To
+study neurotoxicity, a mouse sciatic nerve (removed from
+between the knee and spinal cord) was exposed to 1 mM
+solutions of CB[6] or CB[7] and the conductivity of the nerve
+monitored for 2 h; no significant neurotoxicity was observed.
+Furthermore, cisplatin·CB[7] did not show a decrease in
+neurotoxicity as compared to free cisplatin. Myotoxicity was
+also studied by extracting biventer cervicis nerve muscles from
+chicks, and their contraction response to chemical or electrical
+stimuli was monitored before and after exposure to 0.3 mM
+CB[6] and CB[7] solutions. CB[6] caused only a very small
+change in the strength of muscle contraction, so it can be
+considered relatively safe. However, CB[7] had a much greater
+effect on muscle contraction, and the authors hypothesize that
+this is due to CB[7] binding to postsynaptic nicotinic receptors,
+interfering with the depolarization ability of the muscle
+membrane. β-Cyclodextrin exposure also resulted in small
+decreases in muscle contraction, was not myotoxic in vivo, and
+may possibly also be the case for CB[6] and CB[7].
+Cardiotoxicity was examined using a similar method but with
+rat heart atria. Both CB[6] and CB[7] showed significant ex
+vivo cardiotoxicity, exemplified by changes in contraction
+forces. However, the authors of this study conclude that these
+experiments represent very high exposure levels to the
+macrocycles with direct contact with the tissues and so may
+not be accurate predictions of activity in human clinical models.
+To better understand specific organ toxicity in vivo, Wang
+and collaborators employed zebrafish models to further study
+the contribution of CB[7] exposure to neuro-, myo-, and
+cardiotoxicity as well as hepatotoxicity, developmental toxicity,
+locomotion, and behavioral toxicity.102 Mortality studies
+determined an LD50 (lethal dose) to be at 750 μM when
+zebrafish were incubated with CB[7] for 2 days. No
+morphological abnormalities were observed on developing
+zebrafish exposed to even the higher, more toxic, levels of
+CB[7]. Some detrimental effects on cardioactivity were
+observed on zebrafish exposed to CB[7] concentrations greater
+than 500 μM including elevated heart rates, thinning of the
+atrium, distorted heart shape, decreased stroke volume, and
+decreased cardiac output, which is consistent with the ex vivo
+study by Wheate. In terms of locomotive effects, extended
+exposure to higher concentrations of CB[7] significantly
+shortened swimming distances of zebrafish, which could be a
+factor of the observed cardiotoxicity; however, the authors
+reasoned that this was more likely a neurotoxic effect,
+conflicting with the Wheate ex vivo study. The authors did
+not observe any hepatotoxicity on zebrafish embryos,
+demonstrating a high degree of tolerability of CB[7] by the liver. This study is promising as detrimental effects were not
+observed below usual therapeutic concentrations of most drug
+compounds, suggesting a reasonable level of tolerance of CB[7]
+in vivo and therefore warranting much further study in larger
+animal models.
+12.5. Outlook
+A considerable amount of work has been carried out in the area
+of peptide and protein supramolecular complexation with
+CB[n], and understanding of aromatic amino acid residues,
+cavity hydrophobic interactions, hydrogen bonding to portals,
+and cooperative interactions in the example of CB[8] are
+progressing from the work of several groups. Protein
+dimerization is particularly exciting in terms of controlling
+activity and stability, and many interesting studies into other
+forms of bioconjugation harnessing such host−guest recognition are likely on the horizon. Particularly remarkable studies
+are those of insulin and amyloid β and how the interactions of
+specific Phe residues modulate aggregation pathways. With
+these reported methodical studies in hand it is not difficult to
+imagine how many more CB[n]−biomolecule interactions will
+come to light in the near future with new protocols to control
+and regulate protein activity. It is also promising that initial
+studies suggesting application of CB-based materials to human
+clinical settings will not be hampered by issues of toxicity.
+
+
+
+13. SUMMARY AND OUTLOOK
+In just over three decades since the isolation and full
+characterization of the first cucurbit[n]uril homologue, this
+macrocyclic family has transformed from a laboratory bench
+curiosity into a compound of industrial significance. The
+widespread number of fields that CB[n] has found applications
+in is remarkable. Ranging from applications in (but not limited
+to) materials design, development of next-generation sensors,
+sophistication of medical techniques through efficient drug
+delivery and encapsulation, potential in energy harnessing
+through its catalytic properties, and green technology, CB[n]
+has been an exceptional contestant in all these fields. CB[n] has
+also proven itself as a versatile tool in fundamental research
+such as in separation science, as a precise molecular ruler for
+plasmonics, and as a catalytic reagent and nanoreactor. In this
+review, we intended to focus on themes related to CB[n] that
+have not been presented in great detail in the literature prior to
+its writing. For example, we discuss the gas binding properties
+of CB[n] and the interaction of CB[n] with surfaces and their
+interesting applications. We also highlighted the recent progress
+in various fields that have utilized the chemical and physical
+properties of CB[n] in an innovative manner including
+polymeric materials and networks as well as biological systems.
+The exploration of the complexation capabilities of CB[n]
+with various guest molecules has led to the discovery of a
+plethora of species that are of scientific interest. New guests are
+constantly being reported providing unique insights into the
+understanding of the molecular recognition properties of
+CB[n]. The advent of sophisticated characterization techniques
+has complemented research efforts in elucidating the
+fundamental processes behind CB[n] host−guest chemistry.
+In addition, this review on CB[n] notably presents the first
+comprehensive tabulation of all the binding data that can be
+readily found in the literature through the first half of 2015. The
+similarities as well as disparities in the binding constants that
+result from different techniques and measurement conditions
+are unmistakable. Therefore, the need to standardize measurement and characterization methods is critical, underpinning the
+importance of reporting precise conditions in which the
+measurements are taken.
+Driven by the shortcomings exhibited by several CB[n]
+homologues arising from their extremely low water solubility,
+various strategies to functionalize CB[n] have been pursued.
+Additionally, the functionalized host molecules have opened up
+possibilities to tether them to surfaces and polymeric materials.
+Although the topic has not been discussed in great detail in this
+review, the increasing pace of research activity and growing
+interest in controlled functionalization of CB derivatives is
+apparent and will likely warrant a dedicated review itself in the
+next few years.

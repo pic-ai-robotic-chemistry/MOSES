@@ -1,0 +1,42 @@
+{   'key_points': [   {   'Sensor Configuration and Principle': [   'The sensor is an electrochemical platform '
+                                                                    'constructed using an Indicator Displacement Assay '
+                                                                    '(IDA), where a dye is displaced from a host '
+                                                                    'molecule by quinine, generating a measurable '
+                                                                    'electrochemical signal.',
+                                                                    'The sensor is based on a nanocomposite material, '
+                                                                    'enhancing its performance characteristics.']},
+                      {   'Stability': [   'The sensor exhibits high stability, with only an acceptable decrease in '
+                                           'peak current over 21 days.',
+                                           'Negligible change in differential pulse voltammetry (DPV) signal is '
+                                           'observed during the first 7 days at 4°C.',
+                                           '86.47% of the original DPV signal value is retained after 21 days, '
+                                           'indicating robust signal retention.']},
+                      {   'Reproducibility and Repeatability': [   'The sensor shows good reproducibility, with a '
+                                                                   'relative standard deviation (RSD) of 2.06% across '
+                                                                   'seven identical electrodes.',
+                                                                   'Five independent electrodes produced similar '
+                                                                   'signals when detecting 30 μM quinine, confirming '
+                                                                   'repeatability.',
+                                                                   'Precision and accuracy are described as reasonable '
+                                                                   '(DOI: 10.1016/j.aca.2020.09.028).']},
+                      {   'Additional Performance Features': [   'The sensor is cost-effective, simple to use, and '
+                                                                 'reusable.',
+                                                                 'It demonstrates superior selectivity over common '
+                                                                 'interfering molecules.',
+                                                                 'Recovery rates for quinine detection range from '
+                                                                 '98.3% to 109.3%.']},
+                      {   'Verification and Analytical Methods': [   'Sensor performance and quinine detection are '
+                                                                     'verified using differential pulse voltammetry '
+                                                                     '(DPV), cyclic voltammetry (CV), electrochemical '
+                                                                     'impedance spectroscopy (EIS), FTIR, H-NMR, and '
+                                                                     'SEM.']}],
+    'relationships': [   'The use of a nanocomposite-based electrochemical sensor with IDA enables both high stability '
+                         'and reproducibility for quinine detection.',
+                         'The IDA mechanism provides selectivity by relying on competitive binding/displacement, which '
+                         'is effective for small molecule targets like quinine.',
+                         'Performance metrics (stability, reproducibility, selectivity) are supported by quantitative '
+                         'electrochemical measurements (e.g., DPV) and validated across multiple electrodes and time '
+                         'points.'],
+    'summary': 'The electrochemical sensor using an Indicator Displacement Assay (IDA) for quinine detection '
+               'demonstrates high stability and good reproducibility, with minimal signal loss over time and '
+               'consistent performance across multiple electrodes.'}

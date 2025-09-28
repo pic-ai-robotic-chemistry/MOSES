@@ -1,0 +1,5 @@
+Query 1 - Formatted Results
+==================================================
+Time: 2025-08-23 00:17:50.278249
+
+{'summary': 'No specific detailed information about Quinine was provided in the query results, thus a comprehensive expert-level overview is not available from the current data.', 'key_points': [], 'background_information': ['Quinine is an alkaloid derived from the bark of the Cinchona tree, historically used as an antimalarial agent and in the treatment of malaria.'], 'relationships': ["Quinine's chemical structure is related to other quinoline alkaloids, and it interacts with biological targets such as heme in the malaria parasite."]}

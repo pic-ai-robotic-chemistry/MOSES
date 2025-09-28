@@ -1,0 +1,19 @@
+Complete LLM evaluation systems found:
+
+ 1. MOSES
+ 2. MOSES-nano
+ 3. darwin
+ 4. gpt-4.1
+ 5. gpt-4.1-nano
+ 6. gpt-4o
+ 7. gpt-4o-mini
+ 8. lightrag-4.1
+ 9. lightrag-4.1-nano
+10. llasmol-top1
+11. llasmol-top5
+12. o1
+13. o3
+14. spark-chem13b-nothink
+15. spark-chem13b-think
+
+Total: 15
