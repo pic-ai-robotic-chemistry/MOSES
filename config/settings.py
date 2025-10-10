@@ -74,7 +74,7 @@ class OntologySettings:
     base_iri: str
     ontology_file_name: str
     directory_path: str
-    closed_ontology_file_name: str
+    # closed_ontology_file_name: str
 
     _ontology: Optional[Ontology] = field(init=False, repr=False, default=None)
     _world: Optional[Any] = field(init=False, repr=False, default=None)  # 独立的owlready2 World
@@ -96,9 +96,9 @@ class OntologySettings:
     def ontology_iri(self) -> str:
         return self.base_iri.rstrip('/') + '/' + self.ontology_file_name.lstrip('/')
 
-    @property
-    def closed_ontology_iri(self) -> str:
-        return self.base_iri.rstrip('/') + '/' + self.closed_ontology_file_name.lstrip('/')
+    # @property
+    # def closed_ontology_iri(self) -> str:
+    #     return self.base_iri.rstrip('/') + '/' + self.closed_ontology_file_name.lstrip('/')
 
     @property
     def ontology(self) -> Ontology:

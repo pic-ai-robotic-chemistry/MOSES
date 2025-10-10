@@ -1,3 +1,0 @@
-Models (canonical, filtered): 9 -> MOSES, o3, GPT-4.1, LightRAG-nano, LightRAG, MOSES-nano, GPT-4.1-nano, GPT-4o, GPT-4o-mini
-Dimensions (target ∩ available): completeness, correctness, rigor_and_information_density, theoretical_depth
-Questions (unique) — human: 27, llm: 27, overlap: 27

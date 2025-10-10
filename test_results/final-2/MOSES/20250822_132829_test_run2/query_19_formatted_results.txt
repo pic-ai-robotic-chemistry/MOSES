@@ -1,5 +1,0 @@
-Query 19 - Formatted Results
-==================================================
-Time: 2025-08-22 13:37:03.295828
-
-{'summary': 'No directly relevant chemical reasoning or technical data was returned from the ontology query regarding the effectiveness of supramolecular hosts containing pyrrole units for anion binding.', 'key_points': ['The query results did not yield any explicit chemical reasons, technical specifications, or quantitative data related to the anion binding effectiveness of pyrrole-containing supramolecular hosts.'], 'background_information': ['Despite querying for entities such as supramolecular_host, pyrrole, anion_binding, hydrogen_bond, host_guest_complex, molecular_recognition, and non_covalent_interaction, the ontology returned no structured information, property values, or relationship data relevant to the chemical basis of anion binding by pyrrole-containing hosts.'], 'relationships': ['No inter-entity relationships, mechanistic patterns, or technical connections were identified in the returned data.']}

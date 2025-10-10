@@ -1,5 +1,0 @@
-Query 1 - Formatted Results
-==================================================
-Time: 2025-08-19 20:33:02.533463
-
-{'summary': 'Currently, there is no documented evidence of electrochemical sensors utilizing Indicator Displacement Assay (IDA) specifically for the detection of Quinine.', 'key_points': ["The class 'indicator_displacement_assay(IDA)' is known for ultrasensitive fluorescence detection, notably for lipopolysaccharides (LPA), but not specifically for Quinine.", 'There is no available information indicating that electrochemical sensing platforms employing IDA are used for Quinine detection.', "The classes 'electrochemical_sensing_platform' and 'quinine_sensing_platform' lack specific information or references related to Quinine detection via IDA."], 'relationships': ['While IDA is effective in fluorescence-based detection for certain analytes like LPA, its application in electrochemical sensors for Quinine has not been documented.', 'The absence of direct links between IDA and Quinine in the provided data suggests that such sensors may not currently exist or are not well-established in literature.']}

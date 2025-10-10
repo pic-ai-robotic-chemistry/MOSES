@@ -256,7 +256,7 @@ class QueryManager:
                 base_iri=ontology_settings.base_iri,
                 ontology_file_name=ontology_settings.ontology_file_name,
                 directory_path=ontology_settings.directory_path,
-                closed_ontology_file_name=ontology_settings.closed_ontology_file_name
+                # closed_ontology_file_name=ontology_settings.closed_ontology_file_name
             )
             
             # 替换其内部World为共享的World
@@ -507,7 +507,7 @@ class QueryManager:
                     base_iri=original_settings.base_iri,
                     ontology_file_name=original_settings.ontology_file_name,
                     directory_path=original_settings.directory_path,
-                    closed_ontology_file_name=original_settings.closed_ontology_file_name
+                    # closed_ontology_file_name=original_settings.closed_ontology_file_name
                 )
                 # 创建独立实例（不需要锁）
                 ontology_tools = OntologyTools(independent_settings, thread_safe=False)

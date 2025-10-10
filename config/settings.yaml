@@ -2,7 +2,7 @@ ontology:
   directory_path: ${PROJECT_ROOT}data/ontology/
   ontology_file_name: "chem_ontology.owl"
   base_iri: "http://www.test.org/chem_ontologies/"
-  closed_ontology_file_name: "closed_chem_ontology.owl"
+  # closed_ontology_file_name: "closed_chem_ontology.owl"
   java_exe: "C:/Program Files/Java/jdk-23/bin/java.exe"
 
 entity_retrieval:
